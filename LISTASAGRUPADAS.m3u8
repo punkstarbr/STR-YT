@@ -1213,7 +1213,7 @@ https://raw.githubusercontent.com/guiworldtv/STR2/main/BBBCAM3.m3u8
 https://raw.githubusercontent.com/guiworldtv/STR2/main/BBBCAM4.m3u8
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1a/Big_Brother_Brasil_logo_1.jpg",BBB CAM5
 https://raw.githubusercontent.com/guiworldtv/STR2/main/BBBCAM5.m3u8
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png,Telemundo 2
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png,Telemundo
 http://coresys.dvrdns.org:8080/live/Flaco25/m3zAXDuNCCwd/43089.m3u8
 
 
@@ -1231,7 +1231,7 @@ https://raw.githubusercontent.com/guiworldtv/STR2/main/BBVIPALBANIA.m3u8
 https://raw.githubusercontent.com/guiworldtv/STR2/main/ZADRUGA.m3u8
 
 #EXTINF:-1 group-title="Reality Show'S Live"  tvg-logo="https://tvi.iol.pt/bigbrother/img/logo.png",BIG BROTHER PORTUGAL
-https://raw.githubusercontent.com/guiworldtv/STR2/main/BIG_BROTHER_PORTUGAL_LIVE.M3U8
+https://raw.githubusercontent.com/guiworldtv2/STR2/main/TVIREALITY.M3U8
 
 
 
@@ -1269,76 +1269,6 @@ https://v-ny.mybtv.net/live/562/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PEP2agz.png" group-title="USA",Univisión Este
 https://v-ny.mybtv.net/live/643/1280x720.m3u8
 
-
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN1 SEM ÁUDIO
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b6)/stream03/streamPlaylist.m3u8|user-agent=Opera
-
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN2 SEM ÁUDIO
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b7)/stream03/streamPlaylist.m3u8|user-agent=Opera
-
-
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN3 SEM ÁUDIO
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b8)/stream04/streamPlaylist.m3u8|user-agent=Opera
-
-
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN4 SEM ÁUDIO
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b9)/stream04/streamPlaylist.m3u8|user-agent=Opera
-
-
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN1
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd
-
-
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN2
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b8)/manifest.mpd
-
-
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png6",GRANDE FRATELLO COM VPN3
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b9)/manifest.mpd
-
-
-
-
-
-
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO CONFERENCIA 2017
-https://vod05.msf.cdn.mediaset.net/farmunica/2017/09/92507_15e61662ce67d2/dashrcclean/sd_no_mpl.mpd
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP1
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/526994_16f87bec868965/dashrcclean/hd_no_mpl.mpd
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP2
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/528559_16f9205263389c/dashrcclean/hd_no_mpl.mpd
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP3
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/532343_16fabc1781a7d2/dashrcclean/hd_no_mpl.mpd
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP4
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/532847_16fb617db05a2f/dashrcclean/hd_no_mpl.mpd
-
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP5
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/535557_16fc58748897d2/dashrcclean/hd_no_mpl.mpd
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP6
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/538893_16fda19c71c89c/dashrcclean/hd_no_mpl.mpd
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP7
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/01/541787_16feadf2ea089c/dashrcclean/hd_no_mpl.mpd
-
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP8
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/543651_16ffe327b19965/dashrcclean/hd_no_mpl.mpd
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP9
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/544162_1700d9b131c7d2/dashrcclean/hd_no_mpl.mpd
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP10
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/548042_17031af80a57d2/dashrcclean/hd_no_mpl.mpd
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F310293801001901/media/7/7/617f6eb3-27f8-446e-971c-e6600c8f26ed/af442d30-0e77-412b-a2ea-3b4e1dc35cf0.jpg",GRANDE FRATELLO 2020 EP11
-https://vod05.msf.cdn.mediaset.net/farmunica/2020/02/550842_170464ae9d77d2/dashrcclean/hd_no_mpl.mpd
 
 
 
@@ -1456,51 +1386,62 @@ https://hunq9fz8yk.zoeweb.tv/av85/av85.stream/chunklist_w123426081.m3u8
 
 
 
-#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="N/A",GOIÂNIA - Avenida Castelo Branco
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://i.imgur.com/7DfRiz6.png", GOIÂNIA - Avenida Castelo Branco
 https://5a7d54e35f9d2.streamlock.net/avt7/avt7.stream/chunklist_w1549205327.m3u8
-#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="N/A",ARUANÃ - RIO VERMELHO - PRAIA DO CAVALO
+
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://i.imgur.com/7DfRiz6.png", ARUANÃ - RIO VERMELHO - PRAIA DO CAVALO
 https://5a1c76baf08c0.streamlock.net/riovermelhocam01/rvcam01.stream/playlist.m3u8
-#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="N/A",Setor Central
+
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://i.imgur.com/7DfRiz6.png", Setor Central
 https://5a1c76baf08c0.streamlock.net/araguaiacam01/acam01.stream/playlist.m3u8
-#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="N/A", Goiânia
+
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://i.imgur.com/7DfRiz6.png", Goiânia
 https://hunq9fz8yk.zoeweb.tv/aquariuscenter/aquariuscenter.stream/playlist.m3u8
 
-#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="N/A",Rua 9 (Cartório Índio Artiaga), Setor Oeste
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://i.imgur.com/7DfRiz6.png", Rua 9 (Cartório Índio Artiaga), Setor Oeste
 https://hunq9fz8yk.zoeweb.tv/r9oeste/r9oeste.stream/chunklist_w1793116402.m3u8
 
-
-
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",EXECUTIVA FM
+#EXTINF:-1 group-title="N/A" tvg-logo="https://i.imgur.com/pdM5uH7.png", EXECUTIVA FM
 https://live.ojc.com.br/c2f4/myStream.m3u8
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",GAUCHA FM
+
+#EXTINF:-1 group-title="N/A" tvg-logo="https://i.imgur.com/td9XjvR.png", GAUCHA FM
 https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8
 
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://live.video.globo.com/d/preview/globo-go01.mp4",Teste MASTER FORA DO AR
+#EXTINF:-1 group-title="N/A" tvg-logo="https://i.imgur.com/ooWAB9C.png", Teste MASTER FORA DO AR
 https://raw.githubusercontent.com/guiworldtv/STR2/main/VideoOFFAir.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Salão Velório 1
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/pVrJzde.png" group-title="Salão Velório",Salão Velório 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://wrm7jsxguc.zoeweb.tv/zw943/zw943.stream/chunklist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Salão Velório 2
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/pVrJzde.png" group-title="Salão Velório",Salão Velório 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://wrm7jsxguc.zoeweb.tv/zw944/zw944.stream/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",AULA IDIOMAS
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/v6Ukx6T.png" group-title="Aula de Idiomas",Aula Idiomas
 https://raw.githubusercontent.com/guiworldtv/STR2/main/Languages.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",CHURCH
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/gtMxhqj.png" group-title="Igrejas",Church
 https://raw.githubusercontent.com/guiworldtv/STR2/main/Church.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Teste Vídeo Gravado Youtube
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/7N68Gwi.png" group-title="Youtube",Teste Vídeo Gravado Youtube
 plugin://plugin.video.youtube/play/?video_id=nHO38JeCjVc
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Teste Playlist Youtube
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/7N68Gwi.png" group-title="Youtube",Teste Playlist Youtube
 plugin://plugin.video.youtube/play/?video_id=nHO38JeCjVc&list=PLXZ6FSgBVB0QE3Cvp7ZyG2z5Zsk8KnSuN
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Teste Canal ao vivo Youtube 1
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/7N68Gwi.png" group-title="Youtube",Teste Canal ao Vivo Youtube 1
 plugin://plugin.video.youtube/play/?video_id=showdelafe
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Teste Canal ao vivo Youtube 1
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/7N68Gwi.png" group-title="Youtube",Teste Canal ao Vivo Youtube 2
 plugin://plugin.video.youtube/play/?channel_id=showdelafe
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Teste Vídeo ao vivo twitch
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/Cv7rglx.png" group-title="Twitch",Teste Vídeo ao vivo Twitch
 plugin://plugin.video.twitch/play/?video_id=miaueissoai
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",internet archive TESTE
+
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/2f8Zvya.png" group-title="Internet Archive",Internet Archive Teste
 https://archive.org/download/nike90secmov/tvc_90_sec_large_512kb.mp4
 
 
@@ -1602,8 +1543,10 @@ https://telemundolive.akamaized.net/hls/live/2093200/NEWS104/master_main104.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",NOTÍCIAS TELEMUNDO - SERVIÇO 2
 https://telemundolive.akamaized.net/hls/live/2093200/NEWS105/master_main105.m3u8
 
-
-
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertnews2-logo-800x300-2023.png",ΕΡΤ NEWS 2
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/news2/ert_news2_main/mainabr/playlist_dvr.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertnews3-logo-800x300-2023.png",ΕΡΤ NEWS 3
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/news3/ert_news3_main/mainabr/playlist_dvr.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Filadelfia / [Philadelphia] 
 https://nbculocallive.akamaized.net/hls/live/2035366/philadelphia/stream5/master.m3u8
@@ -2655,6 +2598,362 @@ https://streaming-vod1.iol.pt/vod/_definst_/d/e/a/d/smil:63f3af770cf2cf9224f9dea
 https://streaming-vod1.iol.pt/vod/_definst_/6/7/5/f/smil:63f355220cf2665294d6675f-L/chunklist_w457990090_b2000000.m3u8?nimblesessionid=643927679&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDg6NDk6MTQgQU0maGFzaF92YWx1ZT1Kd1FIZC9LenYzRGUwR09manU4TXhnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjM3MTgwMmEtMTQxYi00MjljLWEzMTAtNjcyNDJlZWE0OGI3
 
 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mudstein/XML/main/TIZENsiptv.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/K-vanc/Tempest-EPG-Generator/main/Siteconfigs/Argentina/%5BENC%5D%5BEX%5Delcuatro.com_0.channel.xml"
+#EXTM3U x-tvg-url="https://github.com/Nicolas0919/Guia-EPG/raw/master/GuiaEPG.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz"
+
+###########################################################################
+#                                                                         #
+#                                  >> https://github.com/guiworldtv       #
+###########################################################################
+
+#EXTM3U
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TVPublicaHD.ar" tvg-chno="98" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Argentina",TV PUBLICA - SINAL ORIGINAL
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
+	
+#EXTINF:-1 tvg-id="TVPublicaHD.ar" tvg-chno="98" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Argentina",TV PUBLICA - SINAL ORIGINAL
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
+
+#EXTINF:-1 tvg-id="TVPublicaHD.ar" tvg-chno="98" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Argentina",TV PUBLICA - SINAL ORIGINAL
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+
+#EXTINF:-1 tvg-id="TVPublicaHD.ar" tvg-chno="98" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Argentina",TV PUBLICA - SINAL ORIGINAL
+https://s@cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TVPublicaHD.ar" tvg-chno="98" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Argentina",TV PUBLICA - SINAL ORIGINAL 2
+https://s@cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+
+#EXTINF:-1 tvg-id="TVPublicaHD.ar" tvg-chno="98" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Argentina",TV PUBLICA
+http://tvstarlife.com:25461/live/geovany/geovany/338.m3u8
+
+
+#EXTINF:-1 tvg-id="TVPublicaHD.ar" tvg-logo="https://lh3.googleusercontent.com/-x6JNcq2aLCg/YtQgLsrRQKI/AAAAAAAAAqo/_sLdYldWdig0bMS-zrJkYdyOnJJ6uvF6wCNcBGAsYHQ/h120/ver-tv-publica-canal-7-argentina-en-vivo.jpg" group-title="Argentina", TV PUBLICA 2 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live
+#EXTINF:-1 tvg-id="TVPublicaHD.ar" tvg-logo="https://lh3.googleusercontent.com/-x6JNcq2aLCg/YtQgLsrRQKI/AAAAAAAAAqo/_sLdYldWdig0bMS-zrJkYdyOnJJ6uvF6wCNcBGAsYHQ/h120/ver-tv-publica-canal-7-argentina-en-vivo.jpg" group-title="Argentina", TV PUBLICA 3
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TVPublicaArgentina/live
+#EXTINF:-1 tvg-id="TVPublicaHD.ar" tvg-logo="https://lh3.googleusercontent.com/-x6JNcq2aLCg/YtQgLsrRQKI/AAAAAAAAAqo/_sLdYldWdig0bMS-zrJkYdyOnJJ6uvF6wCNcBGAsYHQ/h120/ver-tv-publica-canal-7-argentina-en-vivo.jpg" group-title="Argentina", TV PUBLICA 4
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCaU_cKHQ4IFHvBzQ-tKS1-Q/live
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="Argentina", CANAL 9 35.1 
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="elnueve" tvg-id="nueve" tvg-logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75" group-title="Argentina",El nueve 
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="elnueve" tvg-id="nueve" tvg-logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75" group-title="Argentina",El nueve 2
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/b00d164f-be51-473e-a47c-b33aa1f44186.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="El Trece" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" , EL TRECE 
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
+
+
+#EXTINF:-1 tvg-id="El Trece" group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" , EL TRECE 2
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" tvg-country="Argentina" tvg-language="Spanish" group-title="Entertainment", Telefe HD
+https://epg.pw/stream/b2045a4764b04a18dc855c069676ac3b695b498760874ba4eb668363562b2503.ctv
+
+#EXTINF:-1 tvg-id="" tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" tvg-country="Argentina" tvg-language="Spanish" group-title="Entertainment", Telefe SD
+https://epg.pw/stream/db6daa767a09e616e37f3b542b20073b496e1777fff04e1c1550c688b8b382d8.ctv
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png" group-title="International", Telefe (INT) 3
+http://tvstarlife.com:25461/live/geovany/geovany/315.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://telefe-static.akamaized.net/media/18154476/logo-telefe-twitter.png" group-title="Argentina", Telefe COM VPN
+https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina", Telefe COM VPN 2
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" tvg-country="Argentina" tvg-language="Spanish" group-title="Entertainment", Telefe Internacional
+https://epg.pw/stream/f5dab7ab9ccc9c2c6f053230bb0a9fc91f44372f158b42a1bb011d37818382f7.ctv
+
+
+#EXTINF:-1  tvg-id="InformacionPeriodistica.ar" group-title="Argentina" tvg-logo="https://i.imgur.com/SQSu9M5.png",Informacion Periodística
+https://octubre-live.cdn.vustreams.com/live/ip/live.isml/live-audio_1=128000-video=2800000.m3u8
+
+
+
+
+
+#EXTINF:-1  tvg-id="NETTVHD.ar" group-title="Argentina" tvg-logo="https://canalnet.tv/_templates/desktop/includes/img/_logo-alt.png",NET TV 
+https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" group-title="Argentina", ENCUENTRO 
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/.m3u8
+
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" group-title="Argentina", ENCUENTRO 2
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/encuentro/live
+
+
+#EXTINF:-1 tvg-id="InformacionPeriodistica.ar" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="Argentina", IP 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/IPNoticiasEnVivo/live
+
+
+
+#EXTINF:-1 tvg-logo="https://www.ipuntotv.com/IMAGES/TN%20logo%20nuevo.png" group-title="Argentina" ,TN 
+https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png" group-title="Argentina",TN Noticias
+http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/1811.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/588px-Canal_26_logo_%282022 %29.svg.png" group-title="Argentina",Canal 26
+http://200.115.193.177:80/live/26hd-720/chunklist_w1196091674.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1Ltvq4TxvzE/YT5D2UFQimI/AAAAAAAAALY/irH51w9AkSEys2-buTru_86k_O9u_e-AQCLcBGAsYHQ/w480/C5N.png" group-title="Argentina" , C5N 
+https://delivery.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="103" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png" group-title="Argentina",C5N
+http://tvstarlife.com:25461/live/geovany/geovany/283.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://www.utpba.org/wp-content/uploads/2019/07/cronica-logo.jpg" group-title="Argentina" , CRONICA 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/cronicatv/live
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Su_IBL7T52g/YT5AkN3JRrI/AAAAAAAAALI/lQnG3U9ltAk-ckyIPKFkXZieGUgHyX75QCLcBGAsYHQ/w480/A24.png" group-title="Argentina" , A 24 
+https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="Argentina",A24
+http://tvstarlife.com:25461/live/geovany/geovany/313.m3u8
+
+
+#EXTINF:-1 tvg-id="Canal26HD.ar" tvg-logo="https://plushlamour.com.ar/wp-content/uploads/2021/01/canal3-1.png" group-title="Argentina" , C26 
+https://delivery.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" group-title="Argentina" , CNN 
+https://delivery.cdn.rcs.net.ar/mnp/cnn_hls/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-inqhqQZAAGQ/YUDp5oL3lxI/AAAAAAAAAPY/NmRDCbQRAusmLK-7egIs-op4_u1z12_gACLcBGAsYHQ/w480/AXN.png" group-title="Argentina" , AXN 
+https://delivery.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhc-UYX7Vn9Ua5K2M2L1pi_ssLWJDJcwsIlw2EG8_kwppO6GVLVEsAVlqRyIhCWjRbgljzMuDnbGHoVPVBA7S9EwhtstmaIVGrP06PLSwJRTKmeZeAtTO2eJrys8XT9VkzaNUxJo-9tmYK_pPUFTg-gtM5Tys8u8uw3kZwA6pt-j60950tzsbdvO9l-" group-title="Argentina" , TNT 
+https://delivery.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-iD3Pp52qkYE/YsDywQHYs6I/AAAAAAAAAm4/u0hKfVvSTSU-B-kLAy2QI7vSkMapQgbOACNcBGAsYHQ/h120/ver-space-en-vivo.jpg" group-title="Argentina" , SPACE 
+https://delivery.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/w480/AMC.png" group-title="Argentina" , AMC 
+https://delivery.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GO_4vazX3lo/Ys9KMwNGLmI/AAAAAAAAAp8/6SfRXjBNMUQzuoijUxzqi6MHtzazHKx5gCNcBGAsYHQ/h120/ver-universal-tv-en-vivo.jpg" group-title="Argentina" , Universal 
+https://delivery.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fx_m.png" group-title="Argentina" , FX 
+https://delivery.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/722/1014/png-transparent-logo-warner-bros-others-emblem-company-logo-thumbnail.png" group-title="Argentina" , WARNER 
+https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/200?cb=20200117013250&path-prefix=es" group-title="Argentina" , SONY 
+ttps://delivery.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4b/ab/54/4bab54bc7bad8e728654032c5c817154.png" group-title="Argentina" , CINECANAL 
+https://delivery.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media-exp2.licdn.com/dms/image/C560BAQHQ303-nahsMQ/company-logo_200_200/0/1593608716508?e=2147483647&v=beta&t=jIwFx63mao3NBPEYBn-_hS--cPrx5bT5h0jUL6jlAto" group-title="Argentina" , HBO 
+https://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-2_m.png" group-title="Argentina" , HBO 2 
+https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="Argentina" , HBO PLUS 
+https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png" group-title="Argentina" , HBO POP 
+https://delivery.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GGsnT8OYxqU/UJv5NAiymbI/AAAAAAAAXMo/3iytiCwX69s/s1600/isat.jpg" group-title="Argentina" , ISAT h
+ttps://delivery.cdn.rcs.net.ar/mnp/isat_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NDwbXJHYJMc/YT5RpJxdtpI/AAAAAAAAAOY/D1VEo88C3jwfky5Oiwww9TZX3ehLWpSfQCLcBGAsYHQ/w480/Cinemax.png" group-title="Argentina" , CINEMAX 
+https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DRmD9dsKTi0/Ys9XhEvF5uI/AAAAAAAAAqM/NSP5eDAuKuAbbcfdah2I4rVpOvdSWahywCNcBGAsYHQ/w480/ver-tbs-en-vivo.jpg" group-title="Argentina" , TBS 
+https://delivery.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Riqq0wkw9UY/YT5RS6UxToI/AAAAAAAAAOQ/yfkgOB2YSOc_-xEiyvrq96QSYBgcQD8WACLcBGAsYHQ/w480/TCM.png" group-title="Argentina" , TCM 
+https://delivery.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyhWjRQbbj9z-e8f_ZdUMB3negMEUlb6q6Rraql-rEHDRIyJTmGUOH5PI3DlCYmUlTy98H68aKLturEdTjDEIGTsytYLV6xBXXLw9etv1ggELuhXd2llW_86v27dpBoDnx9xQkHEcI2I37-q6uVdPcu0Kocm15ApYAoT2-IVIS7UevH2coIZF0vKDG/w480/ver-syfy-en-vivo.jpg" group-title="Argentina" , SYFY 
+https://delivery.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2022/02/15/352f4601-c86b-4a90-96ab-cf9cee9ae351/thumbnail/640x274/bdf6b7a51fb96db68b221f8b8a0be974/logo.jpg" group-title="Argentina" , PARAMOUNT 
+https://delivery.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/98602-MTVlogo.jpg?w=400&dpr=2.6" group-title="Argentina" , MTV 
+https://delivery.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/738838081122541568/Xly8mKUw_400x400.jpg" group-title="Argentina", HTV 
+https://delivery.cdn.rcs.net.ar/mnp/htv_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Argentina", CM 
+https://delivery.cdn.rcs.net.ar/mnp/cm_hls/playlist.m3u8
+
+TV Pública | ARGENTINA | https://yt3.ggpht.com/gCklb7Bo3XDM4aS_a1-Ta91LsGZtkGlb1IMQwLri3ureUeABTKqXYr-LZGET-Or4J_U4TI_uRq4=s48-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live
+
+Televisión Pública 2 | ARGENTINA | https://yt3.ggpht.com/gCklb7Bo3XDM4aS_a1-Ta91LsGZtkGlb1IMQwLri3ureUeABTKqXYr-LZGET-Or4J_U4TI_uRq4=s48-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/user/TVPublicaArgentina/live
+
+Canal 12 Televisión Pública Regional | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLQylk1Pg1iz872BeKPel5iEkdEGbXFV4-_c2x0n=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCaU_cKHQ4IFHvBzQ-tKS1-Q/live
+
+Crónica TV | ARGENTINA | https://yt3.ggpht.com/i213N_VQVyD9cIhh1zRP9OFW60ege6nchMkw4SzEiy6YznGacsKto8GKsFoye12LcV4pskI__w=s88-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/c/cronicatv/live
+
+C5N | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLTqGg2bWg02R5un1pFAeuYDMGAVCmna52i__wapvw=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/user/c5n/live
+
+América TV | ARGENTINA | https://i.ytimg.com/vi/zcWXboTnous/hqdefault_live.jpg |
+https://www.youtube.com/c/americaenvivo/live
+
+LN+ | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLSYzA3huV-HI91MDWQCaz6y5IjfDpj8sQTqNHLSmg=s68-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
+
+TELEFE CÓRDOBA | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLT_2vc9G9uQ63H-T7ju-WzsmqbBPyXTw4l-irVbaA=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC3OQ66wEJaOPHK25IBdWR_g/live
+
+TELEFE ROSARIO | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLRJLMbep2bJrLLuIAyi6-TXc3qnQCUXLbztYkoo=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q/live
+
+TELEFE SALTA | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLTQ0CHvwUkhFXB2UyejrJl0KVeBjhtrORfIweTQXg=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ/live
+
+Informacion Periodística | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLQaYsAXWJNpiduF7CfZckAt76XcPWwTeM4qkKiI=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC1bBjOZieJWHbsFA0LwjjJA/Live
+
+Todo Noticias | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLRVONiJPqnYI_ETrMgVqqBLCerU8RXnRRp-xF79LA=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
+
+Canal Encuentro | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLSYU51c8SbrkWZeNBRMFeCnGv0YXPpXuEGBNq-X5g=s48-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/user/encuentro/live
+
+TEC TV | ARGENTINA | https://yt3.ggpht.com/8H8tnhLLSm3kDuxUgOOqeiV3zsdo4UmaSQEsDDBTUbAI6GbJX_O54XXSQryos1vY9hcjqSfQNw=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/TEC_ciencia_ar/live
+
+Hipódromo de Palermo | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLRJ0_-IzGm_c5e-Kn5iNrIrba2th4gJsjIt-JHSXg=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCBQnpH3GKOKRGg4O8PpqQSw/live
+
+A24 | ARGENTINA | https://yt3.ggpht.com/Ehgzljg8T8lsiCG4M6CjOp-G1P7nizvlRKNaDd_rqEnAYn3nG5jbNHXQ7ljcjvDvXjojGC6Lyw=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ/live
+
+
+
+
+
+
+Canal 7 Mendoza AR | ARGENTINA | https://yt3.ggpht.com/kg5vrdz7shjKha3N3I7ed5MhzGv3_LwVfNj1vtZfW9OFSGDArcvMD0wmtYhq9yLkkVuRCcuK6g=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC64ZNqX0FQHabP8iIkmnR3A/live
+
+El Siete TV (AFILIADA AMERICA) | ARGENTINA | https://yt3.ggpht.com/kg5vrdz7shjKha3N3I7ed5MhzGv3_LwVfNj1vtZfW9OFSGDArcvMD0wmtYhq9yLkkVuRCcuK6g=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC64ZNqX0FQHabP8iIkmnR3A/live
+
+Canal 8 San Juan (AFILIADA AMERICA) | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLTCjq3swUGlbn-gss0oqSC6XZ1o__OLXOraCqJzJQ=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g/live
+
+EL SEIS BARILOCHE | ARGENTINA | https://yt3.ggpht.com/88bIoKxC85lXsgiRMnqbkc8UB6ScJHjx0NvqFYxudJ_Cu3_ID2XDyl_426-kKZ1NfpsfpUIGPg=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCMy706Rhe2swaTmljCgiYVg/live
+
+CANAL 26  | ARGENTINA | https://yt3.ggpht.com/SQC2152IyCYfOI2NqTpJFbFZXQCSyJkY4cWMfssJxB1TaH6mccq472cjU6BZTUloKgaOAV7yUQ=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/canal26/live
+
+KZO | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLTZ66m3iJOVc5mAtpdFP3OyZQNxevFmEaLt6cVwxQ=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/CanalKZO/live
+
+CANAL DE LA CIUDAD | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLTKUaxHAyqbEEphECYxByOgE3IrHURM18rg0Fxs7Q=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/canalciudadba/live
+
+DIARIO DEMOCRACIA | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLQqL9YaWAmxHUyE5OO8ByMR4QO4Vts86rTs21BP=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/user/diariodemocracia/live
+
+WBSC AMERICAS SOFTBALL | ARGENTINA | https://yt3.ggpht.com/vv_t-qa4gDb8Rn-vri7CilUzVXjg0dGbDSVYFrFoca0vQCUfwwiH1_TJn7sr1nCpD1SyfttovQ=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC_7PDO6CCrynKPkFoOyLHOQ/live
+
+SHOW DE LA FE ARGENTINA | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLThGfqhtYY9-oNcLBqlb3Viq-P0R1Mxj4v7yEpgsA=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/showdelafe/live
+
+CANAL DE LA CIUDAD | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLTKUaxHAyqbEEphECYxByOgE3IrHURM18rg0Fxs7Q=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/canalciudadba/live
+
+Pakapaka | ARGENTINA |  https://yt3.ggpht.com/ytc/AKedOLQbue1WVK5s0ne8sFBVwxf6u7-TbKAdPjK-YCHI8g=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/user/CanalPakapaka/LIVE
+
+SENADO ARGENTINA | ARGENTINA |  https://yt3.ggpht.com/ytc/AKedOLSnZ-EKL9UQCi8CSKVDUDbbcwC7BXuZJb_vF4_lbA=s176-c-k-c0x00ffffff-no-rj-mo |
+https://www.youtube.com/c/SenadoTVArgentina/LIVE
+
+Honorable Cámara de Diputados de la Nación | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLSg8Q8Gj-iQ6nauQFbE8B8ygtPavdGvpkmn14gA3g=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC5KfW9_wv4tqbIPgY8tMG-w/live
+
+Cámara de Diputados de la Provincia de San Luis | ARGENTINA |  https://yt3.ggpht.com/ytc/AKedOLTojwq6lCK6vh3nOTJ6-DLKAKLyj0Pak0i4jpiK=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC1h8_HKc5wScqeRw1HV6a6w/live
+
+ARGENTINA LIVE SISE | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLRDFVq2CLFeGtnZhTNeRrfrnnY4Z_1AZlk2pwPn=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCftan3cVkKKfxXpRN9JUX7A/live
+
+ARGENTINA LIVE SISE 2| ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLRDFVq2CLFeGtnZhTNeRrfrnnY4Z_1AZlk2pwPn=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/SISEArgentina/live
+
+PRAIA ARGENTINA LIVE | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLQUkEUmZE-jNr1h_St0HJDSoAx7jjh3emFvCt3q=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCjeImUhRB1SLqN-svqDRJJw/live
+
+VORTERIX - RÁDIO | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLRvpVL-PUtjTS-n_7yznSTpvfhQ3FfYoS7ef5b7ww=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live
+
+Urbana Play 104.3 FM - RÁDIO | ARGENTINA | https://yt3.ggpht.com/apf1ugFYL859mHuDvR8oj5A7wPI3Q7wJEFq-4bXiotsQ3JPfPoYRJHxOJo7DgulUP20AZ7IY=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCC1kfsMJko54AqxtcFECt-A/live
+
+LA 100 - RÁDIO | ARGENTINA | https://yt3.ggpht.com/GijbirXXgwFRgUqwtlJ4bpm3hB_Xpe3xI23TnCOxiK9Xu2MVHhOAOFNm-RDDmLoQ2YqkCYHS1A=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC2zO2jZCDplwm8SVsXUcxCQ/live
+
+Radio Santa Lucia San Juan - RÁDIO | ARGENTINA | https://yt3.ggpht.com/EFM248LEd3Yz4mnTrwRKbBRWP_qBAkuIv0SGSm9u63bIoGnO3OUtc8RPP4OPwDDw07DeGxhjxBo=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCDSr0_1523BrSqQSm7Y4kHA/live
+
+Radio Rivadavia AM630 - RÁDIO | ARGENTINA | https://yt3.ggpht.com/wRy3AgzuKPU64ppne21ccwQU_TDcFwke4m3NRFw-1zdPgUjCBjlUoNmQDXJ5QgakwQ0tDKmC=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/canalciudadba/live
+
+Radio 10 - AM 710 - RÁDIO | ARGENTINA | https://yt3.ggpht.com/CiIegvl8wx-2EvPA6yNEUs1cpwSJZlS5DuNAkh4v2Au4mFXiyp1GazA3osHLnz2jp53RXDvH4mc=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/Radio10am/live
+
+Canal 30 San Juan - RÁDIO | ARGENTINA | https://yt3.ggpht.com/6-ovkJ4kVGq-byBEgD8s-7bXIX-GlS7VS86wS72wVriBOI7w8T6GsIAahiDBrO88o5Ov-q7L=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCuJvDPQIaUhvdHiH275WjNA/live
 
 
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xmll"
@@ -3163,23 +3462,13 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1677258716/ei/f
 
 #EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-meo.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.xml"
 #EXTM3U url-tvg="http://m3u4u.com/epg/p192y791p3s3d1v8ymeg"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bi/startimestv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml.gz,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml.gz,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml.gz,https://iptv-org.github.io/epg/guides/ga/startimestv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/lt/cgates.lt.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml.gz"
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Metro_Globe_Network.png" group-title="NATIONAL NEWS",Metro Globe Network
-https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/aBk06sY.png" group-title="CNN's",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qdJUDL8.png" group-title="NATIONAL NEWS",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b384000_sleng.m3u8
-
-#EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1197px-KOMPAS_TV_%282017%29.png" group-title="NATIONAL NEWS",Kompas TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 
 #EXTINF:0 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/08XEDhX.png" group-title="NATIONAL NEWS",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -3194,6 +3483,18 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZUqAbI.png" group-title="TURKISH ENTERTAINMENT",TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/aBk06sY.png" group-title="CNN's",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qdJUDL8.png" group-title="NATIONAL NEWS",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b384000_sleng.m3u8
+
+#EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1197px-KOMPAS_TV_%282017%29.png" group-title="NATIONAL NEWS",Kompas TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://live-kg.jixie.media/live/kompastv_lhd.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdIJVDs.png" group-title="ARABIC ENTERTAINMENT",Abu Dhabi TV
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
@@ -3240,9 +3541,12 @@ https://live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternationa
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://www.tagesschau.de/res/assets/image/favicon/apple-touch-icon-152x152.png" group-title="NEWS WORLD",tagesschau24 - ALEMÃO
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8
 
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://i.imgur.com/YxxHcfZ.png" group-title="NEWS WORLD",Sky News
-https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+
+
+
 
 #EXTINF:0 tvg-id="CNA.sg" tvg-logo="https://i.imgur.com/xJZ9ChT.png" group-title="WORLD NEWS",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -3370,6 +3674,9 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZFEJsu.png" group-title="NEWS WORLD",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZFEJsu.png" group-title="NEWS WORLD",Global News 2
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8jIPUgH.png" group-title="PARLIAMENTARY",CPAC
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 
@@ -3462,6 +3769,15 @@ https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://i.imgur.com/5gGHC7g.png" group-title="TURKISH NEWS",TGRT Haber
 https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
+
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://www.cnnturk.com/favicon/favicon-192x192.png group-title="TURKISH NEWS",CNN TURCO
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://www.yirmidort.tv/assets/img/logo.png" group-title="TURKISH NEWS",24 TV
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="hhttps://s.ulusal.com.tr/assets/web/images/logo.png" group-title="TURKISH NEWS",Ulusal Kanal
+https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://i.imgur.com/Qq58W0E.png" group-title="TURKISH NEWS",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
@@ -3934,8 +4250,13 @@ http://sochi.camera:8080/cam_255/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0c8iZq8.png" group-title="TÜRKIYE",Kanal D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c8iZq8.png" group-title="TÜRKIYE",Kanal D 
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c8iZq8.png" group-title="TÜRKIYE",Kanal D 2
 https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+
+
 
 
 # 📺 TV channels
@@ -4054,29 +4375,29 @@ https://sic.live.impresa.pt/sic540p.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="sicnovelashd.tv.vodafone.pt" tvg-logo="https://cfvod.kaltura.com/p/4526593/sp/452659300/thumbnail/entry_id/1_5w7rptsp/width/0/height/0/quality/85/format/png32",SIC NOVELAS
+https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_kfaion7y/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDEwOjE4OjMxIEFNJmhhc2hfdmFsdWU9ODN0NTFtd3A3eUs2bzBHejcwRFFEUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY4ZTM5NjA2LTk2YTItNDExOS05ZTI1LTg4NmIxZjI0OWViYQ==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDExOjE0OjExIEFNJmhhc2hfdmFsdWU9R29aYmlmN29Wb3pKMjVKQ0pvREoxQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg0NDdkN2YzLTA1MjEtNDdhNy05Y2NjLWM4Mjg1ODg2MTI2Nw==/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDEwOjE4OjMxIEFNJmhhc2hfdmFsdWU9ODN0NTFtd3A3eUs2bzBHejcwRFFEUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY4ZTM5NjA2LTk2YTItNDExOS05ZTI1LTg4NmIxZjI0OWViYQ==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDExOjE0OjExIEFNJmhhc2hfdmFsdWU9R29aYmlmN29Wb3pKMjVKQ0pvREoxQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg0NDdkN2YzLTA1MjEtNDdhNy05Y2NjLWM4Mjg1ODg2MTI2Nw==/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDEwOjE4OjMxIEFNJmhhc2hfdmFsdWU9ODN0NTFtd3A3eUs2bzBHejcwRFFEUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY4ZTM5NjA2LTk2YTItNDExOS05ZTI1LTg4NmIxZjI0OWViYQ==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDExOjE0OjExIEFNJmhhc2hfdmFsdWU9R29aYmlmN29Wb3pKMjVKQ0pvREoxQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg0NDdkN2YzLTA1MjEtNDdhNy05Y2NjLWM4Mjg1ODg2MTI2Nw==/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDEwOjE4OjMxIEFNJmhhc2hfdmFsdWU9ODN0NTFtd3A3eUs2bzBHejcwRFFEUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY4ZTM5NjA2LTk2YTItNDExOS05ZTI1LTg4NmIxZjI0OWViYQ==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDExOjE0OjExIEFNJmhhc2hfdmFsdWU9R29aYmlmN29Wb3pKMjVKQ0pvREoxQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg0NDdkN2YzLTA1MjEtNDdhNy05Y2NjLWM4Mjg1ODg2MTI2Nw==/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI 5
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4111,8 +4432,8 @@ https://sicnot.live.impresa.pt/sicnot540p.m3u8
 https://bit.ly/sicnotici?/index.m3u8
 
 
-
-
+#EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertnews-logo-800x300-f2.png", ERT NEWS - GRÉCIA
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
 
 #EXTINF:-1  group-title="CNN's" tvg-id="LCH35" tvg-name="CNN US" tvg-logo="https://www.cnnbrasil.com.br/wp-content/themes/cnnbrasil/assets/favicon/apple-touch-icon.png" ,CNN US 1
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -4145,21 +4466,21 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDEwOjE4OjMxIEFNJmhhc2hfdmFsdWU9S0w1K0I5MnIrT2hYQVJtbkFMSzdJUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY5ZjQ1NTJlLTlkYzgtNGI4Yi05ZGM4LThmNzc0NmE1MmI3NQ==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDExOjE0OjEyIEFNJmhhc2hfdmFsdWU9RlM4a1VKdTd1WVdwWWhkVDY4OUVXdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTU2MWVhY2QwLWQ5NmUtNDU4Ni1iYzEyLTgxZDg2ODk0ZmE3NQ==/
 
 #EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDEwOjE4OjMxIEFNJmhhc2hfdmFsdWU9S0w1K0I5MnIrT2hYQVJtbkFMSzdJUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY5ZjQ1NTJlLTlkYzgtNGI4Yi05ZGM4LThmNzc0NmE1MmI3NQ==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDExOjE0OjEyIEFNJmhhc2hfdmFsdWU9RlM4a1VKdTd1WVdwWWhkVDY4OUVXdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTU2MWVhY2QwLWQ5NmUtNDU4Ni1iYzEyLTgxZDg2ODk0ZmE3NQ==/
 
 
 #EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDEwOjE4OjMxIEFNJmhhc2hfdmFsdWU9S0w1K0I5MnIrT2hYQVJtbkFMSzdJUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY5ZjQ1NTJlLTlkYzgtNGI4Yi05ZGM4LThmNzc0NmE1MmI3NQ==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDExOjE0OjEyIEFNJmhhc2hfdmFsdWU9RlM4a1VKdTd1WVdwWWhkVDY4OUVXdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTU2MWVhY2QwLWQ5NmUtNDU4Ni1iYzEyLTgxZDg2ODk0ZmE3NQ==/
 
 #EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" group-title="NEWS WORLD" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal 3
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDEwOjE4OjMxIEFNJmhhc2hfdmFsdWU9S0w1K0I5MnIrT2hYQVJtbkFMSzdJUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY5ZjQ1NTJlLTlkYzgtNGI4Yi05ZGM4LThmNzc0NmE1MmI3NQ==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDExOjE0OjEyIEFNJmhhc2hfdmFsdWU9RlM4a1VKdTd1WVdwWWhkVDY4OUVXdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTU2MWVhY2QwLWQ5NmUtNDU4Ni1iYzEyLTgxZDg2ODk0ZmE3NQ==/
 
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="CNN's",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4233,8 +4554,10 @@ http://103.139.171.5:5001/live.php?c=CNN_NEWS_18&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JECWgUK.png" group-title="CNN's",N1 CNN
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
 
-#EXTINF:-1 group-title="TV" tvg-id="rainews.tv.vodafone.pt" tvg-logo="https://www.raiplay.it/lfe_apple/RaiNews.png",RAI NEWS24
-https://streamcdng18-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_1200/chunklist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="rainews.tv.vodafone.pt" tvg-logo="https://www.raiplay.it/resizegd/300x-/dl/img/2023/01/19/1674083857577_1.jpg",RAI NEWS24
+https://streamcdng18-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="rainews.tv.vodafone.pt" tvg-logo="https://www.raiplay.it/resizegd/300x-/dl/img/2023/01/19/1674083857577_1.jpg",RAI NEWS24
+https://streamcdne2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4365,12 +4688,12 @@ https://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/rtp_playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDEwOjE4OjMyIEFNJmhhc2hfdmFsdWU9cXoxOXhTN3RkVGN2OG9ydkMrWWYvUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWJjYzI5ZTM2LTA0MTYtNGY3Ni04N2ZkLWVkYTY5MTcxZGZmNw==/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDExOjE0OjEzIEFNJmhhc2hfdmFsdWU9UitvbmxTSWo0ajdnL2tpRXJ3cDFHUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWUzN2Y1NTBkLTY1YmUtNGNkNi04NmJhLWRiYzRhYjUxZWM4ZQ==/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDEwOjE4OjMyIEFNJmhhc2hfdmFsdWU9cXoxOXhTN3RkVGN2OG9ydkMrWWYvUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWJjYzI5ZTM2LTA0MTYtNGY3Ni04N2ZkLWVkYTY5MTcxZGZmNw==/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDExOjE0OjEzIEFNJmhhc2hfdmFsdWU9UitvbmxTSWo0ajdnL2tpRXJ3cDFHUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWUzN2Y1NTBkLTY1YmUtNGNkNi04NmJhLWRiYzRhYjUxZWM4ZQ==/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIFIC.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4394,13 +4717,13 @@ https://bit.ly/3gejKxf?720p/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDEwOjE4OjMzIEFNJmhhc2hfdmFsdWU9bmpGQllHTVZrdUpZY1J0UVBtN0IrQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTZhMTNlOThmLTVlNTMtNDQyYi05NzI1LTZkNjI2MWRhNjUxYw==/
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDExOjE0OjEzIEFNJmhhc2hfdmFsdWU9alJ6M1F6cVB5dWh5RFVBOVBqTzlXQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWEzMjgwZTZjLWRiOWItNDY5Ny04M2M1LWZjNDgwZGFjNzY5MA==/
 
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDEwOjE4OjMzIEFNJmhhc2hfdmFsdWU9bmpGQllHTVZrdUpZY1J0UVBtN0IrQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTZhMTNlOThmLTVlNTMtNDQyYi05NzI1LTZkNjI2MWRhNjUxYw==/
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIzIDExOjE0OjEzIEFNJmhhc2hfdmFsdWU9alJ6M1F6cVB5dWh5RFVBOVBqTzlXQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWEzMjgwZTZjLWRiOWItNDY5Ny04M2M1LWZjNDgwZGFjNzY5MA==/
 
 
 
@@ -4689,12 +5012,12 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://dai.google.com/ssai/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 
-#EXTINF:-1 group-title="TV" group-title="NEWS WORLD" tvg-id="CBSN" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/r/2022/01/19/bf4d5116-a8db-4dd9-ae26-f2b56cdedd0d/thumbnail/1200x630/923050b2fc2369c443efc198ead88291/cbsnews-local-miami-1920x1080.jpg",CBS News Miami
+#EXTINF:-1 group-title="TV" group-title="NEWS WORLD" tvg-id="CBSNewsMiami.us" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/r/2022/01/19/bf4d5116-a8db-4dd9-ae26-f2b56cdedd0d/thumbnail/1200x630/923050b2fc2369c443efc198ead88291/cbsnews-local-miami-1920x1080.jpg",CBS News Miami
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dai.google.com/linear/hls/event/_yODrBHESGSzPe3dqW4gGg/master.m3u8
 
-#EXTINF:-1 group-title="TV" group-title="NEWS WORLD" tvg-id="CBSN" tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2022/01/19/4b66711a-9abf-402c-ad17-c1bfb64a09e5/thumbnail/1200x630/12543dcf643e155b494478f101793100/cbsnews-local-losangeles-1920x1080.jpg",CBS News Los Angeles
+#EXTINF:-1 group-title="TV" group-title="NEWS WORLD" tvg-id="CBSNewsLosAngeles.us" tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2022/01/19/4b66711a-9abf-402c-ad17-c1bfb64a09e5/thumbnail/1200x630/12543dcf643e155b494478f101793100/cbsnews-local-losangeles-1920x1080.jpg",CBS News Los Angeles
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8
@@ -4969,12 +5292,12 @@ https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="tve24.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",TVE 24h
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestream.akamaized.net/segments/24h/24h_main.m3u8
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="tve24.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",TVE 24h
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestream.akamaized.net/segments/24h/24h_main_720.m3u8
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="tve24.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",TVE 24h Canarias
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4990,7 +5313,13 @@ https://rtvehlslivestream.akamaized.net/hls/live/2042357/24HCA_AKA_HLS_GL0/maste
 #EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688877.jpg",La 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688877.jpg",La 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
+
 
 #EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_3293681.jpg",La 1 - CATALUNHA
 #KODIPROP:inputstream=inputstream.adaptive
@@ -5049,6 +5378,10 @@ https://rtvelivestream.akamaized.net/segments/oca/ocasional05_main.m3u8
 https://ztnr.rtve.es/ztnr/2795617.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="TV",Rádio Nacional Espanhola
 https://rtvehlslivestream.akamaized.net/hls/live/2041595/IRTVE08_AKA_HLS_GL0/master.m3u8
+
+
+
+
 #EXTINF:-1 group-title="TV",TDP COM VPN
 https://rtvelivestream.akamaized.net/segments/tdp/tdp_main.m3u8
 
