@@ -20,7 +20,7 @@ jobs:
         git config --global user.name "GitHub Action"
     - name: Baixando Listas Agrupadas
       run: |         
-       wget -r https://raw.githubusercontent.com/guiworldtv/M3UBR/main/m3upt.m3u -O lista6pt.m3u
+       wget -r https://github.com/punkstarbr/M3UPT/raw/main/M3U/M3UPT.m3u -O lista6pt.m3u
        
     - name: git add
       run: |
