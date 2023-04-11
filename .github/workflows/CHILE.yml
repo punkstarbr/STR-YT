@@ -15,8 +15,8 @@ jobs:
 
     - name: Criar pasta e arquivos
       run: |
-        mkdir nova_pasta
-        cd nova_pasta
+        mkdir scripts
+        cd scripts
         touch ARGENTINA.py
         touch CHILE.py
         touch ucraniatv.py
