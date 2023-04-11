@@ -1,0 +1,39 @@
+name: AGRUPAMENTO LISTAS
+on:
+  schedule:
+    - cron: '*/18 * * * *'
+
+  pull_request:
+    branches:
+      - main
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: config
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+    - name: Agrupando todas listas
+      run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+        
+          
+    - name: execute py script 
+      run: python agrupadordelistas.py
+      
+
+    
+    - name: git add
+      run: |
+        git add -A
+        ls -la
+    - name: commit & push
+      run: |
+        git commit -m "TUDO JUNTO"
+        git push
