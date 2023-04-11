@@ -66,6 +66,8 @@ jobs:
           pip install google-api-python-client
       
 
+      - name: Install JQ
+        run: sudo apt-get install -y jq
       
         
       
@@ -264,11 +266,15 @@ jobs:
          #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/previews-ttv/live_user_pularitv-1280x720.jpg",PULARITV
          $(streamlink --url --default-stream  --stream-url  https://www.twitch.tv/pularitv best)
         
+
+
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
          #EXTINF:-1,TV MEIO NORTE
-         $(streamlink --url --default-stream  --stream-url  https://livestream.com/accounts/3332377/events/10580127 best)         
+         $(streamlink --json https://livestream.com/accounts/3332377 best | jq -r '.streams[0].url')
+
+        
          
          
       
