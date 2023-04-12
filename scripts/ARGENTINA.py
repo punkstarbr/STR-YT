@@ -489,17 +489,8 @@ https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",LA VOZ DE TUCUMAN
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/.m3u8
-import requests
-from bs4 import BeautifulSoup
-import datetime
-import streamlink
-import time
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
-}
 
-m3u8_file = open("lista2str2.m3u", "w")
 
 '''
 
@@ -510,8 +501,6 @@ import sys
 windows = False
 if 'win' in sys.platform:
     windows = True
-for i in range(1, 6):
-    url = f"https://tviplayer.iol.pt/videos/ultimos/{i}/canal:"
 
 def grab(url):
     response = requests.get(url, timeout=15).text
@@ -537,32 +526,14 @@ def grab(url):
         else:
             tuner += 5
     print(f"{link[start : end]}")
-    response = requests.get(url, headers=headers)
-    soup = BeautifulSoup(response.content, "html.parser")
 
 print('#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mudstein/XML/main/TIZENsiptv.xml"')
 print('#EXTM3U x-tvg-url="https://raw.githubusercontent.com/K-vanc/Tempest-EPG-Generator/main/Siteconfigs/Argentina/%5BENC%5D%5BEX%5Delcuatro.com_0.channel.xml"')
 print('#EXTM3U x-tvg-url="https://github.com/Nicolas0919/Guia-EPG/raw/master/GuiaEPG.xml.gz"')
 print('#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz"')
 print('#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz"')
-    video_titles = [item.text for item in soup.find_all("span", class_="item-title")]
-    video_links = [f"https://tviplayer.iol.pt{item['href']}" for item in soup.find_all("a", class_="item")]
-    Data = [item.text for item in soup.find_all("span", class_="item-date")]
 
 print(banner1)
-    for title, link in zip(video_titles, video_links):
-        now = datetime.datetime.now()
-        timestamp = now.strftime("%m%d%H%M%S")
-        video_url = streamlink.streams(link)["best"].url if streamlink.streams(link) else None
-        item = soup.find("a", class_="item", href=link)
-        try:
-            image_url = item["style"].split("url(")[1].split(")")[0]
-        except Exception as e:
-            print(f"Error: {e}")
-            image_url = "https://cdn.iol.pt/img/logostvi/branco/tviplayer.png"
-        if video_url:
-            m3u8_file.write(f"#EXTINF:-1 group-title=\"TVI PLAYER\" tvg-logo=\"{image_url}\",{title}\n{video_url}\n")
-            m3u8_file.write("\n")
 
 #s = requests.Session()
 with open('../ARGENTINA.txt', errors="ignore") as f:
@@ -583,8 +554,3 @@ print(banner2)
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
     os.system('rm watch*')
-
-
-time.sleep(13)
-
-m3u8_file.close()
