@@ -80,7 +80,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         #EXTINF:-1 tvg-id="$(yt-dlp --get-title https://www.youtube.com/watch?v=WRzeEy-OSZA)" group-title="Reality Show'S Live" group-title="CNN's" tvg-logo="$(yt-dlp --get-thumbnail https://www.youtube.com/watch?v=WRzeEy-OSZA)", YOUTUBEAOVIVO - $(yt-dlp --get-title https://www.youtube.com/watch?v=WRzeEy-OSZA) - $(yt-dlp --url https://www.youtube.com/watch?v=WRzeEy-OSZA)
+         #EXTINF:-1 tvg-id="$(yt-dlp --get-title https://www.youtube.com/watch?v=WRzeEy-OSZA)" group-title="Reality Show'S Live" group-title="CNN's" tvg-logo="$(yt-dlp --get-thumbnail https://www.youtube.com/watch?v=WRzeEy-OSZA)", YOUTUBEAOVIVO - $(yt-dlp --get-title https://www.youtube.com/watch?v=WRzeEy-OSZA)
          $(yt-dlp -f best -g https://www.youtube.com/watch?v=WRzeEy-OSZA)
          
          
@@ -219,22 +219,22 @@ jobs:
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
          #EXTINF:-1 tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
-         $(streamlink --hls-segment-stream-data --hls-live-edge 5 --hls-segment-threads 10 --ffmpeg-ffmpeg /usr/local/bin/ffmpeg --hls-live-edge 6 --stream-url  https://tviplayer.iol.pt/direto/TVI best)
+         $(yt-dlp -f best -g  https://tviplayer.iol.pt/direto/TVI)
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
          #EXTINF:-1 tvg-id="TVIFIC.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
-         $(streamlink --url --default-stream  --stream-url  https://tviplayer.iol.pt/direto/TVI_FICCAO best)
+         $(yt-dlp -f best -g https://tviplayer.iol.pt/direto/TVI_FICCAO)
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
          #EXTINF:-1,
-         $(streamlink --url --default-stream  --stream-url  https://tviplayer.iol.pt/direto/TVI_AFRICA best)
+         $(yt-dlp -f best -g https://tviplayer.iol.pt/direto/TVI_AFRICA)
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
          #EXTINF:-1 tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
-         $(streamlink --url --default-stream  --stream-url  https://tviplayer.iol.pt/direto/TVI_INTERNACIONAL best)
+         $(yt-dlp -f best -g https://tviplayer.iol.pt/direto/TVI_INTERNACIONAL)
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
