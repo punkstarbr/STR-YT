@@ -1257,6 +1257,9 @@ https://raw.githubusercontent.com/punkstarbr/STR2/main/BBVIPALBANIA.m3u8
 https://raw.githubusercontent.com/punkstarbr/STR2/main/ZADRUGA.m3u8
 
 #EXTINF:-1 group-title="Reality Show'S Live"  tvg-logo="https://tvi.iol.pt/bigbrother/img/logo.png",BIG BROTHER PORTUGAL
+https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
+
+#EXTINF:-1 group-title="Reality Show'S Live"  tvg-logo="https://tvi.iol.pt/bigbrother/img/logo.png",BIG BROTHER PORTUGAL 2
 https://raw.githubusercontent.com/punkstarbr2/STR2/main/TVIREALITY.M3U8
 
 
