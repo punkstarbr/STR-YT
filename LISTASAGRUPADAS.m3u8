@@ -1,11 +1,8 @@
 
 #EXTM3U 
 
-#EXTINF:0 group-title="Reality Show'S Live", MOSAICOQUARTOSBBB
-http://conexaoonline.top/0646577379/5675861259/291556
 
-#EXTINF:-1 group-title="Reality Show'S Live", Farma Sérvia
-http://bntvs.com:2052/zorankalauz/643095040/8753
+
 
 #EXTINF:-1 group-title="Reality Show'S Live"  tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/focal-860x484/public/images/promo/livestreams/2023/01/17/lcdlf2_espia_24horas_hd_0.png?ramen_itok=iqwQftIcTf",BIG BROTHER MÉXICO/USA
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM1.m3u8
@@ -19,6 +16,34 @@ https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 
 #EXTINF:-1 group-title="Reality Show'S Live"  tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/63ecfd7e0cf28f3e15cc3929/",O TRIANGULO - TVI 2
 https://github.com/punkstarbr/STR2/raw/main/TVIREALITY.M3U8
+
+#EXTINF:-1 tvg-id="" tvg-name="Esquenta BBB 2023" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" group-title="Reality Show's Live",Esquenta BBB 2023
+https://main.svrplus.xyz/EduServidorApp/AD@34DHRB5/99495?tkn=1672077517
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 - Principal" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" group-title="Reality Show's Live",BBB 2023 - Principal
+https://main.svrplus.xyz/EduServidorApp/AD@34DHRB5/99521?tkn=1672077517
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 - Sala de estar" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" group-title="Reality Show's Live",BBB 2023 - Sala de estar
+https://main.svrplus.xyz/EduServidorApp/AD@34DHRB5/99522?tkn=1672077517
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 - Cozinha" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" group-title="Reality Show's Live",BBB 2023 - Cozinha
+https://main.svrplus.xyz/EduServidorApp/AD@34DHRB5/99523?tkn=1672077517
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 - Quarto 1" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" group-title="Reality Show's Live",BBB 2023 - Quarto 1
+https://main.svrplus.xyz/EduServidorApp/AD@34DHRB5/99524?tkn=1672077517
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 - Quarto 2" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" group-title="Reality Show's Live",BBB 2023 - Quarto 2
+https://main.svrplus.xyz/EduServidorApp/AD@34DHRB5/99525?tkn=1672077517
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 - Piscina " tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" group-title="Reality Show's Live",BBB 2023 - Piscina
+https://main.svrplus.xyz/EduServidorApp/AD@34DHRB
+
+
+#EXTINF:-1 group-title="Reality Show'S Live", Farma Sérvia
+http://bntvs.com:2052/zorankalauz/643095040/8753
+
+#EXTINF:0 group-title="Reality Show'S Live", MOSAICOQUARTOSBBB
+http://conexaoonline.top/0646577379/5675861259/291556
 
 #EXTINF:-1 group-title="Reality Show'S Live"  tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/1/17/AlbaniaVIP1_Logo.jpg/revision/latest?cb=20230103223302",BIG BROTHER ALBANIA VIP
 https://github.com/punkstarbr/STR2/raw/main/BBVIPALBANIA.m3u8
@@ -4432,13 +4457,13 @@ https://oracle.streaminghd.cl/tvmcercadeti/tvmcercadeti/chunklist_w1900488119.m3
 
 
 #EXTINF:-1 group-title="Chile" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRYcis81WAh0QolovYToT0vSzgN7sIzkaru5-pOog=s88-c-k-c0x00ffffff-no-rj" tvg-id="", TVN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681392032/ei/QK03ZNq6KZqH6QKG9pLIDg/ip/40.86.13.230/id/zCl8NfHg-To.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJ4FwKBamaYgUdHQXxfQPtN5V8Sq04gwmDHkcAUnXEtZAiA7Ujdh_TpXLKtvq_aRDFc-5WgRmJYJKpwvn7iJv4Irqw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681432169/ei/CUo4ZOr3Goea8wTOl7boDQ/ip/104.45.203.128/id/zCl8NfHg-To.1/source/yt_live_broadcast/requiressl/yes/tx/24468615/txs/24468614%2C24468615%2C24468616%2C24468617%2C24468618/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPdDpkBFqkbW_YuYGzRiYWnXeY9zGwGMENsX-b22yakGAiAeToXBGDkimgUNEl_S-ZwwgQ8hDzNtmAH4Adm0ds3S7Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Chile" tvg-logo="https://yt3.ggpht.com/clEeO22ukG6jvOlhK3EDIszMjjcNfZ5xJY4fVEUrN3bki3RYs8RiATTjqPXGVTCP0XFN7W046A=s88-c-k-c0x00ffffff-no-rj" tvg-id="", CHV Noticias
-https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAir.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681432170/ei/CUo4ZJbrN4Oc8wT10JWgBw/ip/104.45.203.128/id/VK-YzLSJV8g.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOo1tB8cA_nOTl6vSp0vZUJ46thFW2G5qMsvRfuTYVnKAiEA9qq8YboqUhF_pbWktN8tBtbD_qaEJa5iyBFMVflgeKw%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Chile" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAGF-l790QCWpgPDcehyjzfhDKe2MqcuwGJc6HbUR4Q%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1" tvg-id="", Meganoticias
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681392034/ei/Qq03ZL6zBYfcuQLZ14a4AQ/ip/40.86.13.230/id/56h2RHpLqDI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPd0HiqRqfp_5WM_T69Z-fauWez8bBEtqNRvYC3wqKH4CIQCgojKB7TIfgBFoXDPzOpKmfby-iTejtWAjjeWPYSt6cQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681432170/ei/Cko4ZMaVF5Lg8wTkqZKoDQ/ip/104.45.203.128/id/plElw4RKfgU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgHZ0C0QMAEihx2VAbR-6wwS-ySeoWA9tAkGzn_JYxsLICIQCIkoO04qyokfs0cNFdp7RtzO3iRIRUmaerAVxcU4u16Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Chile" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR7bqk5Na_4EadU3tKgOi5b9jRifERvtJ6EiSY9vQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", T13 EN
 https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAir.m3u8
@@ -4450,7 +4475,7 @@ https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAir.m3u8
 https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAir.m3u8
 
 #EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/rzWmoueYLYs4hpK1mwVFnyafADTztytGuZFiPJEVd1lyCZKFyYebzLPV1P9BB4xB6rEIiEKSug=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TV SENADO CHILE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681392038/ei/Rq03ZNqUK7KO_tcPgKWRwAg/ip/40.86.13.230/id/NRaDssW6B6s.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgEnQqkHFqYQ1h6bk4crRIsgfM8eGietHbRY4ijaURU-gCIHOkMCz1C8Nm70d-yJeYQMRDK2enKc1basUH6VlexL5z/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681432173/ei/DUo4ZLDEKYfP8wSkw5KwDw/ip/104.45.203.128/id/NRaDssW6B6s.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAItnp1U4FtwNWSJoX3EXJZMN1uTiNjdtpOFTOSeKo-cyAiAtDl84bLctcjRG4LOpWQis3L9GvbMD55fFU81vgN0pYQ%3D%3D/file/index.m3u8
 
 
 #EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-vodafone-pt.xml.gz"
