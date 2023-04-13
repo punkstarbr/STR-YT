@@ -13,7 +13,10 @@ https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM2.m3u8
 #EXTINF:-1 group-title="Reality Show'S Live"  tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/focal-860x484/public/images/promo/livestreams/2023/01/17/lcdlf2_espia_24horas_hd_0.png?ramen_itok=iqwQftIcTf",BIG BROTHER MÉXICO/USA
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM3.m3u8
 
-#EXTINF:-1 group-title="Reality Show'S Live"  tvg-logo="https://tvi.iol.pt/bigbrother/img/logo.png",O TRIANGULO - TVI
+#EXTINF:-1 group-title="Reality Show'S Live"  tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/63ecfd7e0cf28f3e15cc3929/",O TRIANGULO - TVI
+https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
+
+#EXTINF:-1 group-title="Reality Show'S Live"  tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/63ecfd7e0cf28f3e15cc3929/",O TRIANGULO - TVI 2
 https://github.com/punkstarbr/STR2/raw/main/TVIREALITY.M3U8
 
 #EXTINF:-1 group-title="Reality Show'S Live"  tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/1/17/AlbaniaVIP1_Logo.jpg/revision/latest?cb=20230103223302",BIG BROTHER ALBANIA VIP
