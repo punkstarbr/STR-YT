@@ -10,6 +10,7 @@ http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117159
 
 
 
+
 #EXTINF:0,ES: CUATRO HD
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117161
 
@@ -1757,6 +1758,9 @@ https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.
 
 #EXTINF:-1 tvg-logo="https://ucvtv.cl/imagenes/logo-ucv-200.png" group-title="NEWS WORLD", UNIVERSIDAD CHILE 2
 https://unlimited2-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://ainmcl.github.io/MonitorTV/Monitores/imagenes/Logo_T13_ENVIVO.svg" group-title="NEWS WORLD", T13 SERVIÇO
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13live/13live.smil/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://audiovisual.ec.europa.eu/images/livepanel_ebs.jpg",EBS - European Union's TV information service MULTI
