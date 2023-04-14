@@ -1,104 +1,20 @@
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1041-333222171111.png?q=10&v=3&w=275",CATAR 2022 - Resumo Instantâneo 1 - NOAR
-https://streaming-live.rtp.pt/liverepeater/smil:especiaiscam2HD.smil/playlist.m3u8
-#https://streaming-live.rtp.pt/liverepeater/smil:especiaiscam2HD.smil/chunklist_b2596000_slpor.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1042-303122171111.png?q=10&v=3&w=275",CATAR 2022 - VISÃO TÁTICA 1 - NOAR
-https://streaming-live.rtp.pt/liverepeater/smil:especiaiscam3HD.smil/playlist.m3u8
-#https://streaming-live.rtp.pt/liverepeater/smil:especiaiscam3HD.smil/chunklist_b2596000_slpor.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1047-503122171111.png?q=10&v=3&w=275",TREINADOR A
-https://streaming-live.rtp.pt/liverepeater/smil:especiaiscam4HD.smil/playlist.m3u8
-#https://streaming-live.rtp.pt/liverepeater/smil:especiaiscam4HD.smil/chunklist_b1346000_slpor.m3u8
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1048-153222171111.png?q=10&v=3&w=275",TREINADOR B
-https://streaming-live.rtp.pt/liverepeater/smil:especiaiscam5HD.smil/playlist.m3u8
-#https://streaming-live.rtp.pt/liverepeater/smil:especiaiscam5HD.smil/chunklist_b1346000_slpor.m3u8
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
+#EXTINF:-1 group-title="TV" tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|user-agent=Opera
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
-
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1 - 2
+#EXTINF:-1 group-title="TV" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1.smil/rtp_playlist.m3u8|user-agent=Opera
-
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1 - 3 TESTE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/inspiration.m3u8
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8|user-agent=Opera
-
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2 - 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2.smil/rtp_playlist.m3u8
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2 - 2 TESTE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/inspiration.m3u8
-
-
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8|user-agent=Opera
-
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3 - 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/rtp_playlist.m3u8|user-agent=Opera
-
-#EXTINF:-1 tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/rtp3.png" group-title="PORTUGAL",RTP 3 - 3 
-https://bit.ly/rtp3_pt?/index.m3u8
-
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC SEM VPN
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#https://live.impresa.pt/live/sic/sic.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC COM VPN
-https://sic.live.impresa.pt/sic.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC COM VPN 2
-https://sic.live.impresa.pt/sic540p.m3u8
-
-
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="sicnovelashd.tv.vodafone.pt" tvg-logo="https://cfvod.kaltura.com/p/4526593/sp/452659300/thumbnail/entry_id/1_5w7rptsp/width/0/height/0/quality/85/format/png32",SIC NOVELAS
-https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_kfaion7y/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIzIDEwOjI3OjUyIEFNJmhhc2hfdmFsdWU9ak1ndVNMQmFMMlBvWWtJOUMvK1N5UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTI3MTM0OTdhLWM4M2MtNDYxYS05NjEzLTNhMzdhMWQzZGQ3Mw==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIzIDEwOjE3OjE2IEFNJmhhc2hfdmFsdWU9THI3YnVwOTk4TnQzSlFsamYwMXgzUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTdhNThhNTM0LWM1ODQtNGRmNC1iZTRjLTU2ODAzMzA0MGJiYw==/
 
 
 
