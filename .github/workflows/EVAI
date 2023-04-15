@@ -2,7 +2,7 @@ name: Retrigger Workflow
 
 on:
   workflow_run:
-    workflows: ["Atualizando Lista"]
+    workflows: ["STREAMLINK LIVE "]
     types:
       - completed
 
