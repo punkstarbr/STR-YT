@@ -1,3 +1,39 @@
+import requests
+
+urls = [
+    "https://raw.githubusercontent.com/mudstein/XML/main/TIZENsiptv.xml",
+    "https://raw.githubusercontent.com/K-vanc/Tempest-EPG-Generator/main/Siteconfigs/Argentina/%5BENC%5D%5BEX%5Delcuatro.com_0.channel.xml",
+    "https://github.com/Nicolas0919/Guia-EPG/raw/master/GuiaEPG.xml.gz",
+    "https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz",
+    "https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz"
+]
+
+def verificar_url(url):
+    try:
+        response = requests.head(url)
+        return response.status_code == 200
+    except:
+        return False
+
+funcionando = []
+nao_funcionando = []
+
+for url in urls:
+    if verificar_url(url):
+        funcionando.append(url)
+    else:
+        nao_funcionando.append(url)
+
+with open("funcionando.txt", "w") as f:
+    for url in funcionando:
+        f.write(url + "\n")
+
+with open("nao_funcionando.txt", "w") as f:
+    for url in nao_funcionando:
+        f.write(url + "\n")
+
+        
+        
 #! /usr/bin/python3
 
 banner1 = r'''
