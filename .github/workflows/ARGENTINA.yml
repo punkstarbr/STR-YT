@@ -34,9 +34,14 @@ jobs:
       # Runs a set of commands using the runners shell 
       - name: Config
         run: |
-          git config --global user.email "vijayelectro2002@gmail.com"
-          git config --global user.name "vijay6672"
+          git config --global user.email "seu_email_placeholder"
+          git config --global user.name "seu_nome_de_usuario_placeholder"
+
           
+          
+      - name: Install bs4
+        run: |
+          pip install beautifulsoup4
           
       - name: Main
         run: |
@@ -44,9 +49,7 @@ jobs:
           pwd
           chmod +x ARGENTINA.sh
           ./ARGENTINA.sh
-      - name: Install bs4
-        run: |
-          pip install beautifulsoup4
+
         
       - name: Git Add
         run: |
