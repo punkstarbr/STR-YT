@@ -70,6 +70,7 @@ with open('../Argentina.txt', errors="ignore") as f:
         else:
             grab(line)
 
+
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
     os.system('rm watch*')
@@ -160,6 +161,7 @@ for url in repo_urls:
                             "stream_url": stream_url
                         })
 
+# Print the working channels
 for channel in working_channels:
     if "extm3u_line" in channel:
         print(f"{channel['extm3u_line']}\n")
@@ -189,5 +191,3 @@ for channel in working_channels:
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
     os.system('rm watch*')
-
-
