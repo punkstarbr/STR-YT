@@ -44,6 +44,10 @@ jobs:
           pwd
           chmod +x ARGENTINA.sh
           ./ARGENTINA.sh
+      - name: Install bs4
+        run: |
+          pip install beautifulsoup4
+        
       - name: Git Add
         run: |
           git add -A
