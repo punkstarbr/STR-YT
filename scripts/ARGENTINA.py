@@ -552,7 +552,7 @@ print('#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.a
 print(banner1)
 
 #s = requests.Session()
-with open('../Argentina.txt', errors="ignore") as f:
+with open('../ARGENTINA.txt', errors="ignore") as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
