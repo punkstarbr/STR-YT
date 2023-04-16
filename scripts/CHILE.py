@@ -268,7 +268,7 @@ for channel in working_channels:
         if group_title_pattern.search(channel_info):
             channel_info = group_title_pattern.sub('group-title="CHILE"', channel_info)
         else:
-            channel_info += ' group-title="Argentina"'
+            channel_info += ' group-title="CHILE"'
 
         if "tvg-logo" not in channel_info or 'tvg-logo=""' in channel_info or 'tvg-logo="N/A"' in channel_info:
             image_url = search_image_url(channel_name)
