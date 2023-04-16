@@ -229,8 +229,13 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         #EXTINF:-1,
-         $(yt-dlp -f best -g https://tviplayer.iol.pt/direto/TVI_AFRICA)
+         #EXTINF:-1, teste
+         $(yt-dlp -f best -g https://www.rtp.pt/play/direto/rtp1)
+         $(streamlink --url --default-stream  --stream-url  https://www.rtp.pt/play/direto/rtp1 best)
+         $(youtube-dl -f best -g https://www.rtp.pt/play/direto/rtp1)
+         $(yt-dlp -f best -g https://www.rtp.pt/play/p11137/telejornal)
+         $(streamlink --url --default-stream  --stream-url  https://www.rtp.pt/play/p11137/telejornal best)
+         $(youtube-dl -f best -g https://www.rtp.pt/play/p11137/telejornal)         
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
