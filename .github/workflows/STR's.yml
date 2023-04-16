@@ -9,7 +9,7 @@ on:
   
   pull_request:
     branches:
-      - blink182
+      - main
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
