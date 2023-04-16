@@ -44,6 +44,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install youtube-dl 
+          pip install yt-dlp
           pip install requests 
           pip install beautifulsoup4 
           pip install fastapi 
