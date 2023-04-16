@@ -66,9 +66,7 @@ jobs:
           pip install google-api-python-client
       
 
-      - name: Install JQ
-        run: sudo apt-get install -y jq
-      
+    
         
       
       - name: Get LISTA4.m3u8
@@ -269,11 +267,7 @@ jobs:
         
 
 
-         #EXTM3U
-         #EXT-X-VERSION:3
-         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         #EXTINF:-1,TV MEIO NORTE
-         $(streamlink --json https://livestream.com/accounts/3332377 best | jq -r '.streams[0].url')
+
 
         
          
