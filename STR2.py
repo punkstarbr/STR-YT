@@ -21,7 +21,7 @@ url_tvi = "https://tviplayer.iol.pt/videos/ultimos/1/canal:"
 with open("lista2str2.m3u", "w") as m3u8_file:
     
     # Loop através das páginas para extrair os vídeos
-    for i in range(1, 6):
+    for i in range(1, 2):
         # URL da página atual
         url_tvi = f"https://tviplayer.iol.pt/videos/ultimos/{i}/canal:"
         
