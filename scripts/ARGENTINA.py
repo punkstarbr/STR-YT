@@ -130,7 +130,7 @@ def is_channel_working(url, headers=None):
         return False
 
 repo_urls = [
-    "https://github.com/punkstarbr/STR-YT/raw/main/REALITY'SLIVE.m3u"
+    "https://github.com/Emmajlarg/prueba/raw/4812e8c61884d77a347712d1ff1538e5ab644e15/vplay"
 ]
 
 working_channels = []
@@ -184,6 +184,13 @@ for channel in working_channels:
         channel_info = extinf_line_parts[0].strip()
         channel_name = extinf_line_parts[1].strip()
 
+        # Modificar group-title para "Argentina"
+        group_title_pattern = re.compile(r'group-title="[^"]*"')
+        if group_title_pattern.search(channel_info):
+            channel_info = group_title_pattern.sub('group-title="Argentina"', channel_info)
+        else:
+            channel_info += ' group-title="Argentina"'
+
         if "tvg-logo" not in channel_info or 'tvg-logo=""' in channel_info or 'tvg-logo="N/A"' in channel_info:
             image_url = search_image_url(channel_name)
             if image_url:
@@ -201,6 +208,7 @@ for channel in working_channels:
         for kodiprop_line in channel['kodiprop_lines']:
             print(f"{kodiprop_line}\n")
         print(f"{channel['stream_url']}\n")
+
 
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
