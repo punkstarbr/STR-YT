@@ -1,3 +1,234 @@
+#EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-vodafone-pt.xml.gz"
+
+#EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz"
+
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-meo.xml"
+
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.xml"
+
+#EXTM3U url-tvg="http://m3u4u.com/epg/p192y791p3s3d1v8ymeg"
+
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bi/startimestv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml.gz,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml.gz,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml.gz,https://iptv-org.github.io/epg/guides/ga/startimestv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/lt/cgates.lt.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml.gz"
+
+#EXTINF:0 tvg-id="BloombergTVAsiaPacific.hk" tvg-logo="https://i.imgur.com/u4zDsl3.png" group-title="BUSINESS NEWS",Bloomberg TV Asia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+
+#EXTINF:0 tvg-id="BloombergTelevision.us" tvg-logo="https://i.imgur.com/u4zDsl3.png" group-title="BUSINESS NEWS",Bloomberg Television
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://i.imgur.com/5M3233w.png" group-title="BUSINESS NEWS",Bloomberg HT
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+
+
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/nSj18g1.png" group-title="BUSINESS NEWS",Bloomberg TV Mongolia
+https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OmXBZG5.png" group-title="BUSINESS NEWS",РБК
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ClassCNBC.it" tvg-logo="https://i.imgur.com/qsmHgJ1.png" group-title="BUSINESS NEWS",Class CNBC
+https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/chunklist_b1728000.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-logo="https://i.imgur.com/i1qQWS1.png" group-title="BUSINESS NEWS",Zee Business
+https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_5.m3u8
+
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Business_2020.png" group-title="BUSINESS NEWS",BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c8iZq8.png" group-title="TÜRKIYE",Kanal D 
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c8iZq8.png" group-title="TÜRKIYE",Kanal D 2
+https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TQwXlDO.png" group-title="TURKISH ENTERTAINMENT",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
+#EXTINF:0 tvg-id="BloombergTelevision.us" tvg-logo="https://i.imgur.com/u4zDsl3.png" group-title="BUSINESS NEWS",Bloomberg Television
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://i.imgur.com/5M3233w.png" group-title="BUSINESS NEWS",Bloomberg HT
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/nSj18g1.png" group-title="BUSINESS NEWS",Bloomberg TV Mongolia
+https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
+
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://cheddar.com/cheddar-news-main.svg" group-title="BUSINESS NEWS",CHEDDAR NEWS
+https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/2.m3u8
+
+#EXTINF:-1 tvg-id="ClassCNBC.it" tvg-logo="https://i.imgur.com/qsmHgJ1.png" group-title="BUSINESS NEWS",Class CNBC
+https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/chunklist_b1728000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3vQaf5.png" group-title="BUSINESS NEWS",Yahoo! Finance
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://www.tagesschau.de/res/assets/image/favicon/apple-touch-icon-152x152.png" group-title="NEWS WORLD",tagesschau24 - ALEMÃO
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c8iZq8.png" group-title="TÜRKIYE",Kanal D 
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c8iZq8.png" group-title="TÜRKIYE",Kanal D 2
+https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TQwXlDO.png" group-title="TURKISH ENTERTAINMENT",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OSEdWCp.png" group-title="TURKISH ENTERTAINMENT",Kanal 7 Avrupa
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TZUqAbI.png" group-title="TURKISH ENTERTAINMENT",TGRT EU
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+
+#EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/0x1fWbw.png" group-title="ARABIC NEWS",DW Arabic
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/0x1fWbw.png" group-title="SPANISH NEWS",DW Español
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="DWDeutsch.de" tvg-logo="https://i.imgur.com/0x1fWbw.png" group-title="GERMAN NEWS",DW Deutsch
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/aBk06sY.png" group-title="CNN's",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qdJUDL8.png" group-title="NATIONAL NEWS",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BWVqlXp.png" group-title="ARABIC ENTERTAINMENT",Dubai TV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/zPSO1up.png" group-title="KOREAN ENTERTAINMENT",KBS World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:0 tvg-id="CNA.sg" tvg-logo="https://i.imgur.com/xJZ9ChT.png" group-title="WORLD NEWS",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/2560px-TRT_World_logo.svg.png" group-title="WORLD NEWS",TRT World
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRTArabi.tr" tvg-logo="https://i.imgur.com/YXZYbpM.png" group-title="ARABIC NEWS",TRT Arabi
+https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="WORLD NEWS",NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v7Zj0iJ.png" group-title="FRENCH NEWS",TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png" group-title="ARABIC NEWS",CGTN Arabic
+https://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTNEspanol.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="SPANISH NEWS",CGTN Español
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTNFrancais.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/CGTN_-_fran%C3%A7ais.png" group-title="FRENCH NEWS",CGTN Français
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/CGTN_Russian.png" group-title="RUSSIAN NEWS",CGTN-Русский
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/800px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="AMERICAN NEWS",HLN
+https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://i.imgur.com/SKRL1MQ.png" group-title="PARLIAMENTARY",LCP
+http://callofliberty.fr/stream/LCP/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRfQZMK.png" group-title="AMERICAN NEWS",LiveNow Fox
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nEHL1S1.png" group-title="PARLIAMENTARY",Parliament TV
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://i.imgur.com/4nMN9xm.png" group-title="AMERICAN NEWS",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZFEJsu.png" group-title="NEWS WORLD",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZFEJsu.png" group-title="NEWS WORLD",Global News 2
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1920px-GB_News_Logo.svg.png" group-title="BRITISH NEWS",GB News
+https://live-gbnews-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live/live.m3u8
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-logo="https://i.imgur.com/jtPPRFX.png" group-title="AUSTRALIAN NEWS",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="WORLD NEWS",teleSUR English
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jHJR3LN.png" group-title="WORLD NEWS",Africanews
+https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IndiaToday.in" tvg-logo="https://i.imgur.com/r38Camc.png" group-title="INDIAN NEWS",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Atn4Ppt.png" group-title="INDIAN NEWS",India Ahead
+https://d3a9l0u5hgmgjl.cloudfront.net/01.m3u8
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/1280px-N-tv_logo-september2017.svg.png" group-title="GERMAN NEWS",n-tv
+https://s6.hopslan.com/ntvv/tracks-v1a1/mono.m3u8
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="MANDARIN NEWS",TDM 澳門資訊頻道
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://i.imgur.com/20kWdRa.png" group-title="TURKISH NEWS",Haber Global
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-logo="https://i.imgur.com/k7qxZSp.png" group-title="TURKISH NEWS",Habertürk
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="TURKISH NEWS",NTV
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://i.imgur.com/5gGHC7g.png" group-title="TURKISH NEWS",TGRT Haber
+https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://i.imgur.com/Qq58W0E.png" group-title="TURKISH NEWS",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TVNet.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Tvnet_Logo.jpg" group-title="TURKISH NEWS",TV Net
+https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png" tvg-id="AstroAwani.my" group-title="MALAY NEWS",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/8cdAvQF.png" group-title="LATINO NEWS",ADN40
+http://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/49pK1bB.png" group-title="LATINO NEWS",Información Periodística
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dOTAsGd.png" group-title="LATINO NEWS",RTU
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="LATINO NEWS",teleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/1920px-TVP_Info_logo.svg.png" group-title="POLISH NEWS",TVP Info
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pdWajHP.png" group-title="THAI NEWS",News1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://i.imgur.com/QWazNSS.png" group-title="BRASILIAN NEWS",Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" group-title="PERSIAN NEWS",Iran International
+https://live.playstop.me/LS-63503-4/index.m3u8
+#EXTINF:-1 tvg-id="B1.ro" tvg-logo="https://i.imgur.com/h1qtVjc.png" group-title="ROMANIAN NEWS",B1
+http://stream.adunity.com/b1/b1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1920px-News_24_%28Albania%29.svg.png" group-title="ALBANIAN NEWS",News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/AlArabiya2020.png" group-title="ARABIC NEWS",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Aajtak.in" tvg-logo="https://i.imgur.com/o3rBa0e.png" group-title="HINDI NEWS",Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="ABPNewsIndia.in" tvg-logo="https://i.imgur.com/3MeMPyJ.png" group-title="HINDI NEWS",ABP News India
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
+#EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://i.imgur.com/ebqagsj.png" group-title="HINDI NEWS",Zee News
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://i.imgur.com/5M3233w.png" group-title="BUSINESS NEWS",Bloomberg HT
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png" group-title="AMERICAN NEWS",CNN USA
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNNPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/800px-CNN_Philippines_Logo.svg.png" group-title="PINOY NEWS",CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/chunklist_w1199238897.m3u8
+#EXTINF:0 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="WORLD NEWS",Aljazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraChannel.qa" tvg-logo="https://i.imgur.com/PszVneu.png" group-title="ARABIC NEWS",Aljazeera Channel
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2D9tAmC.png" group-title="NON-ENGLISH NEWS",Aljazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/okkmsZK.png" group-title="ARABIC NEWS",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/1024px-LA7_-_Logo_2011.svg.png" group-title="ITALY",La 7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS/Live_1280x720_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WltLUSg.png" group-title="MEXICO",Azteca 7 Mexico City
+http://190.61.102.67:31589/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JnRpLg8.png" group-title="MEXICO",Azteca Uno
+http://190.61.102.67:31589/play/a04p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gAcWmFc.png" group-title="MEXICO",Canal 5
+http://190.61.102.67:31589/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yfXBk1L.png" group-title="MEXICO",Imagen Television
+http://190.61.102.67:31589/play/a00h/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ub3kuWh.png" group-title="MEXICO",Las Estrellas México
+http://190.61.102.67:31589/play/a00g/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/800px-REN_TV_logo_2017.svg.png" group-title="RUSSIA",Рен ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
@@ -84,22 +315,22 @@ https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_kfaion
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDU6MjM6NTMgQU0maGFzaF92YWx1ZT1RWVhTM2IrZ2o0MmlkRVRNdEdxZERBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDAzNjg1ZTAtMDNkMy00MDM2LWIwYTctNmYyNzY0NzQ3YmY4/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDY6Mjg6MzAgQU0maGFzaF92YWx1ZT1jUVlha2lsK29SNHlrUU9zOFNKMndBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWJjNDliMWYtYjM1Yi00Yjc4LTg5MDctYjJlNTljZTNlYmVk/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDU6MjM6NTMgQU0maGFzaF92YWx1ZT1RWVhTM2IrZ2o0MmlkRVRNdEdxZERBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDAzNjg1ZTAtMDNkMy00MDM2LWIwYTctNmYyNzY0NzQ3YmY4/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDY6Mjg6MzAgQU0maGFzaF92YWx1ZT1jUVlha2lsK29SNHlrUU9zOFNKMndBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWJjNDliMWYtYjM1Yi00Yjc4LTg5MDctYjJlNTljZTNlYmVk/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDU6MjM6NTMgQU0maGFzaF92YWx1ZT1RWVhTM2IrZ2o0MmlkRVRNdEdxZERBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDAzNjg1ZTAtMDNkMy00MDM2LWIwYTctNmYyNzY0NzQ3YmY4/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDY6Mjg6MzAgQU0maGFzaF92YWx1ZT1jUVlha2lsK29SNHlrUU9zOFNKMndBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWJjNDliMWYtYjM1Yi00Yjc4LTg5MDctYjJlNTljZTNlYmVk/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDU6MjM6NTMgQU0maGFzaF92YWx1ZT1RWVhTM2IrZ2o0MmlkRVRNdEdxZERBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDAzNjg1ZTAtMDNkMy00MDM2LWIwYTctNmYyNzY0NzQ3YmY4/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDY6Mjg6MzAgQU0maGFzaF92YWx1ZT1jUVlha2lsK29SNHlrUU9zOFNKMndBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWJjNDliMWYtYjM1Yi00Yjc4LTg5MDctYjJlNTljZTNlYmVk/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI 5
 #KODIPROP:inputstream=inputstream.adaptive
@@ -168,21 +399,21 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDU6MjM6NTMgQU0maGFzaF92YWx1ZT04akUrOXF2eGRMZWRVK1J2clI0bHNRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTJhYWU2MTUtOTUwNS00ZDZhLWJhNzctOGU0MjViNTAzZmQ0/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDY6Mjg6MzAgQU0maGFzaF92YWx1ZT1qOHM5RFM0b3ZFNEhHSHg4ODhKM1RBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmVmZGJkZWEtNjRhYS00MTQyLTkxZTctZjBhNGRhOTZjNGUy/
 
 #EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDU6MjM6NTMgQU0maGFzaF92YWx1ZT04akUrOXF2eGRMZWRVK1J2clI0bHNRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTJhYWU2MTUtOTUwNS00ZDZhLWJhNzctOGU0MjViNTAzZmQ0/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDY6Mjg6MzAgQU0maGFzaF92YWx1ZT1qOHM5RFM0b3ZFNEhHSHg4ODhKM1RBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmVmZGJkZWEtNjRhYS00MTQyLTkxZTctZjBhNGRhOTZjNGUy/
 
 
 #EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDU6MjM6NTMgQU0maGFzaF92YWx1ZT04akUrOXF2eGRMZWRVK1J2clI0bHNRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTJhYWU2MTUtOTUwNS00ZDZhLWJhNzctOGU0MjViNTAzZmQ0/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDY6Mjg6MzAgQU0maGFzaF92YWx1ZT1qOHM5RFM0b3ZFNEhHSHg4ODhKM1RBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmVmZGJkZWEtNjRhYS00MTQyLTkxZTctZjBhNGRhOTZjNGUy/
 
 #EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" group-title="NEWS WORLD" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal 3
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDU6MjM6NTMgQU0maGFzaF92YWx1ZT04akUrOXF2eGRMZWRVK1J2clI0bHNRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTJhYWU2MTUtOTUwNS00ZDZhLWJhNzctOGU0MjViNTAzZmQ0/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDY6Mjg6MzAgQU0maGFzaF92YWx1ZT1qOHM5RFM0b3ZFNEhHSHg4ODhKM1RBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmVmZGJkZWEtNjRhYS00MTQyLTkxZTctZjBhNGRhOTZjNGUy/
 
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="CNN's",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
@@ -390,12 +621,12 @@ https://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/rtp_playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDU6MjM6NTQgQU0maGFzaF92YWx1ZT11SXRYcFZSY2RybEYvWjJyR0ZzSWRBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjdlODFmMjEtYWIzZi00MWU1LTkzNjktZjQ5MDFhMjFjNWM1/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDY6Mjg6MzEgQU0maGFzaF92YWx1ZT1iSnQrck5wZWpxdnZjeUFIYit6eDVnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTNiMGZlMTUtZGM3Zi00YTgzLWE3NjQtNzNjYWQ5YzY0MGYz/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDU6MjM6NTQgQU0maGFzaF92YWx1ZT11SXRYcFZSY2RybEYvWjJyR0ZzSWRBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjdlODFmMjEtYWIzZi00MWU1LTkzNjktZjQ5MDFhMjFjNWM1/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDY6Mjg6MzEgQU0maGFzaF92YWx1ZT1iSnQrck5wZWpxdnZjeUFIYit6eDVnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTNiMGZlMTUtZGM3Zi00YTgzLWE3NjQtNzNjYWQ5YzY0MGYz/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIFIC.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
 #KODIPROP:inputstream=inputstream.adaptive
@@ -419,13 +650,13 @@ https://bit.ly/3gejKxf?720p/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDU6MjM6NTQgQU0maGFzaF92YWx1ZT16REpNWjVBdURhYUw4WFh5MndjQU1nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTcxY2RiY2MtMWFhYy00YWFiLTkzMTgtZmM0MGI4N2U4Mzhh/
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDY6Mjg6MzEgQU0maGFzaF92YWx1ZT1FU1lWdnBWeUh6M2VCUFY0eXNoMUl3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDU1MGQwMGYtODAyMi00OWQ0LThlNjItNmQxOWVhY2UwYjc5/
 
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDU6MjM6NTQgQU0maGFzaF92YWx1ZT16REpNWjVBdURhYUw4WFh5MndjQU1nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTcxY2RiY2MtMWFhYy00YWFiLTkzMTgtZmM0MGI4N2U4Mzhh/
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDY6Mjg6MzEgQU0maGFzaF92YWx1ZT1FU1lWdnBWeUh6M2VCUFY0eXNoMUl3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDU1MGQwMGYtODAyMi00OWQ0LThlNjItNmQxOWVhY2UwYjc5/
 
 
 
