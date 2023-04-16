@@ -1,5 +1,12 @@
 #! /usr/bin/python3
 
+import requests
+import os
+import sys
+import subprocess
+from bs4 import BeautifulSoup
+import re
+
 banner = r'''
 ###########################################################################
 #                                                                         #
@@ -36,7 +43,9 @@ https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9Z6cf5QAjTDyhklY3sDH2YoSMiZt
 #EXTINF:-1 xui-id="333" tvg-id="ESFNCHD" tvg-name="Fox News" tvg-logo="https://normielista.cl:443/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhhOHwSbMMlbnwuAOu1KXpBkJpAPp-cnmoi2v3IoqrzA6A.png" group-title="CHILE",Fox News
 https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9UqZX_r3sEm2Oti6aB1NpsGldgY8qBJs1y9ueFjdkDcR/ts
 
+'''
 
+banner2 = r'''
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5fEIf7q.png" group-title="Radios Chilenas Con Video",-Radios Chilenas Con Video-
 https://i.imgur.com/7o6at8Q.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2qDoi3.png" group-title="Radios Chilenas Con Video",Chocolate FM | SD | Maipú
@@ -107,10 +116,6 @@ https://tls-cl.cdnz.cl/radiosoberania/live/chunklist_w1753930486.m3u8
 https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 '''
 
-import requests
-import os
-import sys
-
 windows = False
 if 'win' in sys.platform:
     windows = True
@@ -118,16 +123,14 @@ if 'win' in sys.platform:
 def grab(url):
     response = requests.get(url, timeout=15).text
     if '.m3u8' not in response:
-        #response = requests.get(url).text
+        if windows:
+            print('https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAir.m3u8')
+            return
+        os.system(f'wget {url} -O temp.txt')
+        response = ''.join(open('temp.txt').readlines())
         if '.m3u8' not in response:
-            if windows:
-                print('https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAir.m3u8')
-                return
-            os.system(f'wget {url} -O temp.txt')
-            response = ''.join(open('temp.txt').readlines())
-            if '.m3u8' not in response:
-                print('https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAir.m3u8')
-                return
+            print('https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAir.m3u8')
+            return
     end = response.find('.m3u8') + 5
     tuner = 100
     while True:
@@ -143,7 +146,7 @@ def grab(url):
 print('#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xmll"')
 print('#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml"')
 print(banner)
-#s = requests.Session()
+
 with open('../CHILE.txt', errors="ignore") as f:
     for line in f:
         line = line.strip()
@@ -158,22 +161,14 @@ with open('../CHILE.txt', errors="ignore") as f:
             print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
         else:
             grab(line)
-            
+print(banner2)
+
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
     os.system('rm watch*')
-    
 
-    
-    
-import requests
-import os
-import sys
-import subprocess
-from bs4 import BeautifulSoup
-import re    
-    
-    
+# Rest of the code
+
 def search_image_url(channel_name):
     query = f"{channel_name} logo filetype:png OR filetype:jpg"
     search_url = f"https://www.google.com/search?q={query}&tbm=isch"
@@ -214,7 +209,7 @@ def is_channel_working(url, headers=None):
         return False
 
 repo_urls = [
-    "https://github.com/punkstarbr/STR-YT/raw/main/REALITY'SLIVE.m3u"
+    "https://github.com/pendy99/iptv-epg/raw/18f59d7c25ff694dbf8c053ed4e069a1cb62d841/iptv_channels_argentina.m3u"
 ]
 
 working_channels = []
@@ -268,6 +263,13 @@ for channel in working_channels:
         channel_info = extinf_line_parts[0].strip()
         channel_name = extinf_line_parts[1].strip()
 
+        # Modificar group-title para "Argentina"
+        group_title_pattern = re.compile(r'group-title="[^"]*"')
+        if group_title_pattern.search(channel_info):
+            channel_info = group_title_pattern.sub('group-title="CHILE"', channel_info)
+        else:
+            channel_info += ' group-title="Argentina"'
+
         if "tvg-logo" not in channel_info or 'tvg-logo=""' in channel_info or 'tvg-logo="N/A"' in channel_info:
             image_url = search_image_url(channel_name)
             if image_url:
@@ -286,6 +288,10 @@ for channel in working_channels:
             print(f"{kodiprop_line}\n")
         print(f"{channel['stream_url']}\n")
 
+
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
-    os.system('rm watch*')    
+    os.system('rm watch*')
+    
+    
+ 
