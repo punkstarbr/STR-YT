@@ -210,25 +210,7 @@ jobs:
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
          #EXTINF:-1 tvg-id="$(yt-dlp --get-title https://www.youtube.com/@cnnturk/live)" group-title="NEWS WORLD" group-title="CNN's" tvg-logo="$(yt-dlp --get-thumbnail https://www.youtube.com/@cnnturk/live)", YOUTUBEAOVIVO - $(yt-dlp --get-title https://www.youtube.com/@cnnturk/live)
          $(streamlink --url --default-stream  --stream-url  https://www.youtube.com/@cnnturk/live best)
-         
-         #EXTM3U
-         #EXT-X-VERSION:3
-         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         #EXTINF:-1 tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
-         $(streamlink --url --default-stream  --stream-url https://tviplayer.iol.pt/direto/CNN best)
-         #EXTM3U
-         #EXT-X-VERSION:3
-         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         #EXTINF:-1 tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
-         $(yt-dlp -f best -g  https://tviplayer.iol.pt/direto/TVI)
-         #EXTM3U
-         #EXT-X-VERSION:3
-         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         #EXTINF:-1 tvg-id="TVIFIC.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
-         $(yt-dlp -f best -g https://tviplayer.iol.pt/direto/TVI_FICCAO)
-         #EXTM3U
-         #EXT-X-VERSION:3
-         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+
   
          #EXTM3U
          #EXT-X-VERSION:3
