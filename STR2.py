@@ -1,3 +1,6 @@
+!pip install yt_dlp
+!pip install selenium
+
 import requests
 from bs4 import BeautifulSoup
 import datetime
@@ -18,15 +21,15 @@ driver = webdriver.Chrome(options=chrome_options)
 url_tvi = "https://tviplayer.iol.pt/videos/ultimos/1/canal:"
 
 # Abre o arquivo de saída em modo de escrita
-with open("lista2str22.m3u", "w") as m3u8_file:
+with open("lista2str2.m3u8", "w") as m3u8_file:
     
     # Loop através das páginas para extrair os vídeos
-    for i in range(1, 2):
+    for i in range(1, 6):
         # URL da página atual
-        url_tvi = f"https://tviplayer.iol.pt/videos/ultimos/{i}/canal:"
+        url_tvi_atual = f"https://tviplayer.iol.pt/videos/ultimos/{i}/canal:"
         
         # Abrir a página atual
-        driver.get(url_tvi)
+        driver.get(url_tvi_atual)
         
         # Aguardar alguns segundos para carregar todo o conteúdo da página
         time.sleep(5)
@@ -36,7 +39,7 @@ with open("lista2str22.m3u", "w") as m3u8_file:
         
         # Analisar o HTML com o BeautifulSoup para extrair os títulos, links, legendas e imagens dos vídeos
         soup = BeautifulSoup(html, "html.parser")
-        video_titles = [item.text for item in soup.find_all("span", class_="item-title")]
+        video_titles = [item.text for item in soup.find_all("h3", class_="item-title")]
         video_links = [f"https://tviplayer.iol.pt{item['href']}" for item in soup.find_all("a", class_="item")]
         subtitles = [item.text for item in soup.find_all("span", class_="item-program-title")]
         images = [item['style'].split('url(')[1].split(')')[0] for item in soup.select("a.item")]
@@ -58,6 +61,7 @@ with open("lista2str22.m3u", "w") as m3u8_file:
 
     # Fechar o driver do Chrome após o término do loop
     driver.quit()
+
 
     
 import requests
