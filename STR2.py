@@ -1,6 +1,3 @@
-!pip install yt_dlp
-!pip install selenium
-
 import requests
 from bs4 import BeautifulSoup
 import datetime
