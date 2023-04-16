@@ -116,12 +116,7 @@ jobs:
         
          
          
-         #EXTM3U
-         #EXT-X-VERSION:3
-         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         #EXTINF:-1 tvg-id="$(yt-dlp --get-title https://www.youtube.com/c/GuilhermeMartinsTV/videos)" tvg-logo="$(yt-dlp --get-thumbnail https://www.youtube.com/c/GuilhermeMartinsTV/videos)",$(yt-dlp --get-title https://www.youtube.com/c/GuilhermeMartinsTV/videos)
-         $(yt-dlp --get-url https://www.youtube.com/c/GuilhermeMartinsTV/videos)
-        
+      
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
