@@ -3250,41 +3250,59 @@ https://video-weaver.prg03.hls.ttvnw.net/v1/playlist/Cq0E_a2WzQTV7erSZjcKJEWlmG2
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/previews-ttv/live_user_pularitv-1280x720.jpg",PULARITV
 https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CqgEmZL4l28Y35wRHBcjZOm6_Opwq09aQV29wK-T6s2O4LyyROq8c_qTnzuConXLlBL3MFzHtkctsc1Pqh3UQyblqGXCp8Z-wz7y6rIeT1mQnplCC3Q9IB5LB74buGoZlQOkP8N3npOPRiDtreMgve0dIzTfxmhx4QOgaUYKrz7Ik_RFTVVJjIwA3HBT-K-e_GPCYId8ljaMDbVB-h_5Ad7UFrsTZfTZPqineAA861vMI6GtpA2Wa9ysxSXbYljMhJJ9GyXXcMZ1r1ulijjaaOQhCVxD5yMJlJsb7DNzgdFLHwHm5ahCVaHFmoPgf6Ro1c2ysgFs1jTPbgC4fNKMHeKdbD0OjBCTZ5B3NkWA2Z7nwheBgkm8mcX-EKx76wemnzkeRCLM2QatZEl4sHEcGcGfuuMmAiziltZyagb04vXAM__hOPunBqQCLhkxBeyNQKCS92BfU1UrI7xNBzXggi1t4Hl_iQdkZ3u0p1uHt0wt8AhB3kjrJXrh3xr3zuyVRnxnLOHQUEk88LjQ30PSDprVhDILKJrUj6PiQAnRnNj8Q5rYQ4uVfUD5-luCkWTG957GmdKC6T_vOWIV6LVPa-O0LL7qG8bMofhOuS0Uisq7uarvdsgU3O6qgOmDbTaHWeU9ovTLi1yT2bglv_KaCHejrGyFVjYF7YhoYaGNE1igMAfQJDOpvtgKVh_xkV2KxpdQl0Xb-qRc_h_8cC2FRSbrYtllEzDaxH07Ggy9lo0vdvGFVzd3rN4gASoJdXMtd2VzdC0yMKsG.m3u8
 
+#EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/643bd1500cf2cf922502aabe/480",CNN Domingo - CNN Domingo 09H56
+https://streaming-vod2.iol.pt/vod/_definst_/d/1/1/c/smil:643bc9200cf2dce741b4d11c-L/chunklist_w792034570_b2000000.m3u8?nimblesessionid=353733758&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MzU6MzYgUE0maGFzaF92YWx1ZT1QbS9HUWpHZnQ4bkk0NGlwQXRadndBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGYzOTllYTQtYmY4MC00MjA2LTk1ZTQtMDFjNGJjNDlkZWFk
+
+#EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/643bc9780cf2cf922502aa10/480",Diário da Manhã - Diário da Manhã - 16 de abril de 2023
+https://streaming-vod2.iol.pt/vod/_definst_/a/b/8/4/smil:643b90ac0cf2c84d7fd1ab84-L/chunklist_w1792349654_b2000000.m3u8?nimblesessionid=353733802&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MzU6MzggUE0maGFzaF92YWx1ZT1SREc3ZGtOMDkzRWowbG11YWVFeGt3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MGQwNjE5NmMtZGNiYS00ZmEyLTliZjgtOTEwYmNmZGE1ZjZl
+
+#EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/643bd0ff0cf2c84d7fd1b0b1/480",CNN Domingo - CNN Domingo 05H58
+https://streaming-vod2.iol.pt/vod/_definst_/c/f/f/5/smil:643bbe0f0cf2dce741b4cff5-L/chunklist_w505925066_b2000000.m3u8?nimblesessionid=353733823&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MzU6NDEgUE0maGFzaF92YWx1ZT1lZ0xGUWJaQTVGN0FoS2F1UGQ5RnV3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTgzOTU4MDktZGQ0Yi00YmI4LThjZDMtMDJkZDk0ODE2OGU0
+
+#EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/643bc9780cf2665294df3b31/480",Notícias CNN - Notícias CNN 05H30
+https://streaming-vod2.iol.pt/vod/_definst_/c/d/9/5/smil:643b9be40cf2dce741b4cd95-L/chunklist_w1202508364_b2000000.m3u8?nimblesessionid=353733859&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MzU6NDMgUE0maGFzaF92YWx1ZT1NMXU4MU94anBHZzd4UDlnc0R5UmRBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGM0ZTAzNGMtNmM4NS00MDczLTljYzQtMDBlMDRkZTQzYWE1
+
+#EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/643bc9790cf2dce741b4d126/480",Notícias CNN - Notícias CNN 02H58
+https://streaming-vod2.iol.pt/vod/_definst_/a/5/d/1/smil:643b6f170cf2cf922502a5d1-L/chunklist_w1268299344_b2000000.m3u8?nimblesessionid=353733892&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MzU6NDYgUE0maGFzaF92YWx1ZT1selNMNkN3L3VxWDlwUXY2eHUvVXhnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTQxZmFmOTAtNDFkZC00ODRhLThmYWQtMWZkODA2MTRjMGNl
+
 #EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/643bc9790cf2c84d7fd1afe1/480",Notícias CNN - Notícias CNN 01H58
-https://streaming-vod3.iol.pt/vod/_definst_/3/6/0/8/smil:643b565e0cf2665294df3608-L/chunklist_w1013625993_b2000000.m3u8?nimblesessionid=653244326&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MzU6MjEgUE0maGFzaF92YWx1ZT10V3VLWjVodkpOSGF6YnB5UnJHSkFnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTUwZjA2ZDQtZGE0Zi00ODY4LWFlMDItYjRmYmE5ZjZjMGJk
+https://streaming-vod2.iol.pt/vod/_definst_/3/6/0/8/smil:643b565e0cf2665294df3608-L/chunklist_w1264297299_b2000000.m3u8?nimblesessionid=353733934&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MzU6NDkgUE0maGFzaF92YWx1ZT1MdmtOT2lkTHZhYW02cGQvZ2VTdGJRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Njg2NzIwMWYtYjNiOS00OTI4LWI3MTktMmU2OTcxZjM1ZmIz
 
 #EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/643bca830cf2dce741b4d13e/480",Queridas Feras - Queridas Feras - 15 de abril de 2023
-https://streaming-vod3.iol.pt/vod/_definst_/a/a/e/5/smil:643b68d60cf2c84d7fd1aae5-L/chunklist_w970334728_b2000000.m3u8?nimblesessionid=653244357&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MzU6MjQgUE0maGFzaF92YWx1ZT1hUzZERFRveEVaOTZCdmVLUUFSYWV3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDZmOTQ1YWYtZjEwNC00ZmFhLTk4MzYtZDY0OWFiNWJjYmRj
+https://streaming-vod2.iol.pt/vod/_definst_/a/a/e/5/smil:643b68d60cf2c84d7fd1aae5-L/chunklist_w638528461_b2000000.m3u8?nimblesessionid=353733962&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MzU6NTEgUE0maGFzaF92YWx1ZT1URnU3OE1HdlRSSzVKMndSSG8ybU93PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9M2NmMTYyZWUtYjA3Ny00OWUyLWE1ZTctYWM0ZjZhOTNjYzM3
 
 #EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/643bd0900cf2c84d7fd1b0a2/480",CNN Meia Noite - CNN Meia Noite - 15 de abril de 2023
-https://streaming-vod3.iol.pt/vod/_definst_/d/1/b/b/smil:643bceca0cf2dce741b4d1bb-L/chunklist_w775122524_b2500000.m3u8?nimblesessionid=653244386&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MzU6MjcgUE0maGFzaF92YWx1ZT1RelJWcTJ4ODIzMXhuaEhObVFDNTRnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjNjODAwMzEtZjhiOS00NDBkLTlmNTUtYTBiNWQwNzQ5Mzlm
+https://streaming-vod2.iol.pt/vod/_definst_/d/1/b/b/smil:643bceca0cf2dce741b4d1bb-L/chunklist_w1707955184_b2500000.m3u8?nimblesessionid=353733987&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MzU6NTMgUE0maGFzaF92YWx1ZT00bmNRREVSTktmUmlzS0lQUFJjMFhnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YmE5ODdlY2UtZjYwYS00M2ZiLThhY2MtOWJmMmQ2ODQ3ZWE3
+
+#EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/643bd2290cf2cf922502aaca/480",O Triângulo - O Triângulo - Semana - 15 de abril de 2023
+https://streaming-vod2.iol.pt/vod/_definst_/d/1/a/4/smil:643bcdf30cf2dce741b4d1a4-L/chunklist_w42994926_b2500000.m3u8?nimblesessionid=353734017&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MzU6NTUgUE0maGFzaF92YWx1ZT1aY04zaXRXbUdLMDdra2UrQ3pzRFBBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTc4NjdlZDEtODcxMi00MDYxLTgwMjktYjJiMjlkMWZjOTNm
 
 #EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/643bc8e40cf2dce741b4d114/480",Contrapoder - Contra Poder - 15 de abril de 2023
-https://streaming-vod3.iol.pt/vod/_definst_/c/b/1/0/smil:643b3d2c0cf2dce741b4cb10-L/chunklist_w1481599718_b2000000.m3u8?nimblesessionid=653244426&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MzU6MzMgUE0maGFzaF92YWx1ZT04WU03WVhBZ2RvZElmY240aXdTcEhRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDM3ZTQ2ZjctMzMyZC00ZWM4LWIwMTAtMjRmNmFkNWVjNTM0
+https://streaming-vod2.iol.pt/vod/_definst_/c/b/1/0/smil:643b3d2c0cf2dce741b4cb10-L/chunklist_w1257668656_b2000000.m3u8?nimblesessionid=353734047&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MzU6NTggUE0maGFzaF92YWx1ZT02NmlFRHRKZVp2VHk1OWg5bGI4TWpRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODUzODhmNTctZTQwZi00MzMzLWEzODMtYjIwMGZhNGVkYjYw
 
 #EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/643b384f0cf2cf922502a450/480",A Jóia de África - A Jóia de África - 4.º episódio
-https://streaming-vod3.iol.pt/vod/_definst_/a/4/1/2/smil:643b34960cf2cf922502a412-L/chunklist_w2104787774_b2500000.m3u8?nimblesessionid=653244452&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MzU6MzYgUE0maGFzaF92YWx1ZT05ZEdWaVBGNXIrM01hTTYxSkIvZXdnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjBkMzY0NTktZDA2Yi00MTBiLWI0ODMtYzM3MjhmZGRmNzZj
+https://streaming-vod2.iol.pt/vod/_definst_/a/4/1/2/smil:643b34960cf2cf922502a412-L/chunklist_w41692996_b2500000.m3u8?nimblesessionid=353734093&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MzY6MSBQTSZoYXNoX3ZhbHVlPTZWUzNDOThYSllxOXR1NXFmcDN6WHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hMGZjNzVmMS00YTcyLTQ0MDktODRiYy1mNjlkZTNmZTVlYzU%3D
 
 #EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/6419c9d10cf2c84d7fcd9ec1/480",Queridos Papás - Manuela prepara-se para entregar Alex para adoção
-https://streaming-vod3.iol.pt/vod/_definst_/3/b/a/b/smil:643bce2c0cf2665294df3bab-L/chunklist_w676102612_b2500000.m3u8?nimblesessionid=653244480&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MzU6MzkgUE0maGFzaF92YWx1ZT1Qc3FwTWJtbHoybmJwT3pHMW1SNy9BPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2RhYjU0MDAtODIzMy00NmVmLTg4MWMtYTUyODlhMzM2NjVi
+https://streaming-vod2.iol.pt/vod/_definst_/3/b/a/b/smil:643bce2c0cf2665294df3bab-L/chunklist_w1927234539_b2500000.m3u8?nimblesessionid=353734118&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MzY6MyBQTSZoYXNoX3ZhbHVlPUxCMXZ4Y0lkUHpHWGJsWSsvK29lTmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wZTU4YjJiZC03NmJjLTQ5NWEtYjQ3YS1kMzRiNmQ1NzljNjg%3D
 
 #EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/643b1e3e0cf2cf922502a1dd/480",Jornal Nacional - Jornal Nacional - 15 de abril de 2023
-https://streaming-vod3.iol.pt/vod/_definst_/a/0/3/0/smil:643b12ab0cf2cf922502a030-L/chunklist_w1495089524_b2000000.m3u8?nimblesessionid=653244503&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MzU6NDIgUE0maGFzaF92YWx1ZT1TdWhsVklhMTIzZGZ6ZnBHbUJLb2hnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDJiZDU4OGQtYWFkNy00MTE5LTljMmUtOGRjNTY0ODhkYzM0
+https://streaming-vod2.iol.pt/vod/_definst_/a/0/3/0/smil:643b12ab0cf2cf922502a030-L/chunklist_w1948663793_b2000000.m3u8?nimblesessionid=353734141&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MzY6NSBQTSZoYXNoX3ZhbHVlPWJHMFNwVU1FZWQxK2lmSGtRR0FkK3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01MzE0ZTcwNy1kNzFjLTRmMTUtYWI2My05ZTAyY2JlNDg4Mzk%3D
 
 #EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/643b15460cf2c84d7fd1a4e7/480",Feitiço de Amor - Feitiço de Amor - 196º episódio
-https://streaming-vod2.iol.pt/vod/_definst_/a/0/c/a/smil:643b16a70cf2cf922502a0ca-L/chunklist_w1795409562_b2500000.m3u8?nimblesessionid=353702912&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MzU6NDQgUE0maGFzaF92YWx1ZT0yRlFWZmFWc3BsYlZubEJVdFV4Zm5nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjA2ZjBkNzgtNDVmMC00YmQ0LTkzMmEtODBlOGQ3MThlYTk0
+https://streaming-vod2.iol.pt/vod/_definst_/a/0/c/a/smil:643b16a70cf2cf922502a0ca-L/chunklist_w1737152241_b2500000.m3u8?nimblesessionid=353734173&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MzY6OCBQTSZoYXNoX3ZhbHVlPVF3dXJrWHpvdm1WbTA5YnJPWmM0cFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zZjhiNmJjYi0wYmViLTQ3YTAtYmUwMi1iYTVhMWRlYzEyOTE%3D
 
 #EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/643af7440cf2dce741b4c11b/480",CNN em jogo - CNN em jogo - Benfica defronta Chaves
-https://streaming-vod2.iol.pt/vod/_definst_/2/8/3/a/smil:643ae1940cf2665294df283a-L/chunklist_w1892352461_b2000000.m3u8?nimblesessionid=353702931&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MzU6NDggUE0maGFzaF92YWx1ZT0yKzdCZ3QzYUk3d0RsSVRjL21FQ2JnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NmRhNzlkNDAtNmIzMi00ZWQ3LTlhZDctZGU3NzQzNzZhNjA1
+https://streaming-vod3.iol.pt/vod/_definst_/2/8/3/a/smil:643ae1940cf2665294df283a-L/chunklist_w1872182849_b2000000.m3u8?nimblesessionid=653273597&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MzY6MTAgUE0maGFzaF92YWx1ZT1rNVpZZlNGcWhWNWNXN3IyMTVieWx3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTNkNTI2N2YtYWViMC00NjhlLWJhOTAtMmFkZWViZjE2YzNl
 
 #EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/643ae7560cf2c84d7fd19da6/480",CNN Sábado - CNN Sábado 15H56
-https://streaming-vod2.iol.pt/vod/_definst_/9/a/e/4/smil:643ad1950cf2c84d7fd19ae4-L/chunklist_w2132872346_b2000000.m3u8?nimblesessionid=353702951&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MzU6NTEgUE0maGFzaF92YWx1ZT1EYlladXhERm9GOFkrSENFQm1jQ0VRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9N2Q2NmRkOGItNjhlZi00MDZkLTllMmYtOTBhODU5ODlkMmEw
+https://streaming-vod3.iol.pt/vod/_definst_/9/a/e/4/smil:643ad1950cf2c84d7fd19ae4-L/chunklist_w785906378_b2000000.m3u8?nimblesessionid=653273621&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MzY6MTIgUE0maGFzaF92YWx1ZT16eW9Wd3FjQmR2RGNwRVcwSUVWTytRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MGNiYzE4OWEtZmNiOC00YWI2LWIzMGMtZjg3N2Q3NjRhNWQy
 
 #EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/643b08280cf2dce741b4c3c4/480",Em Família - Em Família - Ângelo Dala e Domingos Terra, ex-concorrentes d’O Triângulo, respondem às perguntas do público
-https://streaming-vod2.iol.pt/vod/_definst_/9/f/a/8/smil:643af5fa0cf2c84d7fd19fa8-L/chunklist_w1061693281_b2000000.m3u8?nimblesessionid=353702972&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MzU6NTQgUE0maGFzaF92YWx1ZT1xME03YnRrOElQKzEvNzJ6MzdCMFp3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZTI1YzlhOWEtMzY2YS00ZTllLWIxMDYtYzJiNjk2NjI5MWE5
+https://streaming-vod2.iol.pt/vod/_definst_/9/f/a/8/smil:643af5fa0cf2c84d7fd19fa8-L/chunklist_w1100574858_b2000000.m3u8?nimblesessionid=353734247&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MzY6MTUgUE0maGFzaF92YWx1ZT1TR2FKOGFidSsyQ2Z4VjU4QWFnbUZBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Nzg1MjBmOWYtZmIwMC00YTllLTkwMWMtNmRmZGZiMTEwZmY2
 
 #EXTINF:-1 group-title="TVI PLAYER" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/6433fa480cf2cf922501b979/480",Conta-me - Conta-me - Pedro Benevides
-https://streaming-vod2.iol.pt/vod/_definst_/2/5/a/2/smil:643acad10cf2665294df25a2-L/chunklist_w1653573920_b2000000.m3u8?nimblesessionid=353703004&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MzU6NTcgUE0maGFzaF92YWx1ZT16MHJpSWkrSHJmazlaelFGN3Z3MTBRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGU0NWE5OWUtZDU4Zi00MjUxLWFiNjQtZmYxMDU4N2Q3ZThm
+https://streaming-vod2.iol.pt/vod/_definst_/2/5/a/2/smil:643acad10cf2665294df25a2-L/chunklist_w1495862643_b2000000.m3u8?nimblesessionid=353734279&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MzY6MTkgUE0maGFzaF92YWx1ZT1rMzVTUDM1Q3JnY3dvYzlXTmVVbW1nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGMwMTRmZjctOWFmZS00YTY2LWFiY2QtNzYwNmM4NjRlMTk5
 
 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mudstein/XML/main/TIZENsiptv.xml"
@@ -4364,22 +4382,22 @@ https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_kfaion
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MjE6NDkgUE0maGFzaF92YWx1ZT1tNG4vSlBGOVBpaTRjZGtINW9MbklnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTJjMjRkNmYtYzhjNy00Njg5LWE5NjUtMzkyNWYxODZjYWJi/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MjE6NDAgUE0maGFzaF92YWx1ZT1yMXpvYTVEUTN2bVF5S2pieW9SZ1lBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmQxYjg3N2UtMTk3Ny00NjNhLWExNzEtM2U0NWU4ZWQ1N2M5/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MjE6NDkgUE0maGFzaF92YWx1ZT1tNG4vSlBGOVBpaTRjZGtINW9MbklnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTJjMjRkNmYtYzhjNy00Njg5LWE5NjUtMzkyNWYxODZjYWJi/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MjE6NDAgUE0maGFzaF92YWx1ZT1yMXpvYTVEUTN2bVF5S2pieW9SZ1lBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmQxYjg3N2UtMTk3Ny00NjNhLWExNzEtM2U0NWU4ZWQ1N2M5/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MjE6NDkgUE0maGFzaF92YWx1ZT1tNG4vSlBGOVBpaTRjZGtINW9MbklnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTJjMjRkNmYtYzhjNy00Njg5LWE5NjUtMzkyNWYxODZjYWJi/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MjE6NDAgUE0maGFzaF92YWx1ZT1yMXpvYTVEUTN2bVF5S2pieW9SZ1lBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmQxYjg3N2UtMTk3Ny00NjNhLWExNzEtM2U0NWU4ZWQ1N2M5/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MjE6NDkgUE0maGFzaF92YWx1ZT1tNG4vSlBGOVBpaTRjZGtINW9MbklnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTJjMjRkNmYtYzhjNy00Njg5LWE5NjUtMzkyNWYxODZjYWJi/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MjE6NDAgUE0maGFzaF92YWx1ZT1yMXpvYTVEUTN2bVF5S2pieW9SZ1lBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmQxYjg3N2UtMTk3Ny00NjNhLWExNzEtM2U0NWU4ZWQ1N2M5/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI 5
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4448,21 +4466,21 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MjE6NDkgUE0maGFzaF92YWx1ZT1zVkx0Uk1nZ3dZb1YrdEs2WG9DQ1l3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZmRhZjYxYzMtNjgxZS00OWExLWE5NzMtZWIxOTAwYzJkNjVk/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MjE6NDAgUE0maGFzaF92YWx1ZT14MkYxOXc4eEZTeXFudi9LZTZ4TnpnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzEwY2YwZjItMGNhNy00OTY4LWI3YTktODEzYmQ3ZmQ3YTc5/
 
 #EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MjE6NDkgUE0maGFzaF92YWx1ZT1zVkx0Uk1nZ3dZb1YrdEs2WG9DQ1l3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZmRhZjYxYzMtNjgxZS00OWExLWE5NzMtZWIxOTAwYzJkNjVk/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MjE6NDAgUE0maGFzaF92YWx1ZT14MkYxOXc4eEZTeXFudi9LZTZ4TnpnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzEwY2YwZjItMGNhNy00OTY4LWI3YTktODEzYmQ3ZmQ3YTc5/
 
 
 #EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MjE6NDkgUE0maGFzaF92YWx1ZT1zVkx0Uk1nZ3dZb1YrdEs2WG9DQ1l3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZmRhZjYxYzMtNjgxZS00OWExLWE5NzMtZWIxOTAwYzJkNjVk/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MjE6NDAgUE0maGFzaF92YWx1ZT14MkYxOXc4eEZTeXFudi9LZTZ4TnpnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzEwY2YwZjItMGNhNy00OTY4LWI3YTktODEzYmQ3ZmQ3YTc5/
 
 #EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" group-title="NEWS WORLD" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal 3
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MjE6NDkgUE0maGFzaF92YWx1ZT1zVkx0Uk1nZ3dZb1YrdEs2WG9DQ1l3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZmRhZjYxYzMtNjgxZS00OWExLWE5NzMtZWIxOTAwYzJkNjVk/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MjE6NDAgUE0maGFzaF92YWx1ZT14MkYxOXc4eEZTeXFudi9LZTZ4TnpnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzEwY2YwZjItMGNhNy00OTY4LWI3YTktODEzYmQ3ZmQ3YTc5/
 
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="CNN's",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4670,12 +4688,12 @@ https://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/rtp_playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MjE6NTAgUE0maGFzaF92YWx1ZT11Y1lxbkJVQUQrZnBreURVNWNvdlh3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzU1Y2FmMmYtZGJiOC00NjBjLWI1YTUtYWU3MGRlMjFhZjA0/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MjE6NDEgUE0maGFzaF92YWx1ZT1mN1FtNWZ5QnJaWWVzZE9nZDRhWDVnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NmUwNzYxNjktNDllNC00ODdmLWIyMmQtNmY5OWJiM2QxZjQ5/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MjE6NTAgUE0maGFzaF92YWx1ZT11Y1lxbkJVQUQrZnBreURVNWNvdlh3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzU1Y2FmMmYtZGJiOC00NjBjLWI1YTUtYWU3MGRlMjFhZjA0/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MjE6NDEgUE0maGFzaF92YWx1ZT1mN1FtNWZ5QnJaWWVzZE9nZDRhWDVnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NmUwNzYxNjktNDllNC00ODdmLWIyMmQtNmY5OWJiM2QxZjQ5/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIFIC.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4699,13 +4717,13 @@ https://bit.ly/3gejKxf?720p/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MjE6NTAgUE0maGFzaF92YWx1ZT00alZTbEVDYWhaL3UxbDErTXV6TVBRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2I3MzA5YjQtZmI4ZC00NmY3LTgzOTgtYTNkZjUwZmY0MmEx/
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MjE6NDIgUE0maGFzaF92YWx1ZT1IUXQycmJjeEx6K0Z1amIwb081T3hnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjZjMDQyZmQtNmVmMS00YzM4LWIyMDktMzFkZjZhOGQxMjI3/
 
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDI6MjE6NTAgUE0maGFzaF92YWx1ZT00alZTbEVDYWhaL3UxbDErTXV6TVBRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2I3MzA5YjQtZmI4ZC00NmY3LTgzOTgtYTNkZjUwZmY0MmEx/
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIzIDM6MjE6NDIgUE0maGFzaF92YWx1ZT1IUXQycmJjeEx6K0Z1amIwb081T3hnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjZjMDQyZmQtNmVmMS00YzM4LWIyMDktMzFkZjZhOGQxMjI3/
 
 
 
