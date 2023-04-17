@@ -294,7 +294,7 @@ def is_channel_working(url, headers=None):
         return False
 
 repo_urls = [
-    "https://github.com/ToniattoCristianE/Lista-IPTV/raw/38ec100f8778f3bb56167b30ca038088576318d9/Canales.m3u"
+    "https://github.com/iptv-org/iptv/raw/2f9da2a999fd22ca408eb0920cfbcea3542c7719/streams/ar.m3u"
 ]
 
 working_channels = []
