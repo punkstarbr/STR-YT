@@ -26,6 +26,7 @@ http://232802178476387148.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/387148
 http://232802178476321289.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321289.ts
 
 
+
 #EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="Movistar TDT", ANTENA 3 HD
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69299.ts
 
@@ -37,6 +38,9 @@ http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69301.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", LA SEXTA HD
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69302.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", NEOX
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69304.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="LA SIETE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", LA SIETE HD
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
