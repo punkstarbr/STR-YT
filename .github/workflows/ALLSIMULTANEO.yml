@@ -1,6 +1,7 @@
 name: Ativar códigos Python
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 */2 * * *"
 
