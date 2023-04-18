@@ -1136,14 +1136,16 @@ https://epg.pw/stream/87afe917462daa49b5471b176ab9c34a92ec0cd9e0168faa7f1f41cd4d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",NBC
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OzHkxwZ.png" group-title="USA",CBS
+http://castlempire.site:8080/UserTest4Octubre_00h/uek4neVNWyxE/170487
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="USA",E! East
 https://webudi.openhd.lol/lb/premium315/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q6AoC5h.png" group-title="USA",Fox East
-https://v-ny.mybtv.net/live/550/1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q6AoC5h.png" group-title="USA",FOX
+http://castlempire.site:8080/UserTest4Octubre_00h/uek4neVNWyxE/170545
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OzHkxwZ.png" group-title="USA",NBC East
-https://v-ny.mybtv.net/live/548/1280x720.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1920px-PBS_logo.svg.png" group-title="USA",PBS East
 https://v-ny.mybtv.net/live/575/1280x720.m3u8
