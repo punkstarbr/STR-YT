@@ -1130,11 +1130,11 @@ https://raw.githubusercontent.com/punkstarbr2/STR2/main/TVIREALITY.M3U8
 
 
 
-#EXTINF:0 type="stream" channelId="1444" group-title="USA", Abc - Wabc
-https://v-ny.mybtv.net/live/554.m3u8
+#EXTINF:0 type="stream" channelId="1444" group-title="USA", Abc
+https://epg.pw/stream/87afe917462daa49b5471b176ab9c34a92ec0cd9e0168faa7f1f41cd4de6dd6b.ctv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",CBS East
-https://v-ny.mybtv.net/live/545/1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",NBC
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="USA",E! East
 https://webudi.openhd.lol/lb/premium315/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
