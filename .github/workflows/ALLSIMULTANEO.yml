@@ -24,7 +24,7 @@ jobs:
 
       - name: Run YAML scripts
         run: |
-          for file in workflows/*.yml
+          for file in workflows/github/*.yml
           do
             python "$file"
           done
