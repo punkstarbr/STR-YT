@@ -1,4 +1,4 @@
-name: Executar workflows YAML
+name: Executar
 
 on:
   workflow_dispatch:
