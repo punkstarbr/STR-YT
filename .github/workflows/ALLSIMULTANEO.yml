@@ -1,4 +1,4 @@
-name: Ativar códigos YAML
+name: Executar workflows YAML
 
 on:
   workflow_dispatch:
@@ -9,21 +9,22 @@ jobs:
   run-yaml:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x' # substitua x pelo número da versão do Python que você usa em seus códigos
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-    - name: Run YAML scripts
-      run: |
-        for file in .github/workflows/*.yml
-        do
-          python "$file"
-        done
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run YAML scripts
+        run: |
+          for file in workflows/*.yml
+          do
+            python "$file"
+          done
