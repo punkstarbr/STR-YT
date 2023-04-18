@@ -12,10 +12,9 @@ http://232802178476321106.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321106
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117161
 #EXTINF:0 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg" group-title="ESPAÑA",ES: CUATRO HD
 http://232802178476321197.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321197.ts
-#EXTINF:-1 tvg-name="TELECINCO DIRECTO" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/31/20150531054039189573_62.png" group-title="ESPAÑA", [BD]telecinco[geo-blocked]
+#EXTINF:-1 tvg-name="TELECINCO" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/31/20150531054039189573_62.png" group-title="ESPAÑA", [BD]telecinco[geo-blocked]
 https://epg.pw/stream/f746deaecea3dc05afef2d7d7628d3c05542e5cbc214746a7dd86412d4504e89.ctv
-#EXTINF:-1 tvg-name="TELECINCO DIRECTO" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/31/20150531054039189573_62.png" group-title="ESPAÑA", [SD]telecinco@@8
-https://epg.pw/stream/d28cdad8cfe89e6cf1cf14496289f55265489ffa314884af9d5f3a71acdde59d.ctv
+
 #EXTINF:0 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg" group-title="ESPAÑA",ES: TELECINCO HD
 http://232802178476321430.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321430.ts
 #EXTINF:0 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg" group-title="ESPAÑA",ES: TELEDEPORTE HD
