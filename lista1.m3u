@@ -7,7 +7,7 @@ https://senato-live.morescreens.com/SENATO_1_001/1080p/chunklist.m3u8
 https://video-ar.radioradicale.it/diretta/camera2/chunklist_w454478514.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Antena 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91176_dark_360w_270h.png" group-title="ESPAÑA",Antena 3
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117159
+http://232802178476321106.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321106.ts
 #EXTINF:0 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg" group-title="ESPAÑA",ES: CUATRO HD
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/117161
 #EXTINF:0 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg" group-title="ESPAÑA",ES: CUATRO HD
@@ -25,7 +25,7 @@ http://232802178476387148.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/387148
 #EXTINF:0 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg" group-title="ESPAÑA",ES: LA SEXTA HD
 http://232802178476321289.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321289.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="ESPAÑA", ANTENA 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="ESPAÑA", ANTENA 3 HD
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69299.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CUATRO HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CUATROHD.png" group-title="ESPAÑA", CUATRO HD
