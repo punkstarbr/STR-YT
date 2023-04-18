@@ -57,7 +57,7 @@ jobs:
           
           
       - name: execute py 
-        run: python STR3.py
+        run: python STR4.py
         
         
       - name: Git Add
