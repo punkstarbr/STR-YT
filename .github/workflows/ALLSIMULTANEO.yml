@@ -24,7 +24,7 @@ jobs:
 
     - name: Run Python scripts
       run: |
-        for file in *.py
+        for file in *./actions/py
         do
           python "$file"
         done
