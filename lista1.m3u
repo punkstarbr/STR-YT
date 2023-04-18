@@ -393,19 +393,16 @@ https://epg.pw/stream/8ecbe6e96739ba0f7dcb617cde6f472c0c277a0afe95b62064a3734347
 https://epg.pw/stream/9055b139e22d2a37ba0ade15ee762f717be641509c7c42dfec93dbdb00bd8b58.m3u8
 #EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC Phoenix AZ[geo-blocked]
 https://epg.pw/stream/2eb966f6ba699fb5d0236906c077176d7ee1e617f2269d087434b5ae5c44c646.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg",[HD]abc 13 houston
-https://epg.pw/stream/cc1696302fd6b0f518d01c3728a0e4ecb0bcfee0d34d5a23b5570722c1292be1.ctv
+
 
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]US | Denver | ABC 7 KMGH[geo-blocked]
 https://epg.pw/stream/0b7020f448599e27fe9042d1f3b8b67e47af2bb1fb0b0e3693f36f6cc4eab4c6.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg",[HD]abc 7 new york
-https://epg.pw/stream/c7aebfe4fa56857ba66487673a5f5d36097fef3a6f6402cf13f1cc40d313f9a1.ctv
+
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[HD]ABC 9 Manchester NH (WMUR-TV) (720p)[geo-blocked]
 https://epg.pw/stream/d7b77010df07ed7c892467e7c2732bc495854a307d3bb7e0eb46a6ed5fc69e2f.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC Las Vegas NV[geo-blocked]
 https://epg.pw/stream/d30db27ef26df979ab23c736ae167482917ab74e9cb37948b42efc78a0916c9b.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="I7.1.20453.zap2it.com" tvg-name="ABC New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg",[HD]abc 7 chicago
-https://epg.pw/stream/22aa86f9b342371c90572fb21703d9a0244319870c5d4f6ced64d0028ecad3e8.ctv
+
 
 #EXTINF:-1 tvg-name="ABC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="News",[SD]ABC News US HD[geo-blocked]
 https://epg.pw/stream/c00eb7b19f898b050c7fdd75c65a23a445490f0457c8d76cbb95b8a70aa8054b.m3u8
@@ -433,13 +430,10 @@ https://epg.pw/stream/e8860faa0bbb90ecb4ec7ba3c0cebd9b4b7b320ed63dcf9b47105c62e1
 https://epg.pw/stream/c430e52d4a5f355e0cc9d5507eb9c54d3b6a6605d279fbe6380cfaf06efd6539.ctv
 #EXTINF:-1 tvg-id="I2.1.16689.zap2it.com" tvg-name="CBS New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[SD]CBS 3 Omaha(KMTV)[geo-blocked]
 https://epg.pw/stream/0e9330ca9318369d1e0c81edf78daed505a8e6ce05a956d64d577449b1cabe85.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="I2.1.16689.zap2it.com" tvg-name="CBS New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg",[BD]cbs 11 houston
-https://epg.pw/stream/71b23572bc5cb57983705bed16ebddc20bb9f216366dcc245365fc7672494479.ctv
-#EXTINF:-1 group-title="USA" tvg-id="I4.1.21218.zap2it.com tvg-name="CBS New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg",[BD]cbs 4 miami
-https://epg.pw/stream/81f6c26e1d231a13cbc4f11847e5ed09668d03f2a2b1dead9cd514405b3fcc8e.ctv
 
-#EXTINF:-1 group-title="USA" tvg-id="I2.1.16689.zap2it.com" tvg-name="CBS New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg",[BD]cbs indefinido
-https://epg.pw/stream/66732f8430e1c1c4129b9332e88bc09130f91b373989a9744252f21dddcf053f.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-name="CBS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[HD]CBS新闻[geo-blocked]
@@ -461,10 +455,7 @@ https://epg.pw/stream/7ab01c891923d3c0c6d056ab2f721eb761b631a64fcd609c4248be5da2
 https://epg.pw/stream/1fe3ac4cf69ac712f4ff62937d27d5000ae0b1ec93fd4dbdc2c0c49f7fb84bfa.m3u8
 #EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[SD]NBC 26 (WGBA)[geo-blocked]
 https://epg.pw/stream/b021cc761ae9e10289062fdd2c34ce57142e41ccf4b89360de648383030a38af.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="I4.1.20459.zap2it.com" tvg-name="NBC New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png",[HD]nbc 2 houston
-https://epg.pw/stream/9177f542efbf224e921800937df3dc42224f8e3538e1346f1472f441da266a5a.ctv
-#EXTINF:-1 group-title="USA" tvg-id="I4.1.20459.zap2it.com" tvg-name="NBC New York" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png",[HD]nbc 5 chicago
-https://epg.pw/stream/755ed965cb5d513497afdb7dcb07583ff38e93cdc4c5b336ab715a3def83e189.ctv
+
 #EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[BD]NBC_News[geo-blocked]
 https://epg.pw/stream/feee661fa63d0518dabd2b89526c042e2744183ce5334d2bc770152e495ab97a.m3u8
 #EXTINF:-1 tvg-name="NBC" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121225455145966_13.png" group-title="News",[SD]NBC WTMJ4[geo-blocked]
