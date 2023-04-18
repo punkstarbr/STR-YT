@@ -1,4 +1,4 @@
-name: Ativar códigos Python
+name: Ativar códigos YAML
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: "0 */2 * * *"
 
 jobs:
-  run-python:
+  run-yaml:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
@@ -21,10 +21,9 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-
-    - name: Run Python scripts
+    - name: Run YAML scripts
       run: |
-        for file in .github/workflows/*.py
+        for file in .github/workflows/*.yml
         do
-          python "$file"
+          echo "$file"
         done
