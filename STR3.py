@@ -1,17 +1,17 @@
 import requests
 from bs4 import BeautifulSoup
 import datetime
-import streamlink
+import streamlink_cli
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
 }
 
-streamlink.set_option("http-ssl-verify", False)
-streamlink.set_option("http-headers", headers)
-streamlink.set_option("http-user-agent", headers["User-Agent"])
-streamlink.set_loglevel("error")
-streamlink.set_logoutput(None)
+streamlink_cli.set_option("http-ssl-verify", False)
+streamlink_cli.set_option("http-headers", headers)
+streamlink_cli.set_option("http-user-agent", headers["User-Agent"])
+streamlink_cli.set_loglevel("error")
+streamlink_cli.set_logoutput(None)
 
 
 m3u8_file = open("lista3str3.m3u", "w")
