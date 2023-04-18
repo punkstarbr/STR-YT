@@ -342,7 +342,7 @@ for url in repo_urls:
 # Print the working channels
 for channel in working_channels:
     if "extm3u_line" in channel:
-        print(f"{channel['extm3u_line']}\n")
+        print(channel['extm3u_line'])
     else:
         extinf_line_parts = channel['extinf_line'].split(',', 1)
         channel_info = extinf_line_parts[0].strip()
@@ -366,13 +366,12 @@ for channel in working_channels:
 
         channel['extinf_line'] = f"{channel_info},{channel_name}"
 
-        print(f"{channel['extinf_line']}\n")
+        print(channel['extinf_line'])
         if channel['extvlcopt_line']:
-            print(f"{channel['extvlcopt_line']}\n")
+            print(channel['extvlcopt_line'])
         for kodiprop_line in channel['kodiprop_lines']:
-            print(f"{kodiprop_line}\n")
-        print(f"{channel['stream_url']}\n")
-
+            print(kodiprop_line)
+        print(channel['stream_url'])
 
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
