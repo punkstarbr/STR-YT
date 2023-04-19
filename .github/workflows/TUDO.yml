@@ -1,0 +1,280 @@
+# This is a basic workflow to help you get started with Actions
+
+name: M3U generator
+
+# Controls when the action will run. 
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+
+    
+  pull_request:
+    branches:
+      - main
+  
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Runs a single command using the runners shell
+      #- name: Run a one-line script
+      #  run: echo testing!
+
+      # Runs a set of commands using the runners shell 
+      - name: Config
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+
+          
+          
+      - name: Install bs4
+        run: |
+          pip install beautifulsoup4
+          pip install requests
+          pip install lxml
+          sudo apt-get update
+          sudo apt-get install ffmpeg
+
+
+          
+      - name: ARGENTINA
+        run: |
+          curl https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location --output minhalocalização.txt
+          pwd
+          chmod +x ARGENTINA.sh
+          ./ARGENTINA.sh
+
+        
+      - name: CHILE
+        run: |
+          pwd
+          chmod +x CHILE.sh
+          ./CHILE.sh
+          
+          
+      - name: Baixando Listas Agrupadas
+        run: |         
+          wget -r https://github.com/punkstarbr/M3UPT/raw/main/M3U/M3UPT.m3u -O lista6pt.m3u
+          
+          
+      - name: Agrupador de listas
+        run: python agrupadordelistas.py          
+        
+        
+      - name: Install streamlink
+        run: |
+          pip install --user --upgrade streamlink   
+          
+      # Installing dependencies
+      - name: Install dependencies
+        run: |
+          pip install youtube-dl 
+          pip install yt-dlp
+          pip install requests 
+          pip install beautifulsoup4 
+          pip install fastapi 
+          pip install uvicorn 
+          pip install schedule
+          pip install selenium
+          pip install datetime
+          pip install pytz
+          pip install google-api-python-client
+          
+          
+      - name: execute py 
+        run: python STR4.py
+        
+        
+      - name: Get LISTA4.m3u8
+        run: |
+         touch ./lista2str.m3u
+         sudo cat >./lista2str.m3u <<EOL      
+         
+         
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="$(yt-dlp --get-filename --extractor-args channel https://www.youtube.com/watch?v=WRzeEy-OSZA)" group-title="Reality Show'S Live" group-title="CNN's" tvg-logo="$(yt-dlp --get-thumbnail https://www.youtube.com/watch?v=WRzeEy-OSZA)", YOUTUBEAOVIVO - $(yt-dlp --get-title https://www.youtube.com/watch?v=WRzeEy-OSZA)
+         $(yt-dlp -f best -g https://www.youtube.com/watch?v=WRzeEy-OSZA)
+         
+         
+         
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="$(yt-dlp --get-filename --extractor-args channel https://www.youtube.com/watch?v=EeQnkxY9QFs)" group-title="Reality Show'S Live" group-title="CNN's" tvg-logo="$(yt-dlp --get-thumbnail https://www.youtube.com/watch?v=EeQnkxY9QFs)", YOUTUBEAOVIVO - $(yt-dlp --get-title https://www.youtube.com/watch?v=EeQnkxY9QFs)
+         $(streamlink --url --default-stream  --stream-url  https://www.youtube.com/@TelemundoEntretenimiento/live best)
+         
+         
+         
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/v1636660681/rockcms/2021-11/NNN-social-default-72d67e.jpg",NBC NEWS NOW
+         $(streamlink --url --default-stream  --stream-url https://www.nbcnews.com/now?icid=now_hp_header best)
+         
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 group-title="NEWS WORLD",CBS NEWS
+         $(streamlink --url --default-stream  --stream-url https://www.cbsnews.com/live/ best)
+        
+               
+        
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="$(yt-dlp --get-id https://vimeo.com/user169948294)" tvg-logo="$(yt-dlp --get-thumbnail https://vimeo.com/user169948294)",$(yt-dlp --get-title https://vimeo.com/user169948294)
+         $(yt-dlp --get-url https://vimeo.com/user169948294)
+        
+         
+         
+      
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="$(yt-dlp --get-id https://www.youtube.com/watch?v=QIWqz8uv8bI&list=PLsHxUeTP_Smd9YF2Lxnubd50Rmk3T4eOk)" tvg-logo="$(yt-dlp --get-thumbnail https://www.youtube.com/watch?v=QIWqz8uv8bI&list=PLsHxUeTP_Smd9YF2Lxnubd50Rmk3T4eOk)",$(yt-dlp --get-title https://www.youtube.com/watch?v=QIWqz8uv8bI&list=PLsHxUeTP_Smd9YF2Lxnubd50Rmk3T4eOk)
+         $(yt-dlp --get-url https://www.youtube.com/watch?v=QIWqz8uv8bI&list=PLsHxUeTP_Smd9YF2Lxnubd50Rmk3T4eOk)
+        
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="$(yt-dlp --get-id https://www.youtube.com/watch?v=ST6aJt7btvQ)" tvg-logo="$(yt-dlp --get-thumbnail https://www.youtube.com/watch?v=ST6aJt7btvQ)",$(yt-dlp --get-title https://www.youtube.com/watch?v=ST6aJt7btvQ)
+         $(yt-dlp --get-url  https://www.youtube.com/watch?v=ST6aJt7btvQ)
+        
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="$(youtube-dl --get-id https://www.dailymotion.com/video/x82pp99)" tvg-logo="$(youtube-dl --get-thumbnail https://www.dailymotion.com/video/x82pp99)",$(youtube-dl -e -C https://www.dailymotion.com/video/x82pp99) TV BRASIL
+         $(streamlink --url --default-stream  --stream-url  https://www.dailymotion.com/video/x82pp99 best)
+        
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="$(youtube-dl --get-id https://www.dailymotion.com/video/x8a60g5)" tvg-logo="$(youtube-dl --get-thumbnail https://www.dailymotion.com/video/x8a60g5)",$(youtube-dl -e -C https://www.dailymotion.com/video/x8a60g5) TV BRASIL
+         $(streamlink --url --default-stream  --stream-url  https://www.dailymotion.com/video/x8a60g5 best)
+        
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="$(youtube-dl --get-id https://www.dailymotion.com/video/x8abdvf)" tvg-logo="$(youtube-dl --get-thumbnail https://www.dailymotion.com/video/x8abdvf)",$(youtube-dl -e -C https://www.dailymotion.com/video/x8abdvf) TV BRASIL
+         $(streamlink --url --default-stream  --stream-url  https://www.dailymotion.com/video/x8abdvf best)
+        
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="$(youtube-dl --get-id https://www.dailymotion.com/video/x5z1cje)" tvg-logo="$(youtube-dl --get-thumbnail https://www.dailymotion.com/video/x5z1cje)",$(youtube-dl -e -C https://www.dailymotion.com/video/x5z1cje)
+         $(streamlink --url --default-stream  --stream-url  https://www.dailymotion.com/video/x5z1cje best)
+        
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
+         $(streamlink --url --default-stream  --stream-url  https://www.rtp.pt/play/direto/rtp1 best)
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
+         $(streamlink --url --default-stream  --stream-url  https://www.rtp.pt/play/direto/rtp2 best)
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
+         $(streamlink --url --default-stream  --stream-url  https://www.rtp.pt/play/direto/rtp3 best)
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png",RTP Internacional
+         $(streamlink --url --default-stream  --stream-url  https://www.rtp.pt/play/direto/rtpinternacional best)
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="rtpmem.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png",RTP Memória
+         $(streamlink --url --default-stream  --stream-url  https://www.rtp.pt/play/direto/rtpmemoria best)
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="rtpmad.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Madeira.png",RTP Madeira
+         $(streamlink --url --default-stream  --stream-url  https://www.rtp.pt/play/direto/rtpmadeira best)
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="rtpacorhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png",RTP Açores
+         $(streamlink --url --default-stream  --stream-url  https://www.rtp.pt/play/direto/rtpacores best)
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="rtpaf.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png",RTP África 
+         $(streamlink --url --default-stream  --stream-url  https://www.rtp.pt/play/direto/rtpafrica best)
+         
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="$(yt-dlp --get-title https://www.youtube.com/@CNNbrasil/live)" group-title="NEWS WORLD" group-title="CNN's" tvg-logo="$(yt-dlp --get-thumbnail https://www.youtube.com/@CNNbrasil/live)", YOUTUBEAOVIVO - $(yt-dlp --get-title https://www.youtube.com/@CNNbrasil/live)
+         $(streamlink --url --default-stream  --stream-url https://www.youtube.com/@CNNbrasil/live best)
+         
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="$(yt-dlp --get-title https://www.youtube.com/@cnnturk/live)" group-title="NEWS WORLD" group-title="CNN's" tvg-logo="$(yt-dlp --get-thumbnail https://www.youtube.com/@cnnturk/live)", YOUTUBEAOVIVO - $(yt-dlp --get-title https://www.youtube.com/@cnnturk/live)
+         $(streamlink --url --default-stream  --stream-url  https://www.youtube.com/@cnnturk/live best)
+
+  
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
+         $(yt-dlp -f best -g https://tviplayer.iol.pt/direto/TVI_INTERNACIONAL)
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/previews-ttv/live_user_saminited-1280x720.jpg",MINAMALUCA
+         $(streamlink --url --default-stream  --stream-url  https://www.twitch.tv/saminited best)
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/previews-ttv/live_user_ctv_classic-1280x720.jpg",CTVCLASSIC
+         $(streamlink --url --default-stream  --stream-url  https://www.twitch.tv/ctv_classic best)
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/previews-ttv/live_user_weathernewslive-1280x720.jpg",WEATHERNEWSLIVE
+         $(streamlink --url --default-stream  --stream-url  https://www.twitch.tv/weathernewslive best)
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/previews-ttv/live_user_livenowfox-1280x720.jpg",LIVENOWFOX
+         $(streamlink --url --default-stream  --stream-url  https://www.twitch.tv/livenowfox best)
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/previews-ttv/live_user_teleiblea-1280x720.jpg",TELEIBLEA ITALIANA
+         $(streamlink --url --default-stream  --stream-url  https://www.twitch.tv/teleiblea best)
+        
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/previews-ttv/live_user_pularitv-1280x720.jpg",PULARITV
+         $(streamlink --url --default-stream  --stream-url  https://www.twitch.tv/pularitv best)        
+       
+       
+      - name: Git Add
+        run: |
+          git add -A
+          ls -la
+      - name: Commit and Push
+        run: |
+          git commit -m "Updated links"
+          git push
