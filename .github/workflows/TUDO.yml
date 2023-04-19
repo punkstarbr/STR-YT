@@ -94,7 +94,7 @@ jobs:
           
           
       - name: execute py 
-        run: python STR4.py
+        run: python STR2.py
         
         
       - name: Get LISTA4.m3u8
