@@ -73,6 +73,10 @@ jobs:
         run: python agrupadordelistas.py          
         
         
+      
+      - name: UCRAINE
+        run: python ucraniatv.py 
+
       - name: Install streamlink
         run: |
           pip install --user --upgrade streamlink   
