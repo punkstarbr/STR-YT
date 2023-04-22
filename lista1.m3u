@@ -724,8 +724,14 @@ https://epg.pw/stream/11422a0ca311fa2ea61db0e99991ca394e0a56cdea6953bc0998d493a7
 #EXTINF:-1 tvg-name="Telemundo" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174246283512_52.png" group-title="Sport",[VGA]telemundo@@14[geo-blocked]
 https://epg.pw/stream/2550308ace1f88aa92b9f7e3a8a04510a4abd07b22733662ff203c95a643c990.ctv
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN ESPAÑOL
-http://200.24.141.2:4000/play/a2og/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="43" tvg-logo="https://logo.iptveditor.com/cnnenespa%C3%B1ol.png"  group-title="NEWS WORLD",CNN EN ESPAÑOL
+https://live3-ott.izzigo.tv/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNNChile.cl" tvg-logo="https://i.imgur.com/t4EXijz.png",CNN CHILE
 https://epg.pw/stream/0a6403c24b42fdad9e56135ef21eec63441d43f717e06f039916276999d3436f.ctv
