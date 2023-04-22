@@ -1678,8 +1678,14 @@ https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/cnbceu-origin/live_720p
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmbc-indonesia-us-id.png",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:-1  tvg-id="N/A" group-title="SPORTS" tvg-logo="N/A",TV 2 Sporten
-https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",TV2 Norge HD VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/683263
+EXTINF:0 tvg-id="ext" group-title="SPORTS",TV 2 Sport 1 VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673321
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",TV 2 Sport 2 VIP NO
+http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673322
+#EXTINF:-1  tvg-id="N/A" group-title="SPORTS" tvg-logo="N/A",TV 2 Letreiros
+https://cdnapisec.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="SPORTS" tvg-logo="N/A",TVS Boxing
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="SPORTS" tvg-logo="N/A",TVS Sports (960p)
