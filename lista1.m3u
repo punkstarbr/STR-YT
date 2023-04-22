@@ -1126,10 +1126,10 @@ https://raw.githubusercontent.com/punkstarbr2/STR2/main/TVIREALITY.M3U8
 
 
 #EXTINF:0 type="stream" channelId="1444" group-title="USA", ABC
-https://epg.pw/stream/87afe917462daa49b5471b176ab9c34a92ec0cd9e0168faa7f1f41cd4de6dd6b.ctv
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28073
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzHkxwZ.png" group-title="USA",NBC
-http://castlempire.site:8080/UserTest4Octubre_00h/uek4neVNWyxE/170487
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42005
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",CBS
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
@@ -1377,7 +1377,8 @@ https://cbsn-3-fastly.cbsnstream.cbsnews.com/out/v1/f081461c65494eeaa9ec596d0fe9
 	
 
 
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider10.jpg",ABC News Live 1 (720p)
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider10.jpg"
+News Live 1 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master_4000.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider6.jpg",ABC News Live 2 (720p)
