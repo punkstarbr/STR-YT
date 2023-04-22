@@ -1441,6 +1441,19 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/news2/ert_news2_main/mainabr/
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertnews3-logo-800x300-2023.png",ΕΡΤ NEWS 3
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news3/ert_news3_main/mainabr/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-id="TheWallStreetJournalLive.us" tvg-logo="https://i.imgur.com/4xSEoNK.png" group-title="NEWS WORLD",The Wall Street Journal Live (720p)
+https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
+
+
+#EXTINF:-1 tvg-id="Bashkortostan24.ru" tvg-logo="https://i.imgur.com/s34Wtz6.png" group-title="NEWS WORLD",Башкортостан 24 (1080p)
+http://live.gtrk.tv/hls/b24-hls.m3u8
+#EXTINF:-1 tvg-id="Belarus24.by" tvg-logo="https://i.imgur.com/iVIlgrj.png" group-title="NEWS WORLD",Беларусь 24 (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Filadelfia / [Philadelphia] 
 https://nbculocallive.akamaized.net/hls/live/2035366/philadelphia/stream5/master.m3u8
 
