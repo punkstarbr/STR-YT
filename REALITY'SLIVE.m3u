@@ -15,8 +15,16 @@ https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 https://github.com/punkstarbr/STR2/raw/main/TVIREALITY.M3U8
 
 
+#EXTINF:-1 group-title="Reality Show's Live", ZADRUGA 2
+http://bntvs.com:2052/zorankalauz/643095040/8736
 
-#EXTINF:-1 group-title="Reality Show's Live", ZADRUGA
+#EXTINF:-1 group-title="Reality Show's Live", ZADRUGA 2
+http://bntvs.com:2052/zorankalauz/643095040/8737
+
+#EXTINF:-1 group-title="Reality Show's Live", ZADRUGA 3
+http://bntvs.com:2052/zorankalauz/643095040/8738
+
+#EXTINF:-1 group-title="Reality Show's Live", ZADRUGA 4
 http://bntvs.com:2052/zorankalauz/643095040/8739
 
 #EXTINF:-1 group-title="Reality Show's Live", Farma Sérvia
