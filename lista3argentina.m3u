@@ -37,6 +37,8 @@ https://cotesma02.cdn.rcs.net.ar/mnp/telefe/output.mpd
 http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52518.ts
 #EXTINF:-1 tvg-id="ARG: Telefe HD" tvg-name="Telefe Argentina" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png" group-title="Argentina", Telefe (INT) 3
 http://tvstarlife.com:25461/live/geovany/geovany/315.m3u8
+#EXTINF:0 type="stream" name="AR| Telefe" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/telefe.jpg" group-title="Argentina", AR| Telefe
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210861
 #EXTINF:-1 tvg-id="ARG: Telefe HD"  tvg-name="Telefe Argentina" tvg-logo="https://telefe-static.akamaized.net/media/18154476/logo-telefe-twitter.png" group-title="Argentina", Telefe COM VPN
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-id="ARG: Telefe HD"  tvg-name="Telefe Argentina" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina", Telefe COM VPN 2
