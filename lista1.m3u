@@ -847,7 +847,7 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la2_cat_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="TV",Eventuales: +24
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="NEWS WORLD" group-title="TV",Eventuales: +24
 https://rtvelivestream.akamaized.net/hls/nxrtgolumi/mastdp/stream1.m3u8
 
 
@@ -855,7 +855,7 @@ https://rtvelivestream.akamaized.net/hls/nxrtgolumi/mastdp/stream1.m3u8
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="ESPANHA",Generalistas: TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="ESPANHA",Informativos: 24h
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://seeklogo.com/images/T/tve_24h-logo-CF2D2CC96E-seeklogo.com.jpg" group-title="ESPANHA",Informativos: 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 
