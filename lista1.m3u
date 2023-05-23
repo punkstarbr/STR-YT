@@ -681,15 +681,11 @@ https://epg.pw/stream/2550308ace1f88aa92b9f7e3a8a04510a4abd07b22733662ff203c95a6
 #EXTINF:-1 tvg-id="43" tvg-logo="https://logo.iptveditor.com/cnnenespa%C3%B1ol.png"  group-title="NEWS WORLD",CNN EN ESPAÑOL
 https://live3-ott.izzigo.tv/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNNChile.cl" tvg-logo="https://i.imgur.com/t4EXijz.png",CNN CHILE
-https://epg.pw/stream/0a6403c24b42fdad9e56135ef21eec63441d43f717e06f039916276999d3436f.ctv
 
 
 
 
 
-#EXTINF:0,Cerbero
-https://cerbero.mediaset.es
 
 #EXTINF:0,Premium HLS SD
 #EXTVLCOPT:http-referrer=https://www.mediaset.es/
