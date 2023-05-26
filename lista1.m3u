@@ -1302,16 +1302,16 @@ https://archive.org/download/nike90secmov/tvc_90_sec_large_512kb.mp4
 
 
 
+#EXTINF:-1  tvg-id="cnn.tv.vodafone.pt" group-title="NEWS WORLD" tvg-logo="N/A",CNN AMERICANA
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1  tvg-id="cnn.tv.vodafone.pt" group-title="NEWS WORLD" tvg-logo="N/A",CNN AMERICANA 2
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 
 
 #EXTINF:-1  tvg-id="cnn.tv.vodafone.pt" group-title="NEWS WORLD" tvg-logo="N/A",CNN AMERICANA
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1  tvg-id="LCH2067" group-title="NEWS WORLD" tvg-logo="N/A",CNN AMERICANA 2
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1  tvg-id="LCH2067" group-title="NEWS WORLD" tvg-logo="N/A",CNN AMERICANA 3
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1  tvg-id="LCH2067" group-title="NEWS WORLD" tvg-logo="N/A",CNN AMERICANA 4
+#EXTINF:-1  tvg-id="cnn.tv.vodafone.pt" group-title="NEWS WORLD" tvg-logo="N/A",CNN AMERICANA 2
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1  tvg-id="LCH35" group-title="NEWS WORLD" tvg-logo="N/A",CNN INTERNACIONAL
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
