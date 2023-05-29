@@ -1,6 +1,9 @@
 #EXTM3U 
 
 
+#EXTINF:-1 tvg-id="pink-bih" tvg-name="Pink BH" tvg-logo="http://smartntv.pro/logokanali/pink/pinkbh.png" group-title="Reality Show's Live",Zadruga AO VIVO
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6420
+
 #EXTINF:-1 group-title="Reality Show's Live", BIG BROTHER AUSTRALIA (VPN)
 https://csm-e-n7aus-eb.tls1.yospace.com/csm/extlive/sevenprd01,CAS07.m3u8
 
