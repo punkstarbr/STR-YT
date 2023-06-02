@@ -62,8 +62,7 @@ https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM3.m3u8
 #EXTINF:-1 group-title="Reality Show's Live"  tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/63ecfd7e0cf28f3e15cc3929/",O TRIANGULO - TVI
 https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
 
-#EXTINF:-1 group-title="Reality Show's Live"  tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/63ecfd7e0cf28f3e15cc3929/",O TRIANGULO - TVI 2
-https://github.com/punkstarbr/STR2/raw/main/TVIREALITY.M3U8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Zadruga Live" tvg-logo="http://smartntv.pro/logokanali/pink/zadruga1.png" group-title="Reality Show's Live",Zadruga Live
@@ -93,10 +92,6 @@ http://bntvs.com:2052/zorankalauz/643095040/8739
 http://bntvs.com:2052/zorankalauz/643095040/8753
 
 
-#EXTINF:-1 group-title="Reality Show's Live"  tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/1/17/AlbaniaVIP1_Logo.jpg/revision/latest?cb=20230103223302",BIG BROTHER ALBANIA VIP
-https://github.com/punkstarbr/STR2/raw/main/BBVIPALBANIA.m3u8
 
-#EXTINF:-1 group-title="Reality Show's Live" tvg-id=""  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zadruga_reality_logo.png/revision/latest?cb=20210318191506",ZADRUGA
-https://github.com/punkstarbr/STR2/raw/main/ZADRUGA.m3u8
 
 
