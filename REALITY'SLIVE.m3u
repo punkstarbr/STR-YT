@@ -7,10 +7,12 @@ https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Reality Show's Live", LAS ESTRELLAS
-http://23.237.108.226/hls/HDLASESTRELLASMX.m3u8|user-agent=Roku/DVP(10.10.10)
+http://23.237.108.226/hls/HDLASESTRELLASMX.m3u8
+#EXTVLCOPT:http-user-agent=Roku/DVP(10.10.10)
 
 #EXTINF:-1  group-title="Reality Show's Live", LAS ESTRELLAS
-https://mx1.gt-app.com/17/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/17/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 
 #EXTINF:-1 group-title="Reality Show's Live",CAMERA 1
 https://dcs3-live.mp.lura.live/server/podserve/AwpWpKfpemEGinNj/manifest.m3u8
