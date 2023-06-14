@@ -14,11 +14,13 @@ http://23.237.108.226/hls/HDLASESTRELLASMX.m3u8
 https://mx1.gt-app.com/17/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 
+#EXTINF:-1  tvg-logo="https://images.vix.com/prd/channel/647e52df20eeec53c88517aa/5ad52feb7e542b5295ee00f4bbdd03c7?tr=q-80&w=1280" group-title="Reality Show's Live",LCDLF-MX GALAS ESTELARES
+https://dcs3-live.mp.lura.live/server/podserve/0ZXvX1TrEXJzs6qj/manifest.m3u8
+
 #EXTINF:-1  tvg-logo="https://images.vix.com/prd/channel/646fb6ac8b9ee10ddca5c2f7/29cf35061bf07f5e096ca6539f39ab03?tr=q-80&w=1280" group-title="Reality Show's Live",LCDLF-MX ACESSO TOTAL
 https://dcs3-live.mp.lura.live/server/podserve/A4MWMDFvNwreF4Zj/manifest.m3u8
 
-#EXTINF:-1  tvg-logo="https://images.vix.com/prd/channel/647e52df20eeec53c88517aa/5ad52feb7e542b5295ee00f4bbdd03c7?tr=q-80&w=1280" group-title="Reality Show's Live",LCDLF-MX GALAS ESTELARES
-https://dcs3-live.mp.lura.live/server/podserve/0ZXvX1TrEXJzs6qj/manifest.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://images.vix.com/prd/channel/646fb7384bbc32150464c3a6/6f6a3574cf72c45397a37f1134696e9e?tr=q-80&w=1280" group-title="Reality Show's Live",LCDLF-MX COM CORTE DE CAMERA
 https://dcs3-live.mp.lura.live/server/podserve/0m535qFNEeoKIXx0/manifest.m3u8
