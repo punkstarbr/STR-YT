@@ -1,28 +1,41 @@
 #EXTM3U 
-#EXTINF:-1,CAMERA 1
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/400px-Canal_5_2016.svg.png", Canal 5 Mex
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Reality Show's Live", LAS ESTRELLAS
+http://23.237.108.226/hls/HDLASESTRELLASMX.m3u8|user-agent=Roku/DVP(10.10.10)
+
+#EXTINF:-1  group-title="Reality Show's Live", LAS ESTRELLAS
+https://mx1.gt-app.com/17/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+
+#EXTINF:-1 group-title="Reality Show's Live",CAMERA 1
 https://dcs3-live.mp.lura.live/server/podserve/AwpWpKfpemEGinNj/manifest.m3u8
 
 
-#EXTINF:-1,CAMERA 2
+#EXTINF:-1 group-title="Reality Show's Live",CAMERA 2
 https://dcs3-live.mp.lura.live/server/podserve/jqyWyXcRp8gDhPej/manifest.m3u8
 
-#EXTINF:-1,CAMERA 3
+#EXTINF:-1 group-title="Reality Show's Live",CAMERA 3
 https://dcs3-live.mp.lura.live/server/podserve/0bnenbTDekmrc580/manifest.m3u8
 
 
-#EXTINF:-1,CAMERA 4
+#EXTINF:-1 group-title="Reality Show's Live",CAMERA 4
 https://dcs3-live.mp.lura.live/server/podserve/AzX9XeTnwbXQS9Z7/manifest.m3u8
 
 
-#EXTINF:-1,CAMERA 5
+#EXTINF:-1 group-title="Reality Show's Live",CAMERA 5
 https://dcs3-live.mp.lura.live/server/podserve/Aazyz4fOD2Pgsbgj/manifest.m3u8
 
 
-#EXTINF:-1,CAMERA 6
+#EXTINF:-1 group-title="Reality Show's Live",CAMERA 6
 https://dcs3-live.mp.lura.live/server/podserve/019n91h1VmpZsKw0/manifest.m3u8
 
 
-#EXTINF:-1,CAMERA 7
+#EXTINF:-1 group-title="Reality Show's Live",CAMERA 7
 https://dcs3-live.mp.lura.live/server/podserve/7RWKW6uLlrqoFg90/manifest.m3u8
 
 
