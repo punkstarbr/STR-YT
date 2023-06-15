@@ -225,29 +225,6 @@ http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 
 
 
-#EXTINF:0,1 NBA All-Star Celebrity Game (17.02.23).mp4
-#EXT-X-PROGRAM-DATE-TIME:2023-02-20T06:05:00Z
-#EXT-X-TARGETDURATION:871
-#EXT-X-VERSION:3
-https://archive.org/download/NBAAllStarWeekend2023-FullPlayback-Utah/1%20NBA%20All-Star%20Celebrity%20Game%20%2817.02.23%29.mp4
-
-#EXTINF:0,2 NBA Jordan Rising Stars (17.02.23).mp4
-#EXT-X-PROGRAM-DATE-TIME:2023-02-20T07:27:00Z
-#EXT-X-TARGETDURATION:1600
-#EXT-X-VERSION:3
-https://archive.org/download/NBAAllStarWeekend2023-FullPlayback-Utah/2%20NBA%20Jordan%20Rising%20Stars%20%2817.02.23%29.mp4
-
-#EXTINF:0,3 NBA All-Star Saturday Night (18.02.2023).mp4
-#EXT-X-PROGRAM-DATE-TIME:2023-02-20T07:04:00Z
-#EXT-X-TARGETDURATION:1800
-#EXT-X-VERSION:3
-https://archive.org/download/NBAAllStarWeekend2023-FullPlayback-Utah/3%20NBA%20All-Star%20Saturday%20Night%20%2818.02.2023%29.mp4
-
-#EXTINF:0,4 NBA All-Star Game (19.02.23).mp4
-#EXT-X-PROGRAM-DATE-TIME:2023-02-20T07:45:00Z
-#EXT-X-TARGETDURATION:5400
-#EXT-X-VERSION:3
-https://archive.org/download/NBAAllStarWeekend2023-FullPlayback-Utah/4%20NBA%20All-Star%20Game%20%2819.02.23%29.mp4
 
 #EXTINF:-1 group-title="USA" tvg-id="usbrtv" tvg-name="USBR TV" tvg-logo="https://www.usbrtv.com/wp-content/uploads/2022/05/logo-white.png", USBRTV - AO VIVO
 https://5a2b083e9f360.streamlock.net/usbrasiltv/usbrasiltv.sdp/playlist.m3u8
