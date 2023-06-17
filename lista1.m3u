@@ -199,17 +199,7 @@ https://epg.pw/stream/b4b3e1e815c362db28a944ad57bc54550c75e9bd9f1f924866ee470ae5
 
 #EXTINF:-1 tvg-name="Caracol" tvg-id="CaracolTV.co" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[HD]caracol tv@@1[geo-blocked]
 https://epg.pw/stream/349233579d2a5027a04950e963e7903d1a516aff268e72b33eb09a56a96c5edf.ctv
-#EXTINF:-1 tvg-name="Caracol" tvg-id="CaracolTV.co" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[VGA]canal caracol@@6
-https://epg.pw/stream/4624dc55e73e11c0c32ced5f18f96e3a5faf401aafe75fb2079644290eb53af4.m3u8
-#EXTINF:-1 tvg-name="Caracol" tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[BD]caracol hd 2@@1
-https://epg.pw/stream/48bb3c0bfcb960d04a83b7696479e0bf318619cf1c4b6bbd5027abbe5cdaf2c8.m3u8
-#EXTINF:-1 tvg-name="Caracol" tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[BD]caracol hd@@3[geo-blocked]
-https://epg.pw/stream/395f1e06742f945610bd632e78c54664c1d4ea3a58bae60571c66f587b3c7135.m3u8
 
-#EXTINF:-1 tvg-name="Caracol" tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[HD]caracola tv@@1
-https://epg.pw/stream/b505daf14fc5b66900c0ae413325cf087211ab165a19b239a3cfe9504db31c1c.m3u8
-#EXTINF:-1 tvg-name="Caracol" tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[HD]caracola tv@@2[geo-blocked]
-https://epg.pw/stream/464d2bf0c8c99eb4d4820b8d94d4131b1d69902f32613db857157f4467714fbd.m3u8
 
 
 #EXTINF:0 tvg-logo="https://www.tvs.st/views/assets/images/TVS.png",Televisão Nacional de São Tomé e Príncipe
@@ -236,6 +226,13 @@ https://dcs3-live.mp.lura.live/server/podserve/0MqnqghkvXVNIEm0/manifest.m3u8
 #EXTVLCOPT:http-user-agent=Firefox
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25340
 
+
+#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", TELEMUNDO 2
+#EXT-X-PROGRAM-DATE-TIME:2023-02-20T07:45:00Z
+#EXT-X-TARGETDURATION:5400
+#EXT-X-VERSION:3
+http://hidra.live:80/rbkhihvo/tBoBv15r69/35152
+
 #EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", UNIVISION
 #EXT-X-PROGRAM-DATE-TIME:2023-02-20T07:45:00Z
 #EXT-X-TARGETDURATION:5400
@@ -249,16 +246,10 @@ http://hidra.live:80/rbkhihvo/tBoBv15r69/35153
 #EXTVLCOPT:player-continuous-http
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25337
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQnKpM7S/VOA.png" group-title="USA", VOA
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/VOA-TVMC06_1080/chunklist.m3u8
 
 
 
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/mtv.png",US: MTV 2 SD
-http://hidra.live:80/usvhppwq/4C3D7fuen2/43649
 
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/cbs.png",US: CBS 5 KPHO FHD
-http://hidra.live:80/usvhppwq/4C3D7fuen2/43670
 
 #EXTINF:-1 tvg-id="I572.49141.zap2it.com" group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/mtv.png",US: MTV Live HD
 http://hidra.live:80/usvhppwq/4C3D7fuen2/43651
@@ -280,17 +271,8 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 
 
 
-#EXTINF:-1 tvg-name="MSNBC" tvg-country="United States" tvg-language="en" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123012009812276_31.jpg" group-title="MSNBC", MSNBC
-https://epg.pw/stream/280bbc6ba8e8d71d425cc1faa9099852056c9a795b9367dc2dab1a0c35069f7b.ctv
 
 
-
-#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="en" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="CNBC", CNBC 2
-https://epg.pw/stream/3e0dee382e5a09eed2c7e924bbfc3a0b4d5f613747a338851a56b204da036730.m3u8
-#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]CNBC Indonesia[geo-blocked]
-https://epg.pw/stream/0ea45157fdfcd07e3552f5b158cac4217bbfd4da35b008c34cfbf2476aef8e41.m3u8
-#EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[VGA]cnbc indonesia@@2
-https://epg.pw/stream/4a8b56af9f629845832989f034657b89fb8e40fd6ed8cfb288ba1f8090ab12e2.m3u8
 
 #EXTINF:-1 tvg-name="CNBC" tvg-id="3801" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/64ced792d7aab8e08c7fe98fec2a32a9.jpg" group-title="News",[HD]cnbc indonesia@@8
 https://epg.pw/stream/e21e7d65a077fab256cb7f0b0d3fcb27dc6490cae608efa47bedcb8d86ca6139.m3u8
