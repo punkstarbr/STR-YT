@@ -926,11 +926,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://d3r7ms2cd6ecbc.cloudfront.net/out/v1/302f9e67d0524c55a01f2aece2e77872/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sWk2qxG/tvn.png" group-title="NEWS WORLD", TVN SERVIÇO
-http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
 
-#EXTINF:-1 tvg-id="T13.cl" tvg-logo="https://i.imgur.com/RhpjKdi.png" group-title="NEWS WORLD",T13 SERVIÇO
-https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://ainmcl.github.io/MonitorTV/Monitores/imagenes/Logo_GOB.svg" group-title="NEWS WORLD",PRESIDENCIA CHILE SERVIÇO
 https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream/6239f6d008e7ac488826f237/publish/media_5000.m3u8?aid=6228dbdaac1c9d08363b5335&DVR=&pid=8zq7AE3GyEmLy9vU1q8zjshiH6Z2VJ1g&sid=sbUG1hr5f9w47dWhQ8He6U48FTmZJdkQ&uid=b3ByPIq5wydX89hZQ88kXEoCnepEP3e0&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1681540689887&ot=mK4ZqgGGrd81p1lUMpVHDA&proto=https&pz=us
@@ -1326,6 +1322,12 @@ https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master_4000.m3u8
 https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master_4000.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider8.jpg",ABC News Live 10 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master_4000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sWk2qxG/tvn.png" group-title="NEWS WORLD", TVN SERVIÇO
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
+
+#EXTINF:-1 tvg-id="T13.cl" tvg-logo="https://i.imgur.com/RhpjKdi.png" group-title="NEWS WORLD",T13 SERVIÇO
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",24 HORAS CL - SERVIÇO 1
 https://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
