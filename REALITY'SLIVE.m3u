@@ -76,8 +76,11 @@ https://dcs3-live.mp.lura.live/server/podserve/019n91h1VmpZsKw0/manifest.m3u8
 
 
 
-#EXTINF:-1 group-title="Reality Show's Live",GRANDE IRMÃO ARGENTINA
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=92354ee5960d42cc83bc9c752d1ae131&deviceLat=-33.4521&deviceLon=-70.6536&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=VE&sid=6ff5abff005d11ee8946244bfeb7ece3&userId=
+
+#EXTM3U #EXTINF:-1 channel-id="pluto-6320ddef274b1b0007b2ee88" tvg-id="6320ddef274b1b0007b2ee88" tvg-chno="141" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" group-title="Reality Show's Live" , Reviví Gran Hermano
+#EXTM3U https://i.mjh.nz/PlutoTV/6320ddef274b1b0007b2ee88-alt.m3u8
+#EXTM3U #EXTINF:-1 group-title="Reality Show's Live",GRANDE IRMÃO ARGENTINA
+#EXTM3U https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=92354ee5960d42cc83bc9c752d1ae131&deviceLat=-33.4521&deviceLon=-70.6536&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=VE&sid=6ff5abff005d11ee8946244bfeb7ece3&userId=
 
 
 #EXTINF:-1 group-title="Reality Show's Live",MTV ESPANHOL
