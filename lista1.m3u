@@ -926,6 +926,9 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://d3r7ms2cd6ecbc.cloudfront.net/out/v1/302f9e67d0524c55a01f2aece2e77872/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sWk2qxG/tvn.png" group-title="NEWS WORLD", TVN SERVIÇO
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
+
 #EXTINF:-1 tvg-id="T13.cl" tvg-logo="https://i.imgur.com/RhpjKdi.png" group-title="NEWS WORLD",T13 SERVIÇO
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 
