@@ -831,20 +831,12 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/americanhorrors.png" group-title="CINE",ZZ American Horrors | Estados Unidos
 http://170.178.189.66:1935/live/Stream1/.m3u8
 
-#EXTINF:-1 tvg-id="America 24" tvg-name="America 24" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png" group-title="FAMILIARES",America 24 | Argentina
-https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+
 
 #EXTINF:-1 tvg-id="Buin Somos Todos" tvg-name="Buin Somos Todos" tvg-logo="https://i.ytimg.com/vi/k_Q7-gqkfAo/maxresdefault.jpg" group-title="FAMILIARES",Buin Somos Todos | Chile
 https://bst.buin.cl/0.m3u8
 
-#EXTINF:-1 tvg-id="Canal 4 Jujuy" tvg-name="Canal 4 Jujuy" tvg-logo="https://s3.amazonaws.com/static-c4-1/assets/img/logos/elcuatro-logo-100x124.png" group-title="FAMILIARES",Canal 4 Jujuy | Argentina
-https://5cd577a3dd8ec.streamlock.net/canal4/manifest.smil/chunklist_w92188071_b316000.m3u8
 
-#EXTINF:-1 tvg-id="Canal 4 Jujuy" tvg-name="Canal 4 Jujuy" tvg-logo="https://s3.amazonaws.com/static-c4-1/assets/img/logos/elcuatro-logo-100x124.png" group-title="FAMILIARES",Canal 4 Jujuy | Argentina
-https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w1908572533_b316000.m3u8
-
-#EXTINF:-1 tvg-id="Canal 4 San Juan" tvg-name="Canal 4 San Juan" tvg-logo="http://www.canal4sanjuan.com.ar/digital/images/logo-cir.png" group-title="FAMILIARES",Canal 4 San Juan | Argentina
-http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
 
 #EXTINF:-1 tvg-id="74 de Chile" tvg-name="74 de Chile" tvg-logo="https://i.imgur.com/AgUx16i.png" group-title="FAMILIARES",Canal 74 TV | Chile
 https://stmv1.zcasthn.com.br/canal74hd/canal74hd/playlist.m3u8
@@ -899,8 +891,7 @@ https://cloudvideo.servers10.com:8081/8214/index.m3u8
 #EXTINF:-1 tvg-id="Neo TV" tvg-name="Neo TV" tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png" group-title="FAMILIARES",Neo TV | Argentina
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-id="NET TV" tvg-name="NET TV" tvg-logo="https://www.canalnet.tv/_templates/desktop/includes/img/logo.png" group-title="FAMILIARES",NET TV | Argentina
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="Norte Informativo TV" tvg-name="Norte Informativo TV" tvg-logo="https://i.imgur.com/GD15EfH.jpg" group-title="FAMILIARES",Norte Informativo TV | Costa Rica
 https://videohd.live:19360/8076/8076.m3u8
@@ -917,8 +908,7 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1 tvg-id="Solo Stand Up" tvg-name="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png" group-title="FAMILIARES",Solo Stand Up | Chile
 https://paneltv.online:1936/8116/8116/chunklist_w1465366289.m3u8
 
-#EXTINF:-1 tvg-id="Tec TV" tvg-name="Tec TV" tvg-logo="https://www.tec.gob.ar/wp-content/uploads/2022/05/Tec-logo.png" group-title="FAMILIARES",Tec TV | Argentina
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Telexitos_logo.png" group-title="FAMILIARES",Telexitos | USA
 https://v-ny.mybtv.net/live/660.m3u8?env=prd&uid=-1&x=1
@@ -969,14 +959,7 @@ https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8?SBN
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BTSport2.uk" tvg-logo="https://m3u-editor.com/storage/channel-logos/f5de7950-a238-11eb-a147-99de383ea2cf/1549245/275944292.png" group-title="DEPORTES",BT Sport 2 | Reino Unido
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8?SBN
-#EXTINF:-1 tvg-id="DeporTV Argentina" tvg-name="DeporTV Argentina" tvg-logo="https://i2.paste.pics/7b99edf751cc110abb5fd3f040e558b8.png" group-title="DEPORTES",DeporTV | Argentina
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-id="DirecTV Sports" tvg-name="DirecTV Sports" tvg-logo="http://192.99.63.87/LogosCanales/Directv%20Sports.jpg" group-title="DEPORTES",DirecTV Sports | Argentina
-http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2690.m3u8
-#EXTINF:-1 tvg-id="DirecTV Sports 2" tvg-name="DirecTV Sports 2" tvg-logo="http://192.99.63.87/LogosCanales/Directv%20Sports.jpg" group-title="DEPORTES",DirecTV Sports 2 | Argentina
-http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2289.m3u8
-#EXTINF:-1 tvg-id="DirecTV Sports +" tvg-name="DirecTV Sports +" tvg-logo="http://192.99.63.87/LogosCanales/Directv%20Sports.jpg" group-title="DEPORTES",DirecTV Sports + | Argentina
-http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2285.m3u8
+
 #EXTINF:-1 tvg-id="TOROS(src01).es" tvg-name="TOROS(src01).es" tvg-logo="https://eltorotv.com/wp-content/uploads/2019/11/LOGO_ETV_WEB_300PP.png" group-title="DEPORTES",El Toro TV | Spain
 https://fake-live-eltorotv.flumotion.com/eltorotv/fake-live_source/chunks.m3u8
 #EXTINF:-1 tvg-id="ESPN MX" tvg-name="ESPN MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="DEPORTES",ESPN | Mexico
@@ -1017,8 +1000,7 @@ http://magmas5.com:8000/live/malotv/gratis/144619.m3u8
 https://m3u-editor.com/serve/320183542-iptv/378634348
 #EXTINF:-1 tvg-id="Fox Deportes" tvg-name="Fox Deportes" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes.png" group-title="DEPORTES",Fox Deportes | Mexico
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2272.m3u8
-#EXTINF:-1 tvg-id="Fox Sports Premium" tvg-name="Fox Sports Premium" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina.png" group-title="DEPORTES",Fox Sports Premium | Argentina
-http://magmas5.com:8000/live/malotv/gratis/146541.m3u8
+
 #EXTINF:-1 tvg-id="El Garage" tvg-name="El Garage" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png" group-title="DEPORTES",Garage TV | Argentina
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1736280510_b1296000_sleng.m3u8
 #EXTINF:-1 tvg-id="Gol Play Spain" tvg-name="Gol Play Spain" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_play_espana.png" group-title="DEPORTES",Gol Play | Spain
@@ -1061,14 +1043,12 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/9006
 #EXTINF:-1 tvg-id="Tigo Sports Plus" tvg-name="Tigo Sports Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1e494bd4aec7cca6495966036dc37a8f.png" group-title="DEPORTES",Tigo Sports Plus | Paraguay
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/168960
-#EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports.png" group-title="DEPORTES",TNT Sports | Argentina
-http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2218.m3u8
+
 #EXTINF:-1 tvg-id="TUDN" tvg-name="TUDN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" group-title="DEPORTES",TUDN | Mexico
 http://magmas5.com:8000/live/malotv/gratis/146603.m3u8
 #EXTINF:-1 tvg-id="TUDN USA" tvg-name="TUDN USA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" group-title="DEPORTES",TUDN | Estados Unidos
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/19847.m3u8
-#EXTINF:-1 tvg-id="TyC Sports" tvg-name="TyC Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/a845a6541822a8cad70a73b6c708610a.png" group-title="DEPORTES",TyC Sports | Argentina
-http://latinosiptv.online:8090/live/notocar/xmauc84bx1/1112.m3u8
+
 #EXTINF:-1 tvg-id="Vamos.es" tvg-name="Vamos.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/_vamos.png" group-title="DEPORTES",#VAMOS | Spain
 http://209.205.221.74:130/R3$3202/3R1W3$32/1626_.m3u8
 #EXTINF:-1 tvg-id="ViasatSport.se" tvg-name="ViasatSport.se" tvg-logo="http://www.viasat.no/sites/viasat.no/files/styles/promo_1_of_2/public/images/promos/viasport-one.png" group-title="DEPORTES",Viasat sport | Suecia
@@ -1102,8 +1082,7 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="HispanTV" tvg-name="HispanTV" tvg-logo="http://notired.hol.es/wp-content/uploads/2017/08/hispantv.png" group-title="NOTICIAS",HispanTV | Irán
 https://live1.presstv.ir/live/hispan.m3u8
-#EXTINF:-1 tvg-id="IP" tvg-name="IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQ4CbRDh4Wgxt0o_pw9V-kw9Vz6T0Re2Q_RD62jp7cZMO0uWvSKSUN6sZ2vjYcbn5fAs&usqp=CAU" group-title="NOTICIAS",Informacion Periodistica | Argentina
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
+
 #EXTINF:-1 tvg-id="RAI" tvg-name="RAI" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rai_italia_international.png" group-title="NOTICIAS",Rai Internacional | Italia
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 #EXTINF:-1 tvg-id="RaiNews24(src01).it" tvg-name="RaiNews24(src01).it" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rai_italia_international.png" group-title="NOTICIAS",Rai News 24 | Italia
@@ -1144,8 +1123,7 @@ http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 tvg-logo="http://www.city.bg/theme_assets/city/images/logo.png" group-title="MUSICA",CITY RADIO TV | Bulgaria
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cmmusica.com.ar/images/logo.png" group-title="MUSICA",CM TV | Argentina
-https://g5.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/2020-07/colosal-tv-costa-rica.png" group-title="MUSICA",Colosal TV | Costa Rica
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
@@ -2718,8 +2696,7 @@ http://177.128.115.10:8000/play/a0a6/26754
 http://177.128.115.10:8000/play/a0a6/69583
 #EXTINF:-1 tvg-id="De Pelicula Plus" tvg-name="De Pelicula Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png"group-title="CINE",De Pelicula Plus | Mexico
 http://177.128.115.10:8000/play/a0a6/1450
-#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" group-title="FAMILIARES",C5N | Argentina
-http://177.128.115.10:8000/play/a0a6/22097
+
 #EXTINF:-1 tvg-id="13 de Chile" tvg-name="13 de Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile.png" group-title="FAMILIARES",Canal 13 | Chile
 http://177.128.115.10:8000/play/a097
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="Chilevision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision.png" group-title="FAMILIARES",Chilevision | Chile
@@ -2729,8 +2706,7 @@ http://177.128.115.10:8000/play/a086
 
 #EXTINF:-1 tvg-id="Europa Europa" tvg-name="Europa Europa" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa.png" group-title="FAMILIARES",Europa Europa
 http://177.128.115.10:8000/play/a0a6/26755
-#EXTINF:-1 tvg-id="Television Publica" tvg-name="Television Publica" tvg-logo="https://i.imgur.com/04nIdpc.png" group-title="FAMILIARES",Television Publica | Argentina
-http://177.128.115.10:8000/play/a0a6/116203
+
 #EXTINF:-1 tvg-id="TLNovelas Univision" tvg-name="TLNovelas Univision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision_tlnovelas.png" group-title="FAMILIARES",TL Novelas Univision | USA
 http://177.128.115.10:8000/play/a0a6/103667
 #EXTINF:-1 tvg-id="TVN Chile" tvg-name="TVN Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile.png" group-title="FAMILIARES",TVN | Chile
@@ -2789,14 +2765,7 @@ http://pe.shortgod.com/lord20/tv10.php?id=37960
 http://pe.shortgod.com/lord20/tv5.php?id=1470
 #EXTINF:-1 tvg-id="" tvg-name="USento California KXTV TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/04aa3459bcd0300ffabdaee7a7c76f4e.png" group-title="FAMILIARES",ABC Sacramento California KXTV TV
 http://pe.shortgod.com/lord20/tv8.php?id=1320
-#EXTINF:-1 tvg-id="America TV Argentina" tvg-name="America TV Argentina" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina.png" group-title="FAMILIARES",America TV | Argentina
-http://pe.shortgod.com/lord20/tv3.php?id=49245
-#EXTINF:-1 tvg-id="America TV Argentina" tvg-name="America TV Argentina" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina.png" group-title="FAMILIARES",America TV | Argentina
-http://pe.shortgod.com/lord20/tv10.php?id=691607
-#EXTINF:-1 tvg-id="America 24" tvg-name="America 24" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png" group-title="FAMILIARES",America 24 | Argentina
-http://pe.shortgod.com/lord20/tv10.php?id=691665
-#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" group-title="FAMILIARES",C5N | Argentina
-http://pe.shortgod.com/lord20/tv7.php?id=242080
+
 #EXTINF:-1 tvg-id="13 de Chile" tvg-name="13 de Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile.png" group-title="FAMILIARES",Canal 13 | Chile
 http://pe.shortgod.com/lord20/tv5.php?id=38540
 #EXTINF:-1 tvg-id="Caracol TV" tvg-name="Caracol TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia.png" group-title="FAMILIARES",Caracol TV | Colombia
@@ -2897,8 +2866,7 @@ http://198.27.117.10:8080/Carlos2022/Carlos2022/380715
 http://198.27.117.10:8080/Carlos2022/Carlos2022/245963
 #EXTINF:-1 tvg-id="America TV Argentina" tvg-name="America TV Argentina" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina.png" group-title="FAMILIARES",America TV | Argentina
 http://198.27.117.10:8080/Carlos2022/Carlos2022/362475
-#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" group-title="FAMILIARES",C5N | Argentina
-http://198.27.117.10:8080/Carlos2022/Carlos2022/362522
+
 #EXTINF:-1 tvg-id="13 de Chile" tvg-name="13 de Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile.png" group-title="FAMILIARES",Canal 13 | Chile
 http://198.27.117.10:8080/Carlos2022/Carlos2022/363490
 #EXTINF:-1 tvg-id="Caracol TV" tvg-name="Caracol TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia.png" group-title="FAMILIARES",Caracol TV | Colombia
@@ -2912,16 +2880,13 @@ http://198.27.117.10:8080/Carlos2022/Carlos2022/302191
 
 #EXTINF:-1 tvg-id="Europa Europa" tvg-name="Europa Europa" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa.png" group-title="FAMILIARES",Europa Europa
 http://198.27.117.10:8080/Carlos2022/Carlos2022/
-#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="FAMILIARES",Glitz | Argentina
-http://198.27.117.10:8080/Carlos2022/Carlos2022/362535
+
 #EXTINF:-1 tvg-id="RCN Internacional" tvg-name="RCN Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rcn_nuestra_tele.png" group-title="FAMILIARES",RCN | Colombia
 http://198.27.117.10:8080/Carlos2022/Carlos2022/367805
-#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina.png" group-title="FAMILIARES",Telefe | Argentina
-http://198.27.117.10:8080/Carlos2022/Carlos2022/362541
+
 #EXTINF:-1 tvg-id="Telefuturo" tvg-name="Telefuturo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo.png" group-title="FAMILIARES",Telefuturo | Paraguay
 http://198.27.117.10:8080/Carlos2022/Carlos2022/303231
-#EXTINF:-1 tvg-id="Television Publica" tvg-name="Television Publica" tvg-logo="https://i.imgur.com/04nIdpc.png" group-title="FAMILIARES",Television Publica | Argentina
-http://198.27.117.10:8080/Carlos2022/Carlos2022/362546
+
 #EXTINF:-1 tvg-id="TLNovelas MX" tvg-name="TLNovelas MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas.png" group-title="FAMILIARES",TL Novelas | Mexico
 http://198.27.117.10:8080/Carlos2022/Carlos2022/301968
 #EXTINF:-1 tvg-id="TLNovelas Univision" tvg-name="TLNovelas Univision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision_tlnovelas.png" group-title="FAMILIARES",TL Novelas Univision | USA
