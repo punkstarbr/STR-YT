@@ -1182,14 +1182,7 @@ https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/cnbceu-origin/live_720p
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmbc-indonesia-us-id.png",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="SPORTS",TV2 Norge HD VIP NO
-http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/683263
-EXTINF:0 tvg-id="ext" group-title="SPORTS",TV 2 Sport 1 VIP NO
-http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673321
-#EXTINF:0 tvg-id="ext" group-title="SPORTS",TV 2 Sport 2 VIP NO
-http://satelliteiptv.xyz:8080/4ovvyl7n0f/23mndmred/673322
-#EXTINF:-1  tvg-id="N/A" group-title="SPORTS" tvg-logo="N/A",TV 2 Letreiros
-https://cdnapisec.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8
+
 #EXTINF:-1  tvg-id="N/A" group-title="SPORTS" tvg-logo="N/A",TVS Boxing
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="SPORTS" tvg-logo="N/A",TVS Sports (960p)
@@ -1228,14 +1221,30 @@ https://streaming.vinhafm.com.br/stream
 https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",CANAL SAÚDE
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",CANAL SAÚDE backup
-https://maestro-prd-nh.eduplay.rnp.br/route/channel10/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDEwL2luZGV4Lm0zdTg_eD0xJm09X3pIVkJJcmhUbHQ2MmF4cjJYV0t5UQ&x=1&p=0&m=fh7LHTCCBRm_yr3UWdUyuw
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",CANAL SAÚDE backup
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",CAIXÃO 1
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",CANAL SAÚDE backup
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",CAIXÃO 2
 https://wrm7jsxguc.zoeweb.tv/zw944/zw944.stream/chunklist_w228762653.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CANAIS ABERTOS" tvg-logo="N/A",TV Brasil Central
 https://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
