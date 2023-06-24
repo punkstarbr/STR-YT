@@ -1,0 +1,24 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml,http://m3u4u.com/epg/jwmzn1r57zfj346py721,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Senato Web TV 1" tvg-name="Senato Web TV 1" tvg-logo="https://webtv.senato.it/application/xmanager/projects/leg18/img/webtv/logo_senatoTV.jpg" group-title="ITALIA",Senado Italiano - CAMERA 1
+https://senato-live.morescreens.com/SENATO_1_001/1080p/chunklist.m3u8
+#EXTINF:-1 tvg-id="Senato Web TV 1" tvg-name="Senato Web TV 1" tvg-logo="https://www.radioradicale.it/sites/www.radioradicale.it/files/testata-radio-radicale-500-tiny.png" group-title="ITALIA",Camara dos Deputados - ITALIA
+https://video-ar.radioradicale.it/diretta/camera2/chunklist_w454478514.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Antena 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91176_dark_360w_270h.png" group-title="ESPAÑA",Antena 3
+http://232802178476321106.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321106.ts
+
+#EXTINF:0 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg" group-title="ESPAÑA",ES: CUATRO HD
+http://232802178476321197.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321197.ts
+
+
+#EXTINF:0 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg" group-title="ESPAÑA",ES: TELECINCO HD
+http://232802178476321430.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321430.ts
+#EXTINF:0 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg" group-title="ESPAÑA",ES: TELEDEPORTE HD
+http://232802178476387148.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/387148.ts
+#EXTINF:0 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg" group-title="ESPAÑA",ES: LA SEXTA HD
+http://232802178476321289.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321289.ts
