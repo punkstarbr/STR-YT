@@ -1,58 +1,106 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tvcg1" group-title="CRNOGORSKI" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg",RTCG 1
+
+
+
+
+#EXTINF:-1 tvg-id="tvcg1" group-title="CRNOGORSKI" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg",RTC Montenegro 1
 http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/1080.ts
-#EXTINF:-1 tvg-id="tvcg2" group-title="CRNOGORSKI" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg",RTCG 2
+
+#EXTINF:-1 tvg-id="tvcg2" group-title="CRNOGORSKI" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg",RTC Montenegro 2
 http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/2543.ts
-#EXTINF:-1 group-title="CRNOGORSKI" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg",Parlamentarni TV
+
+#EXTINF:-1 tvg-id="tvcg1" group-title="CRNOGORSKI",RTC Montenegro 1 hevc
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/11178
+
+#EXTINF:-1 tvg-id="tvcg2" tvg-name="RTCG 2" tvg-logo="http://smartntv.pro/logokanali/srb/rtcg2.png" group-title="CRNOGORSKI",RTC Montenegro 2
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6801
+
+#EXTINF:-1 group-title="CRNOGORSKI" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg",Parlamentarni TV (Montenegro)
 http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/71122.ts
-#EXTINF:-1 tvg-id="tvcg-sat" group-title="CRNOGORSKI" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg",RTCG Sat
+
+#EXTINF:-1 tvg-id="tvcg-sat" group-title="CRNOGORSKI" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg",RTC Sat (Montenegro)
 http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/71118.ts
-#EXTINF:-1 tvg-id="tv-vijesti" group-title="CRNOGORSKI" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg",TV Vijesti
+
+#EXTINF:-1 tvg-id="tv-vijesti" group-title="CRNOGORSKI" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg",TV Vijesti (Montenegro)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6802
-#EXTINF:-1 group-title="CRNOGORSKI" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg",Pink M
+
+#EXTINF:-1 group-title="CRNOGORSKI",TV NOVA M (Montenegro)
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/11179
+
+#EXTINF:-1 group-title="CRNOGORSKI",PRVA CG (Montenegro)
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/9920.ts
+
+
+#EXTINF:-1 group-title="CRNOGORSKI" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg",Pink M (Montenegro)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6436
-#EXTINF:-1 group-title="CRNOGORSKI" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg",Rozaje TV
+
+#EXTINF:-1 group-title="CRNOGORSKI" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg",Rozaje TV (Montenegro)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/28286
-#EXTINF:-1 group-title="CRNOGORSKI" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg",TV 777
+
+#EXTINF:-1 group-title="CRNOGORSKI" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg",TV 777 (Montenegro)
 http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/2770.ts
-#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1 " tvg-logo="http://smartntv.pro/logokanali/srb/rts1.png" group-title="Srbija",RTS 1
+
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1" tvg-logo="http://smartntv.pro/logokanali/srb/rts1.png" group-title="Srbija",RTS 1 (Sérvia)
 http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/39647.ts
-#EXTINF:-1 tvg-id="rts-sat" tvg-name="RTS Svet " tvg-logo="http://smartntv.pro/logokanali/srb/rtssvet.png" group-title="Srbija",RTS Svet
+
+#EXTINF:-1 tvg-id="rts-sat" tvg-name="RTS Svet" tvg-logo="http://smartntv.pro/logokanali/srb/rtssvet.png" group-title="Srbija",RTS Svet (Sérvia)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6319
-#EXTINF:-1 tvg-id="rts-kolo" tvg-name="RTS Kolo " tvg-logo="http://smartntv.pro/logokanali/srb/rtskolo.png" group-title="Srbija",RTS Kolo
+
+#EXTINF:-1 tvg-id="rts-kolo" tvg-name="RTS Kolo" tvg-logo="http://smartntv.pro/logokanali/srb/rtskolo.png" group-title="Srbija",RTS Kolo (Sérvia)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/12892
-#EXTINF:-1 tvg-id="rts-muzika" tvg-name="RTS Muzika " tvg-logo="http://smartntv.pro/logokanali/srb/rtsmuzika.png" group-title="Srbija",RTS Muzika
+
+#EXTINF:-1 tvg-id="rts-muzika" tvg-name="RTS Muzika" tvg-logo="http://smartntv.pro/logokanali/srb/rtsmuzika.png" group-title="Srbija",RTS Muzika (Sérvia)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/12893
-#EXTINF:-1 tvg-id="prva-srpska-tv" tvg-name="PrvaTV " tvg-logo="http://smartntv.pro/logokanali/srb/prvatv.png" group-title="Srbija",PrvaTV
+
+#EXTINF:-1 tvg-id="prva-srpska-tv" tvg-name="PrvaTV" tvg-logo="http://smartntv.pro/logokanali/srb/prvatv.png" group-title="Srbija",PrvaTV (Sérvia)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6320
-#EXTINF:-1 tvg-id="prva-world" tvg-name="Prva World " tvg-logo="http://smartntv.pro/logokanali/srb/prvaworld.png" group-title="Srbija",Prva World
+
+#EXTINF:-1 tvg-id="prva-world" tvg-name="Prva World" tvg-logo="http://smartntv.pro/logokanali/srb/prvaworld.png" group-title="Srbija",Prva World (Sérvia)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6324
-#EXTINF:-1 tvg-id="prva-kick" tvg-name="PRVA Kick " tvg-logo="http://smartntv.pro/logokanali/srb/prvakick.png" group-title="Srbija",PRVA Kick
+
+#EXTINF:-1 tvg-id="prva-kick" tvg-name="PRVA Kick" tvg-logo="http://smartntv.pro/logokanali/srb/prvakick.png" group-title="Srbija",PRVA Kick (Sérvia)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6325
-#EXTINF:-1 tvg-id="happytv" tvg-name="Happy TV - Rezerva" tvg-logo="http://smartntv.pro/logokanali/srb/happytv.png" group-title="Srbija",Happy TV - Rezerva
+
+
+
+
+#EXTINF:-1 tvg-id="happytv" tvg-name="Happy TV - Rezerva" tvg-logo="http://smartntv.pro/logokanali/srb/happytv.png" group-title="Srbija",Happy TV - Rezerva (Sérvia)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6328
-#EXTINF:-1 tvg-id="superstar-tv" tvg-name="SUPERSTAR " tvg-logo="http://smartntv.pro/logokanali/srb/superstartv.png" group-title="Srbija",SUPERSTAR
+
+#EXTINF:-1 tvg-id="superstar-tv" tvg-name="SUPERSTAR " tvg-logo="http://smartntv.pro/logokanali/srb/superstartv.png" group-title="Srbija",SUPERSTAR (Sérvia)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6334
-#EXTINF:-1 tvg-id="kurir-tv" tvg-name="Kurir TV " tvg-logo="http://smartntv.pro/logokanali/srb/kurirtv.png" group-title="Srbija",Kurir TV
+
+#EXTINF:-1 tvg-id="kurir-tv" tvg-name="Kurir TV " tvg-logo="http://smartntv.pro/logokanali/srb/kurirtv.png" group-title="Srbija",Kurir TV (Sérvia)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/14564
-#EXTINF:-1 tvg-id="belle-amie" tvg-name="TV BELLE AMIE " tvg-logo="http://smartntv.pro/logokanali/srb/belleamie.png" group-title="Srbija",TV BELLE AMIE
+
+#EXTINF:-1 tvg-id="belle-amie" tvg-name="TV BELLE AMIE " tvg-logo="http://smartntv.pro/logokanali/srb/belleamie.png" group-title="Srbija",TV BELLE AMIE (Sérvia)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6344
-#EXTINF:-1 tvg-id="" tvg-name="TV Jefimija " tvg-logo="http://smartntv.pro/logokanali/srb/jefimijatv.png" group-title="Srbija",TV Jefimija
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Jefimija " tvg-logo="http://smartntv.pro/logokanali/srb/jefimijatv.png" group-title="Srbija",TV Jefimija (Sérvia)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/12885
-#EXTINF:-1 tvg-id="" tvg-name="Prigorska TV TEST" tvg-logo="http://smartntv.pro/logokanali/hrv/prigorskatv.png" group-title="Hrvatska",Prigorska TV TEST
+
+#EXTINF:-1 tvg-id="" tvg-name="Prigorska TV TEST" tvg-logo="http://smartntv.pro/logokanali/hrv/prigorskatv.png" group-title="Hrvatska",Prigorska TV TEST (Croácia)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/13826
-#EXTINF:-1 tvg-id="htv1" tvg-name="Sevdah TV" tvg-logo="http://smartntv.pro/logokanali/muzik/sevdatv.png" group-title="Muzicki",Sevdah TV
+
+#EXTINF:-1 tvg-id="htv1" tvg-name="Sevdah TV" tvg-logo="http://smartntv.pro/logokanali/muzik/sevdatv.png" group-title="Muzicki",Sevdah TV (Bósnia e Herzegovina)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6764
-#EXTINF:-1 tvg-id="" tvg-name="MTV Base" tvg-logo="http://smartntv.pro/logokanali/muzik/mtbas.png" group-title="Muzicki",MTV Base
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Base" tvg-logo="http://smartntv.pro/logokanali/muzik/mtbas.png" group-title="Muzicki",MTV Base (Internacional)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6778
-#EXTINF:-1 tvg-id="htv1" tvg-name="YU Planet" tvg-logo="http://smartntv.pro/logokanali/muzik/yuplan.png" group-title="Muzicki",YU Planet
+
+#EXTINF:-1 tvg-id="htv1" tvg-name="YU Planet" tvg-logo="http://smartntv.pro/logokanali/muzik/yuplan.png" group-title="Muzicki",YU Planet (Sérvia)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6783
-#EXTINF:-1 tvg-id="htv1" tvg-name="Balkanika Music" tvg-logo="http://smartntv.pro/logokanali/muzik/balkanik.png" group-title="Muzicki",Balkanika Music
+
+#EXTINF:-1 tvg-id="htv1" tvg-name="Balkanika Music" tvg-logo="http://smartntv.pro/logokanali/muzik/balkanik.png" group-title="Muzicki",Balkanika Music (Sérvia)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6784
-#EXTINF:-1 tvg-id="" tvg-name="PinkMuzicki2" tvg-logo="http://smartntv.pro/logokanali/muzik/pinmusik2.png" group-title="Muzicki",PinkMuzicki2
+
+#EXTINF:-1 tvg-id="" tvg-name="PinkMuzicki2" tvg-logo="http://smartntv.pro/logokanali/muzik/pinmusik2.png" group-title="Muzicki",PinkMuzicki2 (Internacional)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6789
-#EXTINF:-1 tvg-id="" tvg-name="Valentino Music" tvg-logo="http://smartntv.pro/logokanali/muzik/valentinomusic.png" group-title="Muzicki",Valentino Music
+
+#EXTINF:-1 tvg-id="" tvg-name="Valentino Music" tvg-logo="http://smartntv.pro/logokanali/muzik/valentinomusic.png" group-title="Muzicki",Valentino Music (Internacional)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/20347
+
+
 #EXTINF:-1 group-title="Pink" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg",Pink Music
 http://cmsott.com:8080/Ramizahmetibsj/QkBumXynDNW3/13369
 #EXTINF:-1 group-title="Pink" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg",Pink hits
@@ -527,36 +575,51 @@ http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6970
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6975
 #EXTINF:-1 tvg-id="" tvg-name="US: CBS drama" tvg-logo="http://195.154.191.246/logo_channels/cbs_drama_uk.png" group-title="UK & USA",US: CBS drama
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6981
-#EXTINF:-1 tvg-id="CNNTURK" tvg-name=" Turkey " tvg-logo="http://195.154.191.246/logo_channels/trk_seym.png" group-title="Turski",Turkey
+#EXTINF:-1 tvg-id="CNNTURK" tvg-name=" Turkey " tvg-logo="http://195.154.191.246/logo_channels/trk_seym.png" group-title="Turski",Turkey (Turquia)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/7002
-#EXTINF:-1 tvg-id="star-tv" tvg-name="Superstar 2 " tvg-logo="http://smartntv.pro/logokanali/srb/superstar2.png" group-title="Srbija",Superstar 2
+
+#EXTINF:-1 tvg-id="star-tv" tvg-name="Superstar 2 " tvg-logo="http://smartntv.pro/logokanali/srb/superstar2.png" group-title="Srbija",Superstar 2 (Sérvia)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/7015
-#EXTINF:-1 tvg-id="htv1" tvg-name="TRT Turk" tvg-logo="http://smartntv.pro:25461/images/94e00b89a6da072e800b132b190efa72.png" group-title="Turski",TRT Turk
+
+#EXTINF:-1 tvg-id="htv1" tvg-name="TRT Turk" tvg-logo="http://smartntv.pro:25461/images/94e00b89a6da072e800b132b190efa72.png" group-title="Turski",TRT Turk (Turquia)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/7018
-#EXTINF:-1 tvg-id="FRANCE3" tvg-name="France" tvg-logo="http://smartntv.pro/logokanali/francuz/france.png" group-title="France",France
+
+#EXTINF:-1 tvg-id="FRANCE3" tvg-name="France" tvg-logo="http://smartntv.pro/logokanali/francuz/france.png" group-title="France",France (França)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/7034
-#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="http://smartntv.pro/logokanali/francuz/tf1.png" group-title="France",TF1
+
+#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="http://smartntv.pro/logokanali/francuz/tf1.png" group-title="France",TF1 (França)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/7041
-#EXTINF:-1 tvg-id="slo1" tvg-name="SLO 1" tvg-logo="http://smartntv.pro/logokanali/slov/slo1.png" group-title="Slovenia",SLO 1
+
+#EXTINF:-1 tvg-id="slo1" tvg-name="SLO 1" tvg-logo="http://smartntv.pro/logokanali/slov/slo1.png" group-title="Slovenia",SLO 1 (Eslovênia)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/7055
-#EXTINF:-1 tvg-id="slo3" tvg-name="SLO 3" tvg-logo="http://smartntv.pro/logokanali/slov/slo3.png" group-title="Slovenia",SLO 3
+
+#EXTINF:-1 tvg-id="slo3" tvg-name="SLO 3" tvg-logo="http://smartntv.pro/logokanali/slov/slo3.png" group-title="Slovenia",SLO 3 (Eslovênia)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/7057
-#EXTINF:-1 tvg-id="" tvg-name="Netherlands" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg" group-title="Netherlands",Netherlands
+
+#EXTINF:-1 tvg-id="" tvg-name="Netherlands" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg" group-title="Netherlands",Netherlands (Países Baixos)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/7068
-#EXTINF:-1 tvg-id="" tvg-name="NL: Film Action" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg" group-title="Netherlands",NL: Film Action
+
+#EXTINF:-1 tvg-id="" tvg-name="NL: Film Action" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg" group-title="Netherlands",NL: Film Action (Países Baixos)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/7077
-#EXTINF:-1 tvg-id="" tvg-name="NL: Film Drama" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg" group-title="Netherlands",NL: Film Drama
+
+#EXTINF:-1 tvg-id="" tvg-name="NL: Film Drama" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg" group-title="Netherlands",NL: Film Drama (Países Baixos)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/7078
-#EXTINF:-1 tvg-id="" tvg-name="NL: NET5" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg" group-title="Netherlands",NL: NET5
+
+#EXTINF:-1 tvg-id="" tvg-name="NL: NET5" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg" group-title="Netherlands",NL: NET5 (Países Baixos)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/7080
-#EXTINF:-1 tvg-id="" tvg-name="Danska" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg" group-title="Danska",Danska
+
+#EXTINF:-1 tvg-id="" tvg-name="Danska" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg" group-title="Danska",Danska (Dinamarca)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/12947
-#EXTINF:-1 tvg-id="" tvg-name="DK: TV 2 News HD" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg" group-title="Danska",DK: TV 2 News HD
+
+#EXTINF:-1 tvg-id="" tvg-name="DK: TV 2 News HD" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg" group-title="Danska",DK: TV 2 News HD (Dinamarca)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/12942
-#EXTINF:-1 tvg-id="" tvg-name="DK: Viasat Film Premiere" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg" group-title="Danska",DK: Viasat Film Premiere
+
+#EXTINF:-1 tvg-id="" tvg-name="DK: Viasat Film Premiere" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg" group-title="Danska",DK: Viasat Film Premiere (Dinamarca)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/12935
-#EXTINF:-1 tvg-id="" tvg-name="RMC Story" tvg-logo="http://smartntv.pro/logokanali/francuz/rmcstory.png" group-title="France",RMC Story
+
+#EXTINF:-1 tvg-id="" tvg-name="RMC Story" tvg-logo="http://smartntv.pro/logokanali/francuz/rmcstory.png" group-title="France",RMC Story (França)
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/13091
+
 #EXTINF:-1 tvg-id="" tvg-name="Animaux" tvg-logo="http://smartntv.pro/logokanali/francuz/animaux.png" group-title="France",Animaux
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/13097
 #EXTINF:-1 tvg-id="" tvg-name="RTV Drenthe" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_2023q2/v2/192px.svg" group-title="Netherlands",RTV Drenthe
