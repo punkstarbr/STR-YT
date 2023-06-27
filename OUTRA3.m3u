@@ -11,10 +11,8 @@ https://live.info7.mx/info7/stream.m3u8
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="XHXTDT1.mx",Las Estrellas-HD (XHX-TDT1) (480p)
 http://190.61.102.67:2000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="XHXTDT1.mx",IMAGEN
-http://190.61.102.67:2000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="XHXTDT1.mx",AZTECA7
-http://190.61.102.67:2000/play/a00i/index.m3u8
+
+
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx",Las Estrellas Latin America (1080p)
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
@@ -35,6 +33,9 @@ http://pe.shortgod.com/lord20/tv1.php?id=2608
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="ImagenTV.mx" tvg-logo="https://i.imgur.com/KtkDzh5.png" group-title="MEXICO",3.1 Imagen TV
 http://pe.shortgod.com/lord20/tv10.php?id=32403
+
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="ImagenTV.mx" tvg-logo="https://i.imgur.com/KtkDzh5.png" group-title="MEXICO",3.1 Imagen TV
+http://190.61.102.67:2000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="Excelsior Television" tvg-name="Excelsior Television" tvg-logo="https://imagenes.gatotv.com/logos/canales/excelsior_tv.png" group-title="MEXICO",3.4 Excelsior  Television
 http://pe.shortgod.com/lord20/tv10.php?id=10790
@@ -59,6 +60,9 @@ https://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
 
 #EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7.png" group-title="MEXICO",7.1 Azteca 7 op
 http://pe.shortgod.com/lord20/tv10.php?id=16514
+
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7.png" group-title="MEXICO",7.1 Azteca 7 op
+http://190.61.102.67:2000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="A Mas" tvg-name="A Mas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_mas.png" group-title="MEXICO",7.2 A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
