@@ -1,6 +1,12 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
 
+#EXTINF:-1 tvg-id="",N+ Media-Televisa News México (1080p)
+https://channel07-notusa.akamaized.net/hls/live/2036971-b/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="XHFNTDT1.mx",TV Azteca Noroeste (Monterrey) (720p)
+https://live.info7.mx/info7/stream.m3u8
+
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx",Las Estrellas Latin America (720p)
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="XHXTDT1.mx",Las Estrellas-HD (XHX-TDT1) (480p)
