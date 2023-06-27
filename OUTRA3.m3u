@@ -11,6 +11,10 @@ https://live.info7.mx/info7/stream.m3u8
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="XHXTDT1.mx",Las Estrellas-HD (XHX-TDT1) (480p)
 http://190.61.102.67:2000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="XHXTDT1.mx",IMAGEN
+http://190.61.102.67:2000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="XHXTDT1.mx",AZTECA7
+http://190.61.102.67:2000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx",Las Estrellas Latin America (1080p)
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
