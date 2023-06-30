@@ -78,6 +78,9 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Once" tvg-name="Canal Once" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico.png" group-title="MEXICO",11.1 Once de Mexico
 http://pe.shortgod.com/miguel2023/tv10.php?id=19660
 
+#EXTINF:-1 tvg-id="Canal Once" tvg-name="Canal Once" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico.png" group-title="MEXICO",11.1 Once de Mexico
+http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52476.ts
+
 #EXTINF:-1 tvg-id="Onceninos.mx" tvg-name="Onceninos.mx" tvg-logo="https://onceninos.tv/wp-content/uploads/2018/04/Banner-logos-1-e1523046191844.png" group-title="MEXICO",11.2 Once Ninas y Ninos
 http://pe.shortgod.com/miguel2023/tv10.php?id=3142
 
