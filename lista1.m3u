@@ -86,7 +86,7 @@ http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 https://5a2b083e9f360.streamlock.net/usbrasiltv/usbrasiltv.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",UNIVISION 24/7
-https://dcs3-live.mp.lura.live/server/podserve/0MqnqghkvXVNIEm0/manifest.m3u8
+https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", TELEMUNDO
 #EXTVLCOPT:http-user-agent=Firefox
