@@ -85,8 +85,7 @@ http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="usbrtv" tvg-name="USBR TV" tvg-logo="https://www.usbrtv.com/wp-content/uploads/2022/05/logo-white.png", USBRTV - AO VIVO
 https://5a2b083e9f360.streamlock.net/usbrasiltv/usbrasiltv.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-logo="https://nuestravision.tv/wp-content/uploads/2019/03/NuestraVision_Logo_Final_Color_Horizontal_20180902_01-opt-e1578594383281.png", NUESTRA VISION
-https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",UNIVISION 24/7
 https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
@@ -108,7 +107,7 @@ http://hidra.live:80/rbkhihvo/tBoBv15r69/35152
 #EXT-X-VERSION:3
 http://hidra.live:80/rbkhihvo/tBoBv15r69/35153
 
-#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", UNIMÁS
+#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", UNIVISION 2 
 #EXTVLCOPT:http-referrer=https://www.mediaset.es/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:referrer=https://www.mediaset.es/
@@ -120,18 +119,9 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25337
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
 
+#EXTINF:-1 group-title="USA" tvg-logo="https://nuestravision.tv/wp-content/uploads/2019/03/NuestraVision_Logo_Final_Color_Horizontal_20180902_01-opt-e1578594383281.png", NUESTRA VISION
+https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I572.49141.zap2it.com" group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/mtv.png",US: MTV Live HD
-http://hidra.live:80/usvhppwq/4C3D7fuen2/43651
-#EXTINF:-1 tvg-id="I336.22561.zap2it.com" group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/mtv.png",US: MTV Classic SD
-http://hidra.live:80/usvhppwq/4C3D7fuen2/43650
-
-#EXTINF:-1 tvg-id="I429.66419.schedulesdirect.org" group-title="US CHANNELS" tvg-logo="https://img.tvcl.xyz/usa/mtv.png",US: MTV U SD
-http://hidra.live:80/usvhppwq/4C3D7fuen2/43652
-
-
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="ARGENTINA", TV Pública Argentina
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 
 
