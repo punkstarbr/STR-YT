@@ -68,11 +68,7 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/303684
 #EXTM3U x-tvg-url="https://github.com/pendy99/iptv-epg/raw/main/epg.xml.gz"
 
 
-#EXTINF:0 tvg-logo="https://www.tvs.st/views/assets/images/TVS.png",Televisão Nacional de São Tomé e Príncipe
-https://tvsonlin.com/hls/tvs.m3u8
 
-#EXTINF:0 tvg-logo="http://live.rttlep.tl/img/og_video.png",Timor-Leste RTV
-http://live.rttlep.tl:1935/live/myStream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://online.tvm.co.mz/site/public/images/live.jpg",Televisão Pública de Moçambique
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
