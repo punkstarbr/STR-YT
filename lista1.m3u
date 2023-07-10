@@ -97,11 +97,13 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25340
 #EXT-X-VERSION:3
 http://hidra.live:80/rbkhihvo/tBoBv15r69/35152
 
-#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", UNIVISION
-#EXT-X-PROGRAM-DATE-TIME:2023-02-20T07:45:00Z
-#EXT-X-TARGETDURATION:5400
-#EXT-X-VERSION:3
-http://hidra.live:80/rbkhihvo/tBoBv15r69/35153
+#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",TELEMUNDO 3
+#EXTVLCOPT:http-referrer=https://www.mediaset.es/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:referrer=https://www.mediaset.es/
+#EXTVLCOPT:player-continuous-http
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25340
+
 
 #EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", UNIVISION 2 
 #EXTVLCOPT:http-referrer=https://www.mediaset.es/
@@ -110,6 +112,33 @@ http://hidra.live:80/rbkhihvo/tBoBv15r69/35153
 #EXTVLCOPT:player-continuous-http
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25337
 
+
+#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", UNIVISION
+#EXT-X-PROGRAM-DATE-TIME:2023-02-20T07:45:00Z
+#EXT-X-TARGETDURATION:5400
+#EXT-X-VERSION:3
+http://hidra.live:80/rbkhihvo/tBoBv15r69/35153
+
+#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",TUDN
+#EXTVLCOPT:http-referrer=https://www.mediaset.es/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:referrer=https://www.mediaset.es/
+#EXTVLCOPT:player-continuous-http
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25338
+
+#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",UNIMÁS
+#EXTVLCOPT:http-referrer=https://www.mediaset.es/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:referrer=https://www.mediaset.es/
+#EXTVLCOPT:player-continuous-http
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25339
+
+#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",FOX DEPORTES
+#EXTVLCOPT:http-referrer=https://www.mediaset.es/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:referrer=https://www.mediaset.es/
+#EXTVLCOPT:player-continuous-http
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25341
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png", CANAL 57 USA
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
