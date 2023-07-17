@@ -31,7 +31,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645505747
 
 
 
-
 #EXTM3U #EXTINF:-1 channel-id="pluto-6320ddef274b1b0007b2ee88" tvg-id="6320ddef274b1b0007b2ee88" tvg-chno="141" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" group-title="Reality Show's Live" , Reviví Gran Hermano
 #EXTM3U https://i.mjh.nz/PlutoTV/6320ddef274b1b0007b2ee88-alt.m3u8
 #EXTM3U #EXTINF:-1 group-title="Reality Show's Live",GRANDE IRMÃO ARGENTINA
@@ -80,6 +79,8 @@ http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6420
 https://csm-e-n7aus-eb.tls1.yospace.com/csm/extlive/sevenprd01,CAS07.m3u8
 #EXTINF:-1 group-title="Reality Show's Live",WHO WANT BE A MULHER DO FAZENDEIRO AUSTRALIA (VPN)
 https://csm-e-n7aus-eb.tls1.yospace.com/csm/extlive/sevenprd01,CAS14.m3u8
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Big%20Brother.png",BIG BROTHER ISRAEL (VPN)
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
 #EXTINF:-1 group-title="Reality Show's Live"  tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/focal-860x484/public/images/promo/livestreams/2023/01/17/lcdlf2_espia_24horas_hd_0.png?ramen_itok=iqwQftIcTf",BIG BROTHER MÉXICO/USA
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM1.m3u8
 #EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/focal-860x484/public/images/promo/livestreams/2023/01/17/lcdlf2_espia_24horas_hd_0.png?ramen_itok=iqwQftIcTf",BIG BROTHER MÉXICO/USA
