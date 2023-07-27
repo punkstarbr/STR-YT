@@ -1302,21 +1302,28 @@ http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_Shif
 #EXTINF:0 group-title="CHINA",巴中综合 (1080p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
-#EXTINF:0 group-title="CHINA",平乡电视台 (576p)
+
+
+#EXTINF:0 tvg-id="pingxiang" tvg-logo="link_do_logo_pingxiang" group-title="CHINA", 平乡电视台 (576p)
 #EXTVLCOPT:network-caching=1000
 http://hbpx.chinashadt.com:2036/live/px1.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",广东 ‖ 清新综合台 (1080p)
+
+#EXTINF:0 tvg-id="guangdong_qingxin" tvg-logo="link_do_logo_qingxin" group-title="CHINA", 广东 ‖ 清新综合台 (1080p)
 #EXTVLCOPT:network-caching=1000
 http://hls.wiseqx.com/live/qxzh.m3u8
-#EXTINF:0 group-title="CHINA",广东 Ⅰ 潮安综合 (360p)
+
+#EXTINF:0 tvg-id="guangdong_chaoan" tvg-logo="link_do_logo_chaoan" group-title="CHINA", 广东 Ⅰ 潮安综合 (360p)
 #EXTVLCOPT:network-caching=1000
 http://chaoan.chaoantv.com:8278/chaoanzonghe/playlist.m3u8
-#EXTINF:0 group-title="CHINA",广东 Ⅰ 韶关公共台 (720p) [Not 24/7]
+
+#EXTINF:0 tvg-id="guangdong_shaoguang_gonggong" tvg-logo="link_do_logo_shaoguang_gonggong" group-title="CHINA", 广东 Ⅰ 韶关公共台 (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
-#EXTINF:0 group-title="CHINA",广东 Ⅰ 韶关综合台 (720p) [Not 24/7]
+
+#EXTINF:0 tvg-id="guangdong_shaoguang_zonghe" tvg-logo="link_do_logo_shaoguang_zonghe" group-title="CHINA", 广东 Ⅰ 韶关综合台 (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+
 #EXTINF:0 group-title="CHINA",广东体育 (576p) [Timeout]
 #EXTVLCOPT:network-caching=1000
 http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=20&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
@@ -1332,39 +1339,52 @@ http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_Shif
 #EXTINF:0 group-title="CHINA",广东卫视 (1080p)
 #EXTVLCOPT:network-caching=1000
 http://112.25.48.68/live/program/live/gdwshd/4000000/mnf.m3u8
-#EXTINF:0 group-title="CHINA",广东卫视 (1080p)
+#EXTM3U
+
+#EXTINF:0 tvg-id="guangdong_weishi" tvg-logo="link_do_logo_guangdong_weishi" group-title="CHINA", 广东卫视 (1080p) - Guangdong TV (1080p)
 #EXTVLCOPT:network-caching=1000
 http://183.207.248.71/cntv/live1/HD-2500k-1080P-guangdongstv/HD-2500k-1080P-guangdongstv
-#EXTINF:0 group-title="CHINA",广东卫视 (1080p)
+
+#EXTINF:0 tvg-id="guangdong_weishi" tvg-logo="link_do_logo_guangdong_weishi" group-title="CHINA", 广东卫视 (1080p) - Guangdong TV (1080p)
 #EXTVLCOPT:network-caching=1000
 http://223.110.245.172/PLTV/4/224/3221227399/index.m3u8
-#EXTINF:0 group-title="CHINA",广东卫视 (1080p)
+
+#EXTINF:0 tvg-id="guangdong_weishi" tvg-logo="link_do_logo_guangdong_weishi" group-title="CHINA", 广东卫视 (1080p) - Guangdong TV (1080p)
 #EXTVLCOPT:network-caching=1000
 http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
-#EXTINF:0 group-title="CHINA",广东卫视 (1080p)
+
+#EXTINF:0 tvg-id="guangdong_weishi" tvg-logo="link_do_logo_guangdong_weishi" group-title="CHINA", 广东卫视 (1080p) - Guangdong TV (1080p)
 #EXTVLCOPT:network-caching=1000
 http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
-#EXTINF:0 group-title="CHINA",广东卫视 (1080p) [Timeout]
+
+#EXTINF:0 tvg-id="guangdong_weishi" tvg-logo="link_do_logo_guangdong_weishi" group-title="CHINA", 广东卫视 (1080p) - Guangdong TV (1080p) [Timeout]
 #EXTVLCOPT:network-caching=1000
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=43&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:0 group-title="CHINA",广东卫视 (1080p) [Timeout]
+
+#EXTINF:0 tvg-id="guangdong_weishi" tvg-logo="link_do_logo_guangdong_weishi" group-title="CHINA", 广东卫视 (1080p) - Guangdong TV (1080p) [Timeout]
 #EXTVLCOPT:network-caching=1000
 http://223.110.243.136/PLTV/3/224/3221227249/index.m3u8
-#EXTINF:0 group-title="CHINA",广东卫视 (1080p) [Timeout]
+
+#EXTINF:0 tvg-id="guangdong_weishi" tvg-logo="link_do_logo_guangdong_weishi" group-title="CHINA", 广东卫视 (1080p) - Guangdong TV (1080p) [Timeout]
 #EXTVLCOPT:network-caching=1000
 http://223.110.245.170/PLTV/3/224/3221227249/index.m3u8
-#EXTINF:0 group-title="CHINA",广东卫视 (1080p) [Timeout]
+
+#EXTINF:0 tvg-id="guangdong_weishi" tvg-logo="link_do_logo_guangdong_weishi" group-title="CHINA", 广东卫视 (1080p) - Guangdong TV (1080p) [Timeout]
 #EXTVLCOPT:network-caching=1000
 http://223.110.254.195:6610/cntv/live1/HD-2500k-1080P-guangdongstv/HD-2500k-1080P-guangdongstv/1.m3u8
-#EXTINF:0 group-title="CHINA",广东嘉佳卡通 (576p) [Timeout]
+
+#EXTINF:0 tvg-id="guangdong_jiajiakatong" tvg-logo="link_do_logo_guangdong_jiajiakatong" group-title="CHINA", 广东嘉佳卡通 (576p) [Timeout]
 #EXTVLCOPT:network-caching=1000
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=130&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:0 group-title="CHINA",广东少儿 (576p) [Timeout]
+
+#EXTINF:0 tvg-id="guangdong_shaoyer" tvg-logo="link_do_logo_guangdong_shaoyer" group-title="CHINA", 广东少儿 (576p) [Timeout]
 #EXTVLCOPT:network-caching=1000
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=83&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:0 group-title="CHINA",广东影视 (576p) [Not 24/7]
+
+#EXTINF:0 tvg-id="guangdong_yingshi" tvg-logo="link_do_logo_guangdong_yingshi" group-title="CHINA", 广东影视 (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=86&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+
 #EXTINF:0 group-title="CHINA",广东新闻 (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=84&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
