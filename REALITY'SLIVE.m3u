@@ -3,6 +3,28 @@
 
 
 
+#EXTINF:-1 tvg-id="64a766cd798def0008734695" tvg-name="Big Brother Quad View" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG.png" group-title="Big Brother Live" tvg-chno="975", Big Brother Quad View
+https://stitcher.pluto.tv/stitch/hls/channel/64a766cd798def0008734695/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89e01bb7-336a-11ee-9e1a-c634ae62b640
+#EXTINF:-1 tvg-id="64a765c04ea480000823917a" tvg-name="Big Brother Camera 1" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG.png" group-title="Big Brother Live" tvg-chno="976", Big Brother Camera 1
+https://stitcher.pluto.tv/stitch/hls/channel/64a765c04ea480000823917a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89e01bb7-336a-11ee-9e1a-c634ae62b640
+#EXTINF:-1 tvg-id="64a765fb798def0008734632" tvg-name="Big Brother Camera 2" tvg-logo="https://images.pluto.tv/channels/64a765fb798def0008734632/colorLogoPNG.png" group-title="Big Brother Live" tvg-chno="977", Big Brother Camera 2
+https://stitcher.pluto.tv/stitch/hls/channel/64a765fb798def0008734632/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89e01bb7-336a-11ee-9e1a-c634ae62b640
+#EXTINF:-1 tvg-id="64a7665b902f2300085d7901" tvg-name="Big Brother Camera 3" tvg-logo="https://images.pluto.tv/channels/64a7665b902f2300085d7901/colorLogoPNG.png" group-title="Big Brother Live" tvg-chno="978", Big Brother Camera 3
+https://stitcher.pluto.tv/stitch/hls/channel/64a7665b902f2300085d7901/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89e01bb7-336a-11ee-9e1a-c634ae62b640
+#EXTINF:-1 tvg-id="64a766a794635e0008626601" tvg-name="Big Brother Camera 4" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/colorLogoPNG.png" group-title="Big Brother Live" tvg-chno="979", Big Brother Camera 4
+https://stitcher.pluto.tv/stitch/hls/channel/64a766a794635e0008626601/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89e01bb7-336a-11ee-9e1a-c634ae62b640
+
+#EXTINF:-1 tvg-id="64a7665b902f2300085d7901" tvg-logo="https://images.pluto.tv/channels/64a7665b902f2300085d7901/colorLogoPNG.png" group-title="Big Brother Live",Big Brother Camera 3
+https://i.mjh.nz/PlutoTV/64a7665b902f2300085d7901-alt.m3u8
+#EXTINF:-1 tvg-id="64a765fb798def0008734632" tvg-logo="https://images.pluto.tv/channels/64a765fb798def0008734632/colorLogoPNG.png" group-title="Big Brother Live",Big Brother Camera 2
+https://i.mjh.nz/PlutoTV/64a765fb798def0008734632-alt.m3u8
+#EXTINF:-1 tvg-id="64a766cd798def0008734695" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG.png" group-title="Big Brother Live",Big Brother Quad View
+https://i.mjh.nz/PlutoTV/64a766cd798def0008734695-alt.m3u8
+#EXTINF:-1 tvg-id="64a765c04ea480000823917a" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG.png" group-title="Big Brother Live",Big Brother Camera 1
+https://i.mjh.nz/PlutoTV/64a765c04ea480000823917a-alt.m3u8
+#EXTINF:-1 tvg-id="64a766a794635e0008626601" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/colorLogoPNG.png" group-title="Big Brother Live",Big Brother Camera 4
+https://i.mjh.nz/PlutoTV/64a766a794635e0008626601-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/thumbnail.jpg",BBUSA CAMERA MOSAICO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64a766cd798def0008734695/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
