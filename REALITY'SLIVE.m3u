@@ -3,27 +3,29 @@
 
 
 
-#EXTINF:-1 tvg-id="64a766cd798def0008734695" tvg-name="Big Brother Quad View" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG.png" group-title="Big Brother Live" tvg-chno="975", Big Brother Quad View
+#EXTINF:-1 tvg-id="64a766cd798def0008734695" tvg-name="Big Brother Quad View" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG.png" group-title="Big Brother Live" tvg-chno="975", Big Brother US Quad View
 https://stitcher.pluto.tv/stitch/hls/channel/64a766cd798def0008734695/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89e01bb7-336a-11ee-9e1a-c634ae62b640
-#EXTINF:-1 tvg-id="64a765c04ea480000823917a" tvg-name="Big Brother Camera 1" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG.png" group-title="Big Brother Live" tvg-chno="976", Big Brother Camera 1
+#EXTINF:-1 tvg-id="64a765c04ea480000823917a" tvg-name="Big Brother Camera 1" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG.png" group-title="Big Brother Live" tvg-chno="976", Big Brother US Camera 1
 https://stitcher.pluto.tv/stitch/hls/channel/64a765c04ea480000823917a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89e01bb7-336a-11ee-9e1a-c634ae62b640
-#EXTINF:-1 tvg-id="64a765fb798def0008734632" tvg-name="Big Brother Camera 2" tvg-logo="https://images.pluto.tv/channels/64a765fb798def0008734632/colorLogoPNG.png" group-title="Big Brother Live" tvg-chno="977", Big Brother Camera 2
+#EXTINF:-1 tvg-id="64a765fb798def0008734632" tvg-name="Big Brother Camera 2" tvg-logo="https://images.pluto.tv/channels/64a765fb798def0008734632/colorLogoPNG.png" group-title="Big Brother Live" tvg-chno="977", Big Brother US Camera 2
 https://stitcher.pluto.tv/stitch/hls/channel/64a765fb798def0008734632/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89e01bb7-336a-11ee-9e1a-c634ae62b640
-#EXTINF:-1 tvg-id="64a7665b902f2300085d7901" tvg-name="Big Brother Camera 3" tvg-logo="https://images.pluto.tv/channels/64a7665b902f2300085d7901/colorLogoPNG.png" group-title="Big Brother Live" tvg-chno="978", Big Brother Camera 3
+#EXTINF:-1 tvg-id="64a7665b902f2300085d7901" tvg-name="Big Brother Camera 3" tvg-logo="https://images.pluto.tv/channels/64a7665b902f2300085d7901/colorLogoPNG.png" group-title="Big Brother Live" tvg-chno="978", Big Brother USCamera 3
 https://stitcher.pluto.tv/stitch/hls/channel/64a7665b902f2300085d7901/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89e01bb7-336a-11ee-9e1a-c634ae62b640
-#EXTINF:-1 tvg-id="64a766a794635e0008626601" tvg-name="Big Brother Camera 4" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/colorLogoPNG.png" group-title="Big Brother Live" tvg-chno="979", Big Brother Camera 4
+#EXTINF:-1 tvg-id="64a766a794635e0008626601" tvg-name="Big Brother Camera 4" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/colorLogoPNG.png" group-title="Big Brother Live" tvg-chno="979", Big Brother US Camera 4
 https://stitcher.pluto.tv/stitch/hls/channel/64a766a794635e0008626601/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89e01bb7-336a-11ee-9e1a-c634ae62b640
 
-#EXTINF:-1 tvg-id="64a7665b902f2300085d7901" tvg-logo="https://images.pluto.tv/channels/64a7665b902f2300085d7901/colorLogoPNG.png" group-title="Big Brother Live",Big Brother Camera 3
-https://i.mjh.nz/PlutoTV/64a7665b902f2300085d7901-alt.m3u8
-#EXTINF:-1 tvg-id="64a765fb798def0008734632" tvg-logo="https://images.pluto.tv/channels/64a765fb798def0008734632/colorLogoPNG.png" group-title="Big Brother Live",Big Brother Camera 2
-https://i.mjh.nz/PlutoTV/64a765fb798def0008734632-alt.m3u8
-#EXTINF:-1 tvg-id="64a766cd798def0008734695" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG.png" group-title="Big Brother Live",Big Brother Quad View
+#EXTINF:-1 tvg-id="64a766cd798def0008734695" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG.png" group-title="Big Brother Live",Big Brother USA Quad View
 https://i.mjh.nz/PlutoTV/64a766cd798def0008734695-alt.m3u8
-#EXTINF:-1 tvg-id="64a765c04ea480000823917a" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG.png" group-title="Big Brother Live",Big Brother Camera 1
+#EXTINF:-1 tvg-id="64a765c04ea480000823917a" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG.png" group-title="Big Brother Live",Big Brother USA Camera 1
 https://i.mjh.nz/PlutoTV/64a765c04ea480000823917a-alt.m3u8
-#EXTINF:-1 tvg-id="64a766a794635e0008626601" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/colorLogoPNG.png" group-title="Big Brother Live",Big Brother Camera 4
+#EXTINF:-1 tvg-id="64a765fb798def0008734632" tvg-logo="https://images.pluto.tv/channels/64a765fb798def0008734632/colorLogoPNG.png" group-title="Big Brother Live",Big Brother USA Camera 2
+https://i.mjh.nz/PlutoTV/64a765fb798def0008734632-alt.m3u8
+#EXTINF:-1 tvg-id="64a7665b902f2300085d7901" tvg-logo="https://images.pluto.tv/channels/64a7665b902f2300085d7901/colorLogoPNG.png" group-title="Big Brother Live",Big Brother USA Camera 3
+https://i.mjh.nz/PlutoTV/64a7665b902f2300085d7901-alt.m3u8
+
+#EXTINF:-1 tvg-id="64a766a794635e0008626601" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/colorLogoPNG.png" group-title="Big Brother Live",Big Brother USA Camera 4
 https://i.mjh.nz/PlutoTV/64a766a794635e0008626601-alt.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/thumbnail.jpg",BBUSA CAMERA MOSAICO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64a766cd798def0008734695/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -137,16 +139,10 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_6fr5xb
 http://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
 #EXTM3U https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_l38msgjy/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:-1 group-title="Reality Show's Live"  tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/focal-860x484/public/images/promo/livestreams/2023/01/17/lcdlf2_espia_24horas_hd_0.png?ramen_itok=iqwQftIcTf",BIG BROTHER MÉXICO/USA
-https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM1.m3u8
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/focal-860x484/public/images/promo/livestreams/2023/01/17/lcdlf2_espia_24horas_hd_0.png?ramen_itok=iqwQftIcTf",BIG BROTHER MÉXICO/USA
-https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM2.m3u8
-#EXTINF:-1 group-title="Reality Show's Live"  tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/focal-860x484/public/images/promo/livestreams/2023/01/17/lcdlf2_espia_24horas_hd_0.png?ramen_itok=iqwQftIcTf",BIG BROTHER MÉXICO/USA
-https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM3.m3u8
+
 #EXTINF:-1 group-title="Reality Show's Live"  tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/63ecfd7e0cf28f3e15cc3929/",TVI REALITY
 https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zadruga Live" tvg-logo="http://smartntv.pro/logokanali/pink/zadruga1.png" group-title="Reality Show's Live",Zadruga Live
-http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6455
+
 
 
 #EXTINF:-1 group-title="Reality Show's Live", Farma Sérvia
