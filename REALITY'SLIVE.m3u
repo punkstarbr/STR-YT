@@ -77,15 +77,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645505747
 
 #EXTM3U #EXTINF:-1 channel-id="pluto-6320ddef274b1b0007b2ee88" tvg-id="6320ddef274b1b0007b2ee88" tvg-chno="141" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" group-title="Reality Show's Live" , Reviví Gran Hermano
 #EXTM3U https://i.mjh.nz/PlutoTV/6320ddef274b1b0007b2ee88-alt.m3u8
-#EXTM3U #EXTINF:-1 group-title="Reality Show's Live",GRANDE IRMÃO ARGENTINA
-#EXTM3U https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=92354ee5960d42cc83bc9c752d1ae131&deviceLat=-33.4521&deviceLon=-70.6536&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=VE&sid=6ff5abff005d11ee8946244bfeb7ece3&userId=
+
 
 
 #EXTINF:-1 group-title="Reality Show's Live",MTV ESPANHOL
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6130d6f3f3f7bb0007dbd092/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=7316f04a-ca23-343c-b583-81bed2cd4e2f&clientModelNumber=na&country=ES&deviceDNT=false&deviceId=7316f04a-ca23-343c-b583-81bed2cd4e2f&deviceLat=41.1185&deviceLon=1.2540&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=ES&serverSideAds=true&sessionID=7316f04a-ca23-343c-b583-81bed2cd4e2f&sid=7316f04a-ca23-343c-b583-81bed2cd4e2f&userId=|user-agent=okhttp/4.9.0&x-forwarded-for=88.26.241.248
 
-#EXTINF:-1 group-title="Reality Show's Live",CANAL 3 ITALIA
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/60940ebad67fd900072382db/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=7316f04a-ca23-343c-b583-81bed2cd4e2f&clientModelNumber=na&country=IT&deviceDNT=false&deviceId=7316f04a-ca23-343c-b583-81bed2cd4e2f&deviceLat=43.7089&deviceLon=10.4087&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=IT&serverSideAds=true&sessionID=7316f04a-ca23-343c-b583-81bed2cd4e2f&sid=7316f04a-ca23-343c-b583-81bed2cd4e2f&userId=|user-agent=okhttp/4.9.0&x-forwarded-for=131.114.130.239
+
 
 
 
