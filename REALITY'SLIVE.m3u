@@ -3,12 +3,6 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
 
-#EXTINF:-1 tvg-id="64a766cd798def0008734695" tvg-name="Big Brother Quad View" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG.png" group-title="Big Brother Live" tvg-chno="975", Big Brother US Quad View
-https://stitcher.pluto.tv/stitch/hls/channel/64a766cd798def0008734695/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89e01bb7-336a-11ee-9e1a-c634ae62b640
-#EXTINF:-1 tvg-id="64a765c04ea480000823917a" tvg-name="Big Brother Camera 1" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG.png" group-title="Big Brother Live" tvg-chno="976", Big Brother US Camera 1
-https://stitcher.pluto.tv/stitch/hls/channel/64a765c04ea480000823917a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89e01bb7-336a-11ee-9e1a-c634ae62b640
-
-
 #EXTINF:-1 tvg-id="64a766cd798def0008734695" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG.png" group-title="Big Brother Live",Big Brother USA Quad View
 https://i.mjh.nz/PlutoTV/64a766cd798def0008734695-alt.m3u8
 #EXTINF:-1 tvg-id="64a765c04ea480000823917a" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG.png" group-title="Big Brother Live",Big Brother USA Camera 1
