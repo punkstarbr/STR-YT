@@ -77,8 +77,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645505747
 
 
 
-#EXTINF:-1 group-title="Reality Show's Live",MTV ESPANHOL
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6130d6f3f3f7bb0007dbd092/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=7316f04a-ca23-343c-b583-81bed2cd4e2f&clientModelNumber=na&country=ES&deviceDNT=false&deviceId=7316f04a-ca23-343c-b583-81bed2cd4e2f&deviceLat=41.1185&deviceLon=1.2540&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=ES&serverSideAds=true&sessionID=7316f04a-ca23-343c-b583-81bed2cd4e2f&sid=7316f04a-ca23-343c-b583-81bed2cd4e2f&userId=|user-agent=okhttp/4.9.0&x-forwarded-for=88.26.241.248
+
 
 
 
@@ -109,8 +108,6 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88
 #EXTINF:-1 group-title="Reality Show's Live",CANAL 11
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61c1db8ed6d97900076ea15c/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=7316f04a-ca23-343c-b583-81bed2cd4e2f&clientModelNumber=na&country=NO&deviceDNT=false&deviceId=7316f04a-ca23-343c-b583-81bed2cd4e2f&deviceLat=68.1016&deviceLon=16.3952&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=NO&serverSideAds=true&sessionID=7316f04a-ca23-343c-b583-81bed2cd4e2f&sid=7316f04a-ca23-343c-b583-81bed2cd4e2f&userId=|user-agent=okhttp/4.9.0&x-forwarded-for=78.26.38.103
 #EXTINF:-1 group-title="Reality Show's Live",CANAL 12
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=7316f04a-ca23-343c-b583-81bed2cd4e2f&clientModelNumber=na&country=US&deviceDNT=false&deviceId=7316f04a-ca23-343c-b583-81bed2cd4e2f&deviceLat=34.0485&deviceLon=-118.2529&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=US&serverSideAds=true&sessionID=7316f04a-ca23-343c-b583-81bed2cd4e2f&sid=7316f04a-ca23-343c-b583-81bed2cd4e2f&userId=|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
-#EXTINF:-1 group-title="Reality Show's Live",CANAL 13
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=7316f04a-ca23-343c-b583-81bed2cd4e2f&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=7316f04a-ca23-343c-b583-81bed2cd4e2f&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=7316f04a-ca23-343c-b583-81bed2cd4e2f&sid=7316f04a-ca23-343c-b583-81bed2cd4e2f&userId=|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
 #EXTINF:-1 tvg-id="pink-bih" tvg-name="Pink BH" tvg-logo="http://smartntv.pro/logokanali/pink/pinkbh.png" group-title="Reality Show's Live",Zadruga AO VIVO
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6420
