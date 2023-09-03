@@ -1,3 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno=1000 tvg-id="Canale 5" tvg-name="Canale 5" group-title="Flusso MPD",Canale 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(c5)/manifest.mpd
+
+#EXTINF:-1 tvg-chno=1001 tvg-id="Italia 1" tvg-name="Italia 1" group-title="Flusso MPD",Italia 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(i1)/manifest.mpd
+
+#EXTINF:-1 tvg-chno=1002 tvg-id="Rete 4" tvg-name="Rete 4" group-title="Flusso MPD",Rete 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(r4)/manifest.mpd
+
+#EXTINF:-1 tvg-chno=1003 tvg-id="Grande Fratello" tvg-name="Grande Fratello" group-title="Flusso MPD",Grande Fratello
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd
+
+#EXTINF:-1 tvg-chno=1004 tvg-id="20 Mediaset" tvg-name="20 Mediaset" group-title="Flusso MPD",20 Mediaset
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(lb)/manifest.mpd
+
+
 #EXTM3U 
 ﻿#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
