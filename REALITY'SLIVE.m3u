@@ -4,7 +4,11 @@
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live03p-seg.msf.cdn.mediaset.net/live/dash_d0_clr_vos/c5-dash-widevine.isml/manifest.mpd
+https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(lb)/manifest.mpd
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
