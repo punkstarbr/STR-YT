@@ -27,11 +27,11 @@ https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kq)/mani
 
 #EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" roup-title="Reality Show'S Live",Canale 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(c5)/manifest.mpd
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
 
 #EXTINF:-1 tvg-id="Italia 1" tvg-name="Italia 1" roup-title="Reality Show'S Live",Italia 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(i1)/manifest.mpd
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
 
 
 
