@@ -12,7 +12,7 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/14
+
 
 #EXTINF:-1 tvg-id="Senato Web TV 1" tvg-name="Senato Web TV 1" tvg-logo="https://webtv.senato.it/application/xmanager/projects/leg18/img/webtv/logo_senatoTV.jpg" group-title="ITALIA",Senado Italiano - CAMERA 1
 https://senato-live.morescreens.com/SENATO_1_001/1080p/chunklist.m3u8
