@@ -98,12 +98,12 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/14
+
 
 
 
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="Chilevision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision.png" group-title="Reality Show's Live",CHILEVISION
-https://v3.playerlatino.live/stream/m3u8/198
+
 
 
 #EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE
