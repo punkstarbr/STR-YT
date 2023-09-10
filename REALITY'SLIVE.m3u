@@ -12,7 +12,7 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="Chilevision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision.png" group-title="Reality Show's Live",CHILEVISION
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 group-title="Reality Show's Live"  tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
+#EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
 https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
 
 #EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE 
