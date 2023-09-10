@@ -3,55 +3,68 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Reality Show's Live", LAS ESTRELLAS
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico.png" group-title="Reality Show's Live",5.1 Canal 5
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="Chilevision" tvg-name="Chilevision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision.png" group-title="Reality Show's Live",CHILEVISION
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 group-title="Reality Show's Live"  tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/63ecfd7e0cf28f3e15cc3929/",TVI REALITY
+https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Firefox
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(b7)/index.m3u8
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN1 - BACKUP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Firefox
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd
 
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Firefox
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(b8)/index.m3u8
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN2 - BACKUP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Firefox
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b8)/manifest.mpd
 
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png6",GRANDE FRATELLO COM VPN3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Firefox
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(b9)/index.m3u8
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png6",GRANDE FRATELLO COM VPN3 - BACKUP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Firefox
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b9)/manifest.mpd
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png6",GRANDE FRATELLO EXTRA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Firefox
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO EXTRA - BACKUP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Firefox
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd
 
 
 
 #EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" roup-title="Reality Show'S Live",Canale 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Firefox
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
 
 #EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" roup-title="Reality Show'S Live",Canale 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Firefox
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(c5)/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="Italia 1" tvg-name="Italia 1" roup-title="Reality Show'S Live",Italia 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Firefox
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
 
 
@@ -68,137 +81,19 @@ https://i.mjh.nz/PlutoTV/64a7665b902f2300085d7901-alt.m3u8
 #EXTINF:-1 tvg-id="64a766a794635e0008626601" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/colorLogoPNG.png" group-title="Big Brother Live",Big Brother USA Camera 4
 https://i.mjh.nz/PlutoTV/64a766a794635e0008626601-alt.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/thumbnail.jpg",BBUSA CAMERA MOSAICO
+#EXTINF:-1 tvg-id="64a766cd798def0008734695" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/thumbnail.jpg",BBUSA CAMERA MOSAICO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64a766cd798def0008734695/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/thumbnail.jpg",BBUSA CAMERA 1
+#EXTINF:-1 tvg-id="64a765c04ea480000823917a" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/thumbnail.jpg",BBUSA CAMERA 1
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64a765c04ea480000823917alivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Chilevision%20Noticias
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64a765fb798def0008734632/thumbnail.jpg",BBUSA CAMERA 2
+#EXTINF:-1 tvg-id="64a765fb798def0008734632" tvg-logo="https://images.pluto.tv/channels/64a765fb798def0008734632/thumbnail.jpg",BBUSA CAMERA 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64a765fb798def0008734632/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64a7665b902f2300085d7901/thumbnail.jpg",BBUSA CAMERA 3
+#EXTINF:-1 tvg-id="64a7665b902f2300085d7901" tvg-logo="https://images.pluto.tv/channels/64a7665b902f2300085d7901/thumbnail.jpg",BBUSA CAMERA 3
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64a7665b902f2300085d7901livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Chilevision%20Noticias
 
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/thumbnail.jpg",BBUSA CAMERA 4
+#EXTINF:-1 tvg-id="64a766a794635e0008626601" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/thumbnail.jpg",BBUSA CAMERA 4
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64a765c04ea480000823917alivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Chilevision%20Noticias
-
-
-
-#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Reality Show's Live", LAS ESTRELLAS
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico.png" group-title="Reality Show's Live",5.1 Canal 5
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-
-
-
-
-#EXTINF:-1 tvg-id="Chilevision" tvg-name="Chilevision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision.png" group-title="Reality Show's Live",CHILEVISION
-
-
-
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/645505747cb4b10008492e03/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=263238e5979a41599329ae286533a52a&deviceLat=-33.4521&deviceLon=-70.6536&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=VE&sid=ccb2b978006011eeafe2244bfeb7ece3&userId=
-
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE
-https://stitcher.pluto.tv/stitch/hls/channel/645505747cb4b10008492e03/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=416b7a23-4f59-11ed-b0d2-0242ac110003
-
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/645505747cb4b10008492e03/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=263238e5979a41599329ae286533a52a&deviceLat=-33.4521&deviceLon=-70.6536&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=true&marketingRegion=BR&sid=ccb2b978006011eeafe2244bfeb7ece3&userId=|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
-
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Chilevision%20Noticias
-
-
-
-
-
-
-
-#EXTINF:-1 channel-id="pluto-6320ddef274b1b0007b2ee88" tvg-id="6320ddef274b1b0007b2ee88" tvg-chno="141" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" group-title="Reality Show's Live" , Reviví Gran Hermano
-https://i.mjh.nz/PlutoTV/6320ddef274b1b0007b2ee88-alt.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Reality Show's Live",CANAL 5 ITALIA
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6261868633a2890007e87885/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=661c0d99b15e41a7a97f2ee7a937a69c&deviceLat=41.8904&deviceLon=12.5126&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=fde47be8005f11ee8266244bfeb7ece3&userId=|user-agent=okhttp/4.9.0&x-forwarded-for=131.114.130.239
-
-
-
-
-#EXTINF:-1 group-title="Reality Show's Live",CANAL 8 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/62beccc81a6c180007fe06a3/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=7316f04a-ca23-343c-b583-81bed2cd4e2f&clientModelNumber=na&country=NO&deviceDNT=false&deviceId=7316f04a-ca23-343c-b583-81bed2cd4e2f&deviceLat=68.1016&deviceLon=16.3952&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=NO&serverSideAds=true&sessionID=7316f04a-ca23-343c-b583-81bed2cd4e2f&sid=7316f04a-ca23-343c-b583-81bed2cd4e2f&userId=|user-agent=okhttp/4.9.0&x-forwarded-for=78.26.38.103
-#EXTINF:-1 group-title="Reality Show's Live",CANAL 9
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61c1dfbd432d4900076ed919/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=7316f04a-ca23-343c-b583-81bed2cd4e2f&clientModelNumber=na&country=NO&deviceDNT=false&deviceId=7316f04a-ca23-343c-b583-81bed2cd4e2f&deviceLat=68.1016&deviceLon=16.3952&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=NO&serverSideAds=true&sessionID=7316f04a-ca23-343c-b583-81bed2cd4e2f&sid=7316f04a-ca23-343c-b583-81bed2cd4e2f&userId=|user-agent=okhttp/4.9.0&x-forwarded-for=78.26.38.103
-#EXTINF:-1 group-title="Reality Show's Live",CANAL 10
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=7316f04a-ca23-343c-b583-81bed2cd4e2f&clientModelNumber=na&country=US&deviceDNT=false&deviceId=7316f04a-ca23-343c-b583-81bed2cd4e2f&deviceLat=34.0485&deviceLon=-118.2529&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=US&serverSideAds=true&sessionID=7316f04a-ca23-343c-b583-81bed2cd4e2f&sid=7316f04a-ca23-343c-b583-81bed2cd4e2f&userId=|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
-#EXTINF:-1 group-title="Reality Show's Live",CANAL 11
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61c1db8ed6d97900076ea15c/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=7316f04a-ca23-343c-b583-81bed2cd4e2f&clientModelNumber=na&country=NO&deviceDNT=false&deviceId=7316f04a-ca23-343c-b583-81bed2cd4e2f&deviceLat=68.1016&deviceLon=16.3952&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=NO&serverSideAds=true&sessionID=7316f04a-ca23-343c-b583-81bed2cd4e2f&sid=7316f04a-ca23-343c-b583-81bed2cd4e2f&userId=|user-agent=okhttp/4.9.0&x-forwarded-for=78.26.38.103
-#EXTINF:-1 group-title="Reality Show's Live",CANAL 12
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=7316f04a-ca23-343c-b583-81bed2cd4e2f&clientModelNumber=na&country=BR&deviceDNT=false&deviceId=7316f04a-ca23-343c-b583-81bed2cd4e2f&deviceLat=-23.5335&deviceLon=-46.6359&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=BR&serverSideAds=true&sessionID=7316f04a-ca23-343c-b583-81bed2cd4e2f&sid=7316f04a-ca23-343c-b583-81bed2cd4e2f&userId=|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
-#EXTINF:-1 tvg-id="pink-bih" tvg-name="Pink BH" tvg-logo="http://smartntv.pro/logokanali/pink/pinkbh.png" group-title="Reality Show's Live",Zadruga AO VIVO
-http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6420
-#EXTINF:-1 group-title="Reality Show's Live", BIG BROTHER AUSTRALIA (VPN)
-https://csm-e-n7aus-eb.tls1.yospace.com/csm/extlive/sevenprd01,CAS07.m3u8
-#EXTINF:-1 group-title="Reality Show's Live",WHO WANT BE A MULHER DO FAZENDEIRO AUSTRALIA (VPN)
-https://csm-e-n7aus-eb.tls1.yospace.com/csm/extlive/sevenprd01,CAS14.m3u8
-
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Big%20Brother.png",BIG BROTHER ISRAEL (VPN)
-https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
-
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Big%20Brother.png",BIG BROTHER ISRAEL (VPN) 2
-https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_6fr5xbw2/deliveryProfileId/672/protocol/https/format/applehttp/index_3.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="רשת 13" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.png" group-title="Reality Show's Live", CANAL 13 ISRAEL
-http://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
-#EXTINF:-1 tvg-id="רשת 13" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.png" group-title="Reality Show's Live", CANAL 13 ISRAEL 2
-https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_l38msgjy/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-
-
-
-#EXTINF:-1 group-title="Reality Show's Live"  tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/63ecfd7e0cf28f3e15cc3929/",TVI REALITY
-https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
-
-
-
-#EXTINF:-1 group-title="Reality Show's Live", Farma Sérvia
-http://bntvs.com:2052/zorankalauz/643095040/8753
-#EXTINF:-1 tvg-id="" tvg-name="SR: PINK ZADRUGA 1 - 24/7" tvg-logo="http://smartntv.pro/logokanali/pink/zadruga1.png" group-title="Reality Show's Live",ZADRUGA 1
-http://aca3b.tk:8080/dosthasan/D6eTupzmHP/1057
-#EXTINF:-1 tvg-id="" tvg-name="SR: PINK ZADRUGA 2 - 24/7" tvg-logo="http://smartntv.pro/logokanali/pink/zadruga1.png" group-title="Reality Show's Live",ZADRUGA 2
-http://aca3b.tk:8080/dosthasan/D6eTupzmHP/17058
-#EXTINF:-1 tvg-id="" tvg-name="SR: PINK ZADRUGA 3 - 24/7" tvg-logo="http://smartntv.pro/logokanali/pink/zadruga1.png" group-title="Reality Show's Live",ZADRUGA 3
-http://aca3b.tk:8080/dosthasan/D6eTupzmHP/17059
-#EXTINF:-1 tvg-id="" tvg-name="SRB: PINK ZADRUGA 4 - 24/7" tvg-logo="http://smartntv.pro/logokanali/pink/zadruga1.png" group-title="Reality Show's Live",ZADRUGA 4
-http://aca3b.tk:8080/dosthasan/D6eTupzmHP/17675
-
-
-
-
-
