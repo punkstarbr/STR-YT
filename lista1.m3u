@@ -4,6 +4,18 @@
 
 
 #EXTM3U
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN1 - BACKUP
+#EXTVLCOPT:http-user-agent=Firefox
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN2 - BACKUP
+#EXTVLCOPT:http-user-agent=Firefox
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b8)/manifest.mpd
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png6",GRANDE FRATELLO COM VPN3 - BACKUP
+#EXTVLCOPT:http-user-agent=Firefox
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b9)/manifest.mpd
+
 #EXTINF:-1 channel-id="pluto-6320ddef274b1b0007b2ee88" tvg-id="6320ddef274b1b0007b2ee88" tvg-chno="141" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" group-title="Reality Show's Live" , Reviví Gran Hermano
 https://i.mjh.nz/PlutoTV/6320ddef274b1b0007b2ee88-alt.m3u8
 
