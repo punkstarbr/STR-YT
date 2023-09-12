@@ -4,6 +4,19 @@
 
 
 #EXTM3U
+#EXTINF:-1 channel-id="pluto-6320ddef274b1b0007b2ee88" tvg-id="6320ddef274b1b0007b2ee88" tvg-chno="141" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" group-title="Reality Show's Live" , Reviví Gran Hermano
+https://i.mjh.nz/PlutoTV/6320ddef274b1b0007b2ee88-alt.m3u8
+
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/645505747cb4b10008492e03/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=263238e5979a41599329ae286533a52a&deviceLat=-33.4521&deviceLon=-70.6536&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=VE&sid=ccb2b978006011eeafe2244bfeb7ece3&userId=
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE
+https://stitcher.pluto.tv/stitch/hls/channel/645505747cb4b10008492e03/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=416b7a23-4f59-11ed-b0d2-0242ac110003
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/645505747cb4b10008492e03/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=263238e5979a41599329ae286533a52a&deviceLat=-33.4521&deviceLon=-70.6536&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=true&marketingRegion=BR&sid=ccb2b978006011eeafe2244bfeb7ece3&userId=|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
+
 #EXTINF:-1 tvg-id="64a766cd798def0008734695" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/thumbnail.jpg",BBUSA CAMERA MOSAICO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64a766cd798def0008734695/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
