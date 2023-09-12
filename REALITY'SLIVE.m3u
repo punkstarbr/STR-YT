@@ -65,6 +65,9 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kq)/
 #EXTVLCOPT:http-user-agent=Firefox
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd
 
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/162147028-be9e6411-6b5b-44d3-b135-e0109797cc09.jpg",GRANDE FRATELLO EXTRA - BACKUP
+#EXTVLCOPT:http-user-agent=Firefox
+https://live03-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" roup-title="Reality Show'S Live",Canale 5
