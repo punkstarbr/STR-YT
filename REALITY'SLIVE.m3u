@@ -31,6 +31,9 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_6fr5xb
 #EXTVLCOPT:http-user-agent=Firefox
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(b7)/index.m3u8
 
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/141621315-19d48d33-4056-4cd1-98bb-aa02ef330bc5.jpg",GRANDE FRATELLO 1-2
+#EXTVLCOPT:http-user-agent=Firefox
+https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest.mpd
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/161234855-c2534e23-ece4-4522-a64f-7458d0b81235.jpg",GRANDE FRATELLO 2
 #EXTVLCOPT:http-user-agent=Firefox
