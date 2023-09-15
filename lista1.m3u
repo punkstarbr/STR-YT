@@ -4,6 +4,15 @@
 
 
 #EXTM3U
+#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", TELECINCO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:player-continuous-http
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://directos.mitele.es/orilinear09/live/linear09/main/main.isml/main-audio_spa=128000-video=4000000.m3u8
+
+
+
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN1 - BACKUP
 #EXTVLCOPT:http-user-agent=Firefox
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd
@@ -137,9 +146,7 @@ https://5a2b083e9f360.streamlock.net/usbrasiltv/usbrasiltv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",UNIVISION 24/7
 https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", TELEMUNDO
-#EXTVLCOPT:http-user-agent=Firefox
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25340
+
 
 
 #EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", TELEMUNDO 2
@@ -157,8 +164,6 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25340
 
 
 #EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", UNIVISION 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:player-continuous-http
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25337
 
 
@@ -331,8 +336,7 @@ https://directos.mediaset.es/oripremium02/live/premium02/iss-playready/iss-playr
 
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
 #EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688877.jpg",La 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
 
 
