@@ -6,7 +6,7 @@
 
 
 #EXTINF:-1 tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="Reality Show's Live",TELECINCO HD
-http://ultrapremium.cloud:8080/961686622tv/31p9cp/12330
+http://ultrapremium.cloud:8080/961686622tv/31p9cp/12331
 
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="Chilevision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision.png" group-title="Reality Show's Live",CHILEVISION
 http://45.184.85.9:1080/play/a0bq
@@ -73,16 +73,15 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i1)/
 
 
 
-#EXTINF:-1 tvg-id="64a766cd798def0008734695" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG.png" group-title="Reality Show's Live",Big Brother USA Quad View
+#EXTINF:-1 tvg-id="64a766cd798def0008734695" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG.png" group-title="Reality Show's Live",BBUSAMOSAICO
 https://i.mjh.nz/PlutoTV/64a766cd798def0008734695-alt.m3u8
-#EXTINF:-1 tvg-id="64a765c04ea480000823917a" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG.png" group-title="Reality Show's Live",Big Brother USA Camera 1
+#EXTINF:-1 tvg-id="64a765c04ea480000823917a" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG.png" group-title="Reality Show's Live",BBUSACamera1
 https://i.mjh.nz/PlutoTV/64a765c04ea480000823917a-alt.m3u8
-#EXTINF:-1 tvg-id="64a765fb798def0008734632" tvg-logo="https://images.pluto.tv/channels/64a765fb798def0008734632/colorLogoPNG.png" group-title="Reality Show's Live",Big Brother USA Camera 2
+#EXTINF:-1 tvg-id="64a765fb798def0008734632" tvg-logo="https://images.pluto.tv/channels/64a765fb798def0008734632/colorLogoPNG.png" group-title="Reality Show's Live",BBUSACamera2
 https://i.mjh.nz/PlutoTV/64a765fb798def0008734632-alt.m3u8
-#EXTINF:-1 tvg-id="64a7665b902f2300085d7901" tvg-logo="https://images.pluto.tv/channels/64a7665b902f2300085d7901/colorLogoPNG.png" group-title="Reality Show's Live",Big Brother USA Camera 3
+#EXTINF:-1 tvg-id="64a7665b902f2300085d7901" tvg-logo="https://images.pluto.tv/channels/64a7665b902f2300085d7901/colorLogoPNG.png" group-title="Reality Show's Live",BBUSACamera3
 https://i.mjh.nz/PlutoTV/64a7665b902f2300085d7901-alt.m3u8
-
-#EXTINF:-1 tvg-id="64a766a794635e0008626601" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/colorLogoPNG.png" group-title="Reality Show's Live",Big Brother USA Camera 4
+#EXTINF:-1 tvg-id="64a766a794635e0008626601" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/colorLogoPNG.png" group-title="Reality Show's Live",BBUSACamera4
 https://i.mjh.nz/PlutoTV/64a766a794635e0008626601-alt.m3u8
 
 
