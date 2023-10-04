@@ -2,6 +2,29 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml,http://m3u4u.com/epg/jwmzn1r57zfj346py721,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
 
 
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Kgtv_10.png" group-title="USA", ABC 10 San Diego  (KGTV)
+http://pe.shortgod.com/cosk/tv3.php?id=520012
+#EXTINF:-1 tvg-logo="https://www.stu.edu/wp-content/uploads/2021/02/cbs4_logo.png" group-title="USA", CBS 4 Miami HD
+http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/496
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/KNSD#/media/File:KNSD39.png" group-title="USA", NBC 39 San Diego(KNSD)
+https://flarestream.tv:443/live/iptv-epg/LnkXHiYtmd/560.m3u8
+
+#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh KDKA
+http://cord-cutter.net:8080/jesus1/jesus1/120777
+#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh KDKA
+http://cord-cutter.net:8080/live/jesus1/jesus1/120777.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/KNSD39.png/210px-KNSD39.png" group-title="USA", NBC 7 San Diego
+http://pe.shortgod.com/cosk/tv3.php?id=41891
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kfmb_c.png" group-title="USA", CBS 8 San Diego (KFMB)
+http://pe.shortgod.com/cosk/tv3.php?id=41889
+#EXTINF:-1 tvg-id="KFMBDT1.us" tvg-logo="https://imgx.fubo.tv/station_logos/kfmb_c.png" group-title="USA", CBS 8 San Diego
+https://flarestream.tv:443/live/iptv-epg/LnkXHiYtmd/3882.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", TELECINCO
