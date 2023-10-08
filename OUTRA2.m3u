@@ -26,6 +26,16 @@ http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6928
 #EXTINF:-1 tvg-id="" tvg-name="iTV 3" tvg-logo="http://smartntv.pro/logokanali/ukiusa/itv3.png" group-title="UK & USA",iTV 3
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6929
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 1" tvg-logo="http://smartntv.pro/logokanali/ukiusa/itv1.png" group-title="★ ENGLISH-UK Channels",UK: ITV 1
+http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/361
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 2" tvg-logo="http://smartntv.pro/logokanali/ukiusa/itv2.png" group-title="★ ENGLISH-UK Channels",UK: ITV 2
+http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/362
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 3" tvg-logo="http://smartntv.pro/logokanali/ukiusa/itv3.png" group-title="★ ENGLISH-UK Channels",UK: ITV 3
+http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/363
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 4" tvg-logo="http://smartntv.pro/logokanali/ukiusa/itv4.png" group-title="★ ENGLISH-UK Channels",UK: ITV 4
+http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/364
+
+
 #EXTINF:-1 tvg-chno="1" tvg-rec="28" tvg-id="BBCOneEngland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC 1
 https://vs-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-chno="2" tvg-rec="28" tvg-id="BBCTwoEngland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc2-epg.png" group-title="General",BBC 2
