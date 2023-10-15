@@ -8,13 +8,10 @@
 #EXTINF:-1 tvg-id="" tvg-name="UK: ITV 2" tvg-logo="http://smartntv.pro/logokanali/ukiusa/itv2.png" group-title="★ ENGLISH-UK Channels",UK: ITV 2
 http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/362
 
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="Reality Show's Live",TELECINCO HD
-http://tv.nousiptv.com:8080/AR10465/10465R/1156017
-
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="Reality Show's Live",TELECINCO HD 2
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="Reality Show's Live",TELECINCO HD 
 http://149.62.177.102:8000/play/a02j
 
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="Reality Show's Live",TELECINCO HD 3
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="Reality Show's Live",TELECINCO HD 2
 http://149.62.177.102:8000/play/a02f
 
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="Chilevision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision.png" group-title="Reality Show's Live",CHILEVISION
