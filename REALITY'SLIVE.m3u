@@ -14,6 +14,11 @@ http://149.62.177.102:8000/play/a02j
 #EXTINF:-1 tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="Reality Show's Live",TELECINCO HD 2
 http://149.62.177.102:8000/play/a02f
 
+#EXTINF:-1 group-title="Tây Bán Nhà" logo="http://ahm.red/tdt/logos/Telecinco.png" tvg-id="bf55102a9b2bd5e07e9353fb05495046" tvg-chno="5",Telecinco 3
+http://79.117.18.176:9981/stream/channelid/705713599?profile=pass
+#EXTINF:-1 group-title="Tây Bán Nhà" logo="http://ahm.red/tdt/logos/Telecinco.png" tvg-id="5df7e231a755b5404c39cb90247d5d44" tvg-chno="5",Telecinco 4
+http://79.117.18.176:9981/stream/channelid/836958045?profile=pass
+
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="Chilevision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision.png" group-title="Reality Show's Live",CHILEVISION
 http://tv.nousiptv.com:8080/AR10465/10465R/1155835
 
