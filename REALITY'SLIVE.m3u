@@ -4,7 +4,8 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
 #EXTM3U
-
+#EXTINF:-1,PC DE UM CARA
+http://metv.fun:80/1702785rob8080/709745/100051
 #EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 01" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="CONEXAO - A FAZENDA 2023",CAM 01
 http://joao-1-us.mainbkonline.shop:80/8623690767/8623695554/90731
 #EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 02" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="CONEXAO - A FAZENDA 2023",CAM 02
