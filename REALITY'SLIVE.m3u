@@ -81,8 +81,12 @@ http://79.117.18.176:9981/stream/channelid/836958045?profile=pass
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="Chilevision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision.png" group-title="Reality Show's Live",CHILEVISION
 http://tv.nousiptv.com:8080/AR10465/10465R/1155835
 
-#EXTINF:-1,Big Brother Albania 1
+#EXTINF:-1 tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/themes/bb/assets/misc/bbvip-logo.png",Big Brother Albania 1
 https://vidonzsk.xyz/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/themes/bb/assets/misc/bbvip-logo.png",Big Brother Albania 2
+https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-79/swon-kv31_1080p/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/themes/bb/assets/misc/bbvip-logo.png",Big Brother Albania 3
+https://hugh.cdn.rumble.cloud/live/gke17oc4/slot-53/l506-qr25_1080p/chunklist_DVR.m3u8
 
 #EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
 https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
