@@ -1,4 +1,86 @@
 
+#EXTM3U 
+﻿#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
+#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
+
+#EXTM3U
+#EXTINF:-1,PC DE UM CARA
+http://metv.fun:80/1702785rob8080/709745/100051
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 01" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="CONEXAO - A FAZENDA 2023",A FAZENDA 2023 CAM 01
+http://joao-1-us.mainbkonline.shop:80/8623690767/8623695554/90731
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 02" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="CONEXAO - A FAZENDA 2023",A FAZENDA 2023 CAM 02
+http://joao-1-us.mainbkonline.shop:80/8623690767/8623695554/90947
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 03" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="CONEXAO - A FAZENDA 2023",A FAZENDA 2023 CAM 03
+http://joao-1-us.mainbkonline.shop:80/8623690767/8623695554/90948
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 04" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="CONEXAO - A FAZENDA 2023",A FAZENDA 2023 CAM 04
+http://joao-1-us.mainbkonline.shop:80/8623690767/8623695554/90949
+
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 01" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="JOAO - A FAZENDA 2023",A FAZENDA 2023 - CAM 01
+http://joao-1-us.mainbkonline.shop:80/6390124708pw/5486476126/90731
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 02" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="JOAO - A FAZENDA 2023",A FAZENDA 2023 - CAM 02
+http://joao-1-us.mainbkonline.shop:80/6390124708pw/5486476126/90947
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 03" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="JOAO - A FAZENDA 2023",A FAZENDA 2023 - CAM 03
+http://joao-1-us.mainbkonline.shop:80/6390124708pw/5486476126/90948
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 04" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="JOAO - A FAZENDA 2023",A FAZENDA 2023 - CAM 04
+http://joao-1-us.mainbkonline.shop:80/6390124708pw/5486476126/90949
+
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/afazenda.png" group-title="APPCLIENTE - A FAZENDA 2023",A FAZENDA CAM 01
+http://45.230.96.42:80/andreza87/87/577
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/afazenda.png" group-title="APPCLIENTE - A FAZENDA 2023",A FAZENDA CAM 02
+http://45.230.96.42:80/andreza87/87/578
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/afazenda.png" group-title="APPCLIENTE - A FAZENDA 2023",A FAZENDA CAM 03
+http://45.230.96.42:80/andreza87/87/579
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/afazenda.png" group-title="APPCLIENTE - A FAZENDA 2023",A FAZENDA CAM 04
+http://45.230.96.42:80/andreza87/87/580
+#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/afazenda.png" group-title="APPCLIENTE - A FAZENDA 2023",A FAZENDA CAM 05
+http://45.230.96.42:80/andreza87/87/581
+
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15 PRINCIPAL" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="METV - A FAZENDA 2023",A FAZENDA - CAM PRINCIPAL
+http://metv.fun:80/1702785rob8080/709745/100088
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 01" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="METV - A FAZENDA 2023",A FAZENDA - CAM 01
+http://metv.fun:80/1702785rob8080/709745/100052
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 02" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="METV - A FAZENDA 2023",A FAZENDA - CAM 02
+http://metv.fun:80/1702785rob8080/709745/100051
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 03" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="METV - A FAZENDA 2023",A FAZENDA - CAM 03
+http://metv.fun:80/1702785rob8080/709745/100050
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 04" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="METV - A FAZENDA 2023",A FAZENDA - CAM 04
+http://metv.fun:80/1702785rob8080/709745/100049
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 05" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="METV - A FAZENDA 2023",A FAZENDA - CAM 05
+http://metv.fun:80/1702785rob8080/709745/100048
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 06" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="METV - A FAZENDA 2023",A FAZENDA - CAM 06
+http://metv.fun:80/1702785rob8080/709745/100047
+
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15 PRINCIPAL" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="STAK - A FAZENDA 2023",FAZENDA CAM PRINCIPAL
+http://7go.xyz:8080/3799115837/ASSSINE9098/319594
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 01" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="STAK - A FAZENDA 2023",FAZENDA CAM 01
+http://7go.xyz:8080/3799115837/ASSSINE9098/319595
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 02" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="STAK - A FAZENDA 2023",FAZENDA CAM 02
+http://7go.xyz:8080/3799115837/ASSSINE9098/319596
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 03" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="STAK - A FAZENDA 2023",FAZENDA CAM 03
+http://7go.xyz:8080/3799115837/ASSSINE9098/319597
+#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 04" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="STAK - A FAZENDA 2023",FAZENDA CAM 04
+http://7go.xyz:8080/3799115837/ASSSINE9098/319598
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 2" tvg-logo="http://smartntv.pro/logokanali/ukiusa/itv2.png" group-title="★ ENGLISH-UK Channels",UK: ITV 2
+http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/362
+
+#EXTINF:-1 group-title="🇬🇧 - ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",ITV2
+http://stream.cvmtv.site/ITV2?token=live
+
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="Reality Show's Live",TELECINCO HD 
+http://149.62.177.102:8000/play/a02j
+
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="Reality Show's Live",TELECINCO HD 2
+http://149.62.177.102:8000/play/a02f
+
+#EXTINF:-1 group-title="Tây Bán Nhà" logo="http://ahm.red/tdt/logos/Telecinco.png" tvg-id="bf55102a9b2bd5e07e9353fb05495046" tvg-chno="5",Telecinco 3
+http://79.117.18.176:9981/stream/channelid/705713599?profile=pass
+#EXTINF:-1 group-title="Tây Bán Nhà" logo="http://ahm.red/tdt/logos/Telecinco.png" tvg-id="5df7e231a755b5404c39cb90247d5d44" tvg-chno="5",Telecinco 4
+http://79.117.18.176:9981/stream/channelid/836958045?profile=pass
+
+#EXTINF:-1 tvg-id="Chilevision" tvg-name="Chilevision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision.png" group-title="Reality Show's Live",CHILEVISION
+http://tv.nousiptv.com:8080/AR10465/10465R/1155835
+
 #EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/themes/bb/assets/misc/bbvip-logo.png",Big Brother Albania 1
 https://vidonzsk.xyz/hls/stream/index.m3u8
 #EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/themes/bb/assets/misc/bbvip-logo.png",Big Brother Albania 2
@@ -11,8 +93,8 @@ http://d-box-iptv.navarrotv.com:8000/live:geniptvservice2/SBnBfQaHsh/37.ts
 #EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
 https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
 
-
-
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
 
@@ -20,6 +102,64 @@ https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 #EXTVLCOPT:http-user-agent=Firefox
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(b7)/index.m3u8
 
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/161234855-c2534e23-ece4-4522-a64f-7458d0b81235.jpg",GRANDE FRATELLO 2
+#EXTVLCOPT:http-user-agent=Firefox
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(b8)/index.m3u8
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/161437008-47102c5b-a276-4ba1-9534-1cdc26500b30.jpg",GRANDE FRATELLO 3
+#EXTVLCOPT:http-user-agent=Firefox
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(b9)/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/162147028-be9e6411-6b5b-44d3-b135-e0109797cc09.jpg",GRANDE FRATELLO EXTRA
+#EXTVLCOPT:http-user-agent=Firefox
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/162147028-be9e6411-6b5b-44d3-b135-e0109797cc09.jpg",GRANDE FRATELLO EXTRA - BACKUP
+#EXTVLCOPT:http-user-agent=Firefox
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/162147028-be9e6411-6b5b-44d3-b135-e0109797cc09.jpg",GRANDE FRATELLO EXTRA - BACKUP
+#EXTVLCOPT:http-user-agent=Firefox
+https://live03-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/11/202629434-8966f8cd-169e-4290-ba01-6f097053d833.jpg",GRANDE FRATELLO PARTY
+#EXTVLCOPT:http-user-agent=Firefox
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(b1)/index.m3u8
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/11/202629434-8966f8cd-169e-4290-ba01-6f097053d833.jpg",GRANDE FRATELLO PARTY
+#EXTVLCOPT:http-user-agent=Firefox
+https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" roup-title="Reality Show'S Live",Canale 5
+#EXTVLCOPT:http-user-agent=Firefox
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+
+#EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" roup-title="Reality Show'S Live",Canale 5
+#EXTVLCOPT:http-user-agent=Firefox
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(c5)/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-id="Italia 1" tvg-name="Italia 1" roup-title="Reality Show'S Live",Italia 1
+#EXTVLCOPT:http-user-agent=Firefox
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="64a766cd798def0008734695" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG.png" group-title="Reality Show's Live",BBUSAMOSAICO
+https://i.mjh.nz/PlutoTV/64a766cd798def0008734695-alt.m3u8
+#EXTINF:-1 tvg-id="64a765c04ea480000823917a" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG.png" group-title="Reality Show's Live",BBUSACamera1
+https://i.mjh.nz/PlutoTV/64a765c04ea480000823917a-alt.m3u8
+#EXTINF:-1 tvg-id="64a765fb798def0008734632" tvg-logo="https://images.pluto.tv/channels/64a765fb798def0008734632/colorLogoPNG.png" group-title="Reality Show's Live",BBUSACamera2
+https://i.mjh.nz/PlutoTV/64a765fb798def0008734632-alt.m3u8
+#EXTINF:-1 tvg-id="64a7665b902f2300085d7901" tvg-logo="https://images.pluto.tv/channels/64a7665b902f2300085d7901/colorLogoPNG.png" group-title="Reality Show's Live",BBUSACamera3
+https://i.mjh.nz/PlutoTV/64a7665b902f2300085d7901-alt.m3u8
+#EXTINF:-1 tvg-id="64a766a794635e0008626601" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/colorLogoPNG.png" group-title="Reality Show's Live",BBUSACamera4
+https://i.mjh.nz/PlutoTV/64a766a794635e0008626601-alt.m3u8
 
 
 
