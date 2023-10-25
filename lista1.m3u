@@ -2,6 +2,15 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml,http://m3u4u.com/epg/jwmzn1r57zfj346py721,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
 
 
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC
+http://stream.cvmtv.site/NBC?token=live
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png",CBS
+http://stream.cvmtv.site/CBS?token=live
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png",ABC
+http://stream.cvmtv.site/ABC?token=live
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX
+http://stream.cvmtv.site/FOX?token=live
+
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Kgtv_10.png" group-title="USA", ABC 10 San Diego  (KGTV)
 http://pe.shortgod.com/cosk/tv3.php?id=520012
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Kgtv_10.png" group-title="USA", ABC 2
