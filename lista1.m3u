@@ -11,12 +11,6 @@ http://stream.cvmtv.site/ABC?token=live
 #EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX
 http://stream.cvmtv.site/FOX?token=live
 
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Kgtv_10.png" group-title="USA", ABC 10 San Diego  (KGTV)
-http://pe.shortgod.com/cosk/tv3.php?id=520012
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Kgtv_10.png" group-title="USA", ABC 2
-http://pe.shortgod.com/cosk/tv3.php?id=520011
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Kgtv_10.png" group-title="USA", ABC 3
-http://pe.shortgod.com/cosk/tv3.php?id=520013
 
 
 #EXTINF:-1 tvg-logo="https://www.stu.edu/wp-content/uploads/2021/02/cbs4_logo.png" group-title="USA", CBS 4 Miami HD
@@ -35,27 +29,15 @@ https://flarestream.tv:443/live/iptv-epg/LnkXHiYtmd/560.m3u8
 http://cord-cutter.net:8080/jesus1/jesus1/120777
 #EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh KDKA
 http://cord-cutter.net:8080/live/jesus1/jesus1/120777.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/KNSD39.png/210px-KNSD39.png" group-title="USA", NBC 7 San Diego
-http://pe.shortgod.com/cosk/tv3.php?id=41891
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kfmb_c.png" group-title="USA", CBS 8 San Diego (KFMB)
-http://pe.shortgod.com/cosk/tv3.php?id=41889
+
+
 #EXTINF:-1 tvg-id="KFMBDT1.us" tvg-logo="https://imgx.fubo.tv/station_logos/kfmb_c.png" group-title="USA", CBS 8 San Diego
 https://flarestream.tv:443/live/iptv-epg/LnkXHiYtmd/3882.m3u8
-
-
-#EXTM3U
-#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", TELECINCO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:player-continuous-http
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://directos.mitele.es/orilinear09/live/linear09/main/main.isml/main-audio_spa=128000-video=4000000.m3u8
-
 
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN1 - BACKUP
