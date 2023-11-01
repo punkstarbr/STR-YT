@@ -80,12 +80,10 @@ http://79.117.18.176:9981/stream/channelid/836958045?profile=pass
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="Chilevision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision.png" group-title="Reality Show's Live",CHILEVISION
 http://tv.nousiptv.com:8080/AR10465/10465R/1155836
 
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/themes/bb/assets/misc/bbvip-logo.png",Big Brother Albania 1
-https://vidonzsk.xyz/hls/stream/index.m3u8
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/themes/bb/assets/misc/bbvip-logo.png",Big Brother Albania 2
-https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-79/swon-kv31_1080p/chunklist_DVR.m3u8
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/themes/bb/assets/misc/bbvip-logo.png",Big Brother Albania 3
-https://hugh.cdn.rumble.cloud/live/gke17oc4/slot-53/l506-qr25_1080p/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1 (VIP)" tvg-logo="" group-title="Reality Show's Live",AL: Big Brother 1 (VIP)
+http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/47747
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2 (VIP)" tvg-logo="" group-title="Reality Show's Live",AL: Big Brother 2 (VIP)
+http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/47748
 #EXTINF:-1 tvg-id="" tvg-name="Top Channel Alb" tvg-logo="" group-title="Reality Show's Live",Top Channel Albania
 http://d-box-iptv.navarrotv.com:8000/live:geniptvservice2/SBnBfQaHsh/37.ts
 
