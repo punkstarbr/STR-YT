@@ -1,2 +1,9 @@
 #EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Chilevision%20Noticias
+
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1 (VIP)" tvg-logo="" group-title="Reality Show's Live",AL: Big Brother 1 (VIP)
+http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/47747
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2 (VIP)" tvg-logo="" group-title="Reality Show's Live",AL: Big Brother 2 (VIP)
+http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/47748
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel Alb" tvg-logo="" group-title="Reality Show's Live",Top Channel Albania
+http://d-box-iptv.navarrotv.com:8000/live:geniptvservice2/SBnBfQaHsh/37.ts
