@@ -1,8 +1,2 @@
-#EXTINF:-1 tvg-id="" tvg-name="SR: PINK ZADRUGA 1 - 24/7" tvg-logo="http://smartntv.pro/logokanali/pink/zadruga1.png" group-title="Reality Show's Live",ZADRUGA 1
-http://d-box-iptv.navarrotv.com:8000/live:geniptvservice2/SBnBfQaHsh/876.ts
-#EXTINF:-1 tvg-id="" tvg-name="SR: PINK ZADRUGA 2 - 24/7" tvg-logo="http://smartntv.pro/logokanali/pink/zadruga1.png" group-title="Reality Show's Live",ZADRUGA 2
-http://d-box-iptv.navarrotv.com:8000/live:geniptvservice2/SBnBfQaHsh/877.ts
-#EXTINF:-1 tvg-id="" tvg-name="SR: PINK ZADRUGA 3 - 24/7" tvg-logo="http://smartntv.pro/logokanali/pink/zadruga1.png" group-title="Reality Show's Live",ZADRUGA 3
-http://d-box-iptv.navarrotv.com:8000/live:geniptvservice2/SBnBfQaHsh/878.ts
-#EXTINF:-1 tvg-id="" tvg-name="SRB: PINK ZADRUGA 4 - 24/7" tvg-logo="http://smartntv.pro/logokanali/pink/zadruga1.png" group-title="Reality Show's Live",ZADRUGA 4
-http://d-box-iptv.navarrotv.com:8000/live:geniptvservice2/SBnBfQaHsh/879.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Chilevision%20Noticias
