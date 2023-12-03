@@ -84,8 +84,18 @@ http://tv.nousiptv.com:8080/AR10465/10465R/1155836
 http://117.55.202.141:80/aromaiptv/Aroma/33738
 #EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2 (VIP)" tvg-logo="" group-title="Reality Show's Live",AL: Big Brother 2 (VIP)
 http://117.55.202.141:80/aromaiptv/Aroma/33739
+
+#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP RKS 1 [ SE SHPEJTI ]" tvg-logo="" group-title="Reality Show's Live",AL: BB VIP RKS 1 [ SE SHPEJTI ]
+http://117.55.202.141:80/aromaiptv/Aroma/33740
+#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP RKS 2 [ SE SHPEJTI ]" tvg-logo="" group-title="Reality Show's Live",AL: BB VIP RKS 2 [ SE SHPEJTI ]
+http://117.55.202.141:80/aromaiptv/Aroma/33741
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Top Channel Alb" tvg-logo="" group-title="Reality Show's Live",Top Channel Albania
 http://d-box-iptv.navarrotv.com:8000/live:geniptvservice2/SBnBfQaHsh/37.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel FHD VIP AL" group-title="Reality Show's Live",Top Channel FHD VIP AL
+http://117.55.202.141:80/aromaiptv/Aroma/33892
 
 #EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
 https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
