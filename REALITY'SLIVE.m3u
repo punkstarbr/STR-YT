@@ -5,6 +5,16 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Chilevision" tvg-name="Chilevision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision.png" group-title="Reality Show's Live",CHILEVISION
+http://tv.nousiptv.com:8080/AR10465/10465R/1155836
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Chilevision%20Noticias
+
+
 #EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 01" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="CONEXAO - A FAZENDA 2023",A FAZENDA 2023 CAM 01
 http://joao-1-us.mainbkonline.shop:80/8623690767/8623695554/90731
 #EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 02" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="CONEXAO - A FAZENDA 2023",A FAZENDA 2023 CAM 02
@@ -77,8 +87,7 @@ http://79.117.18.176:9981/stream/channelid/705713599?profile=pass
 #EXTINF:-1 group-title="Tây Bán Nhà" logo="http://ahm.red/tdt/logos/Telecinco.png" tvg-id="5df7e231a755b5404c39cb90247d5d44" tvg-chno="5",Telecinco 4
 http://79.117.18.176:9981/stream/channelid/836958045?profile=pass
 
-#EXTINF:-1 tvg-id="Chilevision" tvg-name="Chilevision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision.png" group-title="Reality Show's Live",CHILEVISION
-http://tv.nousiptv.com:8080/AR10465/10465R/1155836
+
 
 #EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1 (VIP)" tvg-logo="" group-title="Reality Show's Live",AL: Big Brother 1 (VIP)
 http://117.55.202.141:80/aromaiptv/Aroma/33738
@@ -100,8 +109,7 @@ http://117.55.202.141:80/aromaiptv/Aroma/33892
 #EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
 https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
 
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 
 
 
@@ -166,7 +174,8 @@ https://i.mjh.nz/PlutoTV/64a765fb798def0008734632-alt.m3u8
 #EXTINF:-1 tvg-id="64a7665b902f2300085d7901" tvg-logo="https://images.pluto.tv/channels/64a7665b902f2300085d7901/colorLogoPNG.png" group-title="Reality Show's Live",BBUSACamera3
 https://i.mjh.nz/PlutoTV/64a7665b902f2300085d7901-alt.m3u8
 #EXTINF:-1 tvg-id="64a766a794635e0008626601" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/colorLogoPNG.png" group-title="Reality Show's Live",BBUSACamera4
-https://i.mjh.nz/PlutoTV/64a766a794635e0008626601-alt.m3u8
+https://i.mjh.nz/PlutoTV/-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="64a766cd798def0008734695" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/thumbnail.jpg",BBUSA CAMERA MOSAICO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64a766cd798def0008734695/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -208,8 +217,7 @@ https://csm-e-n7aus-eb.tls1.yospace.com/csm/extlive/sevenprd01,CAS14.m3u8
 
 
 
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Chilevision%20Noticias
+
 
 
 
