@@ -3,7 +3,20 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
-
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA 01" tvg-logo="" group-title="A FAZENDA 15",CAMERA 01
+http://mn.appserv19.xyz:2095/live/Xplus-1-CyxsXPmWqw/Z5VA6Qwomb/1173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA 02" tvg-logo="" group-title="A FAZENDA 15",CAMERA 02
+http://mn.appserv19.xyz:2095/live/Xplus-1-CyxsXPmWqw/Z5VA6Qwomb/1174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA 03" tvg-logo="" group-title="A FAZENDA 15",CAMERA 03
+http://mn.appserv19.xyz:2095/live/Xplus-1-CyxsXPmWqw/Z5VA6Qwomb/1175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA 04" tvg-logo="" group-title="A FAZENDA 15",CAMERA 04
+http://mn.appserv19.xyz:2095/live/Xplus-1-CyxsXPmWqw/Z5VA6Qwomb/1176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA 05" tvg-logo="" group-title="A FAZENDA 15",CAMERA 05
+http://mn.appserv19.xyz:2095/live/Xplus-1-CyxsXPmWqw/Z5VA6Qwomb/1177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA 06" tvg-logo="" group-title="A FAZENDA 15",CAMERA 06
+http://mn.appserv19.xyz:2095/live/Xplus-1-CyxsXPmWqw/Z5VA6Qwomb/1178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA 07" tvg-logo="" group-title="A FAZENDA 15",CAMERA 07
+http://mn.appserv19.xyz:2095/live/Xplus-1-CyxsXPmWqw/Z5VA6Qwomb/1179.m3u8
 
 
 #EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 01" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="CONEXAO - A FAZENDA 2023",A FAZENDA 2023 CAM 01
