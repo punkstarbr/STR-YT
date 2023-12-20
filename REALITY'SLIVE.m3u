@@ -100,7 +100,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest.mpd
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
 
 #EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" roup-title="Reality Show'S Live",Canale 5
-#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03p-col.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest_hr.mpd
 
 
