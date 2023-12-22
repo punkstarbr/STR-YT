@@ -7,13 +7,20 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 2" tvg-logo="http://smartntv.pro/logokanali/ukiusa/itv2.png" group-title="★ ENGLISH-UK Channels",UK: ITV 2
-http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/362
-
-#EXTINF:-1 group-title="🇬🇧 - ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",ITV2
-http://stream.cvmtv.site/ITV2?token=live
 
 
+#EXTINF:-1 group-title="22. ENGLESKI",ITV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
+http://ostali.ddstream.info:7092/live?channelId=1318&uid=16869&deviceMac=00:1A:79:40:93:C5&deviceSn=d603a6f342deb&token=513787671443
+#EXTINF:-1 group-title="22. ENGLESKI",ITV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
+http://ostali.ddstream.info:7092/live?channelId=1319&uid=16869&deviceMac=00:1A:79:40:93:C5&deviceSn=d603a6f342deb&token=513787671443
+#EXTINF:-1 group-title="22. ENGLESKI",ITV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
+http://ostali.ddstream.info:7091/live?channelId=1320&uid=16869&deviceMac=00:1A:79:40:93:C5&deviceSn=d603a6f342deb&token=513787671443
+#EXTINF:-1 group-title="22. ENGLESKI",ITV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
+http://ostali.ddstream.info:7092/live?channelId=1321&uid=16869&deviceMac=00:1A:79:40:93:C5&deviceSn=d603a6f342deb&token=513787671443
 
 
 
