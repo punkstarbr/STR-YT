@@ -133,10 +133,13 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64a7665b902f2300085d7
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64a765c04ea480000823917alivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Chilevision%20Noticias
 
 
-#EXTINF:-1 group-title="Reality Show's Live", Farma Sérvia
+#EXTINF:-1 group-title="Reality Show's Live", Farma Sérvia 50
 http://d-box-iptv.navarrotv.com:8000/live:geniptvservice2/SBnBfQaHsh/597.ts
-#EXTINF:-1 group-title="Reality Show's Live", Farma Sérvia 2
+#EXTINF:-1 group-title="Reality Show's Live", Farma Sérvia 20
 http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/1305
+#EXTINF:-1 group-title="Reality Show's Live",Farma Sérvia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
+http://sport.ddstream.info:7090/live?channelId=121&uid=16869&deviceMac=00:1A:79:40:93:C5&deviceSn=d603a6f342deb&token=513787671443
 #EXTINF:-1,Pink TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
 http://strimer3.iptv-max.com:89/live?channelId=12&uid=16869&deviceMac=00:1A:79:40:93:C5&deviceSn=d603a6f342deb&token=513787671443
