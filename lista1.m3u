@@ -3,24 +3,15 @@
 
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC
-http://stream.cvmtv.site/NBC?token=live
+http://23.237.100.82:8000/NBC_WEST/manifest.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png",CBS
-http://stream.cvmtv.site/CBS?token=live
+http://23.237.100.82:8000/CBS_WEST/manifest.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png",ABC
-http://stream.cvmtv.site/ABC?token=live
+http://23.237.100.82:8000/ABC_WEST/manifest.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX
-http://stream.cvmtv.site/FOX?token=live
+http://23.237.100.82:8000/FOX_WEST/manifest.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://www.stu.edu/wp-content/uploads/2021/02/cbs4_logo.png" group-title="USA", CBS 4 Miami HD
-http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/496
-#EXTINF:-1 tvg-logo="https://www.stu.edu/wp-content/uploads/2021/02/cbs4_logo.png" group-title="USA", CBS 2
-http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/497
-#EXTINF:-1 tvg-logo="https://www.stu.edu/wp-content/uploads/2021/02/cbs4_logo.png" group-title="USA", CBS 3
-http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/499
-#EXTINF:-1 tvg-logo="https://www.stu.edu/wp-content/uploads/2021/02/cbs4_logo.png" group-title="USA", CBS 4
-http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/495
 
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/KNSD#/media/File:KNSD39.png" group-title="USA", NBC 39 San Diego(KNSD)
 https://flarestream.tv:443/live/iptv-epg/LnkXHiYtmd/560.m3u8
@@ -57,14 +48,7 @@ https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b9)/mani
 https://i.mjh.nz/PlutoTV/6320ddef274b1b0007b2ee88-alt.m3u8
 
 
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/645505747cb4b10008492e03/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=263238e5979a41599329ae286533a52a&deviceLat=-33.4521&deviceLon=-70.6536&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=VE&sid=ccb2b978006011eeafe2244bfeb7ece3&userId=
 
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE
-https://stitcher.pluto.tv/stitch/hls/channel/645505747cb4b10008492e03/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=416b7a23-4f59-11ed-b0d2-0242ac110003
-
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg",GRAN HERMANO CHILE
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/645505747cb4b10008492e03/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=263238e5979a41599329ae286533a52a&deviceLat=-33.4521&deviceLon=-70.6536&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=true&marketingRegion=BR&sid=ccb2b978006011eeafe2244bfeb7ece3&userId=|user-agent=okhttp/4.9.0&x-forwarded-for=185.236.200.172
 
 
 
