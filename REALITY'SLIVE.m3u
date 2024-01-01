@@ -6,7 +6,16 @@
 
 
 
-
+#EXTINF:-1 tvg-id=" group-title="ᴇsᴘᴀɴʜᴀ" tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp",Antena 3 🇪🇸
+http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
+#EXTINF:-1 group-title="ᴇsᴘᴀɴʜᴀ" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",Telecincoᴴᴰ 🇪🇸
+http://xcm.budtv-ultra.com:25461/live/eventosiptv/mnyuHhAMk4zS/14911.ts
+#EXTINF:-1 group-title="ᴇsᴘᴀɴʜᴀ" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/Logos/La%20Sexta.png",La Sextaᴴᴰ 🇪🇸
+https://bit.ly/3NbhtVf?/manifest.m3u8
+#EXTINF:-1 group-title="ᴇsᴘᴀɴʜᴀ" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200",Nova 🇪🇸
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:280_HD.smil/index.m3u8
+#EXTINF:-1 group-title="ᴇsᴘᴀɴʜᴀ" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",Megaᴴᴰ 🇪🇸
+https://bit.ly/3WBbnR1?/manifest.m3u8
 
 
 
