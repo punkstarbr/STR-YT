@@ -28,20 +28,32 @@ https://egcdn-live.video.globo.com/nu/f(i=2)/bbb02/edge-cache-token=Expires=1705
 https://egcdn-live.video.globo.com/nu/f(i=2)/bbb08/edge-cache-token=Expires=1705037403&KeyName=media-cdn-keyset-prod&Signature=Xd14LgNpTqetG_GMxLFSFV0gQJbv0XvxyteUfV5dUGL7LCsWKcNhi9kfbBV_6gKAOynRvZj4M_6iDjvhFnDpBw==/bbb08-audio_1=96000-video=3442944.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1 (VIP)" tvg-logo="" group-title="Reality Show's Live",AL: Big Brother 1 (VIP)
-http://117.55.202.141:80/aromaiptv/Aroma/33738
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2 (VIP)" tvg-logo="" group-title="Reality Show's Live",AL: Big Brother 2 (VIP)
-http://117.55.202.141:80/aromaiptv/Aroma/33739
+#EXTINF:-1 tvg-id="" tvg-name="AL: B Vip Kosova 1 ᴴᴰ" tvg-logo="" group-title="Reality Show's Live",AL: B Vip Kosova 1 ᴴᴰ
+http://premium-ks.vip:2082/live/Haxhi/fw5tFaRs3Ta9/80866.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: B Vip Kosova 2 ᴴᴰ" tvg-logo="" group-title="Reality Show's Live",AL: B Vip Kosova 2 ᴴᴰ
+http://premium-ks.vip:2082/live/Haxhi/fw5tFaRs3Ta9/80032.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP RKS 1 [ SE SHPEJTI ]" tvg-logo="" group-title="Reality Show's Live",AL: BB VIP RKS 1 [ SE SHPEJTI ]
-http://117.55.202.141:80/aromaiptv/Aroma/33740
-#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP RKS 2 [ SE SHPEJTI ]" tvg-logo="" group-title="Reality Show's Live",AL: BB VIP RKS 2 [ SE SHPEJTI ]
-http://117.55.202.141:80/aromaiptv/Aroma/33741
+#EXTINF:-1 tvg-id="pink-reality" tvg-name="Pink Reality" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkReality.png" group-title="Pink",Pink Reality
+http://bntvs.com:2052/mojvps/svWEB7CXPT/8753
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 1
+http://bntvs.com:2052/mojvps/svWEB7CXPT/8736
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 2
+http://bntvs.com:2052/mojvps/svWEB7CXPT/8737
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 3
+http://bntvs.com:2052/mojvps/svWEB7CXPT/8738
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 4
+http://bntvs.com:2052/mojvps/svWEB7CXPT/8739
 
-
-#EXTINF:-1 group-title="Reality Show's Live",Top Channel HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
-http://ostali.ddstream.info:7100/live?channelId=541&uid=16869&deviceMac=00:1A:79:40:93:C5&deviceSn=d603a6f342deb&token=513787671443
+#EXTINF:-1 tvg-id="Top Channel HD" tvg-name="AL: Top Channel HD" tvg-logo="http://hs-iptv.net:88/images/ef36e05b9eefee782fff22376a2bebdf.png" group-title="Reality Show's Live",AL: Top Channel HD
+http://premium-ks.vip:2082/live/Haxhi/fw5tFaRs3Ta9/1401.ts
+#EXTINF:-1 tvg-id="Top Channel HD" tvg-name="AL: Top Channel HD" tvg-logo="http://static.iptv-epg.com/al/TopChannel.al.png" group-title="Reality Show's Live",AL: Top Channel HD
+http://premium-ks.vip:2082/live/Haxhi/fw5tFaRs3Ta9/17178.ts
+#EXTINF:-1 tvg-id="Top Channel HD" tvg-name="AL: Top Channel HD" tvg-logo="http://hs-iptv.net:88/images/ef36e05b9eefee782fff22376a2bebdf.png" group-title="Albania",AL: Top Channel HD
+http://premium-ks.vip:2082/live/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321/1401.ts
+#EXTINF:-1 tvg-id="Top Channel HD" tvg-name="AL: Top Channel HD" tvg-logo="http://static.iptv-epg.com/al/TopChannel.al.png" group-title="Albania",AL: Top Channel HD
+http://premium-ks.vip:2082/live/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321/17178.ts
+#EXTINF:-1 tvg-id="" tvg-name="Top Channel" tvg-logo="https://repo.ottshow.net/pikoni/konacno/albanija/topchannel.gif" group-title="Albania",Top Channel
+http://ottshow.net:80/live/xplanet739fdh/n5nRtOasjk0askd0a/69457.ts
 
 #EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
 https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
