@@ -3,8 +3,36 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="Général" tvg-chno="1",RTP 1
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-logo=" " group-title="Général" tvg-chno="2",RTP 2
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo=" " group-title="Général" tvg-chno="6",RTP 3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist_DVR_slpt.m3u8
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://i.imgur.com/jCpfdiJ.png" group-title="Découverte" tvg-chno="7",RTP Memória
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTP_Madeira_%282017%29.svg/langfr-250px-RTP_Madeira_%282017%29.svg.png" group-title="Général" tvg-chno="10",RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Général" tvg-chno="11",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RTP_África_2016_%28Reduced_Version%29.svg/512px-RTP_África_2016_%28Reduced_Version%29.svg.png" group-title="Général" tvg-chno="12",RTP África
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="Général" tvg-chno="3",Antena 3 (HD)
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:277_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="Cinéma-Séries" tvg-chno="30",A3 Series
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:278_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Neox.es" tvg-logo="https://i.imgur.com/u4NFyb7.png" group-title="Cinéma-Séries" tvg-chno=" ",Neox
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:279_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Nova.es" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="Divertissement" tvg-chno="",Nova
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:280_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="Divertissement" tvg-chno="",Mega
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:281_HD.smil/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://estaticos.tdt1.com/canales/logotelecinco.jpg" group-title="Général" tvg-chno="5",Telecinco
+http://167.114.156.136:25461/INFINITV/ZX89NM22/203
 
 #EXTINF:-1 tvg-id=" group-title="ᴇsᴘᴀɴʜᴀ" tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp",RT ESPAÑOL
 http://168.227.22.18:1935/live/mobile-009/playlist.m3u8
