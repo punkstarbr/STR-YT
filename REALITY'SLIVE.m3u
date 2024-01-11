@@ -33,8 +33,7 @@ http://premium-ks.vip:2082/live/Haxhi/fw5tFaRs3Ta9/80866.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL: B Vip Kosova 2 ᴴᴰ" tvg-logo="" group-title="Reality Show's Live",AL: B Vip Kosova 2 ᴴᴰ
 http://premium-ks.vip:2082/live/Haxhi/fw5tFaRs3Ta9/80032.ts
 
-#EXTINF:-1 tvg-id="pink-reality" tvg-name="Pink Reality" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkReality.png" group-title="Pink",Pink Reality
-http://bntvs.com:2052/mojvps/svWEB7CXPT/8753
+
 #EXTINF:-1 tvg-id="" tvg-name="Zadruga 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 1
 http://bntvs.com:2052/mojvps/svWEB7CXPT/8736
 #EXTINF:-1 tvg-id="" tvg-name="Zadruga 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 2
@@ -104,13 +103,8 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="Reality Show's Live", Farma Sérvia 50
-http://d-box-iptv.navarrotv.com:8000/live:geniptvservice2/SBnBfQaHsh/597.ts
-#EXTINF:-1 group-title="Reality Show's Live", Farma Sérvia 20
-http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/1305
-#EXTINF:-1 group-title="Reality Show's Live",Farma Sérvia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
-http://sport.ddstream.info:7090/live?channelId=121&uid=16869&deviceMac=00:1A:79:40:93:C5&deviceSn=d603a6f342deb&token=513787671443
+#EXTINF:-1 tvg-id="pink-reality" tvg-name="Pink Reality" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkReality.png" group-title="Reality Show's Live",Farma Sérvia
+http://bntvs.com:2052/mojvps/svWEB7CXPT/8753
 #EXTINF:-1,Pink TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
 http://strimer3.iptv-max.com:89/live?channelId=12&uid=16869&deviceMac=00:1A:79:40:93:C5&deviceSn=d603a6f342deb&token=513787671443
