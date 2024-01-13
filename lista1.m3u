@@ -18,20 +18,7 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manif
 #EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://estaticos.tdt1.com/canales/logomega.jpg" group-title="Information" tvg-chno=" ",Mega 3
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="Général" tvg-chno="1",RTP 1
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-logo=" " group-title="Général" tvg-chno="2",RTP 2
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo=" " group-title="Général" tvg-chno="6",RTP 3
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist_DVR_slpt.m3u8
-#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://i.imgur.com/jCpfdiJ.png" group-title="Découverte" tvg-chno="7",RTP Memória
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTP_Madeira_%282017%29.svg/langfr-250px-RTP_Madeira_%282017%29.svg.png" group-title="Général" tvg-chno="10",RTP Madeira
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Général" tvg-chno="11",RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RTP_África_2016_%28Reduced_Version%29.svg/512px-RTP_África_2016_%28Reduced_Version%29.svg.png" group-title="Général" tvg-chno="12",RTP África
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="Général" tvg-chno="3",Antena 3 (HD)
