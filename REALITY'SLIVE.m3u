@@ -23,6 +23,12 @@ http://94.175.4.30:9981/stream/channelid/1802252797?profile=pass
 http://94.194.203.85:9981/stream/channelid/1894175488?ticket=BE3CA74251B8BABD024C640670762662824B8E31&profile=pass
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Eɴɢʟᴀɴᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/BBC_One_logo_2021.svg",BBC 1 🇬🇧
 http://45.153.35.210:8000/play/UK_bbc_1_HD/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Eɴɢʟᴀɴᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/BBC_One_logo_2021.svg",BBC 2 🇬🇧
+http://45.153.35.210:8000/play/UK_bbc_2_HD/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Eɴɢʟᴀɴᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/BBC_One_logo_2021.svg",BBC 3 🇬🇧
+http://45.153.35.210:8000/play/UK_bbc_3_HD/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Eɴɢʟᴀɴᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/BBC_One_logo_2021.svg",BBC 4 🇬🇧
+http://45.153.35.210:8000/play/UK_bbc_4_HD/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Eɴɢʟᴀɴᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/BBC_Two_logo_2021.svg",BBC 2 🇬🇧
 http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Eɴɢʟᴀɴᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/BBC_Two_logo_2021.svg",BBC 2 🇬🇧
