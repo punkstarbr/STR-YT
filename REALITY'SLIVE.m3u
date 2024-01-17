@@ -41,6 +41,62 @@ http://94.175.4.30:9981/stream/channelid/162154016?profile=pass
 http://94.175.4.30:9981/stream/channelid/1500165345?profile=pass
 
 
+
+#EXTINF:-1,NBC NEW YORK
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10861
+#EXTINF:-1,NBC NEW YORK2
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10862
+#EXTINF:-1,ABC BOSTON
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10797
+#EXTINF:-1 group-title="USA Channels", NBC New York
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10798
+
+#EXTINF:-1 group-title="USA Channels", NBC New York
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10796
+
+#EXTINF:-1 group-title="USA Channels", ABC Boston
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10800
+
+#EXTINF:-1 group-title="USA Channels", ABC Los Angeles
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10810
+
+#EXTINF:-1 group-title="USA Channels", ABC New York
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10811
+
+#EXTINF:-1 group-title="USA Channels", ABC News
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10814
+
+#EXTINF:-1 group-title="USA Channels", ABC Orlando
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10813
+
+#EXTINF:-1 group-title="USA Channels", C-SPAN 1
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10815
+
+#EXTINF:-1 group-title="USA Channels", C-SPAN 2
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10838
+
+#EXTINF:-1 group-title="USA Channels", CBS Boston
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/80121
+
+#EXTINF:-1 group-title="USA Channels", CBS New York
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10813
+
+#EXTINF:-1 group-title="USA Channels", CBS Orlando
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10815
+
+#EXTINF:-1 group-title="USA Channels", FOX News
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10838
+
+#EXTINF:-1 group-title="USA Channels", CNN Chile
+http://200.37.187.210:8460/play/a00m
+
+#EXTINF:-1 group-title="USA Channels", CNN Espanol
+http://200.37.187.210:8460/play/a002
+
+#EXTINF:-1 group-title="USA Channels", MSNBC
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/80121
+
+
 #EXTINF:-1,E4
 http://5.66.192.142:9981/stream/channelid/450457150?profile=matroska
 
