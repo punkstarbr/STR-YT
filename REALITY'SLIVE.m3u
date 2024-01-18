@@ -8,64 +8,64 @@
 #EXTINF:-1 group-title="GLOBOPLAY",GLOBO USA
 https://egcdn-live.video.globo.com/nu/f(i=2)/glbeua/edge-cache-token=Expires=1705631228&KeyName=media-cdn-keyset-prod&Signature=Ewj_rzeym4pnZ1x9LCO7QlMLuQ3_QEKR3O_4mIIVMLSEG6tp81RQ2DrAcqK4-KU4zjzGf7F6No1l1iF4ZGD0CQ==/glbeua-audio_1=96000-video=2262976.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/6oY_vg7mir2tO9sg7cRUMIXfAv4=/285x285/https://s2-globo-play.glbimg.com/2qqvCxMM056AXxD2es7KSeX5FOI=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/J/w/Zk6WNwTESRMLn9Bjjk9A/op2.png" group-title="GLOBOPLAY",GLOBO NEWS USA
+#EXTINF:-1 group-title="GLOBOPLAY",GLOBO NEWS USA
 https://egcdn-live.video.globo.com/nu/f(i=2)/gnews24ha/edge-cache-token=Expires=1705629525&KeyName=media-cdn-keyset-prod&Signature=iSah59wq3w66AEdBNQId_M0Yzzzhd6rSbizubxaipNWFdcGyGiNxx7OBOvr_qFVFUXVJmfDcWLk_b-wDyamlBw==/gnews24ha-audio_1=96000-video=1476992.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/3f0pNH31_T815H-tGebmBWX2lww=/285x285/https://s2-globo-play.glbimg.com/1uH-93KhNwiD-kUZiL5qEIsweec=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_d15744df8e2a4490b8e2cd61b958473b/internal_photos/bs/2020/G/j/oyEjaKRWKGVwHkaoIwcg/multishow-2-.png" group-title="GLOBOPLAY",MULTISHOW USA
+#EXTINF:-1 group-title="GLOBOPLAY",MULTISHOW USA
 https://egcdn-live.video.globo.com/nu/f(i=2)/msw24hai/edge-cache-token=Expires=1705629546&KeyName=media-cdn-keyset-prod&Signature=luJ7aUL5Z3avqtUPz8dFRu3nmUteL-TpJwuFLddPqFvBjl6wYmhG3TFlRGuUHBjc0ylAKiHrUQaN1W-HDOlHCg==/msw24hai-audio_1=96000-video=1476992.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/0ri9fjfGXnFv4W_2ZAfY5cELwbc=/285x285/https://s2-globo-play.glbimg.com/ywvOXhKovSogEXcoRVee9mWPZTU=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/F/y/EIs9ftSXKmqYMbhXTrkw/logo-de-transmissao-sportv-a1.png" group-title="GLOBOPLAY",SPORTV1 USA
+#EXTINF:-1 group-title="GLOBOPLAY",SPORTV1 USA
 https://egcdn-live.video.globo.com/nu/f(i=2)/pfci/edge-cache-token=Expires=1705631283&KeyName=media-cdn-keyset-prod&Signature=xk2yW7FU-TtBXyb5R5QAuSNTUS6_2VMnrcGDj5P86dOXBvAuiMXHJ9UIRxAhUf4Xte-gCpH5CnpUWewhjjoSBg==/pfci-audio_1=96000-video=1476992.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/I-Kq9AH2Hhu7CiHOblSE6eJOJtc=/285x285/https://s2-globo-play.glbimg.com/fkDv3fnlhC94v7PbTd4a74_sA6U=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_d15744df8e2a4490b8e2cd61b958473b/internal_photos/bs/2021/W/q/LthY31SIy9z6CJfFRlqA/premiere-logo.png" group-title="GLOBOPLAY",SPORTV2 USA
+#EXTINF:-1 group-title="GLOBOPLAY",SPORTV2 USA
 https://egcdn-live.video.globo.com/nu/f(i=2)/pfc1int/edge-cache-token=Expires=1705631302&KeyName=media-cdn-keyset-prod&Signature=CdyCPugT15C3O5EPq7c2iLIibM3MhLSiVSKvPX1ni8FhHKAldlM7A6nWwKfrybMLtbyZ2XKjeHEzalV4DxpACA==/pfc1int-audio_1=96000-video=2262976.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/rEAB5Jw56Uj5TIVxxD9B0k2VJYs=/285x285/https://s2-globo-play.glbimg.com/BjCWPPAe5i-IaULST6Ib0BwCdH0=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_d15744df8e2a4490b8e2cd61b958473b/internal_photos/bs/2021/p/h/orXlpfQtOomeKRyOoOWg/gntlogo.png" group-title="GLOBOPLAY",GNT USA
+#EXTINF:-1 group-title="GLOBOPLAY",GNT USA
 https://egcdn-live.video.globo.com/nu/f(i=2)/gnt24hai/edge-cache-token=Expires=1705631321&KeyName=media-cdn-keyset-prod&Signature=rqjz6E4uDUAtvZfdr0RFlBagT4EssHj3GuHXvJ9aj2A9S4ruJtr6a-FpPVGWLp3mUSc5TlTqRdedhPYnzapZBQ==/gnt24hai-audio_1=96000-video=952960.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/-KBtZwtLxMYRmC502Lp2d9KqCVw=/285x285/https://s2-globo-play.glbimg.com/qF3AONCzws7CJjDveK6jTgiXaxM=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_d15744df8e2a4490b8e2cd61b958473b/internal_photos/bs/2020/2/E/Tbe8JbRGOnyVUqplaRlg/viva.png" group-title="GLOBOPLAY",VIVA USA
+#EXTINF:-1 group-title="GLOBOPLAY",VIVA USA
 https://egcdn-live.video.globo.com/nu/f(i=2)/viva24hai/edge-cache-token=Expires=1705631339&KeyName=media-cdn-keyset-prod&Signature=n7JMIQwQHOwGJ0LMOsgDaf26y4fsjVqmKRiArowlVPaSPEmtSEO5insvJ6q2TbyqKAKdMv2FGPGpzeSZAKv9AQ==/viva24hai-audio_1=96000-video=2262976.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/cWcHZss2yeupGrftmKOPuQFm0yU=/285x285/https://s2-globo-play.glbimg.com/Bap1iKCzz-DAU1TcTEIpuGyRUi8=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_d15744df8e2a4490b8e2cd61b958473b/internal_photos/bs/2021/Y/7/z5yLUjRDm6sGblrp3J9w/cbn-sp-700x700-logo-branca.png" group-title="GLOBOPLAY",CBN SP
+#EXTINF:-1 group-title="GLOBOPLAY",CBN SP
 https://egcdn-live.video.globo.com/nu/f(dvr=120,i=2)/cbnsp24ha/edge-cache-token=Expires=1705631358&KeyName=media-cdn-keyset-prod&Signature=onnTfF4ye09idBFtE93FhrK2-dSGkyK2-dRGmvUKJE_Nd9Ad4jNG56s-3ZaO75TDhjHgtntBs7jgAForQYi7Cg==/cbnsp24ha-audio_1=96000-video=1476992.m3u8?dvr_window_length=120
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/Lz7EL-WkhvfnQZ9YH7dVFzU27Tk=/285x285/https://s2-globo-play.glbimg.com/EDI-U5Q58hOpB98bASyv8gK6lLw=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_d15744df8e2a4490b8e2cd61b958473b/internal_photos/bs/2021/F/G/1YxYxcTzO3q90sAMCpCw/cbn-rj-700x700-logo-branca.png" group-title="GLOBOPLAY",CBN RJ
+#EXTINF:-1 group-title="GLOBOPLAY",CBN RJ
 https://egcdn-live.video.globo.com/nu/f(dvr=120,i=2)/cbnrj24ha/edge-cache-token=Expires=1705631381&KeyName=media-cdn-keyset-prod&Signature=QKnEPL_fEl4T6FZzwu8VOki909CtocvjNGPDvkatSJ4kd80YaJAOob3UzQbVQztvxe6mjsbKpS0A3NXyw_k0BQ==/cbnrj24ha-audio_1=96000-video=952960.m3u8?dvr_window_length=120
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/NcHdq7fIAh_GzXi39YdELRQ1AUo=/285x285/https://s2-globo-play.glbimg.com/OmBXuSYGA6kegIEa6MxceBH0ZRg=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2024/y/L/bfbVfyRsigTaD3xxV58w/2024-4094-bbb-24-logo-canais.png" group-title="GLOBOPLAY",BBB USA - Acompanhe a Casa
+#EXTINF:-1 group-title="GLOBOPLAY",BBB USA - Acompanhe a Casa
 https://egcdn-live.video.globo.com/nu/f(i=2)/bbb01/edge-cache-token=Expires=1705631399&KeyName=media-cdn-keyset-prod&Signature=mSTgcYkixVWs9vgd6DZqXZJCBrRnj646a5wFxMW4FB1iWkzjzepml0eflOV0fMqCA0QkDEZJE6Kit3jMJ1l2Bg==/bbb01-audio_1=96000-video=2262976.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/NcHdq7fIAh_GzXi39YdELRQ1AUo=/285x285/https://s2-globo-play.glbimg.com/OmBXuSYGA6kegIEa6MxceBH0ZRg=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2024/y/L/bfbVfyRsigTaD3xxV58w/2024-4094-bbb-24-logo-canais.png" group-title="GLOBOPLAY",BBB USA - Acompanhe a Casa 2
+#EXTINF:-1 group-title="GLOBOPLAY",BBB USA - Acompanhe a Casa 2
 https://egcdn-live.video.globo.com/nu/f(i=2)/bbb11/edge-cache-token=Expires=1705631418&KeyName=media-cdn-keyset-prod&Signature=6r1Z33ZWTjWJ0JfdbSzT8ZSe8rHffuf77hlo1oSYxoAcw5bMLfrL21XiCAQS0eI5X8Yo-ayN2VciNz9nplxbDg==/bbb11-audio_1=96000-video=2262976.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/NcHdq7fIAh_GzXi39YdELRQ1AUo=/285x285/https://s2-globo-play.glbimg.com/OmBXuSYGA6kegIEa6MxceBH0ZRg=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2024/y/L/bfbVfyRsigTaD3xxV58w/2024-4094-bbb-24-logo-canais.png" group-title="GLOBOPLAY",BBB USA - Segue o Líder
+#EXTINF:-1 group-title="GLOBOPLAY",BBB USA - Segue o Líder
 https://egcdn-live.video.globo.com/nu/f(i=2)/bbb10/edge-cache-token=Expires=1705631438&KeyName=media-cdn-keyset-prod&Signature=APevr3C1DVJzNBxGHJjg4x5zDhp6jy5dbVkgT-oTJ6jf5Taby-fIK7Rqsfj8oYi0cKU_jAUI2-UrZTHXIvq-Bw==/bbb10-audio_1=96000-video=952960.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/NcHdq7fIAh_GzXi39YdELRQ1AUo=/285x285/https://s2-globo-play.glbimg.com/OmBXuSYGA6kegIEa6MxceBH0ZRg=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2024/y/L/bfbVfyRsigTaD3xxV58w/2024-4094-bbb-24-logo-canais.png" group-title="GLOBOPLAY",BBB USA - Mosaico BBB
+#EXTINF:-1 group-title="GLOBOPLAY",BBB USA - Mosaico BBB
 https://egcdn-live.video.globo.com/nu/f(i=2)/bbb12/edge-cache-token=Expires=1705631457&KeyName=media-cdn-keyset-prod&Signature=4pTvbMi7kv58hvmQ4Y6ddCh0sdCoCTi8W-WbQRdbePjWvwb-6jUOmCqKzy-YZg-FSrxoUuBnZ_FCY7rIhXFcDQ==/bbb12-audio_1=96000-video=558976.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/NcHdq7fIAh_GzXi39YdELRQ1AUo=/285x285/https://s2-globo-play.glbimg.com/OmBXuSYGA6kegIEa6MxceBH0ZRg=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2024/y/L/bfbVfyRsigTaD3xxV58w/2024-4094-bbb-24-logo-canais.png" group-title="GLOBOPLAY",BBB USA - Quarto Magia
+#EXTINF:-1 group-title="GLOBOPLAY",BBB USA - Quarto Magia
 https://egcdn-live.video.globo.com/nu/f(i=2)/bbb04/edge-cache-token=Expires=1705631477&KeyName=media-cdn-keyset-prod&Signature=URlADlhD_aNz47vRfn7y6sj2Adoop7HQMMsYjNc0MQH2RTvAAnXxJUcPI4mstWC9nrK7Hj2Qx_O69fcZNlhXBQ==/bbb04-audio_1=96000-video=952960.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/NcHdq7fIAh_GzXi39YdELRQ1AUo=/285x285/https://s2-globo-play.glbimg.com/OmBXuSYGA6kegIEa6MxceBH0ZRg=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2024/y/L/bfbVfyRsigTaD3xxV58w/2024-4094-bbb-24-logo-canais.png" group-title="GLOBOPLAY",BBB USA - Quarto Fada
+#EXTINF:-1 group-title="GLOBOPLAY",BBB USA - Quarto Fada
 https://egcdn-live.video.globo.com/nu/f(i=2)/bbb03/edge-cache-token=Expires=1705631496&KeyName=media-cdn-keyset-prod&Signature=ccWYNwYHRD44Lx1h-XwBQCm4pKcoB5PLLG2KkwBqJPTu3AjmOz4sZUbqnQ2IuhNOqNX2Ei9WY9upJ4JufG7GDQ==/bbb03-audio_1=96000-video=2262976.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/NcHdq7fIAh_GzXi39YdELRQ1AUo=/285x285/https://s2-globo-play.glbimg.com/OmBXuSYGA6kegIEa6MxceBH0ZRg=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2024/y/L/bfbVfyRsigTaD3xxV58w/2024-4094-bbb-24-logo-canais.png" group-title="GLOBOPLAY",BBB USA - Quarto Gnomo
+#EXTINF:-1 group-title="GLOBOPLAY",BBB USA - Quarto Gnomo
 https://egcdn-live.video.globo.com/nu/f(i=2)/bbb02/edge-cache-token=Expires=1705631515&KeyName=media-cdn-keyset-prod&Signature=dtIEp7G-91D7bBm4zP990TOVWjHjs3ObaAzFPUsRc2yfAwDF0s-7s5O04Stkwc6DJC6x6-rqbABk4KizWp81CQ==/bbb02-audio_1=96000-video=80000.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/NcHdq7fIAh_GzXi39YdELRQ1AUo=/285x285/https://s2-globo-play.glbimg.com/OmBXuSYGA6kegIEa6MxceBH0ZRg=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2024/y/L/bfbVfyRsigTaD3xxV58w/2024-4094-bbb-24-logo-canais.png" group-title="GLOBOPLAY",BBB USA - Sala
+#EXTINF:-1 group-title="GLOBOPLAY",BBB USA - Sala
 https://egcdn-live.video.globo.com/nu/f(i=2)/bbb05/edge-cache-token=Expires=1705631534&KeyName=media-cdn-keyset-prod&Signature=WuSwOPTMf1c-nsk5ZydQaII84I2b0QIt0g6XiOoSns7QGtWCYz9IdFtpImEqfIo98mJ22CHwigIqpp1MKcdtCw==/bbb05-audio_1=96000-video=1476992.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/NcHdq7fIAh_GzXi39YdELRQ1AUo=/285x285/https://s2-globo-play.glbimg.com/OmBXuSYGA6kegIEa6MxceBH0ZRg=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2024/y/L/bfbVfyRsigTaD3xxV58w/2024-4094-bbb-24-logo-canais.png" group-title="GLOBOPLAY",BBB USA - Cozinha Delícia
+#EXTINF:-1 group-title="GLOBOPLAY",BBB USA - Cozinha Delícia
 https://egcdn-live.video.globo.com/nu/f(i=2)/bbb07/edge-cache-token=Expires=1705631554&KeyName=media-cdn-keyset-prod&Signature=G4opfSWyN5XdEqI7ejhdR2YvRwydcqTygwaPHJ0vBOpA2muo6SKMclu-3P_iBvVllJWTcD60CQrDM37LI1W6Cg==/bbb07-audio_1=96000-video=1476992.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/NcHdq7fIAh_GzXi39YdELRQ1AUo=/285x285/https://s2-globo-play.glbimg.com/OmBXuSYGA6kegIEa6MxceBH0ZRg=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2024/y/L/bfbVfyRsigTaD3xxV58w/2024-4094-bbb-24-logo-canais.png" group-title="GLOBOPLAY",BBB USA - Banheiro Pantene
+#EXTINF:-1 group-title="GLOBOPLAY",BBB USA - Banheiro Pantene
 https://egcdn-live.video.globo.com/nu/f(i=2)/bbb08/edge-cache-token=Expires=1705631572&KeyName=media-cdn-keyset-prod&Signature=T862R4Za-7AQI-7MBgGQkkJ7416t-jDwEX4QMOWzOWtPYAjitNx_aAji96BlCydbIBcWDjTOKWzVemfGeRsNCA==/bbb08-audio_1=96000-video=80000.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/NcHdq7fIAh_GzXi39YdELRQ1AUo=/285x285/https://s2-globo-play.glbimg.com/OmBXuSYGA6kegIEa6MxceBH0ZRg=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2024/y/L/bfbVfyRsigTaD3xxV58w/2024-4094-bbb-24-logo-canais.png" group-title="GLOBOPLAY",BBB USA - Quarto Fada
+#EXTINF:-1 group-title="GLOBOPLAY",BBB USA - Quarto Fada
 https://egcdn-live.video.globo.com/nu/f(i=2)/bbb09/edge-cache-token=Expires=1705631592&KeyName=media-cdn-keyset-prod&Signature=O_nr7GdMp1icvH1Y_TtIaemoIFti3U57OPCxzeuLpUVf4ubxnKZi89UXSQYcSeu9BAEWEQlAB0qdhN4j5LmIBg==/bbb09-audio_1=96000-video=952960.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2-globo-play.glbimg.com/NcHdq7fIAh_GzXi39YdELRQ1AUo=/285x285/https://s2-globo-play.glbimg.com/OmBXuSYGA6kegIEa6MxceBH0ZRg=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2024/y/L/bfbVfyRsigTaD3xxV58w/2024-4094-bbb-24-logo-canais.png" group-title="GLOBOPLAY",BBB USA -  Cozinha
+#EXTINF:-1 group-title="GLOBOPLAY",BBB USA -  Cozinha
 https://egcdn-live.video.globo.com/nu/f(i=2)/bbb06/edge-cache-token=Expires=1705631612&KeyName=media-cdn-keyset-prod&Signature=j8BRtVKaRBkpnHf6OseLJOBseY5-v9WwvtXxb4ckToTlxAZnTZzOhjiJ92y92wdMExPqf7vullKOSgzMrAPhDg==/bbb06-audio_1=96000-video=2262976.m3u8
 
 
