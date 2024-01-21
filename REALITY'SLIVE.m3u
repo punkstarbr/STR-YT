@@ -3,18 +3,24 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",TV Globo USA
-https://egcdn-live.video.globo.com/nu/f(i=2)/glbeua/edge-cache-token=Expires=1705911205&KeyName=media-cdn-keyset-prod&Signature=uogZfLJlpj3HitbYBqno7ouDgWvfIexSRoHzDfXyX0rHa5Sa81dnJap89SwXAO07D3mBMjSupprGz6hoA6ydCg==/playlist.m3u8
+https://egcdn-live.video.globo.com/nu/f(i=2)/glbeua/edge-cache-token=Expires=1705911480&KeyName=media-cdn-keyset-prod&Signature=MipCPiWR4qAsenuFfS3mdPF5qk5wNHQue_dYer6kXNTthk-EtNhVWJ_SEAo1ILWAQJ8MReHxcfupBnFsOCYQBA==/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 24 - Câmera 1 - Acompanhe a Casa
-https://egcdn-live.video.globo.com/nu/f(i=2)/bbb01/edge-cache-token=Expires=1705911228&KeyName=media-cdn-keyset-prod&Signature=hil9uyVWwuTk2cDMNLgDP4JjuV0QEb5POyl9Ea3b2srsHEzCR1TajK0Fm9BNU2yfMfJJMnPekY4TdvDdNRNwDg==/playlist.m3u8
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb01/edge-cache-token=Expires=1705911497&KeyName=media-cdn-keyset-prod&Signature=ClafqdkmVD3Ho56nyUjWwB6K1xpr-QpxTJyS6WiGmEizHoCUIxsPhXyhKcFj5tvbnnBqDumsaQxaLs9huVYWDQ==/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 24 - Câmera 2 - Acompanhe a Casa 2
-https://egcdn-live.video.globo.com/nu/f(i=2)/bbb11/edge-cache-token=Expires=1705911251&KeyName=media-cdn-keyset-prod&Signature=ydWZfSeu5tLo1Wosmow6UadukUNccaJbN_H-RZ_x09MPdZoI--V5CvE4u-NqmfqlPNNU4xEna7I_FGTDTmgVDQ==/playlist.m3u8
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb11/edge-cache-token=Expires=1705911518&KeyName=media-cdn-keyset-prod&Signature=RCm06y-GQBcD1bDtBKM0x0IxpzHlriss__-Fw5TKkgDIfvL1T-L1LInXGijVMvVAsw--RzcpxyAjsYUS2i_wCg==/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 24 - Câmera 3 - Segue o Líder
-https://egcdn-live.video.globo.com/nu/f(i=2)/bbb10/edge-cache-token=Expires=1705911274&KeyName=media-cdn-keyset-prod&Signature=ffeMLj7zi-HUvWoKEqTIAvvGrzfJinByI9ibamOBPji_JZZ1Uld3VJLSslpHRwtkLV2T4SuYMsPOnxzm6samCw==/playlist.m3u8
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb10/edge-cache-token=Expires=1705911540&KeyName=media-cdn-keyset-prod&Signature=htns1SAfzIRGFHI5JAV3ryj7xnMjBp4lnFFuP1A5bPGcUcDsTcx5JoSQSz4cBUroQSmA9fYwOokbRnQS8hNbAw==/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 24 - Mosaico BBB - Mosaico BBB
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb12/edge-cache-token=Expires=1705911561&KeyName=media-cdn-keyset-prod&Signature=P0YrRugB4vFngiWpmQGQ5e80PwSmwMHRpWUDqhS5k3X710Hi19QozG-HaPibXUmFxorN8S2rCkJ08PMtin1EBQ==/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 24 - Câmera 5 - Quarto Magia
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb04/edge-cache-token=Expires=1705911582&KeyName=media-cdn-keyset-prod&Signature=tLFkEuaCHViIOTZa217c_hqIou4X3_lkRyAD4w598MIz5IkgsGOeco3wWhXzISw7s0D0_LlLjpuGQ5btoq7LDA==/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 2 Telas
