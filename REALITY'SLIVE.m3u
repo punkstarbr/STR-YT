@@ -4,11 +4,9 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
 
-[notice] A new release of pip is available: 23.2.1 -> 23.3.2
-[notice] To update, run: C:\Users\Switcher\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m pip install --upgrade pip
-Requirement already satisfied: beautifulsoup4 in c:\users\switcher\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (4.12.2)Note: you may need to restart the kernel to use updated packages.
 
-Requirement already satisfied: soupsieve>1.2 in c:\users\switcher\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (from beautifulsoup4) (2.5)
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",TV Globo - Fantástico
 https://egcdn-live.video.globo.com/nu/f(i=2)/glbeua/edge-cache-token=Expires=1706003075&KeyName=media-cdn-keyset-prod&Signature=P4csusbn5i8NvlP_uQPW5WwSKgwW881Tv821DCjnfCMjrU7bQ6Z5VR0rGeOk_nvIIz8QlaqFDdctKpA82p-pBw==/playlist.m3u8
 
