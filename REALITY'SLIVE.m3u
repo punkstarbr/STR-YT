@@ -3,6 +3,52 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
+#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="N/A",banner de alguma empresa brasilia
+https://dcxssbbjc3.zoeweb.tv/df-003-epia/df-003-epia.stream/playlist.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+
+
+
+#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="",AV. CASTELO BRANCO
+https://5a7d54e35f9d2.streamlock.net/avt7/avt7.stream/chunklist_w127968702.m3u8
+
+#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="https://zoevideos.net/public/uploads/thumbnail/live-1086/Screenshot_9.jpg",GOIÂNIA - Praça Civica
+https://hunq9fz8yk.zoeweb.tv/pracacivicapalacio/pracacivicapalacio.stream/chunklist.m3u8
+#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="https://zoevideos.net/public/uploads/thumbnail/live-1034/jamelcecilio-flamboyant.jpeg",GOIÂNIA AV. Jamel Cecílio
+https://hunq9fz8yk.zoeweb.tv/flamboyant/flamboyant.stream/chunklist.m3u8
+#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="https://zoevideos.net/public/uploads/thumbnail/live-729/thumb-t63.jpg",Av. T-63 (topo do Aquarius Center)
+https://5a7d54e35f9d2.streamlock.net/aquariuscenter2/aquariuscenter2.stream/chunklist.m3u8
+
+#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="https://painel.zoeweb.com.br/public/uploads/thumbnail/live-728/thumb-viaduto.jpg",Av. T-4 c/ Av. T-63 -  Setor Bueno
+https://5a7d54e35f9d2.streamlock.net/aquariuscenter/aquariuscenter.stream/chunklist.m3u8
+#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="https://zoevideos.net/public/uploads/thumbnail/live-1085/Screenshot_6.jpg",GOIÂNIA - AV. 85 RUA 30
+https://hunq9fz8yk.zoeweb.tv/av_85_rua/av_85_rua.stream/chunklist.m3u8
+#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="N/A",GOIÂNIA - AV. Rio Verde
+https://hunq9fz8yk.zoeweb.tv/avrioverdeapgyn/avrioverdeapgyn.stream/playlist.m3u8
+#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="N/A",GOIÂNIA - Morro do Mendanha
+https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w182959856.m3u8
+
+#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="N/A",GOIÂNIA - AVENIDA 85
+https://hunq9fz8yk.zoeweb.tv/av85/av85.stream/chunklist_w123426081.m3u8
+
+
+
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://i.imgur.com/7DfRiz6.png", GOIÂNIA - Avenida Castelo Branco
+https://5a7d54e35f9d2.streamlock.net/avt7/avt7.stream/chunklist_w1549205327.m3u8
+
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://i.imgur.com/7DfRiz6.png", ARUANÃ - RIO VERMELHO - PRAIA DO CAVALO
+https://5a1c76baf08c0.streamlock.net/riovermelhocam01/rvcam01.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://i.imgur.com/7DfRiz6.png", Setor Central
+https://5a1c76baf08c0.streamlock.net/araguaiacam01/acam01.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://i.imgur.com/7DfRiz6.png", Goiânia
+https://hunq9fz8yk.zoeweb.tv/aquariuscenter/aquariuscenter.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://i.imgur.com/7DfRiz6.png", Rua 9 (Cartório Índio Artiaga), Setor Oeste
+https://hunq9fz8yk.zoeweb.tv/r9oeste/r9oeste.stream/chunklist_w1793116402.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",TV Globo US
 https://egcdn-live.video.globo.com/nu/f(i=2)/glbeua/edge-cache-token=Expires=1706003075&KeyName=media-cdn-keyset-prod&Signature=P4csusbn5i8NvlP_uQPW5WwSKgwW881Tv821DCjnfCMjrU7bQ6Z5VR0rGeOk_nvIIz8QlaqFDdctKpA82p-pBw==/playlist.m3u8
