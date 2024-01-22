@@ -3,41 +3,43 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",TV Globo USA
-https://egcdn-live.video.globo.com/nu/f(i=2)/glbeua/edge-cache-token=Expires=1705912381&KeyName=media-cdn-keyset-prod&Signature=IGN3CkiCXwlAXTbADl2KAEIIA49jYCWNahB4jcXzXMD8KbzdMgzUmVV4a0rEjxwWtpm5yF07MEOhjAEA5fhiBQ==/playlist.m3u8
+
+[notice] A new release of pip is available: 23.2.1 -> 23.3.2
+[notice] To update, run: C:\Users\Switcher\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m pip install --upgrade pip
+Requirement already satisfied: beautifulsoup4 in c:\users\switcher\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (4.12.2)Note: you may need to restart the kernel to use updated packages.
+
+Requirement already satisfied: soupsieve>1.2 in c:\users\switcher\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (from beautifulsoup4) (2.5)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",TV Globo - Fantástico
+https://egcdn-live.video.globo.com/nu/f(i=2)/glbeua/edge-cache-token=Expires=1706003075&KeyName=media-cdn-keyset-prod&Signature=P4csusbn5i8NvlP_uQPW5WwSKgwW881Tv821DCjnfCMjrU7bQ6Z5VR0rGeOk_nvIIz8QlaqFDdctKpA82p-pBw==/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 24 - Câmera 1 - Acompanhe a Casa
-https://egcdn-live.video.globo.com/nu/f(i=2)/bbb01/edge-cache-token=Expires=1705912400&KeyName=media-cdn-keyset-prod&Signature=osyCVkzF22mMiBwJJzMe99ts9cQIlV_6jLy9ZN4VcXCHKBmTb9lObApXdWAG3Czy6RGgEpIRScKhFG1hauQECw==/playlist.m3u8
+https://egcdn-live.video.globo.com/nu/f(i=2)/glbeua/edge-cache-token=Expires=1706003075&KeyName=media-cdn-keyset-prod&Signature=P4csusbn5i8NvlP_uQPW5WwSKgwW881Tv821DCjnfCMjrU7bQ6Z5VR0rGeOk_nvIIz8QlaqFDdctKpA82p-pBw==/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 24 - Câmera 2 - Acompanhe a Casa 2
-https://egcdn-live.video.globo.com/nu/f(i=2)/bbb11/edge-cache-token=Expires=1705912424&KeyName=media-cdn-keyset-prod&Signature=JiDq-Bm4ASj7OHGj_lYVNhjYNAZrhwWZHBJWItKD89U8wkYsc3bxmz9MQRs1fYhxTAGQ1Tg2o-59UZ60-agPBQ==/playlist.m3u8
+https://egcdn-live.video.globo.com/nu/f(i=2)/glbeua/edge-cache-token=Expires=1706003075&KeyName=media-cdn-keyset-prod&Signature=P4csusbn5i8NvlP_uQPW5WwSKgwW881Tv821DCjnfCMjrU7bQ6Z5VR0rGeOk_nvIIz8QlaqFDdctKpA82p-pBw==/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 24 - Câmera 3 - Segue o Líder
-https://egcdn-live.video.globo.com/nu/f(i=2)/bbb10/edge-cache-token=Expires=1705912447&KeyName=media-cdn-keyset-prod&Signature=ADHyyIgNRAIGODiAprHgO9I7kpnPSfmJap1g4YNIhOqWKWo2pHHTo3JgwxpWSOst1MCfppHjBH11xa8obrjeAA==/playlist.m3u8
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb10/edge-cache-token=Expires=1706003178&KeyName=media-cdn-keyset-prod&Signature=qubZEo3qDb2wqkh-U2z2bEwNlmTpeCcEeBa8EX88cafnGSTj0mF9tx3Y_RcEg3hlDXmqSxvn3WLaII8iIKaQCg==/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 24 - Mosaico BBB - Mosaico BBB
-https://egcdn-live.video.globo.com/nu/f(i=2)/bbb12/edge-cache-token=Expires=1705912470&KeyName=media-cdn-keyset-prod&Signature=_sWMEmKmG-BaF7Gaz5-SLTXkJcZaEVdZpDscgzHXJq3RZTpPw-8AC2stzKbltQD5m6QEMzgBDO_28bXWmL43DQ==/playlist.m3u8
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb12/edge-cache-token=Expires=1706003206&KeyName=media-cdn-keyset-prod&Signature=aN-rjoTsEGjLxqE6_9Th7TYf1HuQmmLuQrVvk4hhkcVDna0dsLDRNlJluzxeZR5xshIOv6Q-3ZNvp4P80VTnBA==/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 24 - Câmera 5 - Quarto Magia
-https://egcdn-live.video.globo.com/nu/f(i=2)/bbb04/edge-cache-token=Expires=1705912491&KeyName=media-cdn-keyset-prod&Signature=lGaRH2y5ZYe1dnJOvAzykMCTLy-L4pmGQX0-i8WYpketGcTL98iNC7VzbwQLF0TBpnu2CVhjn5MA5prvRCLoCQ==/playlist.m3u8
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb04/edge-cache-token=Expires=1706003227&KeyName=media-cdn-keyset-prod&Signature=nk_80W75c6yGkhdDinXSyv87Evr92E0E3tg0tZC1A1qULgewJ58XvliC7R3eC76qFu-_67pdS85n72ztbLv_Ag==/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 24 - Câmera 6 - Quarto Fada
-https://egcdn-live.video.globo.com/nu/f(i=2)/bbb03/edge-cache-token=Expires=1705912513&KeyName=media-cdn-keyset-prod&Signature=D349-SgmJ72DYqI92vjUqUnJycx0RFYss-DwMMvWLsKaXXay_ArO_mPsdMryagAcX69hpkO0UpfSv5iAePsqDQ==/playlist.m3u8
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb03/edge-cache-token=Expires=1706003249&KeyName=media-cdn-keyset-prod&Signature=PMh7r3lkk3Fx3Hr5TKIDpJI4relZqDz7LtHK0M_ParfwtG3zfS7g1EBySPfPIM9QFryU-2091lG8c-lX0TdRDw==/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 24 - Câmera 7 - Quarto Gnomo
-https://egcdn-live.video.globo.com/nu/f(i=2)/bbb02/edge-cache-token=Expires=1705912534&KeyName=media-cdn-keyset-prod&Signature=OLSHdUHB58ChCHcM21M528QrcBF8YHvK2gH3lgNuu98LSFzeUZ_qMK6JAEl1gWD_G-TzXw_S09y9zmIcYOWHBQ==/playlist.m3u8
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb02/edge-cache-token=Expires=1706003273&KeyName=media-cdn-keyset-prod&Signature=QLza-N0bYPPI6APNM6RtZ_026YnHMwE7yTDHzarZAwxkQN9d3GFwU5QlgM7b-Y1fiMzmmmwTOt_O7zTzrG_GDQ==/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 24 - Câmera 8 - Sala
-https://egcdn-live.video.globo.com/nu/f(i=2)/bbb05/edge-cache-token=Expires=1705912557&KeyName=media-cdn-keyset-prod&Signature=gyOt6Q5LXHZ2qqznuyvbHwZ22pVJe8Tu-l2G_myQiALd4K2ZL5X22p9f1N4dJNwZI9xK3ut_hb-ol2pmMKibBQ==/playlist.m3u8
+...
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 24 - Câmera 9 - Cozinha Delícia
-https://egcdn-live.video.globo.com/nu/f(i=2)/bbb07/edge-cache-token=Expires=1705912579&KeyName=media-cdn-keyset-prod&Signature=2godQhnk45IAiZNyO0-0uPAUywgWyemGnTNQp86OPUtWrQwlBwv6TiX3ZONH7moRplEFwLjdVsIDYxeYXly1Aw==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 24 - Câmera 11 - Quarto Magia
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb09/edge-cache-token=Expires=1706003367&KeyName=media-cdn-keyset-prod&Signature=-tHALmrWinKu2Xav1yA5pRkyBx_N_MvpBSvXSlr97UfwV9FkVH-NwpI8sHzYY5Avr1BbOyBtASXg-wINa9n2DA==/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 24 - Câmera 10 - Banheiro Pantene
-https://egcdn-live.video.globo.com/nu/f(i=2)/bbb08/edge-cache-token=Expires=1705914485&KeyName=media-cdn-keyset-prod&Signature=6WVwgW23GvvhmDlEsF0CBrDo4k6OB1ugRG3arUBxMYlZV3E54Uw41BJ8-TMrRrw1ca1Jj5zmWyIDrrbal81NDQ==/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 24 - Câmera 11 - Academia Rexona
-https://egcdn-live.video.globo.com/nu/f(i=2)/bbb09/edge-cache-token=Expires=1705912634&KeyName=media-cdn-keyset-prod&Signature=zGBkQF4sfGhDC3wBRIxTWR70z0y3VgUhVHWaNfeWY9N4JemRrM_t-gdaQGUEdLMkpE9uiuoyyQ4OYO5Rrwr3AA==/playlist.m3u8
 
 
 
