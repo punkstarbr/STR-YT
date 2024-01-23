@@ -5,8 +5,11 @@
 
 #EXTINF:-1,CAMERA 1
 https://egcdn-live.video.globo.com/nu/f(i=2)/bbb01/edge-cache-token=Expires=1706119500&KeyName=media-cdn-keyset-prod&Signature=66sOeXibI9H1kHQoVMnuRHpFYIeACSJXPQFhWu27m3gG9A2QjZD0uk_jNbIegfiv4H09PH4KlZM-CFqXBzC-AQ==/bbb01-audio_1=96000-video=3442944.m3u8
+#EXTINF:-1,CAMERA 2 BBB
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb11/edge-cache-token=Expires=1706119532&KeyName=media-cdn-keyset-prod&Signature=0li3kUolbvbcE8_6uSnZclfCNCa2X9Ii4FrnrSIjnpD8DBJ3M3LG59DKHQTsRBK621NxebVQDpAadxW9wBGKCw==/bbb11-audio_1=96000-video=3442944.m3u8
 #EXTINF:-1,BANHEIRO
 https://egcdn-live.video.globo.com/nu/f(i=2)/bbb08/edge-cache-token=Expires=1706119481&KeyName=media-cdn-keyset-prod&Signature=Yv1VQHOOe-XImc2LCumyEIjll75UKNvN3pGN9vr7j6vI9-W9hCKhbEu88OPQGfOkTMzNlFJvav67vJmJqujZDQ==/bbb08-audio_1=96000-video=3442944.m3u8
+
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Filadelfia / [Philadelphia] 
 https://nbculocallive.akamaized.net/hls/live/2035366/philadelphia/stream5/master.m3u8
