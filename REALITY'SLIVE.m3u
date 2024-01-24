@@ -199,55 +199,18 @@ http://alv.encohd.co:39591/live/j0roNAC/n3XT33/338.m3u8
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Eɴɢʟᴀɴᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/235px-ITV2_logo_2022.svg.png",ITV2 🇬🇧
+http://198.16.100.90:8278/itv2_antik/playlist.m3u8?tid=ME1E6151053761510537&ct=19249&tsum=1ef927017460bcb40a504bbebc9eecb8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Eɴɢʟᴀɴᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/235px-ITV2_logo_2022.svg.png",ITV2 - 2 🇬🇧
+http://88.208.226.9:9981/stream/channelid/213933282?ticket=C4C751092BB83BE658FDE456EB3117A3F9BDC6A4&profile=pass
 
-
-
+#EXTINF:-1,ITV2+1
+http://5.66.192.142:9981/stream/channelid/279747110?profile=matroska
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 2 Telas
 http://khtro2.com/live/69754975141604/526502448518/493846.ts
 
-#EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/clan.png" group-title="Jeunesse" tvg-chno=" ",TVE Clan
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://estaticos.tdt1.com/canales/logoantena3.jpg" group-title="Général" tvg-chno="103",Antena 3 (SD)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:7_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://estaticos.tdt1.com/canales/logocuatro.jpg" group-title="Général" tvg-chno="4",Cuatro
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://estaticos.tdt1.com/canales/logoatreseries.jpg" group-title="Cinéma-Séries" tvg-chno="",Atreseries
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="Lasexta.es" tvg-logo="https://estaticos.tdt1.com/canales/logolasexta.jpg" group-title="Général" tvg-chno="6",La Sexta
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="Neox.es" tvg-logo="https://estaticos.tdt1.com/canales/logoneox.jpg" group-title="Information" tvg-chno=" ",Neox 1
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="Nova.es" tvg-logo="https://estaticos.tdt1.com/canales/logonova.jpg" group-title="Information" tvg-chno=" ",Nova 2
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://estaticos.tdt1.com/canales/logomega.jpg" group-title="Information" tvg-chno=" ",Mega 3
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="Général" tvg-chno="3",Antena 3 (HD)
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:277_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="Cinéma-Séries" tvg-chno="30",A3 Series
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:278_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id="Neox.es" tvg-logo="https://i.imgur.com/u4NFyb7.png" group-title="Cinéma-Séries" tvg-chno=" ",Neox 2
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:279_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id="Nova.es" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="Divertissement" tvg-chno="",Nova 2 
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:280_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="Divertissement" tvg-chno="",Mega
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:281_HD.smil/index.m3u8 3
-
-
-
-
-
-
-#EXTINF:-1 group-title="ᴇsᴘᴀɴʜᴀ" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/Logos/La%20Sexta.png",La Sextaᴴᴰ 🇪🇸
-https://bit.ly/3NbhtVf?/manifest.m3u8
-#EXTINF:-1 group-title="ᴇsᴘᴀɴʜᴀ" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200",Nova 🇪🇸
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:280_HD.smil/index.m3u8
-#EXTINF:-1 group-title="ᴇsᴘᴀɴʜᴀ" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",Megaᴴᴰ 🇪🇸
-https://bit.ly/3WBbnR1?/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://estaticos.tdt1.com/canales/logotelecinco.jpg" group-title="Reality Show'S Live" tvg-chno="5",Telecinco
 http://167.114.156.136:25461/INFINITV/ZX89NM22/203
@@ -257,24 +220,6 @@ http://xcm.budtv-ultra.com:25461/live/eventosiptv/mnyuHhAMk4zS/14911.ts
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Reality Show'S Live" tvg-logo="", GF VIP
 http://144.217.72.24/mediasetextra/mono.m3u8
 
-#EXTINF:-1,Rai 1ᴴᴰ 🇮🇹
-http://144.217.72.24/rai1/mono.m3u8
-#EXTINF:-1,Rai 2ᴴᴰ 🇮🇹
-http://144.217.72.24/rai/mono.m3u8
-#EXTINF:-1,Rai Bis 3ᴴᴰ 🇮🇹
-http://37.18.239.36:8888/RAI_3_HD/index.m3u8
-#EXTINF:-1,Rai 4ᴴᴰ 🇮🇹
-http://37.18.239.36:8888/RAI_4/index.m3u8
-#EXTINF:-1,RAI Italia
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4291.ch
-#EXTINF:-1,Rai Storiaᴴᴰ 🇮🇹
-http://37.18.239.36:8888/RAI_Storia_HD/index.m3u8
-#EXTINF:-1,Rai Movieᴴᴰ 🇮🇹
-http://37.18.239.36:8888/RAI_Movie/index.m3u8
-#EXTINF:-1,Rai Premium 🇮🇹
-http://37.18.239.36:8888/RAI_Premium/index.m3u8
-#EXTINF:-1,Rai Sportᴴᴰ 🇮🇹
-http://37.18.239.36:8888/RAI_Sport_Plus_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Reality Show'S Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png",BBB24ᴴᴰ 🇧🇷 
 http://voz.one:80/live/alexfnt/vTFBGKdUYq/254730.m3u8
