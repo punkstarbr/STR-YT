@@ -217,13 +217,8 @@ http://alv.encohd.co:39591/live/j0roNAC/n3XT33/338.m3u8
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Eɴɢʟᴀɴᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/235px-ITV2_logo_2022.svg.png",ITV2
-http://198.16.100.90:8278/itv2_antik/playlist.m3u8?tid=ME1E6151053761510537&ct=19249&tsum=1ef927017460bcb40a504bbebc9eecb8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Eɴɢʟᴀɴᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/235px-ITV2_logo_2022.svg.png",ITV2 - 2 🇬🇧
-http://88.208.226.9:9981/stream/channelid/213933282?ticket=C4C751092BB83BE658FDE456EB3117A3F9BDC6A4&profile=pass
 
-#EXTINF:-1,ITV2+1
-http://5.66.192.142:9981/stream/channelid/279747110?profile=matroska
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB 2 Telas
 http://khtro2.com/live/69754975141604/526502448518/493846.ts
