@@ -340,11 +340,7 @@ https://5a2b083e9f360.streamlock.net/usbrasiltv/usbrasiltv.sdp/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", TELEMUNDO 2
-#EXT-X-PROGRAM-DATE-TIME:2023-02-20T07:45:00Z
-#EXT-X-TARGETDURATION:5400
-#EXT-X-VERSION:3
-http://hidra.live:80/rbkhihvo/tBoBv15r69/35152
+
 
 #EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",TELEMUNDO 3
 #EXTVLCOPT:http-referrer=https://www.mediaset.es/
