@@ -45,12 +45,22 @@ https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:280_HD.smil/in
 #EXTINF:-1 group-title="ᴇsᴘᴀɴʜᴀ" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",Megaᴴᴰ 🇪🇸
 https://bit.ly/3WBbnR1?/manifest.m3u8
 
-#EXTINF:-1,Rai 1ᴴᴰ 🇮🇹
-http://144.217.72.24/rai1/mono.m3u8
-#EXTINF:-1,Rai 2ᴴᴰ 🇮🇹
-http://144.217.72.24/rai/mono.m3u8
-#EXTINF:-1,Rai Bis 3ᴴᴰ 🇮🇹
-http://37.18.239.36:8888/RAI_3_HD/index.m3u8
+#EXTINF:-1 tvg-id="RAIItalia.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_italia.png" group-title="Italiano" tvg-chno="500",RAI Italia
+https://raievent7-live.akamaized.net/hls/live/619186/raievent7/raievent7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RAI1.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" group-title="Italiano" tvg-chno="501",RAI 1 HD
+http://livetv.ktv.zone/130/play.m3u8
+
+#EXTINF:-1 tvg-id="RAI2.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_2.png" group-title="Italiano" tvg-chno="502",RAI 2 HD
+http://livetv.ktv.zone/131/play.m3u8
+
+#EXTINF:-1 tvg-id="RAI3.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_3.png" group-title="Italiano" tvg-chno="503",RAI 3 HD
+http://livetv.ktv.zone/132/play.m3u8
+
+#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7.png" group-title="Italiano" tvg-chno="507",La 7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+
+
 #EXTINF:-1,Rai 4ᴴᴰ 🇮🇹
 http://37.18.239.36:8888/RAI_4/index.m3u8
 #EXTINF:-1,RAI Italia
