@@ -6,14 +6,14 @@
 #EXTINF:-1 group-title="VARIEDADES",Azteca Monterrey
 https://live.info7.mx/info7/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="5",Canale 5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="5",Canale 5 - VPN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="6",Italia 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="6",Italia 1 - VPN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
