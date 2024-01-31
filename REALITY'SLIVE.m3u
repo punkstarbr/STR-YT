@@ -9,34 +9,6 @@ https://stream1.aswifi.it/italiachannel/stream/index.m3u8
 
 
 
-
-#EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://i.imgur.com/opBSp7C.png",Home & Shopping - South Korea
-https://livevod.hnsmall.com:2935/live/mp4:a.stream/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://i.imgur.com/0cuoaxl.png",Horse Shopping Channel - USA
-https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/homeshop.png",HSN
-https://hsn.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://i.imgur.com/nyMKyMr.jpg",Hyundai Hmall - South Korea 1
-https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://i.imgur.com/nyMKyMr.jpg",Hyundai Hmall - South Korea 2
-https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
-
-#EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://i.imgur.com/p69IFMX.jpg",Jewellery Maker - UK
-https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://i.imgur.com/1HJraea.png",Jewelry Television - USA
-https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://i.imgur.com/CNf0Ej5.png",Juvelirochka TV (Ювелирочка ТВ) - Russia
-https://live4-uvelirochka.cdnvideo.ru/uvelir10/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://i.imgur.com/gFnsnth.jpg",Leomax 24 - Russia
-https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://i.imgur.com/xX7hFEC.jpg",Lotteimall - South Korea
-https://mohlslive.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://i.imgur.com/h6dtCjP.png",Luxury - Russia
-http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://i.imgur.com/5d8iCqu.jpg",NS Home Shopping - South Korea
-http://livestream.nsmall.com:1935/IPHONE/test.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://i.imgur.com/sh0toA1.png",Persian Bazar - Iran
-https://stream.persiantv1.com/ptv1/playlist1/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",QVC - Germany
 https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",QVC 2 - Germany
