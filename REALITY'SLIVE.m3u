@@ -3,6 +3,38 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="TV",Eventuales: +24 - 2
+https://rtvelivestream.akamaized.net/hls/nxrtgolumi/mastdp/stream1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img2.rtve.es/resources/thumbslive/1938070.jpg" group-title="TV",Eventuales: +24 - 3
+https://rtvelivestream.akamaized.net/rtvesec/oca/irtve04_main_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="TV",Eventuales: +24 - 4
+https://rtvehlslivestream.akamaized.net/hls/live/2041583/IRTVE01_AKA_HLS_GL0/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="TV",Eventuales: +24 - 5
+https://rtvehlslivestream.akamaized.net/hls/live/2041585/IRTVE02_AKA_HLS_GL0/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="TV",Eventuales: +24 - 6
+https://rtvehlslivestream.akamaized.net/hls/live/2041586/IRTVE03_AKA_HLS_GL0/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="TV",Eventuales: +24 - 7
+https://rtvehlslivestream.akamaized.net/hls/live/2041587/IRTVE04_AKA_HLS_GL0/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="TV",Eventuales: +24 - 8
+https://rtvelivestream.akamaized.net/segments/oca/irtve20_main.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="TV",Eventuales: +24 - 9
+https://rtvelivestream.akamaized.net/hls/nxrtgolumi/mastdp/stream2.m3u8
+
+#EXTINF:-1 group-title="TV",Eventuales:RTVE - 2
+https://rtvehlslivestream.akamaized.net/hls/live/2041627/IRTVE23_AKA_HLS_GL1/master.m3u8
+#EXTINF:-1 group-title="TV",Eventuales:RTVE - 3
+https://rtvehlslivestream.akamaized.net/hls/live/2041619/IRTVE19_AKA_HLS_GL1/master.m3u8
+#EXTINF:-1 group-title="TV",Eventuales:RTVE - 4
+https://rtvelivestream.akamaized.net/segments/oca/ocasional04_main.m3u8
+#EXTINF:-1 group-title="TV",Eventuales:RTVE - 5
+https://rtvelivestream.akamaized.net/segments/oca/ocasional05_main.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Azteca Monterrey
 https://live.info7.mx/info7/stream.m3u8
 
