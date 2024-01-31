@@ -3,6 +3,13 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
+#EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://i.imgur.com/ssf1GfC.png",Italia Channel LCN 123 - Italy
+https://stream1.aswifi.it/italiachannel/stream/index.m3u8
+
+
+
+
+
 #EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://i.imgur.com/iOXiKiT.gif",GM24 - Italy
 https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8
 
@@ -18,8 +25,7 @@ https://hsn.samsung.wurl.com/manifest/playlist.m3u8
 https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://i.imgur.com/nyMKyMr.jpg",Hyundai Hmall - South Korea 2
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://i.imgur.com/ssf1GfC.png",Italia Channel LCN 123 - Italy
-https://stream1.aswifi.it/italiachannel/stream/index.m3u8
+
 #EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://i.imgur.com/p69IFMX.jpg",Jewellery Maker - UK
 https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://i.imgur.com/1HJraea.png",Jewelry Television - USA
