@@ -6,6 +6,12 @@
 #EXTINF:-1 group-title="VARIEDADES",Azteca Monterrey
 https://live.info7.mx/info7/stream.m3u8
 
+#EXTINF:-1 tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="NEWS WORLD",UN Web TV 
+https://cdnapisec.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_e442lsh5/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="NEWS WORLD",UN Web TV 2
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+
 
 #EXTINF:-1 group-title="TV" tvg-id="Reuters TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Reuters-TV.png",Reuters TV
 #KODIPROP:inputstream=inputstream.adaptive
