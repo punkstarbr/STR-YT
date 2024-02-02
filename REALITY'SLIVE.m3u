@@ -196,37 +196,61 @@ https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/141621315-19d48d33-4056-4cd1-98bb-aa02ef330bc5.jpg",GRANDE FRATELLO 1 (VPN)
-#EXTVLCOPT:http-user-agent=Firefox
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/161234855-c2534e23-ece4-4522-a64f-7458d0b81235.jpg",GRANDE FRATELLO 2 (VPN)
-#EXTVLCOPT:http-user-agent=Firefox
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
 https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/161437008-47102c5b-a276-4ba1-9534-1cdc26500b30.jpg",GRANDE FRATELLO 3 (VPN)
-#EXTVLCOPT:http-user-agent=Firefox
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
 https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
 
 
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/162147028-be9e6411-6b5b-44d3-b135-e0109797cc09.jpg",GRANDE FRATELLO EXTRA
-#EXTVLCOPT:http-user-agent=Firefox
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/162147028-be9e6411-6b5b-44d3-b135-e0109797cc09.jpg",GRANDE FRATELLO EXTRA - BACKUP
-#EXTVLCOPT:http-user-agent=Firefox
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/162147028-be9e6411-6b5b-44d3-b135-e0109797cc09.jpg",GRANDE FRATELLO EXTRA - BACKUP
-#EXTVLCOPT:http-user-agent=Firefox
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
 https://live03-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/11/202629434-8966f8cd-169e-4290-ba01-6f097053d833.jpg",GRANDE FRATELLO PARTY
-#EXTVLCOPT:http-user-agent=Firefox
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(b1)/index.m3u8
 
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/11/202629434-8966f8cd-169e-4290-ba01-6f097053d833.jpg",GRANDE FRATELLO PARTY
-#EXTVLCOPT:http-user-agent=Firefox
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
 https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest.mpd
 
 
