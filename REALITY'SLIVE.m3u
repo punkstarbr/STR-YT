@@ -4,10 +4,26 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
 
-
-#EXTM3U 
-﻿#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
-#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
+#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| RTP 1 HD
+http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9707
+#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| RTP 2 HD
+http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9710
+#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| RTP 3 HD
+http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9712
+#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| RTP 1 FHD
+http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9706
+#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| RTP 2 FHD
+http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9709
+#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| SIC FHD
+http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9714
+#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| TVI FHD
+http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9722
+#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| TVI HD
+http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9724
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://162.212.178.69:41042/bysid/608
 #EXTINF:-1 tvg-name="" tvg-id="cmtvhd.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CMTV.png",CMTVᴴᴰ 🇵🇹 🟡
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287282&amp;f=.ch
 #EXTINF:-1 tvg-id="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/globo.png",Tv Globo Premium ѕᴅ 🇧🇷 🟡
@@ -55,6 +71,39 @@ https://egcdn-live.video.globo.com/nu/f(i=2)/bbb08/edge-cache-token=Expires=1706
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB USA Academia Rexona 
 https://egcdn-live.video.globo.com/nu/f(i=2)/bbb09/edge-cache-token=Expires=1706945751&KeyName=media-cdn-keyset-prod&Signature=jdrwYlMAcKSjkTc02K60QTubsGqynRx6SuaO5FMsNKJZ3qXMGHpOs6gR49DvDKHfeE2NBYNpI_TjJJlymfzYBA==/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB USA Mais Você 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB USA Acompanhe a Casa 
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb01/edge-cache-token=Expires=1706947436&KeyName=media-cdn-keyset-prod&Signature=_2g2ln1ezDrgMx6fupNVLE9UQ-UylJqPN4W5vEtfSYHoByqbXX9-E0LwQ9KQfZhNUCEn8j0KrhPAfKu1cQFrAA==/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB USA Acompanhe a Casa 2 
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb11/edge-cache-token=Expires=1706947464&KeyName=media-cdn-keyset-prod&Signature=lvhthkwUR0xvT1NMw7lGV_L2ioR_MyOiPZQ1788qMhTTeox4bBxeSwpIzisqDsjuuXj38xmfedwsbWr5gtb3Aw==/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB USA Segue o Líder 
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb10/edge-cache-token=Expires=1706947486&KeyName=media-cdn-keyset-prod&Signature=Pyu0fMcS2wkAXr0SChFDMEV4-dKsjaKeBrnD_hqwhGTY1ZKt3ze8L5wPJ9SX61GVTyjjOfz8BUNpd_zxEcFFCA==/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB USA Mosaico BBB 
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb12/edge-cache-token=Expires=1706947509&KeyName=media-cdn-keyset-prod&Signature=69revbdDOwM-SliIzx6SHxIROpkveedUTqoMsOtXRqw4nuqK7fEnqPZO-yq7wepuo2svJUFQU5RsK-SW69QbDg==/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB USA Quarto Magia 
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb04/edge-cache-token=Expires=1706947533&KeyName=media-cdn-keyset-prod&Signature=TGn9-Q5x1MD0mu_cV2MqJp1wY9wBiDFfZHk_fx2q-kl5hsHv2aiQEp3ql_D6K8S21RaWyy9pFW6Ol9VYG9muAg==/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB USA Quarto Fada 
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb03/edge-cache-token=Expires=1706947561&KeyName=media-cdn-keyset-prod&Signature=TYKPAvcPr2xxuX-mm2Wy5EtQRZm86T52qB16a0ziBeyMXlgmzjF98DU-33gljVllJ20vGolmBedk9iZOaAawCQ==/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB USA Quarto Gnomo 
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb02/edge-cache-token=Expires=1706947584&KeyName=media-cdn-keyset-prod&Signature=vjHk-J7TUzrDRRyqChd1QCKDwyJ1ah8Yvw7S6D8Y7L5RbpPmQoFYLLzXVsHuOQdWVucuNtaof0t6bmgi8wHEDg==/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB USA Sala 
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb05/edge-cache-token=Expires=1706947613&KeyName=media-cdn-keyset-prod&Signature=9JLi6zromTVdFHbqODktVbLYnr7r4XISVGClvR-BbQ5jo488bYQ3yoVsrq3WG02c2FTQGvPOhEPYgEDekUuSCg==/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB USA Cozinha Delícia 
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb07/edge-cache-token=Expires=1706947635&KeyName=media-cdn-keyset-prod&Signature=TNPn41p2sOxVmQlRZ7_mKjRYPJpANq4CTz-KlclpzcKUlCrnpwTwzeC6wyPT4Scmgz8gy5Tcsw3pW_-X84wiCQ==/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB USA Banheiro Pantene 
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb08/edge-cache-token=Expires=1706947658&KeyName=media-cdn-keyset-prod&Signature=GgPbVBdgXIcUi2ZTISgrA8ORiRpmE5qMTLxR_i6Cr2yhWA_NG0UODo_0TXJnbpn2fEumWd-5rF4mW9nX7rItCg==/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB USA Academia Rexona 
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb09/edge-cache-token=Expires=1706947685&KeyName=media-cdn-keyset-prod&Signature=tdWoXmpoe4ne26OErNY54XPP2AC2WTr9nvDuHNZXsXPCw-yXqZGT5qSPOsGZiyRTF_4JaUQ-bBPtHU9PC7XCBQ==/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="PREMIUM", TELEMUNDO
