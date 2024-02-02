@@ -10,6 +10,17 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",GLOBO USA
+https://egcdn-live.video.globo.com/nu/f(i=2)/glbeua/edge-cache-token=Expires=1706943228&KeyName=media-cdn-keyset-prod&Signature=JV62OFuxQF20xlEBqi7Cwnu2QSc6v_xrDS6rPxoMHfNXFJJz_ymDBFpJqtl4qcgellsFphlDC4CcDoFYIbd-Ag==/glbeua-audio_1=96000-video=952960.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB USA Acompanhe a Casa 
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb01/edge-cache-token=Expires=1706943258&KeyName=media-cdn-keyset-prod&Signature=rREkgrcvn9WMSoPUURO4r31DgT06qDZ-r1vCvFYWnatvRRWsupq6If6sI-HWZB5XcqX4Kse0oOUuYOtpQAA1DQ==/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB USA Acompanhe a Casa 2 
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb11/edge-cache-token=Expires=1706943274&KeyName=media-cdn-keyset-prod&Signature=j65RIQCX_Bwj8uCwZVKt5nxOpwUeIe4otgBoZoxJt-nrzZUrKL9dKnIo9M2WSZd4O11fpqOOf6wiD3OJTXLQAg==/bbb11-audio_1=96000-video=1476992.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",BBB USA Segue o Líder 
+https://egcdn-live.video.globo.com/nu/f(i=2)/bbb10/edge-cache-token=Expires=1706943297&KeyName=media-cdn-keyset-prod&Signature=l9i5KdwEViBnEiba0c59NCjOe_a9sTnzZVfXqd0WwuUn_udF91Cd9aIOgNk3NHCFjplhhEHQWTvcK_o7Fp4mAw==/bbb10-audio_1=96000-video=558976.m3u8
 
 
 #EXTINF:-1,BANHEIRO BBB
