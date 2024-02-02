@@ -3,6 +3,16 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
+#EXTINF:0 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg" group-title="ESPAÑA",TELECINCO 50
+http://232802178476321430.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321430.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="ESPAÑA",TELECINCO 51
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69301.ts
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg" group-title="ESPAÑA",TELECINCO 52
+http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/181913
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="PREMIUM", TELEMUNDO
 https://3.ultimate2019.com/stream/hls/92|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 #EXTINF:-1 group-title="HD",ECUAVISA
