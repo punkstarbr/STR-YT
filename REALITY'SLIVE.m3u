@@ -8,7 +8,16 @@
 #EXTM3U 
 ﻿#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
-
+#EXTINF:-1 tvg-name="" tvg-id="cmtvhd.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CMTV.png",CMTVᴴᴰ 🇵🇹 🟡
+http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287282&amp;f=.ch
+#EXTINF:-1 tvg-id="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/globo.png",Tv Globo Premium ѕᴅ 🇧🇷 🟡
+http://m.xp1.tv:80/play/live.php?mac=00:1A:79:a6:f5:26&stream=65687&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/NOS_Studios.svg",NOS Estudioᴴᴰ 🇵🇹 🟡
+http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8075&amp;f=.ch
+#EXTINF:-1 tvg-id="cnn.brasil.br" group-title="Bʀᴀzɪʟ" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/5f9d3fdfa54d566601cc39893f153d9fbf12f136/CNN_Brasil.svg",CNN Brasilᴴᴰ 🇧🇷
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="cnnpthd.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CNNPortugal.png",CNN Portugalᴴᴰ 🇵🇹 🟡
+http://game.shiuk.re:80/69754975141604/526502448518/717.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",GLOBO USA
 https://egcdn-live.video.globo.com/nu/f(i=2)/glbeua/edge-cache-token=Expires=1706943228&KeyName=media-cdn-keyset-prod&Signature=JV62OFuxQF20xlEBqi7Cwnu2QSc6v_xrDS6rPxoMHfNXFJJz_ymDBFpJqtl4qcgellsFphlDC4CcDoFYIbd-Ag==/glbeua-audio_1=96000-video=952960.m3u8
