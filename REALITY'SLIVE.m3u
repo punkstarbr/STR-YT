@@ -11,7 +11,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1092/manifest.mpd
 https://dtvott-abc.akamaized.net/dash_live_1050/manifest.mpd
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS",Las Estrellas (Mexico) (🇲🇽)
 http://186.148.163.18:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",Las Estrellas (Mexico) (🇲🇽)
+#EXTINF:-1 group-title="0.0 LAS ESTRELLAS",Las Estrellas (Mexico) (🇲🇽) 2
 https://is.gd/ZdPEjA
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS",LAS ESTRELLAS MX
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -27,10 +27,7 @@ https://live.info7.mx/info7/stream.m3u8
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 
-#EXTINF:-1 group-title="0.0 AMERICA TV",AMERICA TV HD
-http://th4.online:2095/RESTREAM65MIO/5747379/1587
-#EXTINF:-1 group-title="0.0 AMERICA TV",AMERICA TV HD
-http://casaprotv.xyz:8080/cipri/cipri/230920
+
 
 
 #EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://media3.s-nbcnews.com/i/newscms/2023_49/3631914/lcdlfs4_logo_0_1bac6dd4388eaa634f0dd4372d59c012.png",LA CASA DE LOS FAMOSOS 1
