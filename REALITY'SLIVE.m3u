@@ -3,7 +3,10 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
-
+#EXTINF:-1 group-title="HD",ECUAVISA
+https://dtvott-cbc.akamaized.net/dash_live_1092/manifest.mpd
+#EXTINF:-1 group-title="HD",CNN
+https://dtvott-abc.akamaized.net/dash_live_1050/manifest.mpd
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS",Las Estrellas (Mexico) (🇲🇽)
 http://186.148.163.18:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="0.0 LAS ESTRELLAS",Las Estrellas (Mexico) (🇲🇽)
@@ -65,44 +68,12 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/148714
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMRLCaHtGzTnZ9Y1jG3B-NJli7fk4ZYrHbkQ&usqp=CAU" group-title="Entretenimiento",UNIMÁS
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/148709
 
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Chicago
-https://nbculocallive.akamaized.net/hls/live/2037085/chicago/stream1/master.m3u8
-
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Chicago
-https://nbculocallive.akamaized.net/hls/live/2037085/chicago/stream4/master.m3u8
-
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Tampa FL
-https://nbculocallive.akamaized.net/hls/live/2037606/tampa/stream1/master.m3u8
-
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo San Antonio TX
-https://nbculocallive.akamaized.net/hls/live/2037091/sanantonio/stream1/master.m3u8
-
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Houston TX
-https://nbculocallive.akamaized.net/hls/live/2037088/houston/stream1/master.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Miami FL
 https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream6/master.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Atlanta GA
 https://dai2-playlistserver.aws.syncbak.com/cpl/20475903/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ3NTkwMyIsImNpZCI6MjA5NzQsInNpZCI6MTU4LCJtZDUiOiJiMTgwM2ExYTIxMzA5ZTEwNzNlOGJjMDQyOGU5NDkzOCIsImlhdCI6MTY1Mjg5MjgyMSwiZXhwIjoxNjg0NDI4ODIxLCJpc3MiOiJTeW5jYmFrIChURykifQ.ngWlxw_iUrju6oMpQl73BYHMCl7c6reypSqqP5nLbL8
-
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo McAllen TX
-https://nbculocallive.akamaized.net/hls/live/2037094/mcallen/stream1/master.m3u8
-
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo El Paso TX
-https://nbculocallive.akamaized.net/hls/live/2037500/elpaso/stream1/master.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Fresno CA
 https://nbculocallive.akamaized.net/hls/live/2037601/fresno/stream1/master.m3u8
@@ -113,26 +84,12 @@ https://nbculocallive.akamaized.net/hls/live/2037093/lasvegas/stream1/master.m3u
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Los Angeles CA
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
 
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Phoenix AZ
-https://nbculocallive.akamaized.net/hls/live/2037089/phoenix/stream1/master.m3u8
-
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Sacramento CA
-https://nbculocallive.akamaized.net/hls/live/2037604/sacramento/stream1/master.m3u8
-
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Salt Lake City UT
-https://nbculocallive.akamaized.net/hls/live/2037605/saltlakecity/stream1/master.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo San Diego CA
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream3/master.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Washington DC
 https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream4/master.m3u8
-
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Dallas Fort-Worth TX
-https://nbculocallive.akamaized.net/hls/live/2037095/dallas/stream1/master.m3u8
-
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo 20 Odessa TX
-https://dai2-playlistserver.aws.syncbak.com/playlist/19106378/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxOTEwNjM3OCIsImNpZCI6MTgwMjMsInNpZCI6MTU4LCJtZDUiOiIyMmMxY2M4MTVmMmY1YzJmMjZhZDEzYmQ2MTI1NjFhYSIsImlhdCI6MTY0NDM1Njk4MSwiZXhwIjoxNjc1ODkyOTgxLCJpc3MiOiJTeW5jYmFrIChURykifQ.FluzuQn2DLfJeSKreT0h2OHKpoBGNSkmeu7RKb3O2h0
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Wisconsin (WDJT/WYTU-LD) [NOT 24/7]
 https://video.cbs58.com:443/live/wdjt/live4/live4_720p.m3u8
