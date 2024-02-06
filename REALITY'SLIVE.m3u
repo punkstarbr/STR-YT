@@ -7,34 +7,15 @@
 http://228273734396321430.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321430.m3u8
 #EXTINF:-1,ES: TELECINCO HD
 http://228273734396321430.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321430.m3u8
-#EXTINF:-1,ES: TELECINCO SD
-http://228273734396321431.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321431.m3u8
+
 #EXTINF:-1,ES: CUATRO FHD
 http://228273734396321196.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321196.m3u8
 #EXTINF:-1,ES: CUATRO HD
 http://228273734396321197.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321197.m3u8
-#EXTINF:-1,ES: CUATRO SD
-http://228273734396321198.of230922.xyz:80/live/vi0210254/pTHg@YmFYV/321198.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| RTP 1 HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9707
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| RTP 2 HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9710
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| RTP 3 HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9712
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| RTP 1 FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9706
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| RTP 2 FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9709
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| SIC FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9714
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| TVI FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9722
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| TVI HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9724
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://162.212.178.69:41042/bysid/608
+
+
 #EXTINF:-1 tvg-name="" tvg-id="cmtvhd.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CMTV.png",CMTVᴴᴰ 🇵🇹 🟡
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287281
 #EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY 2
