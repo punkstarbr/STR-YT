@@ -426,8 +426,7 @@ http://23.237.100.82:8000/FOX_WEST/manifest.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/KNSD#/media/File:KNSD39.png" group-title="USA", NBC 39 San Diego(KNSD)
-https://flarestream.tv:443/live/iptv-epg/LnkXHiYtmd/560.m3u8
+
 
 #EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh KDKA
 http://cord-cutter.net:8080/jesus1/jesus1/120777
