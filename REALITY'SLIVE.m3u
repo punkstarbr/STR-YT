@@ -108,16 +108,24 @@ http://7go.xyz:8080/live/15junior/as1266375/326636.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="cmtvhd.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CMTV.png",CMTVᴴᴰ 🇵🇹 🟡
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287281
+#EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY FULL HD
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/116.m3u8
 #EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY 2
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287283
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22917.m3u8
 #EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY 3
+http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287283
+#EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY 4
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287284
-#EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY 4 
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287285
 #EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY 5
+http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287285
+#EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY 6
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287286
-#EXTINF:-1 tvg-id="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/globo.png",Tv Globo Premium ѕᴅ 🇧🇷 🟡
-http://m.xp1.tv:80/play/live.php?mac=00:1A:79:a6:f5:26&stream=65686&extension=ts
+#EXTINF:-1 tvg-id="RTP 3" tvg-name="RTP ARENAᴴᴰ" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2019/04/rtpArena_vertical_positivo.png" group-title="PORTUGAL HD",RTP ARENAᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/36858.m3u8
+#EXTINF:-1 tvg-id="TV Globo Portugal" tvg-name="TV GLOBOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/GLOBO_HD.png" group-title="PORTUGAL HD",TV GLOBOᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/117.m3u8
+#EXTINF:-1 tvg-id="TVRECORDHD2" tvg-name="TV RECORDᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Tv%20Record%20HD.png" group-title="PORTUGAL HD",TV RECORDᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/119.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/NOS_Studios.svg",NOS Estudioᴴᴰ 🇵🇹 🟡
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8075
 #EXTINF:-1 tvg-id="cnn.brasil.br" group-title="Bʀᴀzɪʟ" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/5f9d3fdfa54d566601cc39893f153d9fbf12f136/CNN_Brasil.svg",CNN Brasilᴴᴰ 🇧🇷
