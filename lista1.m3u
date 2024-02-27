@@ -123,14 +123,7 @@ http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZeuj04QfsNcy
 #EXTINF:-1 xui-id="704173" tvg-id="" tvg-name="Fox News SD" tvg-logo="http://capivara.top:80/images/McwsJcYw_mcQAzCGQe-sfogbNtGKtDelIR62pDcFLGxKzWFkN9NA3tdW4bwjeDLO3QB5VlIU15zwb4ShimU3Vo5rB7IU8YXu15Zseat3AqmFWHtXWzqbm-ThehU-x8uzLgE3cD0hkQKGPCHTEuAWLPBQ8uQd5O45-L0uB8-s3amCtwZT1OUZyx4jceBJSzCAbohPjWh9JwdbYSbpogqmkw.jpg" group-title="NOTÍCIA",Fox News SD
 http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZeuAiwoLMILUkb8-AKBm_jj1
 
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Salão Velório 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://wrm7jsxguc.zoeweb.tv/zw943/zw943.stream/chunklist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Salão Velório 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://wrm7jsxguc.zoeweb.tv/zw944/zw944.stream/playlist.m3u8
+
 
 
 
@@ -220,10 +213,7 @@ https://ztnr.rtve.es/ztnr/6108706.m3u8
 https://ztnr.rtve.es/ztnr/6108720.m3u8
 #EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales" tvg-name="+24",+24 6
 https://ztnr.rtve.es/ztnr/6108721.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png",RTVE
-https://ztnr.rtve.es/ztnr/5562351.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SRbKtLk/rtve.png",RTVE 2
-https://rtvelivestream.akamaized.net/hls/nxrtgolumi/mastdp/stream1.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/clan.png" group-title="Jeunesse" tvg-chno=" ",TVE Clan
