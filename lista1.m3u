@@ -226,6 +226,8 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manife
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="Lasexta.es" tvg-logo="https://estaticos.tdt1.com/canales/logolasexta.jpg" group-title="Général" tvg-chno="6",La Sexta
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
+#EXTINF:-1,[ES] LA SEXTA HD
+http://supersonictv.live:8080/019534/410974/85862
 #EXTINF:-1 tvg-id="Neox.es" tvg-logo="https://estaticos.tdt1.com/canales/logoneox.jpg" group-title="Information" tvg-chno=" ",Neox 1
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="Nova.es" tvg-logo="https://estaticos.tdt1.com/canales/logonova.jpg" group-title="Information" tvg-chno=" ",Nova 2
