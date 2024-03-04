@@ -3,6 +3,37 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
+#EXTINF:-1 group-title="CANALES VARIADOS",Telemundo Miami
+http://181.78.105.146:2000/play/a096/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS",PR 1 PUNTO 2
+http://pe.shortgod.com/aascawq/tv7.php?id=55
+#EXTINF:-1 group-title="CANALES VARIADOS",PR | Telemundo
+http://pe.shortgod.com/aascawq/tv7.php?id=56
+#EXTINF:-1 group-title="CANALES VARIADOS",US | TELEMUNDO LOS ANGELES
+http://pe.shortgod.com/aascawq/tv7.php?id=480
+#EXTINF:-1 group-title="CANALES VARIADOS",US 1 TLEEMUNDO LOS ANGELES
+http://pe.shortgod.com/aascawq/tv7.php?id=481
+#EXTINF:-1 group-title="CANALES VARIADOS",US | TLEEMUNDO MIAMI
+http://pe.shortgod.com/aascawq/tv7.php?id=485
+#EXTINF:-1 group-title="CANALES VARIADOS",US 1 TELEMUNDO NY
+http://pe.shortgod.com/aascawq/tv7.php?id=486
+#EXTINF:-1 group-title="CANALES VARIADOS",US | TELEMUNDO TEXAS
+http://pe.shortgod.com/aascawq/tv7.php?id=487
+#EXTINF:-1 group-title="CANALES VARIADOS",US | TELEMUNDO CHICAGO
+http://pe.shortgod.com/aascawq/tv7.php?id=483
+#EXTINF:-1 group-title="CANALES VARIADOS",US | TELEMUNDO DENVER
+http://pe.shortgod.com/aascawq/tv7.php?id=484
+#EXTINF:-1 group-title="CANALES VARIADOS",US | TELEMUNDO MIAMI
+http://pe.shortgod.com/aascawq/tv7.php?id=488
+#EXTINF:-1 group-title="CANALES VARIADOS",US | TELEMUNDO SAN FRANCISCO
+http://pe.shortgod.com/aascawq/tv7.php?id=482
+
+#EXTINF:-1 group-title="CANALES VARIADOS",TELEMUNDO LAS VEGAS
+http://pe.shortgod.com/aascawq/tv7.php?id=621
+#EXTINF:-1 group-title="CANALES VARIADOS",TELEMUNDO BOSTON
+http://pe.shortgod.com/aascawq/tv7.php?id=622
+#EXTINF:-1 group-title="CANALES VARIADOS",TELEMUNDO SACRAMENTO
+http://pe.shortgod.com/aascawq/tv7.php?id=623
 
 
 #EXTINF:-1 tvg-id="" group-title="BBB" tvg-logo="http://i.imgur.com/OISxiqs.png",BBB 01 PRINCIPAL 1 (Opcao 1)
