@@ -6,7 +6,14 @@
 https://ythls.armelin.one/channel/UCiyJDRTHlTOGn6Fc5_BxcJw.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMoE3nJ.png" group-title="Canais | REALITY",BBB CAM 1 HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3706
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMoE3nJ.png" group-title="Canais | REALITY",BBB CAM 2 HD
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3703
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMoE3nJ.png" group-title="Canais | REALITY",BBB BBB MOSAICO
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4058
 
 #EXTINF:-1 tvg-id=i"TF1 en direct" status=timeout,TF1 en direct
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25166.ts
