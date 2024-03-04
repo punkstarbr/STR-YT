@@ -3,6 +3,50 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
+#EXTINF:-1,Sat 1 Gold HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13975
+#EXTINF:-1,Sat 1 HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13956
+#EXTINF:-1 tvg-id=i"TF1 en direct" status=timeout,TF1 en direct
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25166.ts
+#EXTINF:-1 tvg-id=i"TF1 en direct" status=timeout,TF1 en direct 2
+http://livetv.ktv.zone/3/play.m3u8
+#EXTINF:-1,UK: ITV1 HD
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/151329
+#EXTINF:-1,UK: Itv ᶠᴴᴰ
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/151577
+#EXTINF:-1,UK: Itv2 ᶠᴴᴰ
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/151431
+#EXTINF:-1,UK: Itv3 ᶠᴴᴰ
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/151578
+#EXTINF:-1,UK: Itv4 ᶠᴴᴰ
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/151579
+#EXTINF:-1,UK: itv +1 ᴴᴰ
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/109
+#EXTINF:-1,UK: itv ᴴᴰ
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/102
+#EXTINF:-1,UK: itvBe ᴴᴰ
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/106
+#EXTINF:-1,UK: itv2 ᴴᴰ
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/103
+#EXTINF:-1,UK: itv2 +1
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107
+#EXTINF:-1,UK: itv3 ᴴᴰ
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/104
+#EXTINF:-1,UK: itv3 +1 ᴴᴰ
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/336
+#EXTINF:-1,UK: itv4 ᴴᴰ
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/105
+#EXTINF:-1,UK: itv4 +1 ᴴᴰ
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/334
+#EXTINF:-1 tvg-id="ITV 1 UK" status="timeout",ITV 1 UK
+http://163.172.40.244/nm/link?channel=350
+#EXTINF:-1 tvg-id="ITV 2 UK" status="timeout",ITV 2 UK
+http://163.172.40.244/nm/link?channel=351
+#EXTINF:-1 tvg-id="ITV 3 UK" status="timeout",ITV 3 UK
+http://163.172.40.244/nm/link?channel=352
+#EXTINF:-1 tvg-id="ITV 4 UK" status="timeout",ITV 4 UK
+http://163.172.40.244/nm/link?channel=353
 #EXTINF:-1 tvg-id="" tvg-name="[DE] ZDF info HD" tvg-logo="" group-title="GERMANY",[DE] ZDF info HD
 http://supersonictv.live:25461/live/vegas2000/vegas2000/84653.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[DE] ZDF NEO HD" tvg-logo="" group-title="GERMANY",[DE] ZDF NEO HD
@@ -11,6 +55,8 @@ http://supersonictv.live:25461/live/vegas2000/vegas2000/84654.m3u8
 http://supersonictv.live:25461/live/vegas2000/vegas2000/84667.m3u8
 #EXTINF:-1,DE: SAT 1 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135803.ts
+#EXTINF:-1,DE: Sat 1 ᴴᴰ
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/106992
 
 #EXTINF:-1 group-title="CANALES VARIADOS",Telemundo Miami
 http://181.78.105.146:2000/play/a096/index.m3u8
