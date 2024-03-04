@@ -7,10 +7,7 @@ https://ythls.armelin.one/channel/UCiyJDRTHlTOGn6Fc5_BxcJw.m3u8
 
 
 
-#EXTINF:-1,Sat 1 Gold HD
-http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13975
-#EXTINF:-1,Sat 1 HD
-http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13956
+
 #EXTINF:-1 tvg-id=i"TF1 en direct" status=timeout,TF1 en direct
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25166.ts
 #EXTINF:-1 tvg-id=i"TF1 en direct" status=timeout,TF1 en direct 2
@@ -65,8 +62,7 @@ http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/106992
 
 #EXTINF:-1 group-title="CANALES VARIADOS",PR 1 PUNTO 2
 http://pe.shortgod.com/aascawq/tv7.php?id=55
-#EXTINF:-1 group-title="CANALES VARIADOS",PR | Telemundo
-http://pe.shortgod.com/aascawq/tv7.php?id=56
+
 #EXTINF:-1 group-title="CANALES VARIADOS",US | TELEMUNDO LOS ANGELES
 http://pe.shortgod.com/aascawq/tv7.php?id=480
 #EXTINF:-1 group-title="CANALES VARIADOS",US 1 TLEEMUNDO LOS ANGELES
