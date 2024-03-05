@@ -37,10 +37,34 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25166.ts
 http://livetv.ktv.zone/3/play.m3u8
 
 
+#EXTINF:-1 group-title="CANALES VARIADOS",US| ABC Los Angeles
+http://pe.shortgod.com/aascawq/tv7.php?id=425
+#EXTINF:-1 group-title="CANALES VARIADOS",US| ABC New York
+http://pe.shortgod.com/aascawq/tv7.php?id=426
+#EXTINF:-1 group-title="CANALES VARIADOS",US| ABC Houston
+http://pe.shortgod.com/aascawq/tv7.php?id=427
+#EXTINF:-1 group-title="CANALES VARIADOS",US| CBS Houston
+http://pe.shortgod.com/aascawq/tv7.php?id=429
+#EXTINF:-1 group-title="CANALES VARIADOS",US| CBS Los Angeles
+http://pe.shortgod.com/aascawq/tv7.php?id=430
+#EXTINF:-1 group-title="CANALES VARIADOS",US| CBS NY
+http://pe.shortgod.com/aascawq/tv7.php?id=431
+
+#EXTINF:-1 group-title="CANALES VARIADOS",US|FU|WNBC
+http://pe.shortgod.com/aascawq/tv7.php?id=321
+#EXTINF:-1 group-title="CANALES VARIADOS",US|FU|KNBC
+http://pe.shortgod.com/aascawq/tv7.php?id=381
+#EXTINF:-1 group-title="CANALES VARIADOS",US|FU|FOX_BUSINESS
+http://pe.shortgod.com/aascawq/tv7.php?id=313
+
+
+
 #EXTINF:-1 group-title="CANALES VARIADOS",US | TELEMUNDO LOS ANGELES
 http://pe.shortgod.com/aascawq/tv7.php?id=480
 #EXTINF:-1 group-title="CANALES VARIADOS",US 1 TLEEMUNDO LOS ANGELES
 http://pe.shortgod.com/aascawq/tv7.php?id=481
+#EXTINF:-1 group-title="CANALES VARIADOS",US | TELEMUNDO SAN FRANCISCO
+http://pe.shortgod.com/aascawq/tv7.php?id=482
 #EXTINF:-1 group-title="CANALES VARIADOS",US | TLEEMUNDO MIAMI
 http://pe.shortgod.com/aascawq/tv7.php?id=485
 #EXTINF:-1 group-title="CANALES VARIADOS",US 1 TELEMUNDO NY
@@ -53,8 +77,7 @@ http://pe.shortgod.com/aascawq/tv7.php?id=483
 http://pe.shortgod.com/aascawq/tv7.php?id=484
 #EXTINF:-1 group-title="CANALES VARIADOS",US | TELEMUNDO MIAMI
 http://pe.shortgod.com/aascawq/tv7.php?id=488
-#EXTINF:-1 group-title="CANALES VARIADOS",US | TELEMUNDO SAN FRANCISCO
-http://pe.shortgod.com/aascawq/tv7.php?id=482
+
 
 #EXTINF:-1 group-title="CANALES VARIADOS",TELEMUNDO LAS VEGAS
 http://pe.shortgod.com/aascawq/tv7.php?id=621
