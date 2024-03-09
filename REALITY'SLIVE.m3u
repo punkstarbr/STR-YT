@@ -6,6 +6,21 @@ http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MA7A3116345831163458&ct=1
 http://94.194.203.85:9981/stream/channelid/831789889?ticket=9B74D75722EF2482F742D11311E34C1A110706CE&profile=pass
 
 
+#EXTINF:-1,ITV 1 (UK)
+#EXTGRP:UK Local
+https://6oclock.xyz:8443/Phergio911/BenjiBleu2023/24298
+#EXTINF:-1,ITV 2 (UK)
+#EXTGRP:UK Local
+https://6oclock.xyz:8443/Phergio911/BenjiBleu2023/24299
+#EXTINF:-1,ITV 3 (UK)
+#EXTGRP:UK Local
+https://6oclock.xyz:8443/Phergio911/BenjiBleu2023/24300
+#EXTINF:-1,ITV 4 (UK)
+#EXTGRP:UK Local
+https://6oclock.xyz:8443/Phergio911/BenjiBleu2023/24301
+#EXTINF:-1,CHANNEL 4 (UK)
+#EXTGRP:UK Local
+https://6oclock.xyz:8443/Phergio911/BenjiBleu2023/28883
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 #EXTINF:-1 tvg-id="5DiasTV.py",5Días TV (720p) [Not 24/7]
