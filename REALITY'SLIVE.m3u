@@ -185,11 +185,20 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 
 
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://media3.s-nbcnews.com/i/newscms/2023_49/3631914/lcdlfs4_logo_0_1bac6dd4388eaa634f0dd4372d59c012.png",LA CASA DE LOS FAMOSOS 1
-https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM1.m3u8
+#EXTINF:-1 group-title="Reality Show'S Live",Camara 1 (Web) | La Casa de los Famosos
+https://telemundolive.akamaized.net/hls/live/2110172/LCDLF/master_CAM1.m3u8
+#EXTINF:-1 group-title="Reality Show'S Live",Camara 2 (Web) | La Casa de los Famosos 2
+https://telemundolive.akamaized.net/hls/live/2110172/LCDLF/master_CAM2.m3u8
 
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://media3.s-nbcnews.com/i/newscms/2023_49/3631914/lcdlfs4_logo_0_1bac6dd4388eaa634f0dd4372d59c012.png",LA CASA DE LOS FAMOSOS 2
-https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM2.m3u8
+
+#EXTINF:-1 group-title="Reality Show'S Live",Camara 1 YT (tlmd) | La Casa de los Famosos
+https://ythls.armelin.one/video/MOhb21VpSvs.m3u8
+#EXTINF:-1 group-title="Reality Show'S Live",Camara 2 YT (tlmd) | La Casa de los Famosos 2
+https://ythls.armelin.one/video/F5KroaO2arE.m3u8
+#EXTINF:-1 group-title="Reality Show'S Live",Camara 1 YT (tlmdentretenimiento) | La Casa de los Famosos
+https://ythls.armelin.one/video/bEuq9knTmt4.m3u8
+#EXTINF:-1 group-title="Reality Show'S Live",Camara 2 YT (tlmdentretenimiento) | La Casa de los Famosos 2
+https://ythls.armelin.one/video/w5nBldp5mWQ.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",TELEMUNDO 3
 #EXTVLCOPT:http-referrer=https://www.mediaset.es/
