@@ -25,7 +25,36 @@ https://6oclock.xyz:8443/Phergio911/BenjiBleu2023/28883
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
 #EXTINF:-1 tvg-id="5DiasTV.py",5Días TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCiyJDRTHlTOGn6Fc5_BxcJw.m3u8
-
+#EXTINF:-1 tvg-id="TV RECORD HD" tvg-name="Record Portugal HD " tvg-logo="http://prinplay.com.br/server/Record.png" group-title="Record",Record Portugal HD 
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/2436
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 CAM Principal" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM Principal
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/917005
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 CAM Principal 2" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM Principal 2
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/917454
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 CAM Principal 3" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM Principal 3
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/917455
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 CAM 02" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 02
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/917006
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 CAM 03" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 03
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/917007
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 CAM 04" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 04
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/917008
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 CAM 05" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 05
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/917009
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 CAM 06" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 06
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/917010
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 CAM 07" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 07
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/917011
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 CAM 08" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 08
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/917012
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 CAM 09" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 09
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/917013
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 CAM 10" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 10
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/917014
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 CAM 11" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM 11
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/917015
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 CAM Mosaico" tvg-logo="https://prinplay.com.br/server/BBB.png" group-title="BBB",BBB 24 CAM Mosaico
+http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/917016
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="Canais | REALITY",MTV Com o Ex
