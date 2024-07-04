@@ -1,25 +1,7 @@
 
 #EXTM3U 
 
-#EXTINF:-1,ITV 1 (UK)
-#EXTGRP:UK Local
-https://6oclock.xyz:8443/Phergio911/BenjiBleu2023/24298
-#EXTINF:-1,ITV 2 (UK)
-#EXTGRP:UK Local
-https://6oclock.xyz:8443/Phergio911/BenjiBleu2023/24299
-#EXTINF:-1,ITV 3 (UK)
-#EXTGRP:UK Local
-https://6oclock.xyz:8443/Phergio911/BenjiBleu2023/24300
-#EXTINF:-1,ITV 4 (UK)
-#EXTGRP:UK Local
-https://6oclock.xyz:8443/Phergio911/BenjiBleu2023/24301
-#EXTINF:-1,CHANNEL 4 (UK)
-#EXTGRP:UK Local
-https://6oclock.xyz:8443/Phergio911/BenjiBleu2023/28883
-#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
-#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
-#EXTINF:-1 tvg-id="5DiasTV.py",5Días TV (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCiyJDRTHlTOGn6Fc5_BxcJw.m3u8
+
 #EXTINF:-1 tvg-id="TV RECORD HD" tvg-name="Record Portugal HD " tvg-logo="http://prinplay.com.br/server/Record.png" group-title="Record",Record Portugal HD 
 http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/2436
 #EXTINF:-1 tvg-id="" tvg-name="BBB ACOMPANHE A CASA¹" tvg-logo="https://images2.imgbox.com/4f/f9/Xg7CHCmy_o.png" group-title="BBB 24",BBB ACOMPANHE A CASA¹
