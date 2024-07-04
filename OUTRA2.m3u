@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://experiencersinternational.github.io/tvsetup/epg.xml" tvg-rec="28" catchup-days="28" catchup="shift"
 
-#EXTINF:-1 tvg-logo="INSIRA O LINK DO LOGO AQUI",FOX ORLANDO
-https://dcs-live-ue4.mp.lura.live/server/play/o0m8DKpFqMnziJo7/rendition.m3u8?track=video-3&anvsid=m177635092-n70fbe4efe7f7d2af9180aacf00bbdfb1&ts=1690294061&anvtrid=c0bcc4302d93efe0cd14d356eb297285
+
 
 #EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br" tvg-logo="https://i.imgur.com/G0x4xqa.png",Canal Metropolitano de Noticia (720p)
 https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
