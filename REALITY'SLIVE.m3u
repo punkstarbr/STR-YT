@@ -2,10 +2,8 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-id="TV RECORD HD" tvg-name="Record Portugal HD " tvg-logo="http://prinplay.com.br/server/Record.png" group-title="Record",Record Portugal HD 
-http://dns.acaidopara.net:8080/P2pPT/vbhgjhur66cdm/2436
-#EXTINF:-1 tvg-id="" tvg-name="BBB ACOMPANHE A CASA¹" tvg-logo="https://images2.imgbox.com/4f/f9/Xg7CHCmy_o.png" group-title="BBB 24",BBB ACOMPANHE A CASA¹
-http://vod.syscdn.xyz:80/Formigatv/offilinetv2301/320537.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="BBB ACOMPANHE A CASA 2¹" tvg-logo="https://images2.imgbox.com/4f/f9/Xg7CHCmy_o.png" group-title="BBB 24",BBB ACOMPANHE A CASA 2¹
 http://vod.syscdn.xyz:80/Formigatv/offilinetv2301/320538.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBB BANHEIRO PANTENE¹" tvg-logo="https://images2.imgbox.com/4f/f9/Xg7CHCmy_o.png" group-title="BBB 24",BBB BANHEIRO PANTENE¹
