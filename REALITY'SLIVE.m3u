@@ -160,12 +160,7 @@ https://ythls.armelin.one/video/bEuq9knTmt4.m3u8
 #EXTINF:-1 group-title="Reality Show'S Live",Camara 2 YT (tlmdentretenimiento) | La Casa de los Famosos 2
 https://ythls.armelin.one/video/w5nBldp5mWQ.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",TELEMUNDO 3
-#EXTVLCOPT:http-referrer=https://www.mediaset.es/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:referrer=https://www.mediaset.es/
-#EXTVLCOPT:player-continuous-http
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25340
+
 
 #EXTINF:-1  tvg-id="WKAQDT1.us" group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Telemundo_Puerto_Rico.png",Telemundo Puerto Rico (WKAQ)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
