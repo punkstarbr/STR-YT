@@ -1,7 +1,9 @@
 
 #EXTM3U 
 
-#EXTINF:-1 group-title="AZTECA 7",VECINOS - ESPAÑA
+#EXTINF:-1 group-title="Reality Show'S Live",VECINOS - ESPAÑA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://directos.mitele.es/orilinear14/live/linear14/playlist/playlist.isml/playlist-audio_spa=128000-video=4000000.m3u8
 
 
