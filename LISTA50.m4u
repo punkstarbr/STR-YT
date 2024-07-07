@@ -1,19 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
 
-#EXTINF:-1 ,HBO PORTUGAL
-http://sensea.xyz:8880/live/ExPrEssVoDpaNNel02/CGaY9mDT42/137492.m3u8
 
-#EXTINF:-1  group-title="N/A",Univisi�n 23 FL
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/345.m3u8
-#EXTINF:-1  group-title="N/A",ESPN (Arg)
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-#EXTINF:-1  group-title="N/A",Enlace
-https://1-349-11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
-#EXTINF:-1  group-title="N/A",El Sembrador Nueva Evangelizaci�n
-https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8
-#EXTINF:-1  group-title="N/A",Mar�a Visi�n
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1  group-title="N/A",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1  group-title="N/A",Canal 6 CDMX
