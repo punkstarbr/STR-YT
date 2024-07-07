@@ -1,36 +1,8 @@
 
 #EXTM3U 
 
-#EXTINF:-1 group-title="Reality Show'S Live",VECINOS - ESPAÑA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://directos.mitele.es/orilinear14/live/linear14/playlist/playlist.isml/playlist-audio_spa=128000-video=4000000.m3u8
-
-
 #EXTINF:-1 tvg-id="cnn.brasil.br" group-title="Bʀᴀzɪʟ" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/5f9d3fdfa54d566601cc39893f153d9fbf12f136/CNN_Brasil.svg",CNN Brasilᴴᴰ 🇧🇷
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-
-
-#EXTINF:-1 group-title="AZTECA 7",AZTECA SIETE
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-
-
-
-#EXTINF:-1 group-title="Reality Show'S Live",Camara 1 (Web) | La Casa de los Famosos
-https://telemundolive.akamaized.net/hls/live/2110172/LCDLF/master_CAM1.m3u8
-#EXTINF:-1 group-title="Reality Show'S Live",Camara 2 (Web) | La Casa de los Famosos 2
-https://telemundolive.akamaized.net/hls/live/2110172/LCDLF/master_CAM2.m3u8
-
-
-#EXTINF:-1 group-title="Reality Show'S Live",Camara 1 YT (tlmd) | La Casa de los Famosos
-https://ythls.armelin.one/video/MOhb21VpSvs.m3u8
-#EXTINF:-1 group-title="Reality Show'S Live",Camara 2 YT (tlmd) | La Casa de los Famosos 2
-https://ythls.armelin.one/video/F5KroaO2arE.m3u8
-#EXTINF:-1 group-title="Reality Show'S Live",Camara 1 YT (tlmdentretenimiento) | La Casa de los Famosos
-https://ythls.armelin.one/video/bEuq9knTmt4.m3u8
-#EXTINF:-1 group-title="Reality Show'S Live",Camara 2 YT (tlmdentretenimiento) | La Casa de los Famosos 2
-https://ythls.armelin.one/video/w5nBldp5mWQ.m3u8
-
 
 
 #EXTINF:-1  tvg-id="WKAQDT1.us" group-title="NEWS WORLD" tvg-logo="https://media.telemundopr.com/2020/12/Telemundo-Puerto-Rico-Julio-2020.png?resize=850%2C478&quality=85&strip=all",Telemundo Puerto Rico (WKAQ)
@@ -41,21 +13,6 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo31.com/2022/01/WTMO-31.png?resize=400%2C225&quality=85&strip=all",Telemundo Orlando FL
 https://nbculocallive.akamaized.net/hls/live/2037602/orlando/stream1/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMRLCaHtGzTnZ9Y1jG3B-NJli7fk4ZYrHbkQ&usqp=CAU" group-title="Entretenimiento",TELEMUNDO MIAMI
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/148710
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMRLCaHtGzTnZ9Y1jG3B-NJli7fk4ZYrHbkQ&usqp=CAU" group-title="Entretenimiento",TELEMUNDO MIAMI 2
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/148712
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMRLCaHtGzTnZ9Y1jG3B-NJli7fk4ZYrHbkQ&usqp=CAU" group-title="Entretenimiento",TELEMUNDO MIAMI 3
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/148713
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMRLCaHtGzTnZ9Y1jG3B-NJli7fk4ZYrHbkQ&usqp=CAU" group-title="Entretenimiento",UNIVISION NEW YORK
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/148714
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMRLCaHtGzTnZ9Y1jG3B-NJli7fk4ZYrHbkQ&usqp=CAU" group-title="Entretenimiento",UNIMÁS
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/148709
 
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://www.telemundo51.com/wp-content/themes/nbc-station/static/images/TelemundoLiveTV-Desktop.png",Telemundo Miami FL
