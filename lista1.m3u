@@ -1342,10 +1342,10 @@ https://nbculocallive.akamaized.net/hls/live/2037083/newyork/stream7/master.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037602/orlando/stream1/master.m3u8
 
 
-#EXTINF:-1  tvg-id="WKAQDT1.us" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Puerto Rico (WKAQ)
+#EXTINF:-1  tvg-id="WKAQDT1.pr" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Puerto Rico (WKAQ)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Puerto Rico (WKAQ) 2
+#EXTINF:-1  tvg-id="WKAQDT1.us" group-title="NEWS WORLD" tvg-logo="https://media.telemundo51.com/2022/08/WSCV-tvOS_App-Store-1280x768-1.png",Telemundo Puerto Rico (WKAQ) 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 
