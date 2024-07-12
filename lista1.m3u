@@ -1,6 +1,15 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml,http://m3u4u.com/epg/jwmzn1r57zfj346py721,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
 
+#EXTINF:-1 tvg-name="Cuatro" tvg-id="Cuatro" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Cuatro.svg",Cuatroᴴᴰ 🇪🇸
+http://77.228.160.100:61800/play/a00l
+#EXTINF:-1 tvg-name="Telecinco" tvg-id="Telecinco" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",Telecincoᴴᴰ 🇪🇸 🟡
+http://77.228.160.100:61800/play/a00k
+#EXTINF:-1 tvg-name="LaSexta" tvg-id="La Sexta" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/La%20Sexta.png",La Sextaᴴᴰ 🇪🇸
+http://77.228.160.100:61800/play/a00b
+#EXTINF:-1 tvg-name="fdf" tvg-id="Factoría de Ficción" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png",fdfᴴᴰ 🇪🇸
+http://77.228.160.100:61800/play/a00i
+
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Canal 5
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
 
