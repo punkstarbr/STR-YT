@@ -10,6 +10,18 @@ http://77.228.160.100:61800/play/a00b
 #EXTINF:-1 tvg-name="fdf" tvg-id="Factoría de Ficción" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png",fdfᴴᴰ 🇪🇸
 http://77.228.160.100:61800/play/a00i
 
+#EXTINF:-1 tvg-id="ITV1HD.uk" tvg-name="" group-title="England 🇬🇧" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/225px-ITV1_logo_%282022%29.svg.png",ITV1ᴴᴰ 🇬🇧
+http://87.120.142.8:17000/itv1
+
+#EXTINF:-1 tvg-id="ITV2HD.uk" tvg-name="" group-title="England 🇬🇧" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/235px-ITV2_logo_2022.svg.png",ITV2ᴴᴰ 🇬🇧
+http://87.120.142.8:17000/itv2
+
+#EXTINF:-1 tvg-id="ITV3HD.uk" tvg-name="" group-title="England 🇬🇧" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/ITV3_logo_2022.svg",ITV3ᴴᴰ 🇬🇧
+http://87.120.142.8:17000/itv3
+
+#EXTINF:-1 tvg-id="ITV4HD.uk" tvg-name="" group-title="England 🇬🇧" tvg-logo="https://api.tv.init7.net/media/logos/ITV4.png",ITV4ᴴᴰ 🇬🇧
+http://87.120.142.8:17000/itv4
+
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Canal 5
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
 
