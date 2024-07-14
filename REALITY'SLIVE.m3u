@@ -55,7 +55,8 @@ https://telemundolive.akamaized.net/hls/live/2093200/NEWS105/master_main105.m3u8
 #EXTINF:-1 channel-id="samsung-USBC4400020H7" tvg-id="USBC4400020H7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400020H7_20230322T000014SQUARE.png_20230322000014.png" group-title="NEWS WORLD", Telemundo California
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-
+#EXTINF:-1 tvg-id="pink" tvg-name="PINK 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/72.%20PINK%201.png" group-title="Srbija",PINK 1
+http://bntvs.com:2052/mojvps/svWEB7CXPT/9
 #EXTINF:-1 tvg-id="pink-plus" tvg-name="Pink Plus" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkPlus.png" group-title="Pink",Pink Plus
 http://bntvs.com:2052/mojvps/svWEB7CXPT/8751
 #EXTINF:-1 tvg-id="" tvg-name="Zadruga 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 1
