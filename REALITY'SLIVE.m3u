@@ -1,31 +1,188 @@
 
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC LX 
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbclx_001.m3u8?ads.caid=nbclx&ads.csid=samsungtvplus_us_nbclx_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2632&ads.xumo_contentName=nbclxchannel&ads.xumo_providerId=2632&ads.xumo_providerName=nbclxchannel&ads.xumo_channelId=9999549&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=nbclx&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC New York https://v-ny.mybtv.net/live/548.m3u8 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC 26 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC Ethiopia https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/nbc_eth-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC
-https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="TNT",TF1
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC
-https://lnc-wdsu.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC
-https://lnc-ktvh.tubi.video/playlist.m3u8
+#EXTINF:-1,CHV
+http://45.71.252.16:8000/play/a09y/index.m3u8
+#EXTINF:-1,CHV HD
+http://45.71.252.16:8000/play/a0ib/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US",ABC 7 Los Angeles
-https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1 tvg-id="cnn.brasil.br" group-title="Bʀᴀzɪʟ" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/5f9d3fdfa54d566601cc39893f153d9fbf12f136/CNN_Brasil.svg",CNN Brasilᴴᴰ 🇧🇷
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US",ABC 13 Las Vegas 
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/ABC_1963_color_para_idents.svg/revision/latest/scale-to-width-down/1000?cb=20210813163702&path-prefix=es" group-title="US",ABC Los Angeles
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="WKAQDT1.us" group-title="NEWS WORLD" tvg-logo="https://media.telemundopr.com/2020/12/Telemundo-Puerto-Rico-Julio-2020.png?resize=850%2C478&quality=85&strip=all",Telemundo Puerto Rico (WKAQ)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US" tvg-url="" group-title="",CBS New York 
-https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="data:image/jpeg;base64,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",Telemundo Puerto Rico (WKAQ) 2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-#EXTINF:-1 tvg-id="Univision" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Noticias",Univision
-https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://media.telemundo31.com/2022/01/WTMO-31.png?resize=400%2C225&quality=85&strip=all",Telemundo Orlando FL
+https://nbculocallive.akamaized.net/hls/live/2037602/orlando/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="Univision" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Noticias",Univision
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://www.telemundo51.com/wp-content/themes/nbc-station/static/images/TelemundoLiveTV-Desktop.png",Telemundo Miami FL
+https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream6/master.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://www.telemundo51.com/wp-content/themes/nbc-station/static/images/TelemundoLiveTV-Desktop.png",Telemundo Atlanta GA
+https://dai2-playlistserver.aws.syncbak.com/cpl/20475903/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ3NTkwMyIsImNpZCI6MjA5NzQsInNpZCI6MTU4LCJtZDUiOiJiMTgwM2ExYTIxMzA5ZTEwNzNlOGJjMDQyOGU5NDkzOCIsImlhdCI6MTY1Mjg5MjgyMSwiZXhwIjoxNjg0NDI4ODIxLCJpc3MiOiJTeW5jYmFrIChURykifQ.ngWlxw_iUrju6oMpQl73BYHMCl7c6reypSqqP5nLbL8
+
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://www.telemundo51.com/wp-content/themes/nbc-station/static/images/TelemundoLiveTV-Desktop.png",Telemundo Fresno CA
+https://nbculocallive.akamaized.net/hls/live/2037601/fresno/stream1/master.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://www.telemundo51.com/wp-content/themes/nbc-station/static/images/TelemundoLiveTV-Desktop.png",Telemundo Las Vegas NV
+https://nbculocallive.akamaized.net/hls/live/2037093/lasvegas/stream1/master.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://www.telemundo51.com/wp-content/themes/nbc-station/static/images/TelemundoLiveTV-Desktop.png",Telemundo Los Angeles CA
+https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://www.telemundo51.com/wp-content/themes/nbc-station/static/images/TelemundoLiveTV-Desktop.png",Telemundo San Diego CA
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream3/master.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://www.telemundo51.com/wp-content/themes/nbc-station/static/images/TelemundoLiveTV-Desktop.png",Telemundo Washington DC
+https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream4/master.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://www.telemundo51.com/wp-content/themes/nbc-station/static/images/TelemundoLiveTV-Desktop.png",Telemundo Wisconsin (WDJT/WYTU-LD) [NOT 24/7]
+https://video.cbs58.com:443/live/wdjt/live4/live4_720p.m3u8
+
+
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",NOTÍCIAS TELEMUNDO - SERVIÇO
+https://telemundolive.akamaized.net/hls/live/2093200/NEWS105/master_main105.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBC4400020H7" tvg-id="USBC4400020H7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400020H7_20230322T000014SQUARE.png_20230322000014.png" group-title="NEWS WORLD", Telemundo California
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-id="pink" tvg-name="PINK 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/72.%20PINK%201.png" group-title="Srbija",PINK 1
+http://bntvs.com:2052/mojvps/svWEB7CXPT/9
+#EXTINF:-1 tvg-id="pink-plus" tvg-name="Pink Plus" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkPlus.png" group-title="Pink",Pink Plus
+http://bntvs.com:2052/mojvps/svWEB7CXPT/8751
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 1
+http://bntvs.com:2052/mojvps/svWEB7CXPT/8736
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 2
+http://bntvs.com:2052/mojvps/svWEB7CXPT/8737
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 3
+http://bntvs.com:2052/mojvps/svWEB7CXPT/8738
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 4
+http://bntvs.com:2052/mojvps/svWEB7CXPT/8739
+
+
+
+#EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
+https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/141621315-19d48d33-4056-4cd1-98bb-aa02ef330bc5.jpg",GRANDE FRATELLO 1 (VPN)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/161234855-c2534e23-ece4-4522-a64f-7458d0b81235.jpg",GRANDE FRATELLO 2 (VPN)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/161437008-47102c5b-a276-4ba1-9534-1cdc26500b30.jpg",GRANDE FRATELLO 3 (VPN)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
+
+
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/162147028-be9e6411-6b5b-44d3-b135-e0109797cc09.jpg",GRANDE FRATELLO EXTRA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/162147028-be9e6411-6b5b-44d3-b135-e0109797cc09.jpg",GRANDE FRATELLO EXTRA - BACKUP
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/162147028-be9e6411-6b5b-44d3-b135-e0109797cc09.jpg",GRANDE FRATELLO EXTRA - BACKUP
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live03-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/11/202629434-8966f8cd-169e-4290-ba01-6f097053d833.jpg",GRANDE FRATELLO PARTY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(b1)/index.m3u8
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/11/202629434-8966f8cd-169e-4290-ba01-6f097053d833.jpg",GRANDE FRATELLO PARTY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest.mpd
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="pink-reality" tvg-name="Pink Reality" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkReality.png" group-title="Reality Show's Live",Farma Sérvia
+http://bntvs.com:2052/mojvps/svWEB7CXPT/8753
+#EXTINF:-1,Pink TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
+http://strimer3.iptv-max.com:89/live?channelId=12&uid=16869&deviceMac=00:1A:79:40:93:C5&deviceSn=d603a6f342deb&token=513787671443
+
+#EXTINF:-1 tvg-id="" tvg-name="SR: PINK ZADRUGA 1 - 24/7" tvg-logo="http://smartntv.pro/logokanali/pink/zadruga1.png" group-title="Reality Show's Live",ZADRUGA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
+http://strimer1.iptv-max.com:91/live?channelId=1343&uid=16869&deviceMac=00:1A:79:40:93:C5&deviceSn=d603a6f342deb&token=513787671443
+
+#EXTINF:-1 tvg-id="" tvg-name="SR: PINK ZADRUGA 2 - 24/7" tvg-logo="http://smartntv.pro/logokanali/pink/zadruga1.png" group-title="Reality Show's Live",ZADRUGA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
+http://strimer5.ddstream.info:7097/live?channelId=1601&uid=16869&deviceMac=00:1A:79:40:93:C5&deviceSn=d603a6f342deb&token=513787671443
+#EXTINF:-1 tvg-id="" tvg-name="SR: PINK ZADRUGA 3 - 24/7" tvg-logo="http://smartntv.pro/logokanali/pink/zadruga1.png" group-title="Reality Show's Live",ZADRUGA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
+http://strimer3.iptv-max.com:99/live?channelId=724&uid=16869&deviceMac=00:1A:79:40:93:C5&deviceSn=d603a6f342deb&token=513787671443
+#EXTINF:-1 tvg-id="" tvg-name="SRB: PINK ZADRUGA 4 - 24/7" tvg-logo="http://smartntv.pro/logokanali/pink/zadruga1.png" group-title="Reality Show's Live",ZADRUGA 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
+http://strimer3.iptv-max.com:109/live?channelId=727&uid=16869&deviceMac=00:1A:79:40:93:C5&deviceSn=d603a6f342deb&token=513787671443
+
+
+
+#EXTINF:-1 group-title="Reality Show's Live", BIG BROTHER AUSTRALIA (VPN)
+https://csm-e-n7aus-eb.tls1.yospace.com/csm/extlive/sevenprd01,CAS07.m3u8
+#EXTINF:-1 group-title="Reality Show's Live",WHO WANT BE A MULHER DO FAZENDEIRO AUSTRALIA (VPN)
+https://csm-e-n7aus-eb.tls1.yospace.com/csm/extlive/sevenprd01,CAS14.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Big%20Brother.png",BIG BROTHER ISRAEL (VPN)
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Big%20Brother.png",BIG BROTHER ISRAEL (VPN) 2
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_6fr5xbw2/deliveryProfileId/672/protocol/https/format/applehttp/index_3.m3u8
+
 
