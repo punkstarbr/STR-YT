@@ -31,6 +31,16 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 #EXTINF:-1 tvg-id="Univision" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Noticias",Univision
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 
+#EXTINF:-1 group-title="Bics Extra Latino", TELEMUNDO FRESNO
+https://sdmx.vip:443/belpley/sYqKZQrTZa/169839
+
+#EXTINF:-1 group-title="Bics Extra Latino", TELEMUNDO NY
+https://sdmx.vip:443/belpley/sYqKZQrTZa/10910
+
+
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg" tvg-id="", Fox News
+http://cord-cutter.net:8080/k4Svp2/645504/1818#checkedby:alliptvlinks.com
+
 #EXTINF:-1  tvg-id="N/A" group-title="HOME SHOPPING" tvg-logo="https://i.imgur.com/ssf1GfC.png",Italia Channel LCN 123 - Italy
 https://stream1.aswifi.it/italiachannel/stream/index.m3u8
 
@@ -118,13 +128,14 @@ https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?DVR
 http://mdstrm.com/live-stream-playlist-v/56f97fc0b9bb39786b04a3b0.m3u8
 
 
-
-
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://monitortv.vercel.app/Monitores/Imagenes/Logo_CNNCHILE2.svg",CNN CHILE
+https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://monitortv.vercel.app/Monitores/Imagenes/Logo_CNNCHILE2.svg",CNNCHILE - SERVIÇO 1
 https://unlimited1-cl-isp.dps.live/cnnprensa/cnnprensa.smil/playlist.m3u8
-https://unlimited1-cl-isp.dps.live/cnnprensa/cnnprensa.smil/playlist.m3u8
+
+
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://monitortv.vercel.app/Monitores/Imagenes/Logo_CNNCHILE2.svg",CNNCHILE - SERVIÇO 2
 https://unlimited2-cl-isp.dps.live/cnnprensa/cnnprensa.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://monitortv.vercel.app/Monitores/Imagenes/Logo_CNNCHILE2.svg",CNNCHILE - SERVIÇO 3
@@ -1174,18 +1185,6 @@ https://hunq9fz8yk.zoeweb.tv/av85/av85.stream/chunklist_w123426081.m3u8
 
 
 
-#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://i.imgur.com/7DfRiz6.png", GOIÂNIA - Avenida Castelo Branco
-https://5a7d54e35f9d2.streamlock.net/avt7/avt7.stream/chunklist_w1549205327.m3u8
-
-#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://i.imgur.com/7DfRiz6.png", ARUANÃ - RIO VERMELHO - PRAIA DO CAVALO
-https://5a1c76baf08c0.streamlock.net/riovermelhocam01/rvcam01.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://i.imgur.com/7DfRiz6.png", Setor Central
-https://5a1c76baf08c0.streamlock.net/araguaiacam01/acam01.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://i.imgur.com/7DfRiz6.png", Goiânia
-https://hunq9fz8yk.zoeweb.tv/aquariuscenter/aquariuscenter.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://i.imgur.com/7DfRiz6.png", Rua 9 (Cartório Índio Artiaga), Setor Oeste
 https://hunq9fz8yk.zoeweb.tv/r9oeste/r9oeste.stream/chunklist_w1793116402.m3u8
 
@@ -1195,53 +1194,20 @@ https://live.ojc.com.br/c2f4/myStream.m3u8
 #EXTINF:-1 group-title="N/A" tvg-logo="https://i.imgur.com/td9XjvR.png", GAUCHA FM
 https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="N/A" tvg-logo="https://i.imgur.com/ooWAB9C.png", Teste MASTER FORA DO AR
-https://raw.githubusercontent.com/punkstarbr/STR2/main/VideoOFFAir.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/pVrJzde.png" group-title="Salão Velório",Salão Velório 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://wrm7jsxguc.zoeweb.tv/zw943/zw943.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/pVrJzde.png" group-title="Salão Velório",Salão Velório 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://wrm7jsxguc.zoeweb.tv/zw944/zw944.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/v6Ukx6T.png" group-title="Aula de Idiomas",Aula Idiomas
-https://raw.githubusercontent.com/punkstarbr/STR2/main/Languages.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/gtMxhqj.png" group-title="Igrejas",Church
-https://raw.githubusercontent.com/punkstarbr/STR2/main/Church.m3u8
-
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/7N68Gwi.png" group-title="Youtube",Teste Vídeo Gravado Youtube
-plugin://plugin.video.youtube/play/?video_id=nHO38JeCjVc
-
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/7N68Gwi.png" group-title="Youtube",Teste Playlist Youtube
-plugin://plugin.video.youtube/play/?video_id=nHO38JeCjVc&list=PLXZ6FSgBVB0QE3Cvp7ZyG2z5Zsk8KnSuN
-
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/7N68Gwi.png" group-title="Youtube",Teste Canal ao Vivo Youtube 1
-plugin://plugin.video.youtube/play/?video_id=showdelafe
-
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/7N68Gwi.png" group-title="Youtube",Teste Canal ao Vivo Youtube 2
-plugin://plugin.video.youtube/play/?channel_id=showdelafe
-
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/Cv7rglx.png" group-title="Twitch",Teste Vídeo ao vivo Twitch
-plugin://plugin.video.twitch/play/?video_id=miaueissoai
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://i.imgur.com/2f8Zvya.png" group-title="Internet Archive",Internet Archive Teste
 https://archive.org/download/nike90secmov/tvc_90_sec_large_512kb.mp4
 
 
-
-#EXTINF:-1  tvg-id="cnn.tv.vodafone.pt" group-title="NEWS WORLD" tvg-logo="N/A",CNN AMERICANA
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1  tvg-id="cnn.tv.vodafone.pt" group-title="NEWS WORLD" tvg-logo="N/A",CNN AMERICANA 2
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+http://cord-cutter.net:8080/k4Svp2/645504/104884#checkedby:alliptvlinks.com
 
 
 
-#EXTINF:-1  tvg-id="cnn.tv.vodafone.pt" group-title="NEWS WORLD" tvg-logo="N/A",CNN AMERICANA
+#EXTINF:-1  group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" tvg-id="", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1  tvg-id="cnn.tv.vodafone.pt" group-title="NEWS WORLD" tvg-logo="N/A",CNN AMERICANA 2
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
