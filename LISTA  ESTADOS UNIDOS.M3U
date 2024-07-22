@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
 
 
-#EXTINF:0 group-title="ESTADOS UNIDOS" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",ABC 2 Baton Rouge LA (WBRZ) (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
-#EXTINF:0 group-title="ESTADOS UNIDOS" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",ABC 4 Seattle WA (KOMO-TV) (720p)
-#EXTVLCOPT:network-caching=1000
-https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 #EXTINF:0 group-title="ESTADOS UNIDOS" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",ABC 7 Denver CO (KMGH) (720p)
 #EXTVLCOPT:network-caching=1000
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
@@ -22,9 +16,7 @@ https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 #EXTINF:0 group-title="ESTADOS UNIDOS" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",ABC 15 Phoenix AZ (KNXV-TV) (720p)
 #EXTVLCOPT:network-caching=1000
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:0 group-title="ESTADOS UNIDOS" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",AccuWeather Now (1080p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
+
 #EXTINF:0 group-title="ESTADOS UNIDOS" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Ace TV (KCKS-LD3) (480p)
 #EXTVLCOPT:network-caching=1000
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
