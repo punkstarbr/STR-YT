@@ -19,15 +19,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="DTV2 (480p)",TBSテレビ (480p redlabmcdn)
-http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
-
-#EXTINF:-1 tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (480p)",フジテレビ (480p redlabmcdn)
-http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
-
-#EXTINF:-1 tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV2 (480p)",テレビ朝日 (480p redlabmcdn)
-http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-
 #EXTINF:-1 tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="DTV2 (480p)",テレビ東京 (480p redlabmcdn)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
