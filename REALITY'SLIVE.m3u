@@ -3,6 +3,44 @@
 
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="TNT",TF1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH CHILE (Cam1)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246416.m3u8
+
+#EXTINF:-1 tvg-chno="801" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH CHILE (Cam2)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246414.m3u8
+
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH CHILE (Cam3)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246413.m3u8
+
+#EXTINF:-1 tvg-chno="803" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH CHILE (Cam4)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246412.m3u8
+
+#EXTINF:-1 tvg-chno="804" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH CHILE (Multicamaras)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246415.m3u8
+
+#EXTINF:-1 tvg-chno="805" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF MÉXICO (24-7)
+http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550608.m3u8
+
+#EXTINF:-1 tvg-chno="806" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF MÉXICO (Acceso Total)
+http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550607.m3u8
+
+#EXTINF:-1 tvg-chno="807" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF MÉXICO (Cuarto Mar)
+http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550602.m3u8
+
+#EXTINF:-1 tvg-chno="808" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF MÉXICO (Cuarto Tierra)
+http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550603.m3u8
+
+#EXTINF:-1 tvg-chno="809" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF MÉXICO (Cocina)
+http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550606.m3u8
+
+#EXTINF:-1 tvg-chno="810" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF MÉXICO (Sala)
+http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550605.m3u8
+
+#EXTINF:-1 tvg-chno="811" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF MÉXICO (Baño)
+http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550601.m3u8
+
+#EXTINF:-1 tvg-chno="812" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF MÉXICO (Multicamaras)
+http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550600.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",TELEFE FHD2
 http://186.148.196.82:8000/play/a016
