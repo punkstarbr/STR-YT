@@ -1206,14 +1206,5 @@ https://www.grupoliberalmedia.com.br/radiolive/_definst_/liveradio/chunklist_w75
 https://www.grupoliberalmedia.com.br/rdcastanhal/liveradio/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="http://am.radioliberal.com.br/logo_liberal_fm.png",LIBERAL RÁDIO - CASTANHAL 2
 https://www.grupoliberalmedia.com.br/rdcastanhal/liveradio/chunklist_w317712096.m3u8
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",NDTV FLORIANÓPOLIS E RECORDNEWS
-https://caikron.com.br:19360/floripa/floripa.m3u8
-
-#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="N/A",banner de alguma empresa brasilia
-https://dcxssbbjc3.zoeweb.tv/df-003-epia/df-003-epia.stream/playlist.m3u8
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-
-
 
 
