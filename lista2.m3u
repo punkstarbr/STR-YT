@@ -1,19 +1,6 @@
-#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="",AV. CASTELO BRANCO
-https://5a7d54e35f9d2.streamlock.net/avt7/avt7.stream/chunklist_w127968702.m3u8
-
-#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="https://zoevideos.net/public/uploads/thumbnail/live-1086/Screenshot_9.jpg",GOIÂNIA - Praça Civica
-https://hunq9fz8yk.zoeweb.tv/pracacivicapalacio/pracacivicapalacio.stream/chunklist.m3u8
 #EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="https://zoevideos.net/public/uploads/thumbnail/live-1034/jamelcecilio-flamboyant.jpeg",GOIÂNIA AV. Jamel Cecílio
 https://hunq9fz8yk.zoeweb.tv/flamboyant/flamboyant.stream/chunklist.m3u8
-#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="https://zoevideos.net/public/uploads/thumbnail/live-729/thumb-t63.jpg",Av. T-63 (topo do Aquarius Center)
-https://5a7d54e35f9d2.streamlock.net/aquariuscenter2/aquariuscenter2.stream/chunklist.m3u8
 
-#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="https://painel.zoeweb.com.br/public/uploads/thumbnail/live-728/thumb-viaduto.jpg",Av. T-4 c/ Av. T-63 -  Setor Bueno
-https://5a7d54e35f9d2.streamlock.net/aquariuscenter/aquariuscenter.stream/chunklist.m3u8
-#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="https://zoevideos.net/public/uploads/thumbnail/live-1085/Screenshot_6.jpg",GOIÂNIA - AV. 85 RUA 30
-https://hunq9fz8yk.zoeweb.tv/av_85_rua/av_85_rua.stream/chunklist.m3u8
-#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="N/A",GOIÂNIA - AV. Rio Verde
-https://hunq9fz8yk.zoeweb.tv/avrioverdeapgyn/avrioverdeapgyn.stream/playlist.m3u8
 #EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="N/A",GOIÂNIA - Morro do Mendanha
 https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w182959856.m3u8
 
@@ -40,7 +27,6 @@ https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8
 https://archive.org/download/nike90secmov/tvc_90_sec_large_512kb.mp4
 
 
-http://cord-cutter.net:8080/k4Svp2/645504/104884#checkedby:alliptvlinks.com
 
 
 
@@ -50,8 +36,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1  tvg-id="LCH35" group-title="NEWS WORLD" tvg-logo="N/A",CNN INTERNACIONAL
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1  tvg-id="LCH35" group-title="NEWS WORLD" tvg-logo="N/A",CNN INTERNACIONAL 2
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/shows/default-show-image-large-169.jpg",CNN SERVIÇO
 https://newsource-live.warnermediacdn.com/hls/live/2005450/intl01/master.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/shows/default-show-image-large-169.jpg",CNN SERVIÇO 2
@@ -63,17 +47,11 @@ https://newsource-live.warnermediacdn.com/hls/live/2005453/intl04/master.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",CNN SERVIÇO
-https://cnngo1.akamaized.net/hls/live/2014595/PROD-cnnlive5/master.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",CNN SERVIÇO2
-https://cnngo1.akamaized.net/hls/live/598782/PROD-cnnlive1/master.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",CNN SERVIÇO3
-https://cnngo1.akamaized.net/hls/live/2014595/PROD-cnnlive5/master.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2022/01/19/e6521679-1e8a-4522-af30-b416193d8414/thumbnail/1920x1080/d73c8305850f4e4a85a25627a616d62b/cbsnews-1920x1080.jpg",CBS NEWS SERVIÇO
 https://cbsn-2.cbsnstream.cbsnews.com/out/v1/a6a897e8f4f74cfc896223dfd822482f/master.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2022/01/19/e6521679-1e8a-4522-af30-b416193d8414/thumbnail/1920x1080/d73c8305850f4e4a85a25627a616d62b/cbsnews-1920x1080.jpg",CBS NEWS SERVIÇO 2
 https://cbsn-3-fastly.cbsnstream.cbsnews.com/out/v1/f081461c65494eeaa9ec596d0fe96a14/master.m3u8
-	
+
 
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider10.jpg",ABC News Live 1 (720p)
@@ -107,27 +85,12 @@ https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master_4000.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider8.jpg",ABC News Live 10 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master_4000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sWk2qxG/tvn.png" group-title="NEWS WORLD", TVN SERVIÇO
-http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
-
-#EXTINF:-1 tvg-id="T13.cl" tvg-logo="https://i.imgur.com/RhpjKdi.png" group-title="NEWS WORLD",T13 SERVIÇO
-https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",24 HORAS CL - SERVIÇO 1
-https://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",24 HORAS CL - SERVIÇO 2
-https://mdstrm.com/live-stream-playlist-v/5346f657c1e6f5810b5b9df3.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",24 HORAS CL - SERVIÇO 3
-https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?DVR
 
 
 
-https://rtvelivestream.akamaized.net/rtvesec/oca/irtve01_main_1080.m3u8
 
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",CNNCHILE - SERVIÇO 1
-https://unlimited1-cl-isp.dps.live/cnnprensa/cnnprensa.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",CNNCHILE - SERVIÇO 2
-https://unlimited2-cl-isp.dps.live/cnnprensa/cnnprensa.smil/playlist.m3u8
+
+
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",SKY NEWS - SERVIÇO 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",SKY NEWS - SERVIÇO 2
@@ -141,13 +104,13 @@ https://telemundolive.akamaized.net/hls/live/2093200/NEWS104/master_main104.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",NOTÍCIAS TELEMUNDO - SERVIÇO 2
 https://telemundolive.akamaized.net/hls/live/2093200/NEWS105/master_main105.m3u8
 
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertnews2-logo-800x300-2023.png",ΕΡΤ NEWS 2
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/news2/ert_news2_main/mainabr/playlist_dvr.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertnews3-logo-800x300-2023.png",ΕΡΤ NEWS 3
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/news3/ert_news3_main/mainabr/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="TheWallStreetJournalLive.us" tvg-logo="https://i.imgur.com/4xSEoNK.png" group-title="NEWS WORLD",The Wall Street Journal Live (720p)
 https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
+
+
+#EXTINF:-1 tvg-id="Bashkortostan24.ru" tvg-logo="https://i.imgur.com/s34Wtz6.png" group-title="NEWS WORLD",Башкортостан 24 (1080p)
+http://live.gtrk.tv/hls/b24-hls.m3u8
 
 
 #EXTINF:-1 tvg-id="Bashkortostan24.ru" tvg-logo="https://i.imgur.com/s34Wtz6.png" group-title="NEWS WORLD",Башкортостан 24 (1080p)
