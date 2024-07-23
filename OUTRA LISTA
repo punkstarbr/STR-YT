@@ -6,9 +6,7 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?cc
 #EXTINF:0 tvg-id="cna" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/NTKgPfv/cna.png",CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?cc
-#EXTINF:0 tvg-id="oan" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/f9thdzn/oan.webp",OAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_720p30.m3u8?cc
+
 
 #EXTINF:-1 tvg-id="100AutoMotoTV.bg" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" group-title="🔵 AUTO",Auto Moto TV (406p)
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
@@ -38,8 +36,6 @@ https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="📰 | TIN TỨC",DW EspaÃ±ol (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="🇦🇷 | ARGENTINA",Tastemade en Español (1080p)
-https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TimeLineAustralia.au" tvg-logo="https://i.imgur.com/J8qVUjM.png" group-title="🇦🇺 | ÚC",Time Line Australia (720p)
 https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HorseandCountry.au" tvg-logo="https://i.imgur.com/r5Ip3P0.png" group-title="🇦🇺 | ÚC",Horse and Country (720p)
