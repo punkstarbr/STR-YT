@@ -1,8 +1,7 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml"
 #EXTINF:-1 tvg-id="" group-title="Italia" tvg-logo="https://www.raiplay.it/dl/img/2016/09/1473662801274Logo-Rai3.png",🇮🇹 ●| Rai 3ᴴᴰ
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 tvg-id="" group-title="Italia" tvg-logo="https://camo.githubusercontent.com/d355454c80b49e9ef5ae0526128009744e1d44ece3307a0ff0a2f21bbbaec262/68747470733a2f2f692e696d6775722e636f6d2f41613141626d652e706e67",🇮🇹 ●| Donna tv
-https://streaming.softwarecreation.it/DonnaTv/DonnaTv/chunklist_w1878015151.m3u8
+
 #EXTINF:-1 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Visual Radio (576p) [Not 24/7]
 http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
 #EXTINF:-1 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Videolina (Sardegna) (404p) [Not 24/7]
@@ -19,10 +18,7 @@ http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Uninettuno University Tv
 https://stream6-rai-it.akamaized.net/live/uninettuno/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Tvrs Tv
-https://59d7d6f47d7fc.streamlock.net/tvrs/tvrs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",TVRS (576p) [Not 24/7]
-http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",TVL (TV Libera Pistoia)
 http://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",TVL (720p) [Not 24/7]
