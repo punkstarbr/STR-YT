@@ -2326,8 +2326,6 @@ https://i.mjh.nz/PlutoTV/5f9992c685a2a80007fa414a-alt.m3u8
 https://i.mjh.nz/PlutoTV/5f9996533c9de3000759ccb5-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f99a772c54853000797bf18" tvg-id="5f99a772c54853000797bf18" tvg-chno="412" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="Deportes" , Lucha Libre AAA
 https://i.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5f9afb01816137000737f799" tvg-id="5f9afb01816137000737f799" tvg-chno="151" tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" group-title="Entretenimiento" , Nosey Escándalos
-https://i.mjh.nz/PlutoTV/5f9afb01816137000737f799-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5fab088b3279760007d4e4fd" tvg-id="5fab088b3279760007d4e4fd" tvg-chno="156" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Entretenimiento" , MTV Pluto TV
 https://i.mjh.nz/PlutoTV/5fab088b3279760007d4e4fd-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5fab09a8749b1a00077d35d2" tvg-id="5fab09a8749b1a00077d35d2" tvg-chno="176" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" group-title="Entretenimiento" , Nick Teen
@@ -2764,8 +2762,7 @@ http://177.128.115.10:8000/play/a07v
 http://177.128.115.10:8000/play/a0a6/1282
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv.png" group-title="FAMILIARES",Warner Channel | USA
 http://45.181.122.169:8000/play/a00u
-#EXTINF:-1 tvg-id="Futurama" tvg-name="Futurama" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c9baab2e-d824-42eb-8d7f-32e309a46b95-profile_image-70x70.png" group-title="24/7",Futurama | 24/7
-http://177.128.115.10:8000/play/a0a6/37835
+
 
 
 
@@ -2978,31 +2975,6 @@ http://198.27.117.10:8080/Carlos2022/Carlos2022/301621
 http://198.27.117.10:8080/Carlos2022/Carlos2022/302221
 
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8NsZxiL.png" group-title="24/7",Canal Los Pitufos TV
-https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
-#EXTINF:-1 tvg-id="Alf" tvg-name="Alf" tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7",Alf | 24/7
-http://pe.shortgod.com/miguel2023/tv2.php?id=128&token=ShortGod&file=.m3u8
-#EXTINF:-1 tvg-id="El Chavo" tvg-name="El Chavo" tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="24/7",El Chavo del 8 | 24/7
-http://pe.shortgod.com/miguel2023/tv1.php?id=2045
-#EXTINF:-1 tvg-id="El Chavo" tvg-name="El Chavo" tvg-logo="https://i.imgur.com/inXbFqE.png" group-title="24/7",El Chavo Animado | 24/7
-http://pe.shortgod.com/miguel2023/tv4.php?id=18576
-#EXTINF:-1 tvg-id="El Chapulin" tvg-name="El Chapulin" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/760449bd-621b-4777-b7bc-9fde4d1f27cb-profile_image-70x70.png" group-title="24/7",El Chapulin Colorado | 24/7
-http://pe.shortgod.com/miguel2023/tv2.php?id=113&token=ShortGod&file=.m3u8
-#EXTINF:-1 tvg-id="El Chapulin" tvg-name="El Chapulin" tvg-logo="https://i.imgur.com/B6TDkOb.png" group-title="24/7",El Chapulin Colorado Animado | 24/7
-
-#EXTINF:-1 tvg-id="Chespirito" tvg-name="Chespirito" tvg-logo="https://i.imgur.com/UswxIKp.png" group-title="24/7",Chespirito | 24/7
-http://pe.shortgod.com/miguel2023/tv2.php?id=355&token=ShortGod&file=.m3u8
-#EXTINF:-1 tvg-id="Futurama" tvg-name="Futurama" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c9baab2e-d824-42eb-8d7f-32e309a46b95-profile_image-70x70.png" group-title="24/7",Futurama | 24/7
-
-#EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://e1.pngegg.com/pngimages/669/354/png-clipart-los-simpsons-1-texto-p-the-simpsons-text.png" group-title="24/7",Los Simpsons | 24/7
-http://pe.shortgod.com/miguel2023/tv2.php?id=329&token=ShortGod&file=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wZUDfAD.png" group-title="24/7",Death Battle!
-http://pe.shortgod.com/miguel2023/tv5.php?id=12076
-
-﻿
 
 #EXTINF:-1 group-title="DEPORTES-LMS" tvg-logo="https://i.imgur.com/5CdW62M.png",ATG (432p)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
