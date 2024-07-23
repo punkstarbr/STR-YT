@@ -3,12 +3,15 @@
 
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="TNT",TF1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",TELEFE FHD1
 http://38.188.100.27:8000/play/a02q/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",TELEFE FHD2
 http://186.148.196.82:8000/play/a016
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",TELEFE FHD3
 http://181.209.114.13:8000/play/a06c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",TELEFE FHD4
 http://181.191.140.2:8000/play/a0it/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",TELEFE FHD5
