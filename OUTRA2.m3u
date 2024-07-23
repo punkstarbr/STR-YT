@@ -641,3 +641,92 @@ https://livefr.cgtn.com/1000f/prog_index.m3u8
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRfQZMK.png" group-title="NEWS WORLD",LiveNow Fox
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nEHL1S1.png" group-title="PARLIAMENTARY",Parliament TV
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://i.imgur.com/4nMN9xm.png" group-title="NEWS WORLD",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZFEJsu.png" group-title="NEWS WORLD",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZFEJsu.png" group-title="NEWS WORLD",Global News 2
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-logo="https://i.imgur.com/jtPPRFX.png" group-title="AUSTRALIAN NEWS",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="WORLD NEWS",teleSUR English
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jHJR3LN.png" group-title="WORLD NEWS",Africanews
+https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IndiaToday.in" tvg-logo="https://i.imgur.com/r38Camc.png" group-title="INDIAN NEWS",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
+
+
+
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="MANDARIN NEWS",TDM 澳門資訊頻道
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="TURKISH NEWS",NTV
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://i.imgur.com/Qq58W0E.png" group-title="TURKISH NEWS",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png" tvg-id="AstroAwani.my" group-title="MALAY NEWS",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/8cdAvQF.png" group-title="LATINO NEWS",ADN40
+http://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dOTAsGd.png" group-title="LATINO NEWS",RTU
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="LATINO NEWS",teleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pdWajHP.png" group-title="THAI NEWS",News1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://i.imgur.com/QWazNSS.png" group-title="BRASILIAN NEWS",Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" group-title="PERSIAN NEWS",Iran International
+https://live.playstop.me/LS-63503-4/index.m3u8
+#EXTINF:-1 tvg-id="B1.ro" tvg-logo="https://i.imgur.com/h1qtVjc.png" group-title="ROMANIAN NEWS",B1
+http://stream.adunity.com/b1/b1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1920px-News_24_%28Albania%29.svg.png" group-title="NEWS WORLD",News 24 - ALBANIA
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/AlArabiya2020.png" group-title="NEWS WORLD",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Aajtak.in" tvg-logo="https://i.imgur.com/o3rBa0e.png" group-title="HINDI NEWS",Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="ABPNewsIndia.in" tvg-logo="https://i.imgur.com/3MeMPyJ.png" group-title="HINDI NEWS",ABP News India
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
+#EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://i.imgur.com/ebqagsj.png" group-title="HINDI NEWS",Zee News
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://i.imgur.com/5M3233w.png" group-title="BUSINESS NEWS",Bloomberg HT
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png" group-title="NEWS WORLD",CNN USA
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNNPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/800px-CNN_Philippines_Logo.svg.png" group-title="PINOY NEWS",CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/chunklist_w1199238897.m3u8
+#EXTINF:0 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="WORLD NEWS",Aljazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraChannel.qa" tvg-logo="https://i.imgur.com/PszVneu.png" group-title="NEWS WORLD",Aljazeera Channel
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2D9tAmC.png" group-title="NON-ENGLISH NEWS",Aljazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/okkmsZK.png" group-title="NEWS WORLD",Sky News Arabe
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/1024px-LA7_-_Logo_2011.svg.png" group-title="ITALY",La 7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS/Live_1280x720_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WltLUSg.png" group-title="MEXICO",Azteca 7 Mexico City
+http://190.61.102.67:31589/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JnRpLg8.png" group-title="MEXICO",Azteca Uno
+http://190.61.102.67:31589/play/a04p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gAcWmFc.png" group-title="MEXICO",Canal 5
+http://190.61.102.67:31589/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yfXBk1L.png" group-title="MEXICO",Imagen Television
+http://190.61.102.67:31589/play/a00h/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ub3kuWh.png" group-title="MEXICO",Las Estrellas México
+http://190.61.102.67:31589/play/a00g/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/800px-REN_TV_logo_2017.svg.png" group-title="RUSSIA",Рен ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+
