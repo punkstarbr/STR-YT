@@ -1,119 +1,80 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml"
 
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Shopping Live (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Sochi Live HD (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",TRT World (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Ветта 24 (Пермь) (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Губерния (Самара) (576p)
 #EXTVLCOPT:network-caching=1000
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Доктор (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/512/index.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Евразия (Орск) (720p)
 #EXTVLCOPT:network-caching=1000
 http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Енисей (1080p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",К16 (Саров) (406p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Каббала ТВ (360p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Кинозал (VHS 90s) (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Конный Мир (576p) [Geo-blocked]
 #EXTVLCOPT:network-caching=1000
 http://cdn-01.bonus-tv.ru/konnyimir/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Красногорск ТВ (480p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://live-krtv.cdnvideo.ru/krtv/krtv.sdp/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Липецкое время (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Миллет (540p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Министерство идей (720p)
 #EXTVLCOPT:network-caching=1000
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Мир +2 (540p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Мир +4 (540p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Мир +7 (540p)
 #EXTVLCOPT:network-caching=1000
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Мисто плюс (480p) [Timeout]
 #EXTVLCOPT:network-caching=1000
 http://93.78.206.172:8080/stream4/stream.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Мордовия 24 (360p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Морской (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/742/index.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",МТВ (Волгоград) (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Муз союз (576p)
 #EXTVLCOPT:network-caching=1000
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",МузСоюз (576p)
 #EXTVLCOPT:network-caching=1000
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Нижний Новгород 24 (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Ника ТВ (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Первый Псковский (540p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://194.190.78.91/pskov/rewind-10800.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Радио Говорит Москва (404p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",радио Хит ТВ (300p)
 #EXTVLCOPT:network-caching=1000
 http://lova.me/hls/hit.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",РБК (560p)
 #EXTVLCOPT:network-caching=1000
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Ростов-папа (1080p)
 #EXTVLCOPT:network-caching=1000
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Самара ГИС (1080p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://45.67.57.9:8080/new/new/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Страна FM (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",ТВ Экстра (720p)
 #EXTVLCOPT:network-caching=1000
 http://live-1.otcnet.ru/tvextra720b/index.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Телплюс ТВ (Астрахань) (360p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://streaming.astrakhan.ru/telplushd/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",ТК Алмазный край (576p)
 #EXTVLCOPT:network-caching=1000
 https://stream.almaz-media.tv:8080/hls/576.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",ТКР (Рязань) (1080p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
-#EXTINF:0 group-title="RUSSIA" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Эхо TV (Рязань) (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
