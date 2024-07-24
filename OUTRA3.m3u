@@ -42,8 +42,6 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="La Octava" tvg-name="La Octava" tvg-logo="https://laoctava.com/img/logo.png" group-title="MEXICO",8.1 La Octava
 http://magmas5.com:8000/live/malotv/gratis/149119.m3u8
 
-#EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico.png" group-title="MEXICO",9.1 El Nueve
-http://pe.shortgod.com/miguel2023/tv5.php?id=142-7083
 
 #EXTINF:-1 tvg-id="El Heraldo TV" tvg-name="El Heraldo TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/heraldo_tv.png" group-title="MEXICO",10.1 El Heraldo TV
 https://stream-04.sv4.dailymotion.com/sec(flYDIS2TJc06LP-7DFS-ydmNwh_QsUOQ4WAgbdZRbqo)/dm/3/x792196/d/live-2.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1
@@ -51,26 +49,13 @@ https://stream-04.sv4.dailymotion.com/sec(flYDIS2TJc06LP-7DFS-ydmNwh_QsUOQ4WAgbd
 #EXTINF:-1 tvg-id="Canal Once" tvg-name="Canal Once" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico.png" group-title="MEXICO",11.1 Once de Mexico
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal Once" tvg-name="Canal Once" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico.png" group-title="MEXICO",11.1 Once de Mexico
-http://pe.shortgod.com/miguel2023/tv10.php?id=19660
 
 #EXTINF:-1 tvg-id="Canal Once" tvg-name="Canal Once" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico.png" group-title="MEXICO",11.1 Once de Mexico
 http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52476.ts
 
-#EXTINF:-1 tvg-id="Onceninos.mx" tvg-name="Onceninos.mx" tvg-logo="https://onceninos.tv/wp-content/uploads/2018/04/Banner-logos-1-e1523046191844.png" group-title="MEXICO",11.2 Once Ninas y Ninos
-http://pe.shortgod.com/miguel2023/tv10.php?id=3142
 
 #EXTINF:-1 tvg-id="14 de Mexico" tvg-name="14 de Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/14_de_mexico.png" group-title="MEXICO",14.1 Canal Catorce
 https://s6.mexside.net:1936/canal14/canal14/chunklist_w2087089291.m3u8
-
-#EXTINF:-1 tvg-id="14 de Mexico" tvg-name="14 de Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/14_de_mexico.png" group-title="MEXICO",14.1 Canal Catorce
-http://pe.shortgod.com/miguel2023/tv10.php?id=2137
-
-#EXTINF:-1 tvg-id="Ingenio TV" tvg-name="Ingenio TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/ingenio_tv_mexico.png" group-title="MEXICO",14.2 Ingenio TV
-http://pe.shortgod.com/miguel2023/tv7.php?id=9457
-
-#EXTINF:-1 tvg-id="TV UNAM" tvg-name="TV UNAM" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvunam.png" group-title="MEXICO",20.1 TV UNAM
-http://pe.shortgod.com/miguel2023/tv5.php?id=144-7083
 
 #EXTINF:-1 tvg-id="XHCDMTDT.mx" tvg-name="XHCDMTDT.mx" tvg-logo="https://i.imgur.com/6xKwAuc.png" group-title="MEXICO",21.1 Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
@@ -2449,128 +2434,6 @@ http://177.128.115.10:8000/play/a07v
 http://177.128.115.10:8000/play/a0a6/1282
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv.png" group-title="FAMILIARES",Warner Channel | USA
 http://45.181.122.169:8000/play/a00u
-
-
-
-
-
-#EXTINF:-1 tvg-id="Bit Me" tvg-name="Bit Me" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="INFANTILES",Bit Me op1 | México
-http://pe.shortgod.com/miguel2023/tv5.php?id=338-7085
-#EXTINF:-1 tvg-id="Bit Me" tvg-name="Bit Me" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="INFANTILES",Bit Me op1 | México
-http://pe.shortgod.com/miguel2023/tv1.php?id=2605
-#EXTINF:-1 tvg-id="Boing Espana" tvg-name="Boing Espana" tvg-logo="https://imagenes.gatotv.com/logos/canales/boing_espana-mediano.png" group-title="INFANTILES",Boing | Spain
-http://pe.shortgod.com/miguel2023/tv3.php?id=298149
-#EXTINF:-1 tvg-id="Boing Espana" tvg-name="Boing Espana" tvg-logo="https://imagenes.gatotv.com/logos/canales/boing_espana-mediano.png" group-title="INFANTILES",Boing | Spain
-http://pe.shortgod.com/miguel2023/tv2.php?id=119&token=ShortGod&file=.m3u8
-#EXTINF:-1 tvg-id="Boomerang TV" tvg-name="Boomerang TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/boomerang_latinoamerica-mediano.png" group-title="INFANTILES",Boomerang | Mexico
-http://pe.shortgod.com/miguel2023/tv9.php?id=Bk6HmHjpSM/2408
-#EXTINF:-1 tvg-id="Cartoon Network Mexico" tvg-name="Cartoon Network Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png" group-title="INFANTILES",Cartoon Network | México
-
-#EXTINF:-1 tvg-id="Cartoon Network Sur" tvg-name="Cartoon Network Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png" group-title="INFANTILES",Cartoon Network | Sur
-
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito.png" group-title="INFANTILES",Cartoonito | Mexico
-
-#EXTINF:-1 tvg-id="Clan HD" tvg-name="Clan HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="INFANTILES",Clan TVE | Spain
-http://pe.shortgod.com/miguel2023/tv4.php?id=4131
-#EXTINF:-1 tvg-id="Clan HD" tvg-name="Clan HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="INFANTILES",Clan TVE | Spain
-http://pe.shortgod.com/miguel2023/tv7.php?id=56218
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTILES",Tooncast | Colombia
-http://pe.shortgod.com/miguel2023/tv10.php?id=13781
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTILES",Tooncast | Colombia
-http://pe.shortgod.com/miguel2023/tv4.php?id=195&f=.m3u8
-#EXTINF:-1 tvg-id="ETC TV" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/QVC28lh.png" group-title="INFANTILES",ETC TV | Chile
-http://pe.shortgod.com/miguel2023/tv10.php?id=18612
-#EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-logo="https://cdn.mitvstatic.com/channels/ar_a3cine_m.png" group-title="CINE",A3Cine
-http://pe.shortgod.com/miguel2023/tv1.php?id=707
-#EXTINF:-1 tvg-id="A3 Series" tvg-name="A3 Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atreseries.png" group-title="CINE",A3 Series
-http://pe.shortgod.com/miguel2023/tv2.php?id=130&token=ShortGod&file=.m3u8
-#EXTINF:-1 tvg-id="A3 Series" tvg-name="A3 Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atreseries.png" group-title="CINE",A3 Series
-http://pe.shortgod.com/miguel2023/tv7.php?id=211198
-#EXTINF:-1 tvg-id="DePelicula(Spanish).us" tvg-name="DePelicula(Spanish).us" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png" group-title="CINE",De Pelicula | Estados Unidos
-
-#EXTINF:-1 tvg-id="De Pelicula" tvg-name="De Pelicula" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png" group-title="CINE",De Pelicula | Mexico
-http://pe.shortgod.com/miguel2023/tv10.php?id=1469
-#EXTINF:-1 tvg-id="De Pelicula Clasico" tvg-name="De Pelicula Clasico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png" group-title="CINE",De Pelicula Clasico | Mexico
-http://pe.shortgod.com/miguel2023/tv10.php?id=91750
-#EXTINF:-1 tvg-id="De Pelicula Plus" tvg-name="De Pelicula Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png"group-title="CINE",De Pelicula Plus | Mexico
-http://pe.shortgod.com/miguel2023/tv10.php?id=37960
-#EXTINF:-1 tvg-id="De Pelicula Plus" tvg-name="De Pelicula Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png"group-title="CINE",De Pelicula Plus | Mexico
-http://pe.shortgod.com/miguel2023/tv5.php?id=1470
-#EXTINF:-1 tvg-id="" tvg-name="USento California KXTV TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/04aa3459bcd0300ffabdaee7a7c76f4e.png" group-title="FAMILIARES",ABC Sacramento California KXTV TV
-http://pe.shortgod.com/miguel2023/tv8.php?id=1320
-#EXTINF:-1 tvg-id="America TV Argentina" tvg-name="America TV Argentina" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina.png" group-title="FAMILIARES",America TV | Argentina
-http://pe.shortgod.com/miguel2023/tv3.php?id=49245
-#EXTINF:-1 tvg-id="America TV Argentina" tvg-name="America TV Argentina" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina.png" group-title="FAMILIARES",America TV | Argentina
-http://pe.shortgod.com/miguel2023/tv10.php?id=691607
-#EXTINF:-1 tvg-id="America 24" tvg-name="America 24" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png" group-title="FAMILIARES",America 24 | Argentina
-http://pe.shortgod.com/miguel2023/tv10.php?id=691665
-#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" group-title="FAMILIARES",C5N | Argentina
-http://pe.shortgod.com/miguel2023/tv7.php?id=242080
-#EXTINF:-1 tvg-id="13 de Chile" tvg-name="13 de Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile.png" group-title="FAMILIARES",Canal 13 | Chile
-http://pe.shortgod.com/miguel2023/tv5.php?id=38540
-#EXTINF:-1 tvg-id="Caracol TV" tvg-name="Caracol TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia.png" group-title="FAMILIARES",Caracol TV | Colombia
-http://pe.shortgod.com/miguel2023/tv5.php?id=38551
-#EXTINF:-1 tvg-id="Chilevision" tvg-name="Chilevision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision.png" group-title="FAMILIARES",Chilevision | Chile
-http://pe.shortgod.com/miguel2023/tv1.php?id=1127
-#EXTINF:-1 tvg-id="Comedy Central MX" tvg-name="Comedy Central Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica.png" group-title="FAMILIARES",Comedy Central | México
-http://pe.shortgod.com/miguel2023/tv5.php?id=30319
-#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia.png" group-title="FAMILIARES",Distrito Comedia | México
-http://pe.shortgod.com/miguel2023/tv5.php?id=3284
-#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia.png" group-title="FAMILIARES",Distrito Comedia | México
-http://pe.shortgod.com/miguel2023/tv3.php?id=9126
-#EXTINF:-1 tvg-id="13 de Argentina" tvg-name="13 de Argentina" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina.png" group-title="FAMILIARES",El Trece | Argentina
-http://pe.shortgod.com/miguel2023/tv2.php?id=46&token=ShortGod&file=.m3u8
-#EXTINF:-1 tvg-id="13 de Argentina" tvg-name="13 de Argentina" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina.png" group-title="FAMILIARES",El Trece | Argentina
-http://pe.shortgod.com/miguel2023/tv3.php?id=3194
-#EXTINF:-1 tvg-id="Europa Europa" tvg-name="Europa Europa" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa.png" group-title="FAMILIARES",Europa Europa
-http://pe.shortgod.com/miguel2023/tv5.php?id=1493
-#EXTINF:-1 tvg-id="Europa Europa" tvg-name="Europa Europa" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa.png" group-title="FAMILIARES",Europa Europa
-http://pe.shortgod.com/miguel2023/tv5.php?id=4344&f=.m3u8
-#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="FAMILIARES",Glitz | Argentina
-http://pe.shortgod.com/miguel2023/tv9.php?id=Bk6HmHjpSM/2356
-#EXTINF:-1 tvg-id="RCN Internacional" tvg-name="RCN Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rcn_nuestra_tele.png" group-title="FAMILIARES",RCN | Colombia
-http://pe.shortgod.com/miguel2023/tv9.php?id=Bk6HmHjpSM/3121
-#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina.png" group-title="FAMILIARES",Telefe | Argentina
-http://pe.shortgod.com/miguel2023/tv2.php?id=45&token=ShortGod&file=.m3u8
-#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina.png" group-title="FAMILIARES",Telefe | Argentina
-http://pe.shortgod.com/miguel2023/tv7.php?id=12933
-#EXTINF:-1 tvg-id="Telefuturo" tvg-name="Telefuturo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo.png" group-title="FAMILIARES",Telefuturo | Paraguay
-http://pe.shortgod.com/miguel2023/tv7.php?id=50473
-#EXTINF:-1 tvg-id="Telefuturo" tvg-name="Telefuturo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo.png" group-title="FAMILIARES",Telefuturo | Paraguay
-http://pe.shortgod.com/miguel2023/tv4.php?id=7529
-#EXTINF:-1 tvg-id="Television Publica" tvg-name="Television Publica" tvg-logo="https://i.imgur.com/04nIdpc.png" group-title="FAMILIARES",Television Publica | Argentina
-http://pe.shortgod.com/miguel2023/tv5.php?id=38573
-#EXTINF:-1 tvg-id="TLNovelas MX" tvg-name="TLNovelas MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas.png" group-title="FAMILIARES",TL Novelas | Mexico
-http://pe.shortgod.com/miguel2023/tv5.php?id=15237
-#EXTINF:-1 tvg-id="TLNovelas Univision" tvg-name="TLNovelas Univision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision_tlnovelas.png" group-title="FAMILIARES",TL Novelas Univision | USA
-http://pe.shortgod.com/miguel2023/tv1.php?id=131
-#EXTINF:-1 tvg-id="TVN Chile" tvg-name="TVN Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile.png" group-title="FAMILIARES",TVN | Chile
-
-#EXTINF:-1 tvg-id="UniMas.mx" tvg-name="UniMas.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/unimas.png" group-title="FAMILIARES",UniMás | Estados Unidos
-http://pe.shortgod.com/miguel2023/tv5.php?id=436-7085
-#EXTINF:-1 tvg-id="UniMas.mx" tvg-name="UniMas.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/unimas.png" group-title="FAMILIARES",UniMás | Estados Unidos
-http://pe.shortgod.com/miguel2023/tv7.php?id=9494
-#EXTINF:-1 tvg-id="Univision" tvg-name="Univision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision.png" group-title="FAMILIARES",Univisión | Estados Unidos
-http://pe.shortgod.com/miguel2023/tv9.php?id=Bk6HmHjpSM/2352
-#EXTINF:-1 tvg-id="WAPA TV" tvg-name="WAPA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/wapa_tv.png" group-title="FAMILIARES",Wapa | PR
-http://pe.shortgod.com/miguel2023/tv7.php?id=169593
-#EXTINF:-1 tvg-id="WAPA TV" tvg-name="WAPA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/wapa_tv.png" group-title="FAMILIARES",Wapa | PR
-http://pe.shortgod.com/miguel2023/tv1.php?id=1035
-#EXTINF:-1 tvg-id="WAPA 2 Deportes" tvg-name="WAPA 2 Deportes" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/wapa_tv.png" group-title="FAMILIARES",Wapa 2 | PR
-http://pe.shortgod.com/miguel2023/tv1.php?id=1036
-#EXTINF:-1 tvg-id="Warner Channel Chile" tvg-name="Warner Channel Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv.png" group-title="FAMILIARES",Warner Channel | Chile
-http://pe.shortgod.com/miguel2023/tv2.php?id=40&token=ShortGod&file=.m3u8
-#EXTINF:-1 tvg-id="Warner Channel Sur" tvg-name="Warner Channel Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv.png" group-title="FAMILIARES",Warner Channel op2
-http://pe.shortgod.com/miguel2023/tv3.php?id=9142
-#EXTINF:-1 tvg-id="Warner Channel Sur" tvg-name="Warner Channel Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv.png" group-title="FAMILIARES",Warner Channel op2
-http://pe.shortgod.com/miguel2023/tv8.php?id=366
-#EXTINF:-1 tvg-id="Warner Channel Sur" tvg-name="Warner Channel Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv.png" group-title="FAMILIARES",Warner Channel op3
-http://pe.shortgod.com/miguel2023/tv1.php?id=686
-#EXTINF:-1 tvg-id="Warner Channel Sur" tvg-name="Warner Channel Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv.png" group-title="FAMILIARES",Warner Channel op4
-http://pe.shortgod.com/miguel2023/tv1.php?id=687
-#EXTINF:-1 tvg-id="Claro Sports" tvg-name="Claro Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports.png" group-title="DEPORTES",Claro Sports Flash | México
-http://pe.shortgod.com/miguel2023/tv1.php?id=7422
-
 
 
 
