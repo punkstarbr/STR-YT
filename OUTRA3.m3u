@@ -18,38 +18,20 @@ https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 #EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno.png" group-title="MEXICO",1.1 Azteca Uno op
 http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52476.ts
 
-#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas.png" group-title="MEXICO",2.1 Las Estrellas
-http://pe.shortgod.com/miguel2023/tv1.php?id=2608
-
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="ImagenTV.mx" tvg-logo="https://i.imgur.com/KtkDzh5.png" group-title="MEXICO",3.1 Imagen TV
-http://pe.shortgod.com/miguel2023/tv10.php?id=32403
-
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="ImagenTV.mx" tvg-logo="https://i.imgur.com/KtkDzh5.png" group-title="MEXICO",3.1 Imagen TV
 http://190.61.102.67:2000/play/a00h/index.m3u8
-
-#EXTINF:-1 tvg-id="Excelsior Television" tvg-name="Excelsior Television" tvg-logo="https://imagenes.gatotv.com/logos/canales/excelsior_tv.png" group-title="MEXICO",3.4 Excelsior  Television
-http://pe.shortgod.com/miguel2023/tv10.php?id=10790
 
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv.png" group-title="MEXICO",4.1 Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico.png" group-title="MEXICO",5.1 Canal Cinco
-http://pe.shortgod.com/miguel2023/tv1.php?id=2614
-
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOSTV.mx" tvg-logo="https://i.imgur.com/M3RpKt3.png"group-title="MEXICO",6.1 Canal 6
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-
-#EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/milenio_tv-mediano.png" group-title="MEXICO",6.2 Milenio TV
-http://pe.shortgod.com/miguel2023/tv7.php?id=53104
 
 #EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7.png" group-title="MEXICO",7.1 Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7.png" group-title="MEXICO",7.1 Azteca 7 op
 https://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
-
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7.png" group-title="MEXICO",7.1 Azteca 7 op
-http://pe.shortgod.com/miguel2023/tv10.php?id=16514
 
 #EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7.png" group-title="MEXICO",7.1 Azteca 7 op
 http://190.61.102.67:2000/play/a00i/index.m3u8
