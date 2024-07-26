@@ -773,13 +773,10 @@ https://v-ny.mybtv.net/live/660.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-id="Telefuturo" tvg-name="Telefuturo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo.png" group-title="FAMILIARES",Telefuturo | Paraguay
 https://cdn.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://yt3.ggpht.com/Ou9HrKBwJrKsM5R4Y_SFJdVJTqtmgnYuSTQdQnR-Dt5NIqAtC0gLKs3b_MfdCKSL7Ok8cCm7Ig=s900-c-k-c0x00ffffff-no-rj" group-title="FAMILIARES",Telemundo 47
 
 
 #EXTINF:-1 tvg-id="TeleRed" tvg-name="TeleRed" tvg-logo="https://lh3.googleusercontent.com/-NCv13SGaRQE/XtRgHXHBOVI/AAAAAAAA1VM/pv6D0L7XqWE_PqRQ4p47m9yUBtMm3mlvACK8BGAsYHg/s0/2020-05-31.png" group-title="FAMILIARES",Telered | Costa Rica
 https://video20.klm99.com:3558/live/teleredlive.m3u8
-
-#EXTINF:-1 tvg-id="TeleRed" tvg-name="TeleRed" tvg-logo="https://i.ytimg.com/vi/36SGwRc_3fk/hqdefault.jpg" group-title="FAMILIARES",Telered TV | Costa Rica
 
 
 #EXTINF:-1 tvg-id="Telesistema" tvg-name="Telesistema" tvg-logo="https://i.imgur.com/FhkTl6z.jpg" group-title="FAMILIARES",Telesistema | Costa Rica
@@ -790,11 +787,6 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleSUR" tvg-name="TeleSUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telesur.png" group-title="FAMILIARES",TeleSUR | Costa Rica
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://literaturavisionlatina.files.wordpress.com/2014/08/logo.jpg" group-title="FAMILIARES",Vision Latina | USA
-
-#EXTINF:-1 tvg-id="Warner Channel Mexico" tvg-name="Warner Channel Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv.png" group-title="FAMILIARES",Warner Channel | Mexico
-
 
 #EXTINF:-1 tvg-id="Adrenalina Sports Network" tvg-name="Adrenalina Sports Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adrenalina_sports_network.png" group-title="DEPORTES",Adrenalina Sports Network | México
 https://m3u-editor.com/serve/320183542-iptv/368981975
