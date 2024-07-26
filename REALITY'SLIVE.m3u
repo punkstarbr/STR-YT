@@ -104,7 +104,7 @@ http://45.231.104.67:6102/play/a03e/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NOVELAS",UNIVISION(USA).HD7
 http://190.14.228.107:8000/play/a02p
 
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="Reality Show's Live",CANAL 5 
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="Reality Show's Live",Canal 5 
 https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/465.m3u8 
 ##EXTVLCOPT:network-caching=1000 #EXTVLCOPT--http-reconnect=true 
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
@@ -112,7 +112,7 @@ https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctseh
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Reality Show's Live",Canal 5
 http://181.78.106.127:9000/play/ca012/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Reality Show's Live",Canal 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" group-title="Reality Show's Live",Canal 5
 http://38.7.24.161:8000/play/a028
 
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Reality Show's Live",Canal 5
