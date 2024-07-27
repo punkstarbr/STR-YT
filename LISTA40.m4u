@@ -1704,194 +1704,288 @@ https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
 https://v-pi.theus6tv.tk/hls/6.1/playlist.m3u8
 #EXTINF:-1  group-title="N/A",Yahoo! News (720p)
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="NEWS WORLD", Belarus 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="NEWS WORLD", EvroNovosti
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="NEWS WORLD", Mir 24
 https://sc.id-tv.kz/Mir24.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="NEWS WORLD", Noyabrsk 24
 https://strm.yandex.ru/kal/noyabrsk24/noyabrsk240.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="NEWS WORLD", 112 Ukraine
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="NEWS WORLD", Russia 24
 https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="NEWS WORLD", GTRK Chita
 https://gtrkchita.ru:8081/hls/r24-chita_576p.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Ucom TV
 http://ott-cdn.ucom.am/s11/index.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", 30A TV
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", TD Ameritrade
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Akamai Live Event
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Atameken Business Channel
 https://sc.id-tv.kz/Atameken.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Bloomberg HT (Turkey)
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Google News Event
 https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", APTV Channel (Asia)
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", OZTV Channel (Asia)
 https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Bloomberg EU
 https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Bloomberg TV (IT)
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Bloomberg TV (BE)
 https://bloomberg-bloomberg-1-be.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Bloomberg US
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Bloomberg Politics
 https://www.bloomberg.com/media-manifest/streams/politics.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Bloomberg TV (ES)
 https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Uplynk Channel
 https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", MSVDN Channel
 https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Ucom TV
 http://ott-cdn.ucom.am/s65/index.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", CNBC Indonesia (Alternate)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", ET Now
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Test Stream
 http://199.66.95.242/1/1172/index.m3u8?token=test
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", NDTV Profit
 https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Pluto TV - News Channel
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=54ff7ba69222cb1c2624c584&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=224&terminate=false&userId=
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Broadcast Channel
 https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Uplynk Channel
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Tustreaming - Tevex Inter
 https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", CloudFront Stream
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", AccuWeather
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",like Gecko) Mobile/15E148
+
+#EXTINF:-1 group-title="NEWS WORLD", Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01 group-title="NEWS WORLD"Cloudfront-Pattrn.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD", Pluto TV - Viacom Channel
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1  group-title="NEWS WORLD",https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01 group-title="NEWS WORLD"Cloudfront-Pattrn.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD", MCAS Channel
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01 group-title="NEWS WORLD"Cloudfront-Weather-Nation.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD", Xumo - Redbox Weather
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Unknown Stream 1
 http://80.237.51.37:8101
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Unknown Stream 2
 http://80.237.51.37:8102
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", RTR Russia K
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_2.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Unknown Stream 3
 http://80.237.51.37:8106
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Unknown Stream 4
 http://80.237.51.37:8107
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", RTR Russia 24
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", RTR Live Stream
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", RTR Live Stream (Russia)
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Unknown Stream 1
 http://80.237.51.37:8117
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Unknown Stream 2
 http://80.237.51.37:8118
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Mir TV - Mir 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Mir TV - General
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Mir TV - HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", IGI Channel (SD)
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", IGI Channel (SD) - Duplicate
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Unknown Stream 3
 http://80.237.51.37:8104
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Unknown Stream 4
 http://80.237.51.37:8105
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Unknown Stream 5
 http://80.237.51.37:8110
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", UTV Channel
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Ren TV (Kazakhstan)
 https://sc.id-tv.kz/RenTV_34_35.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Unknown Stream 6
 http://80.237.51.37:8111
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Unknown Stream 7
 http://80.237.51.37:8119
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Unknown Stream 8
 http://80.237.51.37:8116
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Unknown Stream 9
 http://80.237.51.37:8114
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Unknown Stream 10
 http://80.237.51.37:8115
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Unknown Stream 11
 http://80.237.51.37:8113
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", CTC Channel (Russia)
 http://46.174.83.66/CTC/mpegts
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", STS Channel (Kazakhstan)
 https://sc.id-tv.kz/STS_34_35.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Unknown Stream 1
 http://80.237.51.37:8109
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Unknown Stream 2
 http://80.237.51.37:8112
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", RFE TV Channel
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Bonus TV Stream
 http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
-#EXTINF:-1  group-title="N/A",8 #EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="N/A", 8TV Russia
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
-#EXTINF:-1  group-title="N/A",8 #EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="N/A", 8TV Europe
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Unknown Stream 3
 http://46.174.83.66/U/mpegts
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Unknown Stream 4
 http://140.238.127.147:80/streams/5.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+
+#EXTINF:-1 group-title="N/A", Studio 360 News
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1  group-title="N/A",#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+
+#EXTINF:-1 group-title="N/A", 1TV Channel (Wink Player)
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
-#EXTINF:-1  group-title="N/A",#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+
+#EXTINF:-1 group-title="N/A", TNT Channel (Wink Player)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
-#EXTINF:-1  group-title="N/A",#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+
+#EXTINF:-1 group-title="N/A", TNT4 Channel (Wink Player)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1  group-title="N/A",#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+
+#EXTINF:-1 group-title="N/A", REN TV Channel (Wink Player)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1  group-title="N/A",#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+
+#EXTINF:-1 group-title="N/A", NTV Channel (Wink Player)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1  group-title="N/A",#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+
+#EXTINF:-1 group-title="N/A", OTR Channel (Wink Player)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8?version=2
-#EXTINF:-1  group-title="N/A",#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+
+#EXTINF:-1 group-title="N/A", 5TV Channel (Wink Player)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1  group-title="N/A",#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+
+#EXTINF:-1 group-title="N/A", TVC Channel (Wink Player)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
-#EXTINF:-1  group-title="N/A",#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+
+#EXTINF:-1 group-title="N/A", STS Channel (Wink Player)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
-#EXTINF:-1  group-title="N/A",#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+
+#EXTINF:-1 group-title="N/A", REN TV Perm (Wink Player)
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8?version=2
-#EXTINF:-1  group-title="N/A",#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+
+#EXTINF:-1 group-title="N/A", SPAS Channel (Wink Player)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/bw2000000/variant.m3u8?version=2
-#EXTINF:-1  group-title="N/A",2x2
+
+#EXTINF:-1 group-title="N/A", 2x2 Channel
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1  group-title="N/A",#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+
+#EXTINF:-1 group-title="N/A", U Channel (Wink Player)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
-#EXTINF:-1  group-title="N/A",#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+
+#EXTINF:-1 group-title="N/A", Peretz Channel (Wink Player)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
+
 
 
 
