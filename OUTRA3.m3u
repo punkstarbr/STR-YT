@@ -573,85 +573,7 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Yamato Animation" tvg-name="Yamato Animation" tvg-logo="https://i.imgur.com/rOl7HfS.png" group-title="JOVENES Y ADULTOS",Yamato Animation | Italia
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bayres TV"  tvg-name="Bayres TV" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="CINE",Bayres TV | Argentina
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/atlRdIQ.png" group-title="CINE",Bjgtjme | Argentina
-https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51SN4YBCY6L.png" group-title="CINE",Butaca TV | Spain
-https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://telebreeze.com/images/tild3164-6464-4134-b434-656562653935__photo_2020-07-08_22-.jpg" group-title="CINE",Cine Cable TV | Ecuador
-
-
-#EXTINF:-1 tvg-id="Cine Club" tvg-name="Cine Club" tvg-logo="https://i.imgur.com/t9gOcwz.png" group-title="CINE",Cine Club | Perú
-https://servilive.com:3176/live/cineclublive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zIMRPHL.png" group-title="CINE",Cine Horrorfy | Estados Unidos
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ONURCJ.png" group-title="CINE",Cine Juntos | Estados Unidos
-https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c7bRHaL.png" group-title="CINE",Cine Real | Estados Unidos
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/7c06f89d-1238-4123-8b95-b5bbddfb636b/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c7bRHaL.png" group-title="CINE",Cine Sureno | Estados Unidos
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
-
-#EXTINF:-1 tvg-logo="http://distritotv.es/wp-content/uploads/2018/04/ElDistrito_Logo_PNG.jpg" group-title="CINE",Distrito TV | Spain
-https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.estaciontv.cl/site/templates/rt_callisto/images/logo/logo.png?5d378a60" group-title="CINE",Estacion Tv | Chile
-
-
-#EXTINF:-1 tvg-id="Extrema TV" tvg-name="Extrema TV" tvg-logo="http://www.radioextremacr.com/img/logo.png" group-title="CINE",Extrema TV | Costa Rica
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e59184a0-4949-11eb-bf99-2504291df0ab/1032099/171343028.png" group-title="CINE",Flixtube | Estados Unidos
-
-
-#EXTINF:-1 tvg-id="Maxima Movie" tvg-name="Maxima Movie" tvg-logo="http://i.imgur.com/5muDweJ.png" group-title="CINE",Maxima Movie HD | Chile
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9jprbpv.png" group-title="CINE",Mega Cine Tv | Republica Dominicana
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-
-#EXTINF:-1 tvg-id="195149" tvg-name="MOOVIMEX" tvg-logo="https://i.imgur.com/q3PmMF9.jpg" group-title="CINE", MOOVIMEX | Mexico
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sRYe8Np.jpg" group-title="CINE",Movies Central by tv player | Spain
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-id="195146" tvg-name="My Time MX" tvg-logo="https://i.imgur.com/hMksKhc.png" group-title="CINE",My Time Movie | Mexico
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="CINE",Orbit TV | Republica Dominicana
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cine" tvg-name="Cine" tvg-logo="https://i.imgur.com/ZN3ry2f.png" group-title="CINE",PlanetaTV Movie | Chile
-https://tls-cl.cdnz.cl/movie/live/chunklist_w451618268.m3u8
-
-#EXTINF:-1 tvg-id="Cine" tvg-name="Cine" tvg-logo="https://i.imgur.com/ZN3ry2f.png" group-title="CINE",PlanetaTV Movie | Chile
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://reconlinebolivia.com/wp-content/uploads/2021/10/logo-slogan.png" group-title="CINE",Rec Online TV | Bolivia
-http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YgHu53w.png" group-title="CINE",Top Cine | Estados Unidos
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YgHu53w.png" group-title="CINE",Tu Cine | Estados Unidos
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YgHu53w.png" group-title="CINE",Tu Cine | Estados Unidos
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineus-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-id="TV Mas Chile" tvg-name="TV Mas Chile" tvg-logo="https://i.imgur.com/0oTjKAa.png" group-title="CINE",TV Mas | Chile
-
-
-#EXTINF:-1 tvg-id="Viwix" tvg-name="Viwix" tvg-logo="https://viwix.cl/wp-content/uploads/2021/12/VIWIX-TRANSPARENTE-01-1024x385.png" group-title="CINE",Viwix Tv Terror | Chile
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",Vix
@@ -665,18 +587,6 @@ https://linear-309.frequency.stream/dist/localnow/309/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",Vix
 https://linear-330.frequency.stream/dist/localnow/330/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Wow Tv" tvg-name="Wow Tv" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/wow-tv.png" group-title="CINE",Wow Tv | El Salvador
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-
-#EXTINF:-1 tvg-id="Zee Mundo" tvg-name="Zee Mundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/zee_mundo.png" group-title="CINE",Zee Mundo | India
-
-
-#EXTINF:-1 tvg-logo="http://photocall.tv/images/americanhorrors.png" group-title="CINE",ZZ American Horrors | Estados Unidos
-http://170.178.189.66:1935/live/Stream1/.m3u8
-
-#EXTINF:-1 tvg-id="America 24" tvg-name="America 24" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png" group-title="FAMILIARES",America 24 | Argentina
-https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
 #EXTINF:-1 tvg-id="Buin Somos Todos" tvg-name="Buin Somos Todos" tvg-logo="https://i.ytimg.com/vi/k_Q7-gqkfAo/maxresdefault.jpg" group-title="FAMILIARES",Buin Somos Todos | Chile
 https://bst.buin.cl/0.m3u8
