@@ -45,23 +45,7 @@ http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550600.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 - 2
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",TELEFE FHD2
-http://186.148.196.82:8000/play/a016
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",TELEFE FHD3
-http://181.209.114.13:8000/play/a06c/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",TELEFE FHD4
-http://181.191.140.2:8000/play/a0it/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",TELEFE FHD5
-http://181.191.140.2:8000/play/a0hu/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",TELEFE FHD6
-http://181.191.140.229:8000/play/a0hu/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",TELEFE FHD7
-http://181.191.140.229:8000/play/a0it/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",TELEFE FHD8
-http://45.172.16.186:8000/play/a0qt/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",TELEFE FHD9
-http://45.172.16.186:8000/play/a0qt
 
 #EXTINF:0 tvg-id="ext" group-title="NOVELAS",TELEMUNDO.GT,MX,.HD2
 http://181.78.105.146:8800/play/a04t
