@@ -107,9 +107,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3
 
 
 
-
-#EXTINF:0 tvg-id="ext" group-title="NOVELAS",UNIVISION(USA).HD1
-http://200.115.120.1:8000/play/ca026/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NOVELAS",UNIVISION(USA).HD2
 http://181.78.211.237:8000/play/a00h/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NOVELAS",UNIVISION(USA).HD3
