@@ -3,7 +3,28 @@
 
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="TNT",TF1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
-
+#EXTINF:-1  group-title="PARIS 2024", Universo |US|
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/850.m3u8
+#EXTINF:-1 group-title="PARIS 2024",Canal 12 SV
+http://45.228.234.167:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="PARIS 2024",TVMAX PA
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/155916
+#EXTINF:-1 group-title="PARIS 2024",Caracol Televisión CO
+http://177.93.46.163:8000/play/a01n
+#EXTINF:-1 group-title="PARIS 2024",RCN Televisión CO
+http://177.93.46.163:8000/play/a01o
+#EXTINF:-1 group-title="PARIS 2024",Venevisión
+http://200.59.188.3:8000/play/a0ak
+#EXTINF:-1 group-title="PARIS 2024",ATV PE
+http://bgtv.xyz/play/play-777.php?tlat=61&token=asdfasdf
+#EXTINF:-1 group-title="PARIS 2024",CHV CL
+https://bgtv.xyz/play/2-777.php?idch=198
+#EXTINF:-1 group-title="PARIS 2024",TVP AR
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/210865
+#EXTINF:-1 group-title="PARIS 2024" , NBC US
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 #EXTINF:-1 tvg-id="" tvg-name="[Famosos CO] Acceso Total (L)(EXCLUSIVO)" tvg-logo="https://media3.s-nbcnews.com/i/newscms/2023_49/3631914/lcdlfs4_logo_0_1bac6dd4388eaa634f0dd4372d59c012.png" group-title="24/7 REALITY LIVE",[Famosos CO] Acceso Total (L)(EXCLUSIVO)
 http://tv.proyectox.vip:8080/vladimmunoz1/VzfrMqZCP6/378320
 #EXTINF:-1 tvg-id="" tvg-name="[Famosos CO] Baño principal (L)(EXCLUSIVO)" tvg-logo="https://media3.s-nbcnews.com/i/newscms/2023_49/3631914/lcdlfs4_logo_0_1bac6dd4388eaa634f0dd4372d59c012.png" group-title="24/7 REALITY LIVE",[Famosos CO] Baño principal (L)(EXCLUSIVO)
