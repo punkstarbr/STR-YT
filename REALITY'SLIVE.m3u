@@ -4,7 +4,42 @@
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="TNT",TF1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 
-#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="[Famosos CO] Acceso Total (L)(EXCLUSIVO)" tvg-logo="https://media3.s-nbcnews.com/i/newscms/2023_49/3631914/lcdlfs4_logo_0_1bac6dd4388eaa634f0dd4372d59c012.png" group-title="24/7 REALITY LIVE",[Famosos CO] Acceso Total (L)(EXCLUSIVO)
+http://tv.proyectox.vip:8080/vladimmunoz1/VzfrMqZCP6/378320
+#EXTINF:-1 tvg-id="" tvg-name="[Famosos CO] Baño principal (L)(EXCLUSIVO)" tvg-logo="https://media3.s-nbcnews.com/i/newscms/2023_49/3631914/lcdlfs4_logo_0_1bac6dd4388eaa634f0dd4372d59c012.png" group-title="24/7 REALITY LIVE",[Famosos CO] Baño principal (L)(EXCLUSIVO)
+http://tv.proyectox.vip:8080/vladimmunoz1/VzfrMqZCP6/378321
+#EXTINF:-1 tvg-id="" tvg-name="[Famosos CO] Cocina (L)(EXCLUSIVO)" tvg-logo="https://media3.s-nbcnews.com/i/newscms/2023_49/3631914/lcdlfs4_logo_0_1bac6dd4388eaa634f0dd4372d59c012.png" group-title="24/7 REALITY LIVE",[Famosos CO] Cocina (L)(EXCLUSIVO)
+http://tv.proyectox.vip:8080/vladimmunoz1/VzfrMqZCP6/378322
+#EXTINF:-1 tvg-id="" tvg-name="[Famosos CO] Cuarto Cielo (L)(EXCLUSIVO)" tvg-logo="https://media3.s-nbcnews.com/i/newscms/2023_49/3631914/lcdlfs4_logo_0_1bac6dd4388eaa634f0dd4372d59c012.png" group-title="24/7 REALITY LIVE",[Famosos CO] Cuarto Cielo (L)(EXCLUSIVO)
+http://tv.proyectox.vip:8080/vladimmunoz1/VzfrMqZCP6/378323
+#EXTINF:-1 tvg-id="" tvg-name="[Famosos CO] Cuarto Infierno (L)(EXCLUSIVO)" tvg-logo="https://media3.s-nbcnews.com/i/newscms/2023_49/3631914/lcdlfs4_logo_0_1bac6dd4388eaa634f0dd4372d59c012.png" group-title="24/7 REALITY LIVE",[Famosos CO] Cuarto Infierno (L)(EXCLUSIVO)
+http://tv.proyectox.vip:8080/vladimmunoz1/VzfrMqZCP6/378324
+#EXTINF:-1 tvg-id="" tvg-name="[Famosos CO] Gimnasio (L)(EXCLUSIVO)" tvg-logo="https://media3.s-nbcnews.com/i/newscms/2023_49/3631914/lcdlfs4_logo_0_1bac6dd4388eaa634f0dd4372d59c012.png" group-title="24/7 REALITY LIVE",[Famosos CO] Gimnasio (L)(EXCLUSIVO)
+http://tv.proyectox.vip:8080/vladimmunoz1/VzfrMqZCP6/378325
+#EXTINF:-1 tvg-id="" tvg-name="[Famosos CO] Sala (L)(EXCLUSIVO)" tvg-logo="https://media3.s-nbcnews.com/i/newscms/2023_49/3631914/lcdlfs4_logo_0_1bac6dd4388eaa634f0dd4372d59c012.png" group-title="24/7 REALITY LIVE",[Famosos CO] Sala (L)(EXCLUSIVO)
+http://tv.proyectox.vip:8080/vladimmunoz1/VzfrMqZCP6/378326
+#EXTINF:-1 tvg-id="" tvg-name="[Famosos CO] Toda la Casa 1 (L)(EXCLUSIVO)" tvg-logo="https://media3.s-nbcnews.com/i/newscms/2023_49/3631914/lcdlfs4_logo_0_1bac6dd4388eaa634f0dd4372d59c012.png" group-title="24/7 REALITY LIVE",[Famosos CO] Toda la Casa 1 (L)(EXCLUSIVO)
+http://tv.proyectox.vip:8080/vladimmunoz1/VzfrMqZCP6/378327
+#EXTINF:-1 tvg-id="" tvg-name="[Famosos CO] Toda la Casa 2 (L)(EXCLUSIVO)" tvg-logo="https://media3.s-nbcnews.com/i/newscms/2023_49/3631914/lcdlfs4_logo_0_1bac6dd4388eaa634f0dd4372d59c012.png" group-title="24/7 REALITY LIVE",[Famosos CO] Toda la Casa 2 (L)(EXCLUSIVO)
+http://tv.proyectox.vip:8080/vladimmunoz1/VzfrMqZCP6/378328
+#EXTINF:-1 tvg-id="" tvg-name="Cam 1 | La casa de los Famosos (L)(EXCLUSIVO)" tvg-logo="https://www.eluniverso.com/resizer/hORS5LOu3lm9Rov9mMUg-3pWUWQ=/1028x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/3UMFWQHME5CS3FOSIJFZHDFPSY.jpg" group-title="24/7 REALITY LIVE",Cam 1 | La casa de los Famosos (L)(EXCLUSIVO)
+http://tv.proyectox.vip:8080/vladimmunoz1/VzfrMqZCP6/359048
+#EXTINF:-1 tvg-id="" tvg-name="Cam 2 | La casa de los Famosos (L)(EXCLUSIVO)" tvg-logo="https://www.eluniverso.com/resizer/hORS5LOu3lm9Rov9mMUg-3pWUWQ=/1028x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/3UMFWQHME5CS3FOSIJFZHDFPSY.jpg" group-title="24/7 REALITY LIVE",Cam 2 | La casa de los Famosos (L)(EXCLUSIVO)
+http://tv.proyectox.vip:8080/vladimmunoz1/VzfrMqZCP6/359049
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano - Argentina 24Hrs" tvg-logo="https://i.imgur.com/xAPpSzS.png" group-title="24/7 REALITY LIVE",Gran Hermano - Argentina 24Hrs
+http://pro.boxdigital.org:8080/ronal827k/W32P6yBAQEJG/274146
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano - Cámara 1" tvg-logo="https://i.imgur.com/xAPpSzS.png" group-title="24/7 REALITY LIVE",Gran Hermano - Cámara 1
+http://pro.boxdigital.org:8080/ronal827k/W32P6yBAQEJG/274147
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano - Cámara 2" tvg-logo="https://i.imgur.com/xAPpSzS.png" group-title="24/7 REALITY LIVE",Gran Hermano - Cámara 2
+http://pro.boxdigital.org:8080/ronal827k/W32P6yBAQEJG/274148
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano - Cámara 3" tvg-logo="https://i.imgur.com/xAPpSzS.png" group-title="24/7 REALITY LIVE",Gran Hermano - Cámara 3
+http://pro.boxdigital.org:8080/ronal827k/W32P6yBAQEJG/274149
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano Multicamaras" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWV86mfNrbwbzas8axPLQR3_lFAxOTvYXyP9b8qECK3Mtb_0QtdyuuDg3YYItJSz21s.png" group-title="⚪ - ARGENTINA",Gran Hermano Multicamaras
+http://legiontv.online:80/ALEJANDRO1147/50464/1070186
+#EXTINF:-1 tvg-id="" tvg-name="GRan Hermano 24H" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWV86mfNrbwbzas8axPLQR3_lFAxOTvYXyP9b8qECK3Mtb_0QtdyuuDg3YYItJSz21s.png" group-title="⚪ - ARGENTINA",GRan Hermano 24H
+http://legiontv.online:80/ALEJANDRO1147/50464/1070187
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gran Hermano Chile" tvg-logo="http://boxdigital.xyz:8080/images/e3eaacaf140d6f874dfde072daf6f182.png" group-title="24/7 EXCLUSIVOS",24/7 Gran Hermano Chile
+http://pro.boxdigital.org:8080/ronal827k/W32P6yBAQEJG/207439
 
 #EXTINF:-1 tvg-chno="800" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam1)
 http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246416.m3u8
