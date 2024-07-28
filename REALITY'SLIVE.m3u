@@ -130,6 +130,8 @@ http://45.231.104.67:6102/play/a03e/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NOVELAS",UNIVISION(USA).HD7
 http://190.14.228.107:8000/play/a02p
 
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png"  group-title="RECOMENDADOS", Canal 5
+http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="Reality Show's Live",Canal 5 
 https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/465.m3u8 
 ##EXTVLCOPT:network-caching=1000 #EXTVLCOPT--http-reconnect=true 
