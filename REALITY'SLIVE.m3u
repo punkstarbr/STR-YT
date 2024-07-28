@@ -106,36 +106,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="NOVELAS",TELEMUNDO.GT,MX,.HD2
-http://181.78.105.146:8800/play/a04t
-#EXTINF:0 tvg-id="ext" group-title="NOVELAS",TELEMUNDO.GT,MX,.HD3
-http://45.190.187.226:58092/play/a02e
-#EXTINF:0 tvg-id="ext" group-title="NOVELAS",TELEMUNDO.GT,MX,.HD4
-http://38.252.238.0:6102/play/a01b/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NOVELAS",TELEMUNDO.GT,MX,.HD5
-http://38.252.238.6:6102/play/a01b/index.m3u8
 
 
-
-
-#EXTINF:0 tvg-id="ext" group-title="NOVELAS",TELEMUNDO.PE,CO,EC,VE,BO.HD1
-http://179.1.87.75:8098/play/a0fi/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NOVELAS",TELEMUNDO.PE,CO,EC,VE,BO.HD2
-http://181.78.23.26:45000/play/a01t
-#EXTINF:0 tvg-id="ext" group-title="NOVELAS",TELEMUNDO.PE,CO,EC,VE,BO.HD3
-http://191.97.15.68:8000/play/a06z/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NOVELAS",TELEMUNDO.PE,CO,EC,VE,BO.HD4
-http://181.204.79.182:8202/play/a01y
-#EXTINF:0 tvg-id="ext" group-title="NOVELAS",TELEMUNDO.PE,CO,EC,VE,BO.HD5
-http://181.78.74.226:45000/play/a01t
-#EXTINF:0 tvg-id="ext" group-title="NOVELAS",TELEMUNDO.PE,CO,EC,VE,BO.HD6
-http://45.71.252.16:8000/play/a0av/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NOVELAS",TELEMUNDO.AR,BR,PR,CL,UR.HD1
-http://38.51.234.11:8888/play/a065/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NOVELAS",TELEMUNDO.AR,BR,PR,CL,UR.HD2
-http://201.182.250.126:9999/play/a09t
-#EXTINF:0 tvg-id="ext" group-title="NOVELAS",TELEMUNDO.AR,BR,PR,CL,UR.HD3
-http://38.7.101.90:8000/play/a05x/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NOVELAS",UNIVISION(USA).HD1
 http://200.115.120.1:8000/play/ca026/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NOVELAS",UNIVISION(USA).HD2
