@@ -3,7 +3,243 @@
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/chile.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/unitedstatespremium4.xml refresh="3600"
 
-#EXTM3U
+Aqui está a lista atualizada com os canais de TV dos EUA que você forneceu. Formatei no padrão que você solicitou:
+
+```plaintext
+#EXTINF:-1 tvg-id="GREENSBORO NC WFMY" tvg-name="CBS: NC GREENSBORO WFMY" tvg-logo="" group-title="Local", CBS: NC GREENSBORO WFMY
+http://cord-cutter.net:8080/live/j3McKd/673709/121131.m3u8
+
+#EXTINF:-1 tvg-id="HIGH POINT NC WGHP" tvg-name="FOX: NC HIGH POINT WGHP" tvg-logo="" group-title="Local", FOX: NC HIGH POINT WGHP
+http://cord-cutter.net:8080/live/j3McKd/673709/121132.m3u8
+
+#EXTINF:-1 tvg-id="WINSTON-SALEM NC WXII" tvg-name="NBC: NC WINSTON-SALEM WXII" tvg-logo="" group-title="Local", NBC: NC WINSTON-SALEM WXII
+http://cord-cutter.net:8080/live/j3McKd/673709/121133.m3u8
+
+#EXTINF:-1 tvg-id="ATLANTA GA WAGA" tvg-name="FOX 5: GA ATLANTA WAGA" tvg-logo="" group-title="Local", FOX 5: GA ATLANTA WAGA
+http://cord-cutter.net:8080/live/j3McKd/673709/121135.m3u8
+
+#EXTINF:-1 tvg-id="ATLANTA GA WXIA" tvg-name="NBC: GA ATLANTA WXIA" tvg-logo="" group-title="Local", NBC: GA ATLANTA WXIA
+http://cord-cutter.net:8080/live/j3McKd/673709/121136.m3u8
+
+#EXTINF:-1 tvg-id="DALLAS TX WFAA" tvg-name="ABC 8: TX DALLAS WFAA" tvg-logo="" group-title="Local", ABC 8: TX DALLAS WFAA
+http://cord-cutter.net:8080/live/j3McKd/673709/121138.m3u8
+
+#EXTINF:-1 tvg-id="NEW YORK NY WABC" tvg-name="ABC 7: NY NEW YORK WABC" tvg-logo="" group-title="Local", ABC 7: NY NEW YORK WABC
+http://cord-cutter.net:8080/live/j3McKd/673709/121139.m3u8
+
+#EXTINF:-1 tvg-id="FORT WORTH TX KTVT" tvg-name="CBS: TX FORT WORTH KTVT" tvg-logo="" group-title="Local", CBS: TX FORT WORTH KTVT
+http://cord-cutter.net:8080/live/j3McKd/673709/121140.m3u8
+
+#EXTINF:-1 tvg-id="HOUSTON TX KTRK" tvg-name="ABC 13: TX HOUSTON KTRK" tvg-logo="" group-title="Local", ABC 13: TX HOUSTON KTRK
+http://cord-cutter.net:8080/live/j3McKd/673709/121141.m3u8
+
+#EXTINF:-1 tvg-id="SOUTH FLORIDA" tvg-name="NBC South Florida News" tvg-logo="" group-title="Local", NBC South Florida News
+http://cord-cutter.net:8080/live/j3McKd/673709/121142.m3u8
+
+#EXTINF:-1 tvg-id="WKMG" tvg-name="CBS: FL WKMG" tvg-logo="" group-title="Local", CBS: FL WKMG
+http://cord-cutter.net:8080/live/j3McKd/673709/121144.m3u8
+
+#EXTINF:-1 tvg-id="ORLANDO FL WFTV" tvg-name="ABC 9: FL ORLANDO WFTV" tvg-logo="" group-title="Local", ABC 9: FL ORLANDO WFTV
+http://cord-cutter.net:8080/live/j3McKd/673709/121145.m3u8
+
+#EXTINF:-1 tvg-id="ORLANDO FL WESH" tvg-name="NBC 2: FL ORLANDO WESH" tvg-logo="" group-title="Local", NBC 2: FL ORLANDO WESH
+http://cord-cutter.net:8080/live/j3McKd/673709/121147.m3u8
+
+#EXTINF:-1 tvg-id="SAVANNAH GA WTGS" tvg-name="FOX 28: GA SAVANNAH WTGS" tvg-logo="" group-title="Local", FOX 28: GA SAVANNAH WTGS
+http://cord-cutter.net:8080/live/j3McKd/673709/121148.m3u8
+
+#EXTINF:-1 tvg-id="PHILADELPHIA PA WPVI" tvg-name="ABC: PA PHILADELPHIA WPVI" tvg-logo="" group-title="Local", ABC: PA PHILADELPHIA WPVI
+http://cord-cutter.net:8080/live/j3McKd/673709/121149.m3u8
+
+#EXTINF:-1 tvg-id="PHILADELPHIA PA KYW" tvg-name="CBS: PA PHILADELPHIA KYW" tvg-logo="" group-title="Local", CBS: PA PHILADELPHIA KYW
+http://cord-cutter.net:8080/live/j3McKd/673709/121150.m3u8
+
+#EXTINF:-1 tvg-id="CLEVELAND OH WOIO" tvg-name="CBS 19: OH CLEVELAND WOIO" tvg-logo="" group-title="Local", CBS 19: OH CLEVELAND WOIO
+http://cord-cutter.net:8080/live/j3McKd/673709/121152.m3u8
+
+#EXTINF:-1 tvg-id="FLORIDA ALABAMA" tvg-name="Florida - Alabama" tvg-logo="" group-title="Local", Florida - Alabama
+http://cord-cutter.net:8080/live/j3McKd/673709/121154.m3u8
+
+#EXTINF:-1 tvg-id="ALABAMA WPMI" tvg-name="NBC 15: ALABAMA WPMI" tvg-logo="" group-title="Local", NBC 15: ALABAMA WPMI
+http://cord-cutter.net:8080/live/j3McKd/673709/121155.m3u8
+
+#EXTINF:-1 tvg-id="SAN ANTONIO TX KSAT" tvg-name="ABC 12: TX SAN ANTONIO KSAT" tvg-logo="" group-title="Local", ABC 12: TX SAN ANTONIO KSAT
+http://cord-cutter.net:8080/live/j3McKd/673709/121156.m3u8
+
+#EXTINF:-1 tvg-id="SAN ANTONIO TX WOAI" tvg-name="NBC 4: TX SAN ANTONIO WOAI" tvg-logo="" group-title="Local", NBC 4: TX SAN ANTONIO WOAI
+http://cord-cutter.net:8080/live/j3McKd/673709/121157.m3u8
+
+#EXTINF:-1 tvg-id="SAN ANTONIO TX KMYS" tvg-name="CW 35: TX SAN ANTONIO KMYS" tvg-logo="" group-title="Local", CW 35: TX SAN ANTONIO KMYS
+http://cord-cutter.net:8080/live/j3McKd/673709/121158.m3u8
+
+#EXTINF:-1 tvg-id="NEW ORLEANS LA WGNO" tvg-name="ABC 26: LA NEW ORLEANS WGNO" tvg-logo="" group-title="Local", ABC 26: LA NEW ORLEANS WGNO
+http://cord-cutter.net:8080/live/j3McKd/673709/121159.m3u8
+
+#EXTINF:-1 tvg-id="LOUISVILLE KY WLKY" tvg-name="CBS 32: KY LOUISVILLE WLKY" tvg-logo="" group-title="Local", CBS 32: KY LOUISVILLE WLKY
+http://cord-cutter.net:8080/live/j3McKd/673709/121160.m3u8
+
+#EXTINF:-1 tvg-id="MEMPHIS TN WATN" tvg-name="ABC 24: TN MEMPHIS WATN" tvg-logo="" group-title="Local", ABC 24: TN MEMPHIS WATN
+http://cord-cutter.net:8080/live/j3McKd/673709/121161.m3u8
+
+#EXTINF:-1 tvg-id="MEMPHIS TN WREG" tvg-name="CBS: TN MEMPHIS WREG" tvg-logo="" group-title="Local", CBS: TN MEMPHIS WREG
+http://cord-cutter.net:8080/live/j3McKd/673709/121162.m3u8
+
+#EXTINF:-1 tvg-id="MISSOULA MT KPAX" tvg-name="CW 8: MT MISSOULA KPAX" tvg-logo="" group-title="Local", CW 8: MT MISSOULA KPAX
+http://cord-cutter.net:8080/live/j3
+
+McKd/673709/121163.m3u8
+
+#EXTINF:-1 tvg-id="NASHVILLE TN WZTV" tvg-name="FOX: TN NASHVILLE WZTV" tvg-logo="" group-title="Local", FOX: TN NASHVILLE WZTV
+http://cord-cutter.net:8080/live/j3McKd/673709/121164.m3u8
+
+#EXTINF:-1 tvg-id="INDIANAPOLIS IN WRTV" tvg-name="ABC: IN INDIANAPOLIS WRTV" tvg-logo="" group-title="Local", ABC: IN INDIANAPOLIS WRTV
+http://cord-cutter.net:8080/live/j3McKd/673709/121165.m3u8
+
+#EXTINF:-1 tvg-id="INDIANAPOLIS IN WTTV" tvg-name="CBS 4: IN INDIANAPOLIS WTTV" tvg-logo="" group-title="Local", CBS 4: IN INDIANAPOLIS WTTV
+http://cord-cutter.net:8080/live/j3McKd/673709/121166.m3u8
+
+#EXTINF:-1 tvg-id="CHARLOTTE NC WBTV" tvg-name="CBS 3: NC CHARLOTTE WBTV" tvg-logo="" group-title="Local", CBS 3: NC CHARLOTTE WBTV
+http://cord-cutter.net:8080/live/j3McKd/673709/121168.m3u8
+
+#EXTINF:-1 tvg-id="PITTSBURGH PA WTAE" tvg-name="ABC 4: PA PITTSBURGH WTAE" tvg-logo="" group-title="Local", ABC 4: PA PITTSBURGH WTAE
+http://cord-cutter.net:8080/live/j3McKd/673709/121169.m3u8
+
+#EXTINF:-1 tvg-id="PITTSBURGH PA WPCW" tvg-name="CW 19: PA PITTSBURGH WPCW" tvg-logo="" group-title="Local", CW 19: PA PITTSBURGH WPCW
+http://cord-cutter.net:8080/live/j3McKd/673709/121170.m3u8
+
+#EXTINF:-1 tvg-id="PORTLAND OR KATU" tvg-name="ABC 2: OR PORTLAND KATU" tvg-logo="" group-title="Local", ABC 2: OR PORTLAND KATU
+http://cord-cutter.net:8080/live/j3McKd/673709/121171.m3u8
+
+#EXTINF:-1 tvg-id="PHOENIX AZ KPNX" tvg-name="NBC 12: AZ PHOENIX KPNX" tvg-logo="" group-title="Local", NBC 12: AZ PHOENIX KPNX
+http://cord-cutter.net:8080/live/j3McKd/673709/121172.m3u8
+
+#EXTINF:-1 tvg-id="SAN DIEGO CA KNSD" tvg-name="NBC: CA SAN DIEGO KNSD" tvg-logo="" group-title="Local", NBC: CA SAN DIEGO KNSD
+http://cord-cutter.net:8080/live/j3McKd/673709/121173.m3u8
+
+#EXTINF:-1 tvg-id="SAN DIEGO CA KSWB" tvg-name="FOX: CA SAN DIEGO KSWB" tvg-logo="" group-title="Local", FOX: CA SAN DIEGO KSWB
+http://cord-cutter.net:8080/live/j3McKd/673709/121174.m3u8
+
+#EXTINF:-1 tvg-id="SAN DIEGO CA KFMB" tvg-name="CBS: CA SAN DIEGO KFMB" tvg-logo="" group-title="Local", CBS: CA SAN DIEGO KFMB
+http://cord-cutter.net:8080/live/j3McKd/673709/121175.m3u8
+
+#EXTINF:-1 tvg-id="SAN DIEGO CA KGTV" tvg-name="ABC 10: CA SAN DIEGO KGTV" tvg-logo="" group-title="Local", ABC 10: CA SAN DIEGO KGTV
+http://cord-cutter.net:8080/live/j3McKd/673709/121176.m3u8
+
+#EXTINF:-1 tvg-id="FORT WORTH TX KTXA" tvg-name="CBS: TX FORT WORTH KTXA" tvg-logo="" group-title="Local", CBS: TX FORT WORTH KTXA
+http://cord-cutter.net:8080/live/j3McKd/673709/121238.m3u8
+
+#EXTINF:-1 tvg-id="DALLAS TX KTXA" tvg-name="TXA21: TX DALLAS KTXA" tvg-logo="" group-title="Local", TXA21: TX DALLAS KTXA
+http://cord-cutter.net:8080/live/j3McKd/673709/121239.m3u8
+
+#EXTINF:-1 tvg-id="DALLAS TX KDFI" tvg-name="MyTV: TX DALLAS KDFI" tvg-logo="" group-title="Local", MyTV: TX DALLAS KDFI
+http://cord-cutter.net:8080/live/j3McKd/673709/121240.m3u8
+
+#EXTINF:-1 tvg-id="MIAMI FL WTVJ" tvg-name="NBC: FL MIAMI WTVJ" tvg-logo="" group-title="Local", NBC: FL MIAMI WTVJ
+http://cord-cutter.net:8080/live/j3McKd/673709/121241.m3u8
+
+#EXTINF:-1 tvg-id="MIAMI FL WSVN" tvg-name="FOX: FL MIAMI WSVN" tvg-logo="" group-title="Local", FOX: FL MIAMI WSVN
+http://cord-cutter.net:8080/live/j3McKd/673709/121242.m3u8
+
+#EXTINF:-1 tvg-id="MIAMI FL WFOR" tvg-name="CBS: FL MIAMI WFOR" tvg-logo="" group-title="Local", CBS: FL MIAMI WFOR
+http://cord-cutter.net:8080/live/j3McKd/673709/121243.m3u8
+
+#EXTINF:-1 tvg-id="MIAMI FL WPLG" tvg-name="ABC 10: FL MIAMI WPLG" tvg-logo="" group-title="Local", ABC 10: FL MIAMI WPLG
+http://cord-cutter.net:8080/live/j3McKd/673709/121245.m3u8
+
+#EXTINF:-1 tvg-id="MIAMI FL WBFS" tvg-name="MY 33: FL MIAMI WBFS" tvg-logo="" group-title="Local", MY 33: FL MIAMI WBFS
+http://cord-cutter.net:8080/live/j3McKd/673709/121246.m3u8
+
+#EXTINF:-1 tvg-id="DOTHAN AL WRGX" tvg-name="NBC: AL DOTHAN WRGX" tvg-logo="" group-title="Local", NBC: AL DOTHAN WRGX
+http://cord-cutter.net:8080/live/j3McKd/673709/121591.m3u8
+
+#EXTINF:-1 tvg-id="DOTHAN AL WDFX" tvg-name="FOX: AL DOTHAN WDFX" tvg-logo="" group-title="Local", FOX: AL DOTHAN WDFX
+http://cord-cutter.net:8080/live/j3McKd/673709/121592.m3u8
+
+#EXTINF:-1 tvg-id="DOTHAN AL WDHN" tvg-name="ABC 18: AL DOTHAN WDHN" tvg-logo="" group-title="Local", ABC 18: AL DOTHAN WDHN
+http://cord-cutter.net:8080/live/j3McKd/673709/121593.m3u8
+
+#EXTINF:-1 tvg-id="WEST PALM BEACH FL WFLX" tvg-name="FOX: FL WEST PALM BEACH WFLX" tvg-logo="" group-title="Local", FOX: FL WEST PALM BEACH WFLX
+http://cord-cutter.net:8080/live/j3McKd/673709/121595.m3u8
+
+#EXTINF:-1 tvg-id="WEST PALM BEACH FL WPEC" tvg-name="CBS 12: FL WEST PALM BEACH WPEC" tvg-logo="" group-title="Local", CBS 12: FL WEST PALM BEACH WPEC
+http://cord-cutter.net:8080/live/j3McKd/673709/121596.m3u8
+
+#EXTINF:-1 tvg-id="WEST PALM BEACH FL WPBF" tvg-name="ABC 25: FL WEST PALM BEACH WPBF" tvg-logo="" group-title="Local", ABC 25: FL WEST PALM BEACH WPBF
+http://cord-cutter.net:8080/live/j3McKd/673709/121597.m3u8
+
+#EXTINF:-1 tvg-id="JOHNSTOWN PA WJAC" tvg-name="NBC 6: PA JOHNSTOWN WJAC" tvg-logo=""
+
+ group-title="Local", NBC 6: PA JOHNSTOWN WJAC
+http://cord-cutter.net:8080/live/j3McKd/673709/121664.m3u8
+
+#EXTINF:-1 tvg-id="CHICAGO IL WLS" tvg-name="ABC 7: IL CHICAGO WLS" tvg-logo="" group-title="Local", ABC 7: IL CHICAGO WLS
+http://cord-cutter.net:8080/live/j3McKd/673709/121665.m3u8
+
+#EXTINF:-1 tvg-id="BOSTON MA WCVB" tvg-name="ABC 5: MA BOSTON WCVB" tvg-logo="" group-title="Local", ABC 5: MA BOSTON WCVB
+http://cord-cutter.net:8080/live/j3McKd/673709/121745.m3u8
+
+#EXTINF:-1 tvg-id="BOSTON MA WBTS" tvg-name="NBC: MA BOSTON WBTS" tvg-logo="" group-title="Local", NBC: MA BOSTON WBTS
+http://cord-cutter.net:8080/live/j3McKd/673709/121746.m3u8
+
+#EXTINF:-1 tvg-id="CHARLESTON SC WCIV" tvg-name="ABC 4: SC CHARLESTON WCIV" tvg-logo="" group-title="Local", ABC 4: SC CHARLESTON WCIV
+http://cord-cutter.net:8080/live/j3McKd/673709/121759.m3u8
+
+#EXTINF:-1 tvg-id="FORT MYERS FL WINK" tvg-name="CBS: FL FORT MYERS WINK" tvg-logo="" group-title="Local", CBS: FL FORT MYERS WINK
+http://cord-cutter.net:8080/live/j3McKd/673709/121761.m3u8
+
+#EXTINF:-1 tvg-id="DEJAVIEW HD B" tvg-name="CA DEJAVIEW HD" tvg-logo="" group-title="Local", CA DEJAVIEW HD
+http://cord-cutter.net:8080/live/j3McKd/673709/122001.m3u8
+
+#EXTINF:-1 tvg-id="SYRACUSE NY WSYR" tvg-name="ABC 9: NY SYRACUSE WSYR" tvg-logo="" group-title="Local", ABC 9: NY SYRACUSE WSYR
+http://cord-cutter.net:8080/live/j3McKd/673709/122002.m3u8
+
+#EXTINF:-1 tvg-id="SYRACUSE NY WSYT" tvg-name="FOX: NY SYRACUSE WSYT" tvg-logo="" group-title="Local", FOX: NY SYRACUSE WSYT
+http://cord-cutter.net:8080/live/j3McKd/673709/122003.m3u8
+
+#EXTINF:-1 tvg-id="SYRACUSE NY WTVH" tvg-name="CBS: NY SYRACUSE WTVH" tvg-logo="" group-title="Local", CBS: NY SYRACUSE WTVH
+http://cord-cutter.net:8080/live/j3McKd/673709/122004.m3u8
+
+#EXTINF:-1 tvg-id="SYRACUSE NY WSTM" tvg-name="NBC 3: NY SYRACUSE WSTM" tvg-logo="" group-title="Local", NBC 3: NY SYRACUSE WSTM
+http://cord-cutter.net:8080/live/j3McKd/673709/122005.m3u8
+
+#EXTINF:-1 tvg-id="HAZARD KY WYMT-DT" tvg-name="CBS 57: KY HAZARD WYMT-DT" tvg-logo="" group-title="Local", CBS 57: KY HAZARD WYMT-DT
+http://cord-cutter.net:8080/live/j3McKd/673709/122006.m3u8
+
+#EXTINF:-1 tvg-id="LEXINGTON KY WKYT" tvg-name="CBS: KY LEXINGTON WKYT" tvg-logo="" group-title="Local", CBS: KY LEXINGTON WKYT
+http://cord-cutter.net:8080/live/j3McKd/673709/122007.m3u8
+
+#EXTINF:-1 tvg-id="MANCHESTER NH WMUR" tvg-name="ABC: NH MANCHESTER WMUR" tvg-logo="" group-title="Local", ABC: NH MANCHESTER WMUR
+http://cord-cutter.net:8080/live/j3McKd/673709/122057.m3u8
+
+#EXTINF:-1 tvg-id="CHARLESTON SC WCSC" tvg-name="CBS 5: SC CHARLESTON WCSC" tvg-logo="" group-title="Local", CBS 5: SC CHARLESTON WCSC
+http://cord-cutter.net:8080/live/j3McKd/673709/122058.m3u8
+
+#EXTINF:-1 tvg-id="ABC: NC RALEIGH WTVD" tvg-name="ABC: NC RALEIGH WTVD" tvg-logo="" group-title="Local", ABC: NC RALEIGH WTVD
+http://cord-cutter.net:8080/live/j3McKd/673709/122064.m3u8
+
+#EXTINF:-1 tvg-id="AUGUSTA GA WJBF" tvg-name="ABC 6: GA AUGUSTA WJBF" tvg-logo="" group-title="Local", ABC 6: GA AUGUSTA WJBF
+http://cord-cutter.net:8080/live/j3McKd/673709/122270.m3u8
+
+#EXTINF:-1 tvg-id="AUGUSTA GA WAGT" tvg-name="NBC: GA AUGUSTA WAGT" tvg-logo="" group-title="Local", NBC: GA AUGUSTA WAGT
+http://cord-cutter.net:8080/live/j3McKd/673709/122271.m3u8
+
+#EXTINF:-1 tvg-id="AUGUSTA GA WFXG" tvg-name="FOX: GA AUGUSTA WFXG" tvg-logo="" group-title="Local", FOX: GA AUGUSTA WFXG
+http://cord-cutter.net:8080/live/j3McKd/673709/122272.m3u8
+
+#EXTINF:-1 tvg-id="AUGUSTA GA WRDW" tvg-name="CBS: GA AUGUSTA WRDW" tvg-logo="" group-title="Local", CBS: GA AUGUSTA WRDW
+http://cord-cutter.net:8080/live/j3McKd/673709/122273.m3u8
+
+#EXTINF:-1 tvg-id="CHICAGO IL WGNDT" tvg-name="WGN 9: IL CHICAGO WGNDT" tvg-logo="" group-title="Local", WGN 9: IL CHICAGO WGNDT
+http://cord-cutter.net:8080/live/j3McKd/673709/122274.m3u8
+
+#EXTINF:-1 tvg-id="DOTHAN AL WTVY" tvg-name="CBS 4: AL DOTHAN WTVY" tvg-logo="" group-title="Local", CBS 4: AL DOTHAN WTVY
+http://cord-cutter.net:8080/live/j3McKd/673709/122275.m3u8
+
+#EXTINF:-1 tvg-id="PORTLAND ME WMTW" tvg-name="ABC 8: ME PORTLAND WMTW" tvg-logo="" group-title="Local", ABC 8: ME PORTLAND WMTW
+http://cord-cutter.net:8080/live/j3McKd/673709/122276.m3u8
+
+#EXTINF:-1 tvg-id="PORTLAND ME WGME" tvg-name="CBS: ME PORTLAND WGME" tvg-logo="" group-title="Local", CBS: ME PORTLAND WGME
+http://cord-cutter.net:8080/live/j3McKd/673709/122277.m3u8
 
 #EXTINF:-1 tvg-id="BIRMINGHAM AL WIAT" tvg-name="CBS: AL BIRMINGHAM WIAT" tvg-logo="" group-title="Local", CBS: AL BIRMINGHAM WIAT
 http://cord-cutter.net:8080/live/j3McKd/673709/120637.m3u8
