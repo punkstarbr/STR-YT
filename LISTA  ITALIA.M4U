@@ -2,6 +2,59 @@
 #EXTINF:-1 tvg-id="" group-title="Italia" tvg-logo="https://www.raiplay.it/dl/img/2016/09/1473662801274Logo-Rai3.png",🇮🇹 ●| Rai 3ᴴᴰ
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?wowzasessionid=inspiration
 
+#EXTM3U
+#EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="http://yourlogourl.com/rai1.png" group-title="Italy",RAI 1
+http://cord-cutter.net:8080/live/j3McKd/673709/212895.m3u8
+#EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="http://yourlogourl.com/rai2.png" group-title="Italy",RAI 2
+http://cord-cutter.net:8080/live/j3McKd/673709/212896.m3u8
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="http://yourlogourl.com/rai3.png" group-title="Italy",RAI 3
+http://cord-cutter.net:8080/live/j3McKd/673709/212897.m3u8
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="http://yourlogourl.com/rai4.png" group-title="Italy",RAI 4
+http://cord-cutter.net:8080/live/j3McKd/673709/212898.m3u8
+#EXTINF:-1 tvg-id="rai-italia.it" tvg-name="RAI ITALIA" tvg-logo="http://yourlogourl.com/rai-italia.png" group-title="Italy",RAI ITALIA
+http://cord-cutter.net:8080/live/j3McKd/673709/212900.m3u8
+#EXTINF:-1 tvg-id="rai-premium.it" tvg-name="RAI PREMIUM" tvg-logo="http://yourlogourl.com/rai-premium.png" group-title="Italy",RAI PREMIUM
+http://cord-cutter.net:8080/live/j3McKd/673709/212901.m3u8
+#EXTINF:-1 tvg-id="rai-movie.it" tvg-name="RAI MOVIE" tvg-logo="http://yourlogourl.com/rai-movie.png" group-title="Italy",RAI MOVIE
+http://cord-cutter.net:8080/live/j3McKd/673709/212902.m3u8
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="CANALE 5" tvg-logo="http://yourlogourl.com/canale5.png" group-title="Italy",CANALE 5
+http://cord-cutter.net:8080/live/j3McKd/673709/212903.m3u8
+#EXTINF:-1 tvg-id="mediaset-italia1.it" tvg-name="MEDIASET ITALIA 1" tvg-logo="http://yourlogourl.com/mediaset-italia1.png" group-title="Italy",MEDIASET ITALIA 1
+http://cord-cutter.net:8080/live/j3McKd/673709/212906.m3u8
+#EXTINF:-1 tvg-id="mediaset-italia2.it" tvg-name="MEDIASET ITALIA 2" tvg-logo="http://yourlogourl.com/mediaset-italia2.png" group-title="Italy",MEDIASET ITALIA 2
+http://cord-cutter.net:8080/live/j3McKd/673709/212907.m3u8
+#EXTINF:-1 tvg-id="la5.it" tvg-name="LA 5" tvg-logo="http://yourlogourl.com/la5.png" group-title="Italy",LA 5
+http://cord-cutter.net:8080/live/j3McKd/673709/212911.m3u8
+#EXTINF:-1 tvg-id="rai-news24.it" tvg-name="RAI NEWS 24" tvg-logo="http://yourlogourl.com/rai-news24.png" group-title="Italy",RAI NEWS 24
+http://cord-cutter.net:8080/live/j3McKd/673709/212913.m3u8
+#EXTINF:-1 tvg-id="tgcom24.it" tvg-name="TGCOM 24" tvg-logo="http://yourlogourl.com/tgcom24.png" group-title="Italy",TGCOM 24
+http://cord-cutter.net:8080/live/j3McKd/673709/212915.m3u8
+#EXTINF:-1 tvg-id="tg-la7.it" tvg-name="TG LA 7" tvg-logo="http://yourlogourl.com/tg-la7.png" group-title="Italy",TG LA 7
+http://cord-cutter.net:8080/live/j3McKd/673709/212916.m3u8
+#EXTINF:-1 tvg-id="rete4.it" tvg-name="RETE 4" tvg-logo="http://yourlogourl.com/rete4.png" group-title="Italy",RETE 4
+http://cord-cutter.net:8080/live/j3McKd/673709/212920.m3u8
+#EXTINF:-1 tvg-id="real-time.it" tvg-name="REAL TIME" tvg-logo="http://yourlogourl.com/real-time.png" group-title="Italy",REAL TIME
+http://cord-cutter.net:8080/live/j3McKd/673709/212923.m3u8
+#EXTINF:-1 tvg-id="rai-gulp.it" tvg-name="RAI GULP" tvg-logo="http://yourlogourl.com/rai-gulp.png" group-title="Italy",RAI GULP
+http://cord-cutter.net:8080/live/j3McKd/673709/212925.m3u8
+#EXTINF:-1 tvg-id="rai-yoyo.it" tvg-name="RAI YOYO" tvg-logo="http://yourlogourl.com/rai-yoyo.png" group-title="Italy",RAI YOYO
+http://cord-cutter.net:8080/live/j3McKd/673709/212926.m3u8
+#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="http://yourlogourl.com/cartoonito.png" group-title="Italy",CARTOONITO
+http://cord-cutter.net:8080/live/j3McKd/673709/212928.m3u8
+#EXTINF:-1 tvg-id="frisbee.it" tvg-name="FRISBEE" tvg-logo="http://yourlogourl.com/frisbee.png" group-title="Italy",FRISBEE
+http://cord-cutter.net:8080/live/j3McKd/673709/212929.m3u8
+#EXTINF:-1 tvg-id="super.it" tvg-name="SUPER!" tvg-logo="http://yourlogourl.com/super.png" group-title="Italy",SUPER!
+http://cord-cutter.net:8080/live/j3McKd/673709/212931.m3u8
+#EXTINF:-1 tvg-id="rai-storia.it" tvg-name="RAI STORIA" tvg-logo="http://yourlogourl.com/rai-storia.png" group-title="Italy",RAI STORIA
+http://cord-cutter.net:8080/live/j3McKd/673709/212933.m3u8
+#EXTINF:-1 tvg-id="rai-scuola.it" tvg-name="RAI SCUOLA" tvg-logo="http://yourlogourl.com/rai-scuola.png" group-title="Italy",RAI SCUOLA
+http://cord-cutter.net:8080/live/j3McKd/673709/212934.m3u8
+#EXTINF:-1 tvg-id="fishing-tv.it" tvg-name="FISHING TV" tvg-logo="http://yourlogourl.com/fishing-tv.png" group-title="Italy",FISHING TV
+http://cord-cutter.net:8080/live/j3McKd/673709/212940.m3u8
+#EXTINF:-1 tvg-id="focus.it" tvg-name="FOCUS" tvg-logo="http://yourlogourl.com/focus.png" group-title="Italy",FOCUS
+http://cord-cutter.net:8080/live/j3McKd/673709/212941.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Videolina (Sardegna) (404p) [Not 24/7]
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Videolina
