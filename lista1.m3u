@@ -4,6 +4,9 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/chile.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/unitedstatespremium4.xml refresh="3600"
 
 
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://creativecloud.adobe.com/content/dam/2017/8/evolution-of-nbc-logo/article-marquee.jpg",NBC 7 San Diego
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+
 #EXTINF:-1 tvg-id="ABCEast.us" tvg-logo="https://iili.io/JmoUd6g.png" group-title="USA",ABC East
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
  
