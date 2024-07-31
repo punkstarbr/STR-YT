@@ -1,7 +1,11 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_lite.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
 
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/chile.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/unitedstatespremium4.xml refresh="3600"
+
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/chile.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/unitedstatespremium3.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/unitedstatespremium4.xml"
 
 #EXTINF:-1 tvg-id="JACKSON MS WJTV" tvg-name="CBS: MS JACKSON WJTV" tvg-logo="" group-title="Local", CBS: MS JACKSON WJTV
 http://cord-cutter.net:8080/live/j3McKd/673709/135291.m3u8
