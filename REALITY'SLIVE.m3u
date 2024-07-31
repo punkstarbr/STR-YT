@@ -1,15 +1,18 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png", 🇮🇹 RAI 1 ⓟ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png",RAI 1
 http://154.54.220.67:34780/play/a046
-#http://45.65.112.49:8000/play/a078
-#http://190.94.186.158:9981/play/a053/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png",RAI 1
+http://45.65.112.49:8000/play/a078
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png",RAI 1
+http://190.94.186.158:9981/play/a053/index.m3u8
 
-#EXTINF:-1 tvg-logo="", 🇮🇹 RAI 2 ⓟ
+#EXTINF:-1 tvg-logo="",RAI 2
 http://154.54.220.67:34780/play/a047
-#http://45.65.112.49:8000/play/a079
+#EXTINF:-1 tvg-logo="",RAI 2
+http://45.65.112.49:8000/play/a079
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/250px-Rai_3_-_Logo_2016.svg.png", 🇮🇹 RAI 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/250px-Rai_3_-_Logo_2016.svg.png",RAI 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 HD
