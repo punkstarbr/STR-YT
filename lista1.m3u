@@ -128,9 +128,7 @@ http://cord-cutter.net:8080/live/j3McKd/673709/121596.m3u8
 #EXTINF:-1 tvg-id="WEST PALM BEACH FL WPBF" tvg-name="ABC 25: FL WEST PALM BEACH WPBF" tvg-logo="" group-title="Local", ABC 25: FL WEST PALM BEACH WPBF
 http://cord-cutter.net:8080/live/j3McKd/673709/121597.m3u8
 
-#EXTINF:-1 tvg-id="JOHNSTOWN PA WJAC" tvg-name="NBC 6: PA JOHNSTOWN WJAC" tvg-logo=""
-
- group-title="Local", NBC 6: PA JOHNSTOWN WJAC
+#EXTINF:-1 tvg-id="JOHNSTOWN PA WJAC" tvg-name="NBC 6: PA JOHNSTOWN WJAC" tvg-logo="" group-title="Local", NBC 6: PA JOHNSTOWN WJAC
 http://cord-cutter.net:8080/live/j3McKd/673709/121664.m3u8
 
 #EXTINF:-1 tvg-id="CHICAGO IL WLS" tvg-name="ABC 7: IL CHICAGO WLS" tvg-logo="" group-title="Local", ABC 7: IL CHICAGO WLS
