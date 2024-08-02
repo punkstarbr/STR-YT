@@ -8,32 +8,7 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/unitedstatespremium4.xml"
 
 
-#EXTINF:-1 tvg-id="DEJAVIEW HD B" tvg-name="CA DEJAVIEW HD" tvg-logo="" group-title="Local", CA DEJAVIEW HD
-http://cord-cutter.net:8080/live/j3McKd/673709/122001.m3u8
 
-#EXTINF:-1 tvg-id="SYRACUSE NY WSYR" tvg-name="ABC 9: NY SYRACUSE WSYR" tvg-logo="" group-title="Local", ABC 9: NY SYRACUSE WSYR
-http://cord-cutter.net:8080/live/j3McKd/673709/122002.m3u8
-
-#EXTINF:-1 tvg-id="SYRACUSE NY WSYT" tvg-name="FOX: NY SYRACUSE WSYT" tvg-logo="" group-title="Local", FOX: NY SYRACUSE WSYT
-http://cord-cutter.net:8080/live/j3McKd/673709/122003.m3u8
-
-#EXTINF:-1 tvg-id="SYRACUSE NY WTVH" tvg-name="CBS: NY SYRACUSE WTVH" tvg-logo="" group-title="Local", CBS: NY SYRACUSE WTVH
-http://cord-cutter.net:8080/live/j3McKd/673709/122004.m3u8
-
-#EXTINF:-1 tvg-id="SYRACUSE NY WSTM" tvg-name="NBC 3: NY SYRACUSE WSTM" tvg-logo="" group-title="Local", NBC 3: NY SYRACUSE WSTM
-http://cord-cutter.net:8080/live/j3McKd/673709/122005.m3u8
-
-#EXTINF:-1 tvg-id="HAZARD KY WYMT-DT" tvg-name="CBS 57: KY HAZARD WYMT-DT" tvg-logo="" group-title="Local", CBS 57: KY HAZARD WYMT-DT
-http://cord-cutter.net:8080/live/j3McKd/673709/122006.m3u8
-
-#EXTINF:-1 tvg-id="LEXINGTON KY WKYT" tvg-name="CBS: KY LEXINGTON WKYT" tvg-logo="" group-title="Local", CBS: KY LEXINGTON WKYT
-http://cord-cutter.net:8080/live/j3McKd/673709/122007.m3u8
-
-#EXTINF:-1 tvg-id="MANCHESTER NH WMUR" tvg-name="ABC: NH MANCHESTER WMUR" tvg-logo="" group-title="Local", ABC: NH MANCHESTER WMUR
-http://cord-cutter.net:8080/live/j3McKd/673709/122057.m3u8
-
-#EXTINF:-1 tvg-id="CHARLESTON SC WCSC" tvg-name="CBS 5: SC CHARLESTON WCSC" tvg-logo="" group-title="Local", CBS 5: SC CHARLESTON WCSC
-http://cord-cutter.net:8080/live/j3McKd/673709/122058.m3u8
 
 #EXTINF:-1 tvg-id="ABC: NC RALEIGH WTVD" tvg-name="ABC: NC RALEIGH WTVD" tvg-logo="" group-title="Local", ABC: NC RALEIGH WTVD
 http://cord-cutter.net:8080/live/j3McKd/673709/122064.m3u8
