@@ -1,6 +1,15 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
 
 
+#EXTINF:-1 tvg-id="BOSTON MA WBTS" tvg-name="NBC: MA BOSTON WBTS" tvg-logo="" group-title="Local", NBC: MA BOSTON WBTS
+http://cord-cutter.net:8080/live/j3McKd/673709/121746.m3u8
+
+#EXTINF:-1 tvg-id="CHARLESTON SC WCIV" tvg-name="ABC 4: SC CHARLESTON WCIV" tvg-logo="" group-title="Local", ABC 4: SC CHARLESTON WCIV
+http://cord-cutter.net:8080/live/j3McKd/673709/121759.m3u8
+
+#EXTINF:-1 tvg-id="FORT MYERS FL WINK" tvg-name="CBS: FL FORT MYERS WINK" tvg-logo="" group-title="Local", CBS: FL FORT MYERS WINK
+http://cord-cutter.net:8080/live/j3McKd/673709/121761.m3u8
+
 #EXTINF:-1 tvg-id="PHILADELPHIA PA WPVI" tvg-name="ABC: PA PHILADELPHIA WPVI" tvg-logo="" group-title="Local", ABC: PA PHILADELPHIA WPVI
 http://cord-cutter.net:8080/live/j3McKd/673709/121149.m3u8
 
