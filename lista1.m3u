@@ -689,7 +689,8 @@ http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://tvconnect.us/wp-content/uploads/2022/05/logotipo-tvc.webp", CONNECT USA
 https://5a57bda70564a.streamlock.net/tvconnect/tvconnect.sdp/chunklist_w739880834.m3u8
 
-
+#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",TELEMUNDO 2
+https://dumdumbullet.com/1011454237/bHg8wYxrId/2000011149
 
 
 #EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",TELEMUNDO 3
@@ -701,7 +702,7 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25340
 
 
 #EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", UNIVISION 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25337
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u8
 
 
 #EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", NEM IDEIA DO QUE É
@@ -878,7 +879,6 @@ https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 #EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/vivo.com.br.channels.xml"
 #EXTM3U x-tvg-url="http://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/hagah.com.br.channels.xml"
 #EXTM3U x-tvg-url="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
-#EXTM3U x-tvg-url="http://epg.liveiptv.net/epg.xml"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mudstein/XML/main/TIZENiptvchile.xml"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/bitsbb01/webgrabplus-siteinipack/master/siteini.pack/Brazil/clarotv.com.br.channels.xml"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/bitsbb01/webgrabplus-siteinipack/master/siteini.pack/Brazil/redeglobo.globo.com.channels.xml"
@@ -1072,26 +1072,6 @@ https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="CANAIS ABERTOS" tvg-logo="N/A",TV Brasil Central
 https://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1  tvg-id="RedeMeioNorte.br" group-title="CANAIS ABERTOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyxMkERnpmNOn07MVanJLvtOeYRrpgh1bpaQ&usqp=CAU",Rede Meio Norte HD
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:-1  tvg-id="RBATV.br" group-title="CANAIS ABERTOS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/df0c35517ab2f2e9e6e63c1808730694.webp",Band Belém
@@ -1100,8 +1080,7 @@ https://streaming.gruporba.com.br/rba.m3u8
 
 
 
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",CNN International HD (ENG)
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 
 
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TV CULTURA SP HD
