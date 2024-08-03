@@ -86,6 +86,20 @@ http://cord-cutter.net:8080/live/j3McKd/673709/120685.m3u8
 #EXTINF:-1 tvg-id="NEW YORK NY WLIW" tvg-name="PBS: NY NEW YORK WLIW" tvg-logo="" group-title="Local", PBS: NY NEW YORK WLIW
 http://cord-cutter.net:8080/live/j3McKd/673709/120686.m3u8
 
+#EXTINF:-1 tvg-id="nbcwbre.us" tvg-name="US NBC 28 (WBRE) Wilkes Barre (H)" tvg-logo="https://pbs.twimg.com/profile_images/1210277525818986496/ddmz2fyp_400x400.jpg" group-title="USA",US NBC 28 (WBRE) Wilkes Barre (H)
+https://dumdumbullet.com/1011454237/bHg8wYxrId/7999216642
+#EXTINF:-1 tvg-id="" tvg-name="US CBS 3 (WSHM) Springfield (H)" tvg-logo="" group-title="USA",US CBS 3 (WSHM) Springfield (H)
+https://dumdumbullet.com/1011454237/bHg8wYxrId/79992123431
+#EXTINF:-1 tvg-id="" tvg-name="US ABC 22 (WJCL) Savannah (H)" tvg-logo="" group-title="USA",US ABC 22 (WJCL) Savannah (H)
+https://dumdumbullet.com/1011454237/bHg8wYxrId/79992123643
+
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR TF1 HD (P)" tvg-logo="http://fanc.tmsimg.com/assets/s24462_ll_h3_aa.png" group-title="United States",FR TF1 HD (P)
+https://dumdumbullet.com/1011454237/bHg8wYxrId/79992130715
+#EXTINF:-1 tvg-id="FR2" tvg-name="FR France 2 HD (P)" tvg-logo="http://fanc.tmsimg.com/assets/s24463_ll_h3_aa.png" group-title="United States",FR France 2 HD (P)
+#EXTGRP:United States
+https://dumdumbullet.com/1011454237/bHg8wYxrId/79992130575
+#EXTINF:-1 tvg-id="FR3FR" tvg-name="FR France 3 HD (P)" tvg-logo="http://fanc.tmsimg.com/assets/s105763_ll_h3_aa.png" group-title="United States",FR France 3 HD (P)
+https://dumdumbullet.com/1011454237/bHg8wYxrId/79992130577
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://creativecloud.adobe.com/content/dam/2017/8/evolution-of-nbc-logo/article-marquee.jpg",NBC 7 San Diego
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
