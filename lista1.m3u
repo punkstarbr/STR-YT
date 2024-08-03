@@ -7,6 +7,8 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/unitedstatespremium3.xml"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/unitedstatespremium4.xml"
 
+#EXTINF:-1 tvg-id="TELECIN" tvg-name="ES Telecinco FHD  (P)" tvg-logo="http://fanc.tmsimg.com/assets/s54015_ll_h3_aa.png" group-title="ESP Spain",ES Telecinco FHD  (P)
+https://dumdumbullet.com/1011454237/bHg8wYxrId/7999219547
 
 #EXTINF:-1 tvg-id="COLORADO SPRINGS CO KXRM" tvg-name="FOX: COLORADO SPRINGS CO KXRM" tvg-logo="" group-title="Local", FOX: COLORADO SPRINGS CO KXRM
 http://cord-cutter.net:8080/live/j3McKd/673709/120660.m3u8
@@ -387,13 +389,13 @@ https://bit.ly/3WBbnR1?/manifest.m3u8
 https://raievent7-live.akamaized.net/hls/live/619186/raievent7/raievent7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RAI1.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" group-title="Italiano" tvg-chno="501",RAI 1 HD
-http://livetv.ktv.zone/130/play.m3u8
+https://dumdumbullet.com/1011454237/bHg8wYxrId/79992114898
 
 #EXTINF:-1 tvg-id="RAI2.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_2.png" group-title="Italiano" tvg-chno="502",RAI 2 HD
-http://livetv.ktv.zone/131/play.m3u8
+https://dumdumbullet.com/1011454237/bHg8wYxrId/79992114900
 
 #EXTINF:-1 tvg-id="RAI3.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_3.png" group-title="Italiano" tvg-chno="503",RAI 3 HD
-http://livetv.ktv.zone/132/play.m3u8
+https://dumdumbullet.com/1011454237/bHg8wYxrId/79992114901
 
 #EXTINF:-1 tvg-id="La7.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7.png" group-title="Italiano" tvg-chno="507",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
