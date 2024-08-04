@@ -1,8 +1,36 @@
 #EXTM3U
+#EXTINF:-1 channel-id="pluto-64a766cd798def0008734695" tvg-id="64a766cd798def0008734695" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG.png" tvg-chno="1830" group-title="Reality Show's Live", Big Brother Quad View
+https://jmp2.uk/PlutoTV/64a766cd798def0008734695-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64a765c04ea480000823917a" tvg-id="64a765c04ea480000823917a" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG.png" tvg-chno="1835" group-title="Reality Show's Live", Big Brother Camera 1
+https://jmp2.uk/PlutoTV/64a765c04ea480000823917a-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64a765fb798def0008734632" tvg-id="64a765fb798def0008734632" tvg-logo="https://images.pluto.tv/channels/64a765fb798def0008734632/colorLogoPNG.png" tvg-chno="1840" group-title="Reality Show's Live", Big Brother Camera 2
+https://jmp2.uk/PlutoTV/64a7665b902f2300085d7901-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64a7665b902f2300085d7901" tvg-id="64a7665b902f2300085d7901" tvg-logo="https://images.pluto.tv/channels/64a7665b902f2300085d7901/colorLogoPNG.png" tvg-chno="1845" group-title="Reality Show's Live", Big Brother Camera 3
+https://jmp2.uk/PlutoTV/64a765fb798def0008734632-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64a766a794635e0008626601" tvg-id="64a766a794635e0008626601" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/colorLogoPNG.png" tvg-chno="1850" group-title="Reality Show's Live", Big Brother Camera 4
+https://jmp2.uk/PlutoTV/64a766a794635e0008626601-alt.m3u8
+
+
+
+
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",NOTÍCIAS TELEMUNDO - SERVIÇO
+https://telemundolive.akamaized.net/hls/live/2093200/NEWS105/master_main105.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737" tvg-id="" group-title="PARIS 2024",NBC USA
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
-
+#EXTINF:-1 group-title="Bics Extra Latino", CO: RCN
+http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181770
+#EXTINF:-1,CHV
+http://45.71.252.16:8000/play/a09y/index.m3u8
+#EXTINF:-1,CHV HD
+http://45.71.252.16:8000/play/a0ib/index.m3u8
 
 
 #EXTINF:-1 group-title="PARIS 2024" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC JAPAN
