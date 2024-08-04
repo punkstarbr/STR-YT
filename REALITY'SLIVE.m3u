@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam1)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246416.m3u8
+
+#EXTINF:-1 tvg-chno="801" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam2)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246414.m3u8
+
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam3)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246413.m3u8
+
+#EXTINF:-1 tvg-chno="803" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam4)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246412.m3u8
+
+#EXTINF:-1 tvg-chno="804" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Multicamaras)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246415.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 - 2
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+
 #EXTINF:-1 channel-id="pluto-64a766cd798def0008734695" tvg-id="64a766cd798def0008734695" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG.png" tvg-chno="1830" group-title="Reality Show's Live", Big Brother Quad View
 https://jmp2.uk/PlutoTV/64a766cd798def0008734695-alt.m3u8
 
