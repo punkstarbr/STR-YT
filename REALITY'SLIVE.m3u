@@ -306,7 +306,10 @@ https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/210865
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
 #EXTINF:-1 group-title="PARIS 2024" tvg-id="NHKBS4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png",NHK BS 4K
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
-
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS1_logo.png" group-title="PARIS 2024",RTS 1
+http://bntvs.com:2052/mojvps/svWEB7CXPT/1
+#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS2_logo.png" group-title="PARIS 2024",RTS 2
+http://bntvs.com:2052/mojvps/svWEB7CXPT/2
 
 
 #EXTINF:-1 tvg-id="pink-reality" tvg-name="Pink Reality" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkReality.png" group-title="Reality Show's Live",Farma Sérvia
