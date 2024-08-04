@@ -65,6 +65,9 @@ http://vipphyla.top:8080/VIP019169419870119/91702539200735/128944
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",NOTÍCIAS TELEMUNDO - SERVIÇO
 https://telemundolive.akamaized.net/hls/live/2093200/NEWS105/master_main105.m3u8
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Mp5fMxR/Canal57.png" group-title="Reality Show's Live" user-agent="iPhone", Canal 57 Miami
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737" tvg-id="" group-title="PARIS 2024",NBC USA
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
