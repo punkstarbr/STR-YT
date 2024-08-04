@@ -1,4 +1,205 @@
 #EXTM3U
+#EXTM3U 
+#EXTINF:-1 tvg-chno="805" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (24-7)
+http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550608.m3u8
+
+#EXTINF:-1 tvg-chno="806" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (Acceso Total)
+http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550607.m3u8
+
+#EXTINF:-1 tvg-chno="807" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (Cuarto Mar)
+http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550602.m3u8
+
+#EXTINF:-1 tvg-chno="808" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (Cuarto Tierra)
+http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550603.m3u8
+
+#EXTINF:-1 tvg-chno="809" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (Cocina)
+http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550606.m3u8
+
+#EXTINF:-1 tvg-chno="810" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (Sala)
+http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550605.m3u8
+
+#EXTINF:-1 tvg-chno="811" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (Baño)
+http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550601.m3u8
+
+#EXTINF:-1 tvg-chno="812" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (Multicamaras)
+http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK (ITVX) World Of MorseUK (ITVX) Celebrity Big Brother: Live Stream" tvg-logo="" group-title="United Kingdom",Big Brother UK
+https://dumdumbullet.com/1011454237/bHg8wYxrId/799921107223
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png",RAI 1
+http://154.54.220.67:34780/play/a046
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png",RAI 1
+http://45.65.112.49:8000/play/a078
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png",RAI 1
+http://190.94.186.158:9981/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-logo="",RAI 2
+http://154.54.220.67:34780/play/a047
+#EXTINF:-1 tvg-logo="",RAI 2
+http://45.65.112.49:8000/play/a079
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/250px-Rai_3_-_Logo_2016.svg.png",RAI 3
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="MEXICO", CANAL 5 
+http://170.82.37.21:8000/play/a02h/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Entretenimiento", Canal 5 - 2
+http://181.78.105.146:2000/play/a038/index.m3u8
+
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/4d/Logo_cn5.png/revision/latest?cb=20150519224125&path-prefix=es",CANAL 5 - 3
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="MEXICO",CANAL 5 - 4
+http://45.228.234.167:8000/play/a0ll/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 - 5
+http://00322.xyz:8000/live/saabj84/CNGUPDY6RA/129037.ts
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/YL1K2C5/Canal-5mx.png" group-title="Entretenimiento",CANAL 5 - 6
+http://alfatv.lat:2082/Jk12/KnhcZNttJawM/314687
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Cam 1 | La casa de los Famosos (L)(EXCLUSIVO)" tvg-logo="https://www.eluniverso.com/resizer/hORS5LOu3lm9Rov9mMUg-3pWUWQ=/1028x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/3UMFWQHME5CS3FOSIJFZHDFPSY.jpg" group-title="24/7 REALITY LIVE",Cam 1 | La casa de los Famosos (L)(EXCLUSIVO)
+http://tv.proyectox.vip:8080/vladimmunoz1/VzfrMqZCP6/359048
+#EXTINF:-1 tvg-id="" tvg-name="Cam 2 | La casa de los Famosos (L)(EXCLUSIVO)" tvg-logo="https://www.eluniverso.com/resizer/hORS5LOu3lm9Rov9mMUg-3pWUWQ=/1028x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/3UMFWQHME5CS3FOSIJFZHDFPSY.jpg" group-title="24/7 REALITY LIVE",Cam 2 | La casa de los Famosos (L)(EXCLUSIVO)
+http://tv.proyectox.vip:8080/vladimmunoz1/VzfrMqZCP6/359049
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano - Argentina 24Hrs" tvg-logo="https://i.imgur.com/xAPpSzS.png" group-title="24/7 REALITY LIVE",Gran Hermano - Argentina 24Hrs
+http://pro.boxdigital.org:8080/ronal827k/W32P6yBAQEJG/274146
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano - Cámara 1" tvg-logo="https://i.imgur.com/xAPpSzS.png" group-title="24/7 REALITY LIVE",Gran Hermano - Cámara 1
+http://pro.boxdigital.org:8080/ronal827k/W32P6yBAQEJG/274147
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano - Cámara 2" tvg-logo="https://i.imgur.com/xAPpSzS.png" group-title="24/7 REALITY LIVE",Gran Hermano - Cámara 2
+http://pro.boxdigital.org:8080/ronal827k/W32P6yBAQEJG/274148
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano - Cámara 3" tvg-logo="https://i.imgur.com/xAPpSzS.png" group-title="24/7 REALITY LIVE",Gran Hermano - Cámara 3
+http://pro.boxdigital.org:8080/ronal827k/W32P6yBAQEJG/274149
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano Multicamaras" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWV86mfNrbwbzas8axPLQR3_lFAxOTvYXyP9b8qECK3Mtb_0QtdyuuDg3YYItJSz21s.png" group-title="⚪ - ARGENTINA",Gran Hermano Multicamaras
+http://legiontv.online:80/ALEJANDRO1147/50464/1070186
+#EXTINF:-1 tvg-id="" tvg-name="GRan Hermano 24H" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWV86mfNrbwbzas8axPLQR3_lFAxOTvYXyP9b8qECK3Mtb_0QtdyuuDg3YYItJSz21s.png" group-title="⚪ - ARGENTINA",GRan Hermano 24H
+http://legiontv.online:80/ALEJANDRO1147/50464/1070187
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gran Hermano Chile" tvg-logo="http://boxdigital.xyz:8080/images/e3eaacaf140d6f874dfde072daf6f182.png" group-title="24/7 EXCLUSIVOS",24/7 Gran Hermano Chile
+http://pro.boxdigital.org:8080/ronal827k/W32P6yBAQEJG/207439
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="NOVELAS",UNIVISION(USA).HD2
+http://181.78.211.237:8000/play/a00h/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOVELAS",UNIVISION(USA).HD3
+http://190.131.219.67:8001/play/a00j/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOVELAS",UNIVISION(USA).HD4
+http://181.78.211.237:8000/play/a00h/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOVELAS",UNIVISION(USA).HD5
+http://45.171.64.180:8000/play/a05c/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOVELAS",UNIVISION(USA).HD6
+http://45.231.104.67:6102/play/a03e/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png"  group-title="RECOMENDADOS", Canal 5
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="Reality Show's Live",Canal 5 
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/465.m3u8 
+##EXTVLCOPT:network-caching=1000 #EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Reality Show's Live",Canal 5
+http://181.78.106.127:9000/play/ca012/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" group-title="Reality Show's Live",Canal 5
+http://38.7.24.161:8000/play/a028
+
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Reality Show's Live",Canal 5 - 2
+http://38.7.24.161:8000/play/a028
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Reality Show's Live",Canal 5 - 3
+http://45.68.35.218:4001/play/a00h/index.m3u8
+
+
+
+
+
+#EXTINF:-1 channel-id="samsung-USBC4400020H7" tvg-id="USBC4400020H7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400020H7_20230322T000014SQUARE.png_20230322000014.png" group-title="NEWS WORLD", Telemundo California
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+
+
+
+
+#EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
+https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/141621315-19d48d33-4056-4cd1-98bb-aa02ef330bc5.jpg",GRANDE FRATELLO 1 (VPN)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/161234855-c2534e23-ece4-4522-a64f-7458d0b81235.jpg",GRANDE FRATELLO 2 (VPN)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/161437008-47102c5b-a276-4ba1-9534-1cdc26500b30.jpg",GRANDE FRATELLO 3 (VPN)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
+
+
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/162147028-be9e6411-6b5b-44d3-b135-e0109797cc09.jpg",GRANDE FRATELLO EXTRA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/162147028-be9e6411-6b5b-44d3-b135-e0109797cc09.jpg",GRANDE FRATELLO EXTRA - BACKUP
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/162147028-be9e6411-6b5b-44d3-b135-e0109797cc09.jpg",GRANDE FRATELLO EXTRA - BACKUP
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live03-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/11/202629434-8966f8cd-169e-4290-ba01-6f097053d833.jpg",GRANDE FRATELLO PARTY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(b1)/index.m3u8
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/11/202629434-8966f8cd-169e-4290-ba01-6f097053d833.jpg",GRANDE FRATELLO PARTY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/02/bc/d572397f4880876b55d384bf49ef/lcdlf.png" group-title="Reality Show's Live", La casa de los famosos MX 24/7
 https://acceso.radiosportstv.online:3807/stream/play.m3u8
 
