@@ -1,28 +1,5 @@
 #EXTM3U
-#EXTM3U 
-#EXTINF:-1 tvg-chno="805" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (24-7)
-http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550608.m3u8
 
-#EXTINF:-1 tvg-chno="806" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (Acceso Total)
-http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550607.m3u8
-
-#EXTINF:-1 tvg-chno="807" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (Cuarto Mar)
-http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550602.m3u8
-
-#EXTINF:-1 tvg-chno="808" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (Cuarto Tierra)
-http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550603.m3u8
-
-#EXTINF:-1 tvg-chno="809" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (Cocina)
-http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550606.m3u8
-
-#EXTINF:-1 tvg-chno="810" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (Sala)
-http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550605.m3u8
-
-#EXTINF:-1 tvg-chno="811" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (Baño)
-http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550601.m3u8
-
-#EXTINF:-1 tvg-chno="812" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (Multicamaras)
-http://home-playtv.com:8080/live/TomasLobo31/RGYNP/550600.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UK (ITVX) World Of MorseUK (ITVX) Celebrity Big Brother: Live Stream" tvg-logo="" group-title="United Kingdom",Big Brother UK
 https://dumdumbullet.com/1011454237/bHg8wYxrId/799921107223
 
