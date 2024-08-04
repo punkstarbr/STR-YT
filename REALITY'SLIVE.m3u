@@ -267,7 +267,17 @@ https://telemundolive.akamaized.net/hls/live/2093200/NEWS105/master_main105.m3u8
 http://bgtv.xyz/play/play-777.php?tlat=48&token=asdfasdf
 #EXTINF:-1 group-title="PARIS 2024" tvg-logo="https://media.telemundo51.com/2024/04/WSCV_Rings_On_Dark@3x.png?fit=330%2C120&quality=85&strip=all&w=110&h=40",Telemundo Miami 2
 http://170.82.37.21:8000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="PARIS 2024", TyC SPORT 
+http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=100785&extension=ts
+#EXTINF:-1 tvg-id="La 1" tvg-logo="" group-title="PARIS 2024", La 1
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
+#EXTINF:-1 tvg-id="La 1" tvg-logo="" group-title="PARIS 2024", La 1 - 2
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20231213T103944SQUARE.png_20231213103945.png" group-title="PARIS 2024" tvg-chno="21",[2.2] Tdp TVE
+https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20240117T032718SQUARE.png_20240117032719.png" group-title="PARIS 2024" tvg-chno="2",[2] La 2
+https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Mp5fMxR/Canal57.png" group-title="Reality Show's Live" user-agent="iPhone", Canal 57 Miami
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
