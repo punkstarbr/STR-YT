@@ -14,8 +14,7 @@ http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246412.m3u8
 #EXTINF:-1 tvg-chno="804" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Multicamaras)
 http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246415.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 - 2
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+
 
 #EXTINF:-1 channel-id="pluto-64a766cd798def0008734695" tvg-id="64a766cd798def0008734695" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG.png" tvg-chno="1830" group-title="Reality Show's Live", Big Brother Quad View
 https://jmp2.uk/PlutoTV/64a766cd798def0008734695-alt.m3u8
@@ -32,7 +31,18 @@ https://jmp2.uk/PlutoTV/64a765fb798def0008734632-alt.m3u8
 #EXTINF:-1 channel-id="pluto-64a766a794635e0008626601" tvg-id="64a766a794635e0008626601" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/colorLogoPNG.png" tvg-chno="1850" group-title="Reality Show's Live", Big Brother Camera 4
 https://jmp2.uk/PlutoTV/64a766a794635e0008626601-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 - 2
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 
+#EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="FR",TF1
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
+#EXTINF:-1 tvg-id="",TF1 - 2
+http://212.102.60.80/TF1/index.m3u8
+
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: TF1" tvg-logo="https://docdog.top/logo/countries/france/tf1-fr.png" group-title="FR",TF1
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/419
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: TF1" tvg-logo="https://docdog.top/logo/countries/france/tf1-fr.png" group-title="FR",TF1
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/128944
 
 
 
