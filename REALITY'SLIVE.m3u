@@ -244,13 +244,13 @@ https://dumdumbullet.com/1011454237/bHg8wYxrId/79992128060
 
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="FR",TF1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 - 2
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 - 2
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-id="",TF1 - 3
+#EXTINF:-1 tvg-id="TF1.fr" tvg-id="",TF1 - 3
 http://212.102.60.80/TF1/index.m3u8
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: TF1" tvg-logo="https://docdog.top/logo/countries/france/tf1-fr.png" group-title="FR",TF1 - 4
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1" tvg-logo="https://docdog.top/logo/countries/france/tf1-fr.png" group-title="FR",TF1 - 4
 http://vipphyla.top:8080/VIP019169419870119/91702539200735/419
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: TF1" tvg-logo="https://docdog.top/logo/countries/france/tf1-fr.png" group-title="FR",TF1 - 5
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1" tvg-logo="https://docdog.top/logo/countries/france/tf1-fr.png" group-title="FR",TF1 - 5
 http://vipphyla.top:8080/VIP019169419870119/91702539200735/128944
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" group-title="TNT",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
