@@ -59,6 +59,22 @@ http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181770
 http://45.71.252.16:8000/play/a09y/index.m3u8
 #EXTINF:-1,CHV HD
 http://45.71.252.16:8000/play/a0ib/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png" group-title="PARIS 2024",Canal 12 SV
+http://45.228.234.167:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="PARIS 2024",TVMAX PA
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/155916
+#EXTINF:-1 group-title="PARIS 2024",Caracol Televisión CO
+http://177.93.46.163:8000/play/a01n
+#EXTINF:-1 group-title="PARIS 2024",RCN Televisión CO
+http://177.93.46.163:8000/play/a01o
+#EXTINF:-1 group-title="PARIS 2024",Venevisión
+http://200.59.188.3:8000/play/a0ak
+#EXTINF:-1 group-title="PARIS 2024",ATV PE
+http://bgtv.xyz/play/play-777.php?tlat=61&token=asdfasdf
+#EXTINF:-1 group-title="PARIS 2024",CHV CL
+https://bgtv.xyz/play/2-777.php?idch=198
+#EXTINF:-1 group-title="PARIS 2024",TVP AR
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/210865
 
 
 #EXTINF:-1 group-title="PARIS 2024" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC JAPAN
