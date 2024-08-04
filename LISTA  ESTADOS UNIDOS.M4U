@@ -1,6 +1,27 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
 
 
+#EXTINF:-1 tvg-id="MIDDLETOWN CT WTNH" tvg-name="ABC: CT MIDDLETOWN WTNH" tvg-logo="" group-title="Local", ABC: CT MIDDLETOWN WTNH
+http://cord-cutter.net:8080/live/j3McKd/673709/120673.m3u8
+
+#EXTINF:-1 tvg-id="ALBANY NY WTEN" tvg-name="ABC: NY ALBANY WTEN" tvg-logo="" group-title="Local", ABC: NY ALBANY WTEN
+http://cord-cutter.net:8080/live/j3McKd/673709/120674.m3u8
+
+#EXTINF:-1 tvg-id="ALBANY NY WNYT" tvg-name="NBC: NY ALBANY WNYT" tvg-logo="" group-title="Local", NBC: NY ALBANY WNYT
+http://cord-cutter.net:8080/live/j3McKd/673709/120675.m3u8
+
+#EXTINF:-1 tvg-id="ALBANY NY WRGB" tvg-name="CBS: NY ALBANY WRGB" tvg-logo="" group-title="Local", CBS: NY ALBANY WRGB
+http://cord-cutter.net:8080/live/j3McKd/673709/120676.m3u8
+
+#EXTINF:-1 tvg-id="ALBANY NY WXXA" tvg-name="FOX: NY ALBANY WXXA" tvg-logo="" group-title="Local", FOX: NY ALBANY WXXA
+http://cord-cutter.net:8080/live/j3McKd/673709/120677.m3u8
+
+#EXTINF:-1 tvg-id="SARATOGA NY WNYT" tvg-name="NBC: NY SARATOGA WNYT" tvg-logo="" group-title="Local", NBC: NY SARATOGA WNYT
+http://cord-cutter.net:8080/live/j3McKd/673709/120678.m3u8
+
+#EXTINF:-1 tvg-id="TROY NY WRGB" tvg-name="CBS: NY TROY WRGB" tvg-logo="" group-title="Local", CBS: NY TROY WRGB
+http://cord-cutter.net:8080/live/j3McKd/673709/120679.m3u8
+
 #EXTINF:-1 tvg-id="COLORADO SPRINGS CO KXRM" tvg-name="FOX: COLORADO SPRINGS CO KXRM" tvg-logo="" group-title="Local", FOX: COLORADO SPRINGS CO KXRM
 http://cord-cutter.net:8080/live/j3McKd/673709/120660.m3u8
 
