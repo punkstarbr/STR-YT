@@ -35,6 +35,13 @@ https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u
 
 #EXTINF:-1 tvg-id="ABCEast.us" tvg-logo="https://iili.io/JmoUd6g.png" group-title="USA",ABC East
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="CBSEast.us" tvg-logo="https://iili.io/JmoUFcJ.png" group-title="USA",CBS East
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+ #EXTINF:-1 tvg-id="FoxEast.us" tvg-logo="https://iili.io/JmoUJMF.png" group-title="USA",Fox East
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+ #EXTINF:-1 tvg-id="NBCEast.us" tvg-logo="https://iili.io/JmoU3Fa.png" group-title="USA",NBC East
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+
  
 #EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels",ABC East (Columba)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
@@ -44,14 +51,7 @@ http://38.22.17.37:6969/stream/asd/486/master.m3u8
 http://38.22.17.37:6969/stream/asd/595/master.m3u8
 #EXTINF:-1 tvg-id="CBSKCBS.us" tvg-name="CBS West" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live Channels",CBS West (Los Angeles)
 http://38.22.17.37:6969/stream/asd/488/master.m3u8
-#EXTINF:-1 tvg-id="CBSEast.us" tvg-logo="https://iili.io/JmoUFcJ.png" group-title="USA",CBS East
-http://fl2.moveonjoy.com/CBSEAST/index.m3u8
- 
-#EXTINF:-1 tvg-id="FoxEast.us" tvg-logo="https://iili.io/JmoUJMF.png" group-title="USA",Fox East
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
- 
-#EXTINF:-1 tvg-id="NBCEast.us" tvg-logo="https://iili.io/JmoU3Fa.png" group-title="USA",NBC East
-http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+
 
 #EXTINF:-1 tvg-id="NBCWMAQ.us" tvg-name="NBC East (Chicago)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels",NBC East (Chicago)
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
