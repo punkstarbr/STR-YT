@@ -16,13 +16,6 @@ http://bgtv.xyz/play/play-777.php?tlat=48&token=asdfasdf
 http://170.82.37.21:8000/play/a02t/index.m3u8
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="SR: PINK ZADRUGA 3 - 24/7" tvg-logo="http://smartntv.pro/logokanali/pink/zadruga1.png" group-title="Reality Show's Live",ZADRUGA 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
-http://strimer3.iptv-max.com:99/live?channelId=724&uid=16869&deviceMac=00:1A:79:40:93:C5&deviceSn=d603a6f342deb&token=513787671443
-#EXTINF:-1 tvg-id="" tvg-name="SRB: PINK ZADRUGA 4 - 24/7" tvg-logo="http://smartntv.pro/logokanali/pink/zadruga1.png" group-title="Reality Show's Live",ZADRUGA 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
-http://strimer3.iptv-max.com:109/live?channelId=727&uid=16869&deviceMac=00:1A:79:40:93:C5&deviceSn=d603a6f342deb&token=513787671443
 #EXTINF:-1 tvg-id="pink-reality" tvg-name="Pink Reality" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkReality.png" group-title="Reality Show's Live",Farma Sérvia
 http://bntvs.com:2052/mojvps/svWEB7CXPT/8753
 #EXTINF:-1 tvg-id="pink" tvg-name="PINK 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/72.%20PINK%201.png" group-title="Srbija",PINK 1
