@@ -1,6 +1,42 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
 
 
+#EXTINF:-1 tvg-id="COLORADO SPRINGS CO KXRM" tvg-name="FOX: COLORADO SPRINGS CO KXRM" tvg-logo="" group-title="Local", FOX: COLORADO SPRINGS CO KXRM
+http://cord-cutter.net:8080/live/j3McKd/673709/120660.m3u8
+
+#EXTINF:-1 tvg-id="COLORADO SPRINGS CO KRDO" tvg-name="ABC: COLORADO SPRINGS KRDO" tvg-logo="" group-title="Local", ABC: COLORADO SPRINGS KRDO
+http://cord-cutter.net:8080/live/j3McKd/673709/120661.m3u8
+
+#EXTINF:-1 tvg-id="DENVER CO KCNC" tvg-name="US CBS (KCNC) Denver" tvg-logo="" group-title="Local", US CBS (KCNC) Denver
+http://cord-cutter.net:8080/live/j3McKd/673709/120662.m3u8
+
+#EXTINF:-1 tvg-id="DENVER CO KDVR" tvg-name="US FOX (KDVR) Denver" tvg-logo="" group-title="Local", US FOX (KDVR) Denver
+http://cord-cutter.net:8080/live/j3McKd/673709/120663.m3u8
+
+#EXTINF:-1 tvg-id="DENVER CO KUSA" tvg-name="US NBC (KUSA) Denver (F)" tvg-logo="" group-title="Local", US NBC (KUSA) Denver (F)
+http://cord-cutter.net:8080/live/j3McKd/673709/120664.m3u8
+
+#EXTINF:-1 tvg-id="PUEBLO CO KOAA" tvg-name="NBC: CO PUEBLO KOAA" tvg-logo="" group-title="Local", NBC: CO PUEBLO KOAA
+http://cord-cutter.net:8080/live/j3McKd/673709/120666.m3u8
+
+#EXTINF:-1 tvg-id="HARTFORD CT WFSB" tvg-name="CBS: CT HARTFORD WFSB" tvg-logo="" group-title="Local", CBS: CT HARTFORD WFSB
+http://cord-cutter.net:8080/live/j3McKd/673709/120667.m3u8
+
+#EXTINF:-1 tvg-id="HARTFORD CT WVIT" tvg-name="NBC: CT HARTFORD WVIT" tvg-logo="" group-title="Local", NBC: CT HARTFORD WVIT
+http://cord-cutter.net:8080/live/j3McKd/673709/120668.m3u8
+
+#EXTINF:-1 tvg-id="HARTFORD CT WTIC" tvg-name="FOX: CT HARTFORD WTIC" tvg-logo="" group-title="Local", FOX: CT HARTFORD WTIC
+http://cord-cutter.net:8080/live/j3McKd/673709/120669.m3u8
+
+#EXTINF:-1 tvg-id="HARTFORD CT WTNH" tvg-name="ABC: CT HARTFORD WTNH" tvg-logo="" group-title="Local", ABC: CT HARTFORD WTNH
+http://cord-cutter.net:8080/live/j3McKd/673709/120670.m3u8
+
+#EXTINF:-1 tvg-id="NEW HAVEN CT WTNH" tvg-name="ABC: CT NEW HAVEN WTNH" tvg-logo="" group-title="Local", ABC: CT NEW HAVEN WTNH
+http://cord-cutter.net:8080/live/j3McKd/673709/120671.m3u8
+
+#EXTINF:-1 tvg-id="NEW LONDON CT WFSB" tvg-name="CBS: CT NEW LONDON WFSB" tvg-logo="" group-title="Local", CBS: CT NEW LONDON WFSB
+http://cord-cutter.net:8080/live/j3McKd/673709/120672.m3u8
+
 #EXTINF:-1,ABC BOSTON
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10797
 
