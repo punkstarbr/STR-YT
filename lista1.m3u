@@ -15,12 +15,7 @@ https://dumdumbullet.com/1011454237/bHg8wYxrId/7999219549
 https://dumdumbullet.com/1011454237/bHg8wYxrId/7999219548
 
 
-#EXTINF:-1 tvg-id="nbcwbre.us" tvg-name="US NBC 28 (WBRE) Wilkes Barre (H)" tvg-logo="https://pbs.twimg.com/profile_images/1210277525818986496/ddmz2fyp_400x400.jpg" group-title="USA",US NBC 28 (WBRE) Wilkes Barre (H)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/7999216642
-#EXTINF:-1 tvg-id="" tvg-name="US CBS 3 (WSHM) Springfield (H)" tvg-logo="" group-title="USA",US CBS 3 (WSHM) Springfield (H)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/79992123431
-#EXTINF:-1 tvg-id="" tvg-name="US ABC 22 (WJCL) Savannah (H)" tvg-logo="" group-title="USA",US ABC 22 (WJCL) Savannah (H)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/79992123643
+
 
 #EXTINF:-1 tvg-id="TF1" tvg-name="FR TF1 HD (P)" tvg-logo="http://fanc.tmsimg.com/assets/s24462_ll_h3_aa.png" group-title="United States",FR TF1 HD (P)
 https://dumdumbullet.com/1011454237/bHg8wYxrId/79992130715
@@ -30,8 +25,15 @@ https://dumdumbullet.com/1011454237/bHg8wYxrId/79992130575
 #EXTINF:-1 tvg-id="FR3FR" tvg-name="FR France 3 HD (P)" tvg-logo="http://fanc.tmsimg.com/assets/s105763_ll_h3_aa.png" group-title="United States",FR France 3 HD (P)
 https://dumdumbullet.com/1011454237/bHg8wYxrId/79992130577
 
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://creativecloud.adobe.com/content/dam/2017/8/evolution-of-nbc-logo/article-marquee.jpg",NBC 7 San Diego
+#EXTINF:-1  tvg-id="NBCWest.us" group-title="NEWS WORLD" tvg-logo="https://creativecloud.adobe.com/content/dam/2017/8/evolution-of-nbc-logo/article-marquee.jpg",NBC 7 San Diego
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="NBCEast.us" tvg-name="US NBC 28 (WBRE) Wilkes Barre (H)" tvg-logo="https://pbs.twimg.com/profile_images/1210277525818986496/ddmz2fyp_400x400.jpg" group-title="USA",US NBC 28 (WBRE) Wilkes Barre (H)
+https://dumdumbullet.com/1011454237/bHg8wYxrId/7999216642
+#EXTINF:-1 tvg-id="CBSEast.us" tvg-name="US CBS 3 (WSHM) Springfield (H)" tvg-logo="" group-title="USA",US CBS 3 (WSHM) Springfield (H)
+https://dumdumbullet.com/1011454237/bHg8wYxrId/79992123431
+#EXTINF:-1 tvg-id="ABCEast.us" tvg-name="US ABC 22 (WJCL) Savannah (H)" tvg-logo="" group-title="USA",US ABC 22 (WJCL) Savannah (H)
+https://dumdumbullet.com/1011454237/bHg8wYxrId/79992123643
 
 #EXTINF:-1 tvg-id="ABCEast.us" tvg-logo="https://iili.io/JmoUd6g.png" group-title="USA",ABC East
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
@@ -411,20 +413,6 @@ http://23.237.100.82:8000/FOX_WEST/manifest.m3u8
 
 
 
-#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh KDKA
-http://cord-cutter.net:8080/jesus1/jesus1/120777
-#EXTINF:-1 tvg-id="KDKADT1.us" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA", CBS 2.1 Pittsburgh KDKA
-http://cord-cutter.net:8080/live/jesus1/jesus1/120777.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="KFMBDT1.us" tvg-logo="https://imgx.fubo.tv/station_logos/kfmb_c.png" group-title="USA", CBS 8 San Diego
-https://flarestream.tv:443/live/iptv-epg/LnkXHiYtmd/3882.m3u8
-
-
 #EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN1 - BACKUP
 #EXTVLCOPT:http-user-agent=Firefox
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd
@@ -559,12 +547,6 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25341
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png", CANAL 57 USA
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://nuestravision.tv/wp-content/uploads/2019/03/NuestraVision_Logo_Final_Color_Horizontal_20180902_01-opt-e1578594383281.png", NUESTRA VISION
-https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
-
-
 
 
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/tvguide.com.xml"
