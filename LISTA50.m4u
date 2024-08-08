@@ -297,12 +297,7 @@ http://blackaddon.com/play/pl-228.php?c=32&f=.m3u8
 http://blackaddon.com/play/pl-228.php?c=33&f=.m3u8
 #EXTINF:-1  group-title="N/A",Ecuavisa
 http://blackaddon.com/play/pl-228.php?c=319&f=.m3u8
-#EXTINF:-1  group-title="N/A",El 13 Argentina
-http://blackaddon.com/play/pl-228.php?c=239&f=.m3u8
-#EXTINF:-1  group-title="N/A",El Trece
-http://blackaddon.com/play/pl-228.php?c=765&f=.m3u8
-#EXTINF:-1  group-title="N/A",El Trece
-http://blackaddon.com/play/pl-228.php?c=767&f=.m3u8
+
 #EXTINF:-1  group-title="N/A",ESPN
 http://blackaddon.com/play/pl-228.php?c=34&f=.m3u8
 #EXTINF:-1  group-title="N/A",ESPN 2
@@ -1809,84 +1804,7 @@ http://45.189.108.58:10000/play/a005/index.m3u8
 http://45.189.108.58:10000/play/a00b/index.m3u8
 #EXTINF:-1  group-title="N/A",Zona Latina
 http://45.189.108.58:10000/play/a01e/index.m3u8
-#EXTINF:-1  group-title="Argentina",DeporTV
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
-#EXTINF:-1  group-title="Argentina",TyC Sport
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
-#EXTINF:-1  group-title="Argentina",ESPN 2
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-#EXTINF:-1  group-title="Argentina",ESPN 3
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-#EXTINF:-1  group-title="Argentina",ESPN
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
-#EXTINF:-1  group-title="Argentina",ESPN 4
-http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
-#EXTINF:-1  group-title="Argentina",Fox Sports
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-#EXTINF:-1  group-title="Argentina",Fox Sports 3
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
-#EXTINF:-1  group-title="Argentina",Fox Sports Premiun
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
-#EXTINF:-1  group-title="Argentina",TNT Sports
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-#EXTINF:-1  group-title="Argentina",Disney Channel
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
-#EXTINF:-1  group-title="Argentina",CartoonNetwork
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
-#EXTINF:-1  group-title="Argentina",HBO
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
-#EXTINF:-1  group-title="Argentina",FOX 1
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FOX1HD/SA_SAGEMCOM/FOX1HD.m3u8
-#EXTINF:-1  group-title="Argentina",Fox Movies
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxMoviesHD/SA_SAGEMCOM/FoxMoviesHD.m3u8
-#EXTINF:-1  group-title="Argentina",Fox Action
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxActionHD/SA_SAGEMCOM/FoxActionHD.m3u8
-#EXTINF:-1  group-title="Argentina",The FilmZone
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
-#EXTINF:-1  group-title="Argentina",Space
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
-#EXTINF:-1  group-title="Argentina",Cinecanal
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
-#EXTINF:-1  group-title="Argentina",TNT Arg
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
-#EXTINF:-1  group-title="Argentina",TNT Series
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
-#EXTINF:-1  group-title="Argentina",FX
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
-#EXTINF:-1  group-title="Argentina",FOX
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-#EXTINF:-1  group-title="Argentina",AMC
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
-#EXTINF:-1  group-title="Argentina",Discovery Home Health
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
-#EXTINF:-1  group-title="Argentina",Senal Maria
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Senal_Maria/SA_SAGEMCOM/Senal_Maria.m3u8
-#EXTINF:-1  group-title="Argentina",NatGeo
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
-#EXTINF:-1  group-title="Argentina",Discovery
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
-#EXTINF:-1  group-title="Argentina",Bloomberg
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Bloomberg/SA_SAGEMCOM/Bloomberg.m3u8
-#EXTINF:-1  group-title="Argentina",Canal U
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal_U/SA_SAGEMCOM/Canal_U.m3u8
-#EXTINF:-1  group-title="Argentina",Fox Sports Premiun
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
-#EXTINF:-1  group-title="Argentina",TNT Sports
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-#EXTINF:-1  group-title="Argentina",Canal Universidad
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_SAGEMCOM/Canal_Universidad.m3u8
-#EXTINF:-1  group-title="Argentina",America TV
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
-#EXTINF:-1  group-title="Argentina",/Telefe
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
-#EXTINF:-1  group-title="Argentina",Canal 7
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
-#EXTINF:-1  group-title="Argentina",Artear
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
-#EXTINF:-1  group-title="Argentina",Canal 9
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
-#EXTINF:-1  group-title="Argentina",Todo Noticias
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+
 #EXTINF:-1  group-title="N/A",Magazine
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 #EXTINF:-1  group-title="N/A",11 - Repretel
