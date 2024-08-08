@@ -1288,28 +1288,7 @@ http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 https://sc.id-tv.kz/CaspianNews.m3u8
 #EXTINF:-1  group-title="N/A",CBC (720p) [Not 24/7]
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",CBC News (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",CBC News (XUMO) (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",CBC News Highlights (720p)
-https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",CBC News Network [Geo-blocked]
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",CBS News Baltimore (720p)
-https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",CBS News Dallas Ft Worth (720p)
-https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",CBS News Los Angeles (720p)
-https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",CBS News Miami (720p)
-https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",CBS News New York (720p)
-https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",CBSN Boston (720p)
-https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",CBSN Live Event (720p)
-https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
+
 #EXTINF:-1  group-title="N/A",CCTV-13#EXTVLCOPT:network-caching=1000
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=64&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #EXTINF:-1  group-title="N/A",CGTN (576p) [Timeout]
@@ -1468,62 +1447,12 @@ https://yjh3p.stream.miraclechannel.com/hls/miracle1_high/index.m3u8
 https://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/master.m3u8
 #EXTINF:-1  group-title="N/A",Nabaa TV (720p) [Not 24/7]
 http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",NBC News Now (1080p)
-http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",News18 Assam (504p) [Not 24/7]
-https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",News18 Bangla (360p) [Not 24/7]
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Bengali (360p) [Not 24/7]
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Chhattisgarh (360p)
-https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Gujarati (360p)
-https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Hindi (360p)
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News18 India (504p)
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Jharkhand (360p)
-https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Kannada (360p)
-https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Malayalam (360p)
-https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Odia (360p)
-https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Punjab (360p)
-https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Rajasthan (360p)
-https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Tamil (360p)
-https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Urdu (360p)
-https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Uttarakhand (360p)
-https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 24 (392p) [Not 24/7]
-http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",News 24 (480p) [Not 24/7]
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",News 24 (720p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",Newsmax (1080p)
-https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",NewsNet (720p) [Not 24/7]
-https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",Newsy (1080p)
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",Newsy Top Stories (720p)
-https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
+
 #EXTINF:-1  group-title="N/A",NHK Chinese Vision (720p)
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1  group-title="N/A",NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1  group-title="N/A",Noticias Caracol (720p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",NTV News24 (480p)
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
 #EXTINF:-1  group-title="N/A",OAN (1080p)
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="N/A",OAN Encore (720p) [Geo-blocked]
@@ -1680,136 +1609,7 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
 #EXTINF:-1  group-title="N/A",WJCL-TV News Savannah GA (720p)
 https://v-pi.theus6tv.tk/hls/6.1/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Yahoo! News (720p)
-https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
-#EXTINF:-1 group-title="NEWS WORLD", Belarus 24
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD", EvroNovosti
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Mir 24
-https://sc.id-tv.kz/Mir24.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Noyabrsk 24
-https://strm.yandex.ru/kal/noyabrsk24/noyabrsk240.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", 112 Ukraine
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Russia 24
-https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", GTRK Chita
-https://gtrkchita.ru:8081/hls/r24-chita_576p.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Ucom TV
-http://ott-cdn.ucom.am/s11/index.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", 30A TV
-https://30a-tv.com/feeds/xodglobal/30atv.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", TD Ameritrade
-https://tdameritrade-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Akamai Live Event
-https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Atameken Business Channel
-https://sc.id-tv.kz/Atameken.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Bloomberg HT (Turkey)
-https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Google News Event
-https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", APTV Channel (Asia)
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Bloomberg Asia
-https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", OZTV Channel (Asia)
-https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Bloomberg EU
-https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Bloomberg TV (IT)
-https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Bloomberg TV (BE)
-https://bloomberg-bloomberg-1-be.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Bloomberg US
-https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Bloomberg Politics
-https://www.bloomberg.com/media-manifest/streams/politics.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Bloomberg TV (ES)
-https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Uplynk Channel
-https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", MSVDN Channel
-https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", CNBC Awaaz
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Ucom TV
-http://ott-cdn.ucom.am/s65/index.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", CNBC Indonesia (Alternate)
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", CNBC TV18
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", ET Now
-https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Test Stream
-http://199.66.95.242/1/1172/index.m3u8?token=test
-
-#EXTINF:-1 group-title="NEWS WORLD", NDTV Profit
-https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Pluto TV - News Channel
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=54ff7ba69222cb1c2624c584&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=224&terminate=false&userId=
-
-#EXTINF:-1 group-title="NEWS WORLD", Broadcast Channel
-https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Uplynk Channel
-https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Tustreaming - Tevex Inter
-https://v4.tustreaming.cl/tevexinter/index.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", CloudFront Stream
-https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", AccuWeather
-https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Fox Weather
-https://247wlive.foxweather.com/stream/index.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Pluto TV - Viacom Channel
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 group-title="NEWS WORLD", MCAS Channel
-https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", Xumo - Redbox Weather
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8
 
 #EXTINF:-1 group-title="N/A", Unknown Stream 1
 http://80.237.51.37:8101
