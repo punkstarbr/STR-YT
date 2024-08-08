@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1  group-title="NEWS WORLD",Yahoo! News (720p)
-https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
+
 #EXTINF:-1  group-title="NEWS WORLD",CBC News (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 #EXTINF:-1  group-title="NEWS WORLD",CBC News (XUMO) (720p)
@@ -22,42 +21,6 @@ https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 #EXTINF:-1  group-title="NEWS WORLD",CBSN Boston (720p)
 https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",CBSN Live Event (720p)
-https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",NBC News Now (1080p)
-http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",News18 Assam (504p) [Not 24/7]
-https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",News18 Bangla (360p) [Not 24/7]
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Bengali (360p) [Not 24/7]
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Chhattisgarh (360p)
-https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Gujarati (360p)
-https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Hindi (360p)
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News18 India (504p)
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Jharkhand (360p)
-https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Kannada (360p)
-https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Malayalam (360p)
-https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Odia (360p)
-https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Punjab (360p)
-https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Rajasthan (360p)
-https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Tamil (360p)
-https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Urdu (360p)
-https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  group-title="NEWS WORLD",News 18 Uttarakhand (360p)
-https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8?rebase=on&sd=10
 #EXTINF:-1  group-title="NEWS WORLD",News 24 (392p) [Not 24/7]
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1  group-title="NEWS WORLD",News 24 (480p) [Not 24/7]
