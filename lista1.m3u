@@ -1133,12 +1133,10 @@ https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/75FDrud.png" group-title="Radios Internacionales",Radio Sputnik | Rusia
 https://nfw.ria.ru/flv/audio.aspx?ID=58982499&type=mp3
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/7u0D7GU.png" group-title="Radios Internacionales",Clásica y Barroca | Buenos Aires | Argentina
-http://200.110.145.2:8087/stream
+
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/4NvtTYp.png" group-title="Radios Internacionales",Los 40 | Colombia
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIAAAC_SC
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/HbV9HoX.png" group-title="Radios Internacionales",Norte | Bahía Blanca | Argentina
-http://icecast.hostingbahia.com.ar:8002/live?28344
+
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/71kcIC0.png" group-title="Radios Internacionales",Radio Francia Internacional en español | Francia
 http://live02.rfi.fr/rfienespagnol-64.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/LaG8trk.png" group-title="Radios Internacionales",Rock FM | Rumania
