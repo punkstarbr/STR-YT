@@ -1,6 +1,42 @@
 #EXTM3U
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/southafrica.xml"
 
+#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/02/bc/d572397f4880876b55d384bf49ef/lcdlf.png" group-title="Reality Show's Live", La casa de los famosos MX 24/7
+https://acceso.radiosportstv.online:3807/stream/play.m3u8
+
+#EXTINF:-1 tvg-chno="804" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Multicamaras)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246415.m3u8
+
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam1)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246416.m3u8
+
+#EXTINF:-1 tvg-chno="801" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam2)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246414.m3u8
+
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam3)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246413.m3u8
+
+#EXTINF:-1 tvg-chno="803" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam4)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246412.m3u8
+
+#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/02/bc/d572397f4880876b55d384bf49ef/lcdlf.png" group-title="Reality Show's Live", La casa de los famosos MX 24/7
+https://acceso.radiosportstv.online:3807/stream/play.m3u8
+
+#EXTINF:-1 tvg-chno="804" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Multicamaras)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246415.m3u8
+
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam1)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246416.m3u8
+
+#EXTINF:-1 tvg-chno="801" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam2)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246414.m3u8
+
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam3)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246413.m3u8
+
+#EXTINF:-1 tvg-chno="803" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam4)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246412.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="UK (ITVX) World Of MorseUK (ITVX) Celebrity Big Brother: Live Stream" tvg-logo="" group-title="United Kingdom",Big Brother UK
 https://dumdumbullet.com/1011454237/bHg8wYxrId/799921107223
 
@@ -74,22 +110,7 @@ http://181.78.105.146:2000/play/a038/index.m3u8
 http://45.228.234.167:8000/play/a0ll/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Cam 1 | La casa de los Famosos (L)(EXCLUSIVO)" tvg-logo="https://www.eluniverso.com/resizer/hORS5LOu3lm9Rov9mMUg-3pWUWQ=/1028x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/3UMFWQHME5CS3FOSIJFZHDFPSY.jpg" group-title="24/7 REALITY LIVE",Cam 1 | La casa de los Famosos (L)(EXCLUSIVO)
-http://tv.proyectox.vip:8080/vladimmunoz1/VzfrMqZCP6/359048
-#EXTINF:-1 tvg-id="" tvg-name="Cam 2 | La casa de los Famosos (L)(EXCLUSIVO)" tvg-logo="https://www.eluniverso.com/resizer/hORS5LOu3lm9Rov9mMUg-3pWUWQ=/1028x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/3UMFWQHME5CS3FOSIJFZHDFPSY.jpg" group-title="24/7 REALITY LIVE",Cam 2 | La casa de los Famosos (L)(EXCLUSIVO)
-http://tv.proyectox.vip:8080/vladimmunoz1/VzfrMqZCP6/359049
-#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano - Argentina 24Hrs" tvg-logo="https://i.imgur.com/xAPpSzS.png" group-title="24/7 REALITY LIVE",Gran Hermano - Argentina 24Hrs
-http://pro.boxdigital.org:8080/ronal827k/W32P6yBAQEJG/274146
-#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano - Cámara 1" tvg-logo="https://i.imgur.com/xAPpSzS.png" group-title="24/7 REALITY LIVE",Gran Hermano - Cámara 1
-http://pro.boxdigital.org:8080/ronal827k/W32P6yBAQEJG/274147
-#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano - Cámara 2" tvg-logo="https://i.imgur.com/xAPpSzS.png" group-title="24/7 REALITY LIVE",Gran Hermano - Cámara 2
-http://pro.boxdigital.org:8080/ronal827k/W32P6yBAQEJG/274148
-#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano - Cámara 3" tvg-logo="https://i.imgur.com/xAPpSzS.png" group-title="24/7 REALITY LIVE",Gran Hermano - Cámara 3
-http://pro.boxdigital.org:8080/ronal827k/W32P6yBAQEJG/274149
-#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano Multicamaras" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWV86mfNrbwbzas8axPLQR3_lFAxOTvYXyP9b8qECK3Mtb_0QtdyuuDg3YYItJSz21s.png" group-title="⚪ - ARGENTINA",Gran Hermano Multicamaras
-http://legiontv.online:80/ALEJANDRO1147/50464/1070186
-#EXTINF:-1 tvg-id="" tvg-name="GRan Hermano 24H" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWV86mfNrbwbzas8axPLQR3_lFAxOTvYXyP9b8qECK3Mtb_0QtdyuuDg3YYItJSz21s.png" group-title="⚪ - ARGENTINA",GRan Hermano 24H
-http://legiontv.online:80/ALEJANDRO1147/50464/1070187
+
 
 
 
@@ -186,23 +207,9 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(b1)/
 #KODIPROP:inputstream.adaptive.license_key=
 https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/02/bc/d572397f4880876b55d384bf49ef/lcdlf.png" group-title="Reality Show's Live", La casa de los famosos MX 24/7
-https://acceso.radiosportstv.online:3807/stream/play.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam1)
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246416.m3u8
 
-#EXTINF:-1 tvg-chno="801" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam2)
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246414.m3u8
 
-#EXTINF:-1 tvg-chno="802" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam3)
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246413.m3u8
-
-#EXTINF:-1 tvg-chno="803" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam4)
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246412.m3u8
-
-#EXTINF:-1 tvg-chno="804" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Multicamaras)
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246415.m3u8
 
 
 
