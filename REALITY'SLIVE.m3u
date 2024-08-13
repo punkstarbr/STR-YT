@@ -70,7 +70,10 @@ http://38.7.24.161:8000/play/a028
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Reality Show's Live",CANAL 5 - 12
 http://45.68.35.218:4001/play/a00h/index.m3u8
 
-
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Reality Show's Live",CANAL 5 - 13
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Reality Show's Live",CANAL 5 - 14
+http://45.228.234.167:8000/play/a0ll/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Cam 1 | La casa de los Famosos (L)(EXCLUSIVO)" tvg-logo="https://www.eluniverso.com/resizer/hORS5LOu3lm9Rov9mMUg-3pWUWQ=/1028x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/3UMFWQHME5CS3FOSIJFZHDFPSY.jpg" group-title="24/7 REALITY LIVE",Cam 1 | La casa de los Famosos (L)(EXCLUSIVO)
@@ -260,21 +263,14 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",NOTÍCIAS TELEMUNDO - SERVIÇO
 https://telemundolive.akamaized.net/hls/live/2093200/NEWS105/master_main105.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",NOTÍCIAS TELEMUNDO - SERVIÇO 2
+https://telemundolive.akamaized.net/hls/live/2093200/NEWS104/master_main104.m3u8
 #EXTINF:-1 tvg-id="WNJUDT1.us" tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="PARIS 2024",Telemundo Miami
 http://bgtv.xyz/play/play-777.php?tlat=48&token=asdfasdf
 #EXTINF:-1 tvg-id="Telemundo.us" group-title="PARIS 2024" tvg-logo="https://media.telemundo51.com/2024/04/WSCV_Rings_On_Dark@3x.png?fit=330%2C120&quality=85&strip=all&w=110&h=40",Telemundo Miami 2
 http://170.82.37.21:8000/play/a02t/index.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="PARIS 2024", TyC SPORT 
-http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=100785&extension=ts
-#EXTINF:-1 tvg-id="La 1" tvg-logo="" group-title="PARIS 2024", La 1
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="La 1" tvg-logo="" group-title="PARIS 2024", La 1 - 2
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20231213T103944SQUARE.png_20231213103945.png" group-title="PARIS 2024" tvg-chno="21",[2.2] Tdp TVE
-https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20240117T032718SQUARE.png_20240117032719.png" group-title="PARIS 2024" tvg-chno="2",[2] La 2
-https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Mp5fMxR/Canal57.png" group-title="Reality Show's Live" user-agent="iPhone", Canal 57 Miami
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
@@ -296,20 +292,11 @@ http://177.93.46.163:8000/play/a01n
 http://177.93.46.163:8000/play/a01o
 #EXTINF:-1 group-title="PARIS 2024",Venevisión
 http://200.59.188.3:8000/play/a0ak
-#EXTINF:-1 group-title="PARIS 2024",ATV PE
-http://bgtv.xyz/play/play-777.php?tlat=61&token=asdfasdf
 #EXTINF:-1 group-title="PARIS 2024",CHV CL
 https://bgtv.xyz/play/2-777.php?idch=198
-#EXTINF:-1 group-title="PARIS 2024",TVP AR
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/210865
-#EXTINF:-1 group-title="PARIS 2024" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC JAPAN
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
-#EXTINF:-1 group-title="PARIS 2024" tvg-id="NHKBS4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png",NHK BS 4K
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS1_logo.png" group-title="PARIS 2024",RTS 1
-http://bntvs.com:2052/mojvps/svWEB7CXPT/1
-#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS2_logo.png" group-title="PARIS 2024",RTS 2
-http://bntvs.com:2052/mojvps/svWEB7CXPT/2
+
+
+
 
 
 #EXTINF:-1 tvg-id="pink-reality" tvg-name="Pink Reality" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkReality.png" group-title="Reality Show's Live",Farma Sérvia
