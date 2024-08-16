@@ -268,10 +268,7 @@ http://170.82.37.21:8000/play/a02t/index.m3u8
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737" tvg-id="" group-title="PARIS 2024",NBC USA
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1,CHV
-http://45.71.252.16:8000/play/a09y/index.m3u8
-#EXTINF:-1,CHV HD
-http://45.71.252.16:8000/play/a0ib/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png" group-title="PARIS 2024",Canal 12 SV
 http://45.228.234.167:8000/play/a06z/index.m3u8
 #EXTINF:-1 group-title="PARIS 2024",TVMAX PA
@@ -279,8 +276,12 @@ https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/155916
 
 
 
-
-
+#EXTINF:-1,CHV HD
+http://177.126.49.93:9090/play/a0au/index.m3u8
+#EXTINF:-1,CHV HD
+http://45.181.123.233:8000/play/a0kl
+#EXTINF:-1,CHV HD
+http://201.222.44.220:4227/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-id="pink-reality" tvg-name="Pink Reality" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkReality.png" group-title="Reality Show's Live",Farma Sérvia
 http://bntvs.com:2052/mojvps/svWEB7CXPT/8753
