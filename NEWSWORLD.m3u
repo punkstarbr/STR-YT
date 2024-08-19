@@ -238,32 +238,14 @@ https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider8.jpg",ABC News Live 10 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
 
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",24 HORAS CL - SERVIÇO 1
-https://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",24 HORAS CL - SERVIÇO 2
-https://mdstrm.com/live-stream-playlist-v/5346f657c1e6f5810b5b9df3.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",24 HORAS CL - SERVIÇO 3
-https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?DVR
 
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://yt3.googleusercontent.com/H0sxSj417X4tyd0TVBf1WxCkdqiECbfu1qfQP7jSMupkqhuKrUj8wNnQJyJxn2HhtZVJ6Od_Hg=s176-c-k-c0x00ffffff-no-rj",MEGA SERVIÇO
-http://mdstrm.com/live-stream-playlist-v/56f97fc0b9bb39786b04a3b0.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://yt3.googleusercontent.com/H0sxSj417X4tyd0TVBf1WxCkdqiECbfu1qfQP7jSMupkqhuKrUj8wNnQJyJxn2HhtZVJ6Od_Hg=s176-c-k-c0x00ffffff-no-rj",MEGA SERVIÇO
-https://marine2.miplay.cl/mega/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://yt3.googleusercontent.com/H0sxSj417X4tyd0TVBf1WxCkdqiECbfu1qfQP7jSMupkqhuKrUj8wNnQJyJxn2HhtZVJ6Od_Hg=s176-c-k-c0x00ffffff-no-rj",MEGA SERVIÇO
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
 
 #EXTINF:-1  tvg-id="CNN en Espanol" tvg-name="CNN en Espanol" group-title="NEWS WORLD" tvg-logo="https://monitortv.vercel.app/Monitores/Imagenes/Logo_CNNCHILE2.svg",CNN CHILE
 https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
 
 
-#EXTINF:-1  tvg-id="CNN CL" tvg-name="CNN Chile" group-title="NEWS WORLD" tvg-logo="https://monitortv.vercel.app/Monitores/Imagenes/Logo_CNNCHILE2.svg",CNNCHILE - SERVIÇO 1
-https://unlimited1-cl-isp.dps.live/cnnprensa/cnnprensa.smil/playlist.m3u8
 
-
-#EXTINF:-1  tvg-id="CNN CL" tvg-name="CNN Chile" group-title="NEWS WORLD" tvg-logo="https://monitortv.vercel.app/Monitores/Imagenes/Logo_CNNCHILE2.svg",CNNCHILE - SERVIÇO 2
-https://unlimited2-cl-isp.dps.live/cnnprensa/cnnprensa.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN CL" tvg-name="CNN Chile" group-title="NEWS WORLD" tvg-logo="https://monitortv.vercel.app/Monitores/Imagenes/Logo_CNNCHILE2.svg",CNNCHILE - SERVIÇO 3
-https://unlimited1-cl-isp.dps.live/cnnprensa/cnnprensa.smil/cnnprensa/livestream1/chunks.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",SKY NEWS - SERVIÇO 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",SKY NEWS - SERVIÇO 2
@@ -422,10 +404,6 @@ https://d3r7ms2cd6ecbc.cloudfront.net/out/v1/302f9e67d0524c55a01f2aece2e77872/in
 
 #EXTINF:-1 tvg-logo="https://flagcdn.com/us.svg" group-title="NEWS WORLD",PENTAGONO USA
 https://do7ujvb4kwqvb.cloudfront.net/out/v1/434726d616804d87ae523d226d2b6afd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://ainmcl.github.io/MonitorTV/Monitores/imagenes/Logo_GOB.svg" group-title="NEWS WORLD",PRESIDENCIA CHILE SERVIÇO
-https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream/6239f6d008e7ac488826f237/publish/media_5000.m3u8?aid=6228dbdaac1c9d08363b5335&DVR=&pid=8zq7AE3GyEmLy9vU1q8zjshiH6Z2VJ1g&sid=sbUG1hr5f9w47dWhQ8He6U48FTmZJdkQ&uid=b3ByPIq5wydX89hZQ88kXEoCnepEP3e0&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1681540689887&ot=mK4ZqgGGrd81p1lUMpVHDA&proto=https&pz=us
-
 
 #EXTINF:-1 tvg-logo="https://ainmcl.github.io/MonitorTV/Monitores/imagenes/Logo_GOB.svg" group-title="NEWS WORLD",SENADO CHILE SERVIÇO
 https://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd&id=d8120437-2c2b-4596-9f1a-9d06f0ab0b6d
