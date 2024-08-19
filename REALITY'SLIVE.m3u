@@ -1,32 +1,6 @@
 #EXTM3U
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/southafrica.xml"
 
-
-
-
-#EXTINF:-1 tvg-chno="812" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (Baño)
-http://tv.proyectox.vip:8080/live/JavierIturbe/eJ0kQhvZNJ/45672.m3u8
-
-#EXTINF:-1 tvg-chno="804" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Multicamaras)
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246415.m3u8
-
-
-
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam1)
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246416.m3u8
-
-#EXTINF:-1 tvg-chno="801" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam2)
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246414.m3u8
-
-#EXTINF:-1 tvg-chno="802" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam3)
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246413.m3u8
-
-#EXTINF:-1 tvg-chno="803" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam4)
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246412.m3u8
-
-#EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
-https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",TV Globo
 https://live-01.edge-vtal-gyn-go.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12dGFsLWd5bi1nby52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MjQxNjcyNzgsImlhdCI6MTcyNDA4MDg3OCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI0YjkwY2Y3MS0yYmViLTQyZjItYTVlNC05YmZkM2M4OGFhNjMiLCJwYXRoIjoiL251L2YoaT0yKS9nbG9iby1nbzAxL3BsYXlsaXN0Lm0zdTgifQ.Q1WP8w5kzR-MnV21Hf5M5a1p45XSOcg4QovZgbxc5ifCYdpKRMBgSIBDi1GlQTUPfgja7xUpxSsPKJw7ByAIJOxyqxpDzmVAQ_eCO4dcHRKTtzE0F_1C6cMR_ZmdB7QonXYOUxVrP1iiD7tbS-XxuQDn8LRKkwiQXGGkQJDyFShIiMuKH0XrkynVEfuuto1AlCn6_KlRYu8Qh_BTHnyoQp8snQBM0T3hXQpGbHi5V2gRK_L4mgPOF4sRCbEOhJXQNwb5su4bcc5MOTF2e7v0QlCy7PgsA7U2FeH5M1undOompyi6YOJ32usqyHQrYavJABghuzJDs7aLTO3YO9qxOg/nu/f(i=2)/globo-go01/playlist.m3u8?originpath=/linear/hls/pa/event/zDETlEnQSOeg7oGmhWRNXg/stream/f94548f7-5b12-4921-a9ee-8573b5f374e9:SCL/master.m3u8
 
@@ -56,3 +30,43 @@ https://live-01.edge-vtal-gyn-go.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6I
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",Estrela da Casa - Lounge - Piscina
 https://live-01.edge-vtal-gyn-go.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12dGFsLWd5bi1nby52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MjQxNjc2MDQsImlhdCI6MTcyNDA4MTIwNCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI0YjkwY2Y3MS0yYmViLTQyZjItYTVlNC05YmZkM2M4OGFhNjMiLCJwYXRoIjoiL251L2YoaT0yKS9lYzA0L3BsYXlsaXN0Lm0zdTgifQ.Tp0bdDXFEDGCT5XKqoGHvKGsXWO_LVJ20ugC7C7cldBMrAvhfGWQFWmQ6KCyNm-Odtn-a47tAcWDjLsC0LAouXIzkHcjbi2vmVm4NklMoYxsd7y_9qhMFp0heXGFQcchpc9FQDDlUM9PbaAtn9YdBwby19A-GOu2wVjc4VrQfb4QuhDDnN53VjhDRdDjeHbNzq2xZl8qOzlfTUexw-lVjEP03BGPEFX8R0qGKoko3hYfMF00uNj_WJKVfYu0lMJMhGE18dCO2PU2IuIX-uR-8PSVyCMYUeKuk7LD--sUSOFVQ6epfTsQUWJNaPiHjOy9OF8Zdozh_zg2NDeoXm_K0g/nu/f(i=2)/ec04/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="PARIS 2024",Telemundo Miami
+http://bgtv.xyz/play/play-777.php?tlat=48&token=asdfasdf
+#EXTINF:-1 tvg-id="Telemundo.us" group-title="PARIS 2024" tvg-logo="https://media.telemundo51.com/2024/04/WSCV_Rings_On_Dark@3x.png?fit=330%2C120&quality=85&strip=all&w=110&h=40",Telemundo Miami 2
+http://170.82.37.21:8000/play/a02t/index.m3u8
+
+
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Mp5fMxR/Canal57.png" group-title="Reality Show's Live" user-agent="iPhone", Canal 57 Miami
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737" tvg-id="" group-title="PARIS 2024",NBC USA
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png" group-title="PARIS 2024",Canal 12 SV
+http://45.228.234.167:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="PARIS 2024",TVMAX PA
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/155916
+
+#EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
+https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="812" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (Baño)
+http://tv.proyectox.vip:8080/live/JavierIturbe/eJ0kQhvZNJ/45672.m3u8
+
+#EXTINF:-1 tvg-chno="804" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Multicamaras)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246415.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam1)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246416.m3u8
+
+#EXTINF:-1 tvg-chno="801" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam2)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246414.m3u8
+
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam3)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246413.m3u8
+
+#EXTINF:-1 tvg-chno="803" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam4)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246412.m3u8
