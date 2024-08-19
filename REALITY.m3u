@@ -1,3 +1,23 @@
+#EXTINF:-1 tvg-chno="812" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (Baño)
+http://tv.proyectox.vip:8080/live/JavierIturbe/eJ0kQhvZNJ/45672.m3u8
+
+#EXTINF:-1 tvg-chno="804" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Multicamaras)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246415.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam1)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246416.m3u8
+
+#EXTINF:-1 tvg-chno="801" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam2)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246414.m3u8
+
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam3)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246413.m3u8
+
+#EXTINF:-1 tvg-chno="803" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam4)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246412.m3u8
+
 #EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
 https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
 
