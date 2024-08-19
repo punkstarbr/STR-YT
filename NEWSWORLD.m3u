@@ -1,16 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1  group-title="NEWS WORLD",CBC News (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",CBC News (XUMO) (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",CBC News Highlights (720p)
-https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",CBC News Network [Geo-blocked]
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",CBS News Baltimore (720p)
-https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #EXTINF:-1  group-title="NEWS WORLD",CBS News Dallas Ft Worth (720p)
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 #EXTINF:-1  group-title="NEWS WORLD",CBS News Los Angeles (720p)
