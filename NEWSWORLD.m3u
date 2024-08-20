@@ -1,6 +1,81 @@
 #EXTM3U
 
+#EXTINF:-1 ,ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
+#EXTINF:-1 ,BAND NEWS
+http://168.205.87.198:8555/live/JOSEE/123456/174.ts?checkedby:iptvcat.com
+#EXTINF:-1 ,BAND NEWS
+http://168.205.87.198:8555/live/michele/123456/174.ts?checkedby:iptvcat.com
+#EXTINF:-1 ,BAND NEWS
+http://168.205.87.198:8555/live/1221/123456/174.ts?checkedby:iptvcat.com
+#EXTINF:-1 ,BAND NEWS
+http://168.205.87.198:8555/live/antony/1234/174.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 ,CBS News | US
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1 ,Euronews DE
+https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,Euronews EN
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,Euronews ES
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,Euronews FR
+https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,Euronews Inglês (720p)
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 ,Euronews IT
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,Euronews PT
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 ,FOX NEWS USA
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 ,Fox sport news
+https://austchannel-live.akamaized.net:443/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1 ,group-title="NEWS WORLD" - CCX1 News (USA)
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/aBk06sY.png" group-title="CNN's",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png" group-title="NEWS WORLD",CNN USA
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNNPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/800px-CNN_Philippines_Logo.svg.png" group-title="PINOY NEWS",CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/chunklist_w1199238897.m3u8
+#EXTINF:-1  group-title="N/A", CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1  group-title="CNN's",CNN Indonesia (720p)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1  group-title="CNN's",CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  group-title="CNN's",CNN International Germany (720p)
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  group-title="CNN's",CNN International UK (720p) [Not 24/7]
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  group-title="CNN's",CNN USA (360p)
+http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
+#EXTINF:-1  group-title="N/A",HLN (720p)
+https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1  group-title="N/A",Pluto TV CNN (360p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5421f71da6af422839419cb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=209&terminate=false&userId=
+#EXTINF:-1  group-title="N/A",|DSTV| CNN International
+http://red.ipfox.org:8080/1234/12345678/25481
+#EXTINF:-1  group-title="N/A",|TR| Cnn Turk HD
+http://red.ipfox.org:8080/1234/12345678/2778
+#EXTINF:-1  group-title="N/A",|TR| Cnn Turk SD
+http://red.ipfox.org:8080/1234/12345678/2780
+#EXTINF:-1 channel-id="samsung-USBC10000223W" tvg-id="USBC10000223W" tvg-chno="1257" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC10000223W_20230321T235932SQUARE.png_20230321235933.png" group-title="Latino" , CNN RESUMEN
+https://dsuub0ebctcrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4x428uikrca62-prod/dist/samsungtv/358/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 ,CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 ,CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:-1 ,CNN Internacional
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1  group-title="NEWS WORLD",CBS News Dallas Ft Worth (720p)
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 #EXTINF:-1  group-title="NEWS WORLD",CBS News Los Angeles (720p)
