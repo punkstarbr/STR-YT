@@ -486,15 +486,12 @@ http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://tvconnect.us/wp-content/uploads/2022/05/logotipo-tvc.webp", CONNECT USA
-https://5a57bda70564a.streamlock.net/tvconnect/tvconnect.sdp/chunklist_w739880834.m3u8
+https://5a3c48d69cf69.streamlock.net/tvconnect/tvconnect.sdp/playlist.m3u8
 
 
 
 
-#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", NEM IDEIA DO QUE É
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:player-continuous-http
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25331
+
 
 #EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",TUDN
 #EXTVLCOPT:http-referrer=https://www.mediaset.es/
