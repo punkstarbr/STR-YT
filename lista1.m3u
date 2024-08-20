@@ -11,12 +11,7 @@
 #EXTINF:-1  tvg-id="NBCWest.us" group-title="NEWS WORLD" tvg-logo="https://creativecloud.adobe.com/content/dam/2017/8/evolution-of-nbc-logo/article-marquee.jpg",NBC 7 San Diego
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="NBCEast.us" tvg-name="US NBC 28 (WBRE) Wilkes Barre (H)" tvg-logo="https://pbs.twimg.com/profile_images/1210277525818986496/ddmz2fyp_400x400.jpg" group-title="USA",US NBC 28 (WBRE) Wilkes Barre (H)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/7999216642
-#EXTINF:-1 tvg-id="CBSEast.us" tvg-name="US CBS 3 (WSHM) Springfield (H)" tvg-logo="" group-title="USA",US CBS 3 (WSHM) Springfield (H)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/79992123431
-#EXTINF:-1 tvg-id="ABCEast.us" tvg-name="US ABC 22 (WJCL) Savannah (H)" tvg-logo="" group-title="USA",US ABC 22 (WJCL) Savannah (H)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/79992123643
+
 
 #EXTINF:-1 tvg-id="ABCEast.us" tvg-logo="https://iili.io/JmoUd6g.png" group-title="USA",ABC East
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
@@ -66,7 +61,7 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u
 #EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Live Channels",Univision East
 https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=test_token
 #EXTINF:-1 tvg-id="UnivisionKMEX.us" tvg-name="Univision West (Los Angeles)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Live Channels",Univision West (Los Angeles)
-http://38.22.17.37:6969/stream/asd/491/master.m3u8
+
 #EXTINF:-1 tvg-id="UnivisionWUVG.us" tvg-name="Univision 34 Atlanta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Live Channels",Univision 34 Atlanta
 https://unidfp-nlds161.global.ssl.fastly.net/nlds/univisionnow/univision_atl2/as/live/univision_atl2_hd_pc.m3u8?t1=test_token
 #EXTINF:-1 tvg-id="UnivisionKXLN.us" tvg-name="Univision 45 Houston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Live Channels",Univision 45 Houston
@@ -151,16 +146,10 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",TELEMUNDO 2
-https://dumdumbullet.com/1011454237/bHg8wYxrId/2000011149
 
 
-#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",TELEMUNDO 3
-#EXTVLCOPT:http-referrer=https://www.mediaset.es/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:referrer=https://www.mediaset.es/
-#EXTVLCOPT:player-continuous-http
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25340
+
+
 
 
 #EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", UNIVISION 
