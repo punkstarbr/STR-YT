@@ -4,35 +4,44 @@
 #EXTINF:-1  tvg-id="NBCWest.us" group-title="NEWS WORLD" tvg-logo="https://creativecloud.adobe.com/content/dam/2017/8/evolution-of-nbc-logo/article-marquee.jpg",NBC 7 San Diego
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",TV Globo
-https://live-01.edge-vtal-gyn-go.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12dGFsLWd5bi1nby52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MjQyMjc0NTYsImlhdCI6MTcyNDE0MTA1NiwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI0YjkwY2Y3MS0yYmViLTQyZjItYTVlNC05YmZkM2M4OGFhNjMiLCJwYXRoIjoiL251L2YoaT0yKS9nbG9iby1nbzAxL3BsYXlsaXN0Lm0zdTgifQ.h03Joe4CG3YNEWd3W7HEuRkbPCdNVqAvlt1iQObWW77WFBKIAEy36cxWEaEYNiRdqj0rjaMKp-mdo-Cdz0XclWsOdRsrIsEwjSXRMWuDL489eh1XfLhNHGu1v47GVd-sswnRCIx55CRcbw-vbma7W_aiA04zQUoPaoyrD4kXvVluPLSSkknQW489uDp2vC21Sv0Ao6VoI0SKkq2GnUPKTp7JN0t0lWF8FTENSNyIVBxyfjlK_Np8mfg1wsnMRmZN3zdqJrJV2X3IqAILXcOOk6lERPa03hhfMfAbJOJwlN4DtROPiftpnRw2Kl58ZObHWWJqnYFIrpMzZaoGwaazhg/nu/f(i=2)/globo-go01/playlist.m3u8?originpath=/linear/hls/pa/event/zDETlEnQSOeg7oGmhWRNXg/stream/d91c3133-305b-4699-9911-ecc6151aeba6:SCL/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
+https://new.embedflix.co/p2p/globorj/chunks.m3u8
+#EXTINF:-1 tvg-name="ESTRELA DA CASA" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="PLUGINSTREAMING | REALITY SHOWS",ESTRELA DA CASA
+http://bccdn.xyz:80/Mxpro82/728292000/449329
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 01" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="PLUGINSTREAMING | REALITY SHOWS",ESTRELA DA CASA 01
+http://bccdn.xyz:80/Mxpro82/728292000/449330
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 02" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="PLUGINSTREAMING | REALITY SHOWS",ESTRELA DA CASA 02
+http://bccdn.xyz:80/Mxpro82/728292000/449331
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 03" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="PLUGINSTREAMING | REALITY SHOWS",ESTRELA DA CASA 03
+http://bccdn.xyz:80/Mxpro82/728292000/449332
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 04" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="PLUGINSTREAMING | REALITY SHOWS",ESTRELA DA CASA 04
+http://bccdn.xyz:80/Mxpro82/728292000/449333
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 05" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="PLUGINSTREAMING | REALITY SHOWS",ESTRELA DA CASA 05
+http://bccdn.xyz:80/Mxpro82/728292000/449334
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 06" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="PLUGINSTREAMING | REALITY SHOWS",ESTRELA DA CASA 06
+http://bccdn.xyz:80/Mxpro82/728292000/449335
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 07" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="PLUGINSTREAMING | REALITY SHOWS",ESTRELA DA CASA 07
+http://bccdn.xyz:80/Mxpro82/728292000/449336
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 08" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="PLUGINSTREAMING | REALITY SHOWS",ESTRELA DA CASA 08
+http://bccdn.xyz:80/Mxpro82/728292000/449337
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 09" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="PLUGINSTREAMING | REALITY SHOWS",ESTRELA DA CASA 09
+http://bccdn.xyz:80/Mxpro82/728292000/449338
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 10" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="PLUGINSTREAMING | REALITY SHOWS",ESTRELA DA CASA 10
+http://bccdn.xyz:80/Mxpro82/728292000/449339
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",Estrela da Casa - Acompanhe a Casa - Acompanhe a Casa
-https://live-01.edge-vtal-gyn-go.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12dGFsLWd5bi1nby52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MjQyMjc0OTAsImlhdCI6MTcyNDE0MTA5MCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI0YjkwY2Y3MS0yYmViLTQyZjItYTVlNC05YmZkM2M4OGFhNjMiLCJwYXRoIjoiL251L2YoaT0yKS9lYzAxL3BsYXlsaXN0Lm0zdTgifQ.ho_REva7MVf778OwB9r8czKtolGEQI1Cqbm0KcBoH4OYw5LPTZmOdosAN_8j43wSa-6kU_yv62rNsyebKuMPyDTSKpWzi4IWCSqbzKx6UrtB3wFwBVSUnheqlY0ELnMn2P3uvtMA6pOhGpdjNJuJU-pL7Y4X6VHlnDa9gmTSJirSsSPnbik3afy5pK08bNM3QA3diJ3s0tx7KgBHSkQJZ9s6c9h_d4qpp24AV_jq1suGr-z6yCplbjLJS-VLGBPUHNcz5GYZ9a8eTq7rlIA-mRTuBaNlt6eNUCKhXZxG_Y6ydJfuNNNe5tMou1_XUUzoLvjQLSJ7laxAk3jWcc7XXw/nu/f(i=2)/ec01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Z3BU41y.png" group-title="Canais | REALITY",Estrela Da Casa 1
+https://cr7v.short.gy/ManoTV/Whats75991634025/ECCam1/Index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",Estrela da Casa - Acompanhe a Casa 2 - Acompanhe a Casa 2
-https://live-01.edge-vtal-gyn-go.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12dGFsLWd5bi1nby52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MjQyMjc1MjUsImlhdCI6MTcyNDE0MTEyNSwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI0YjkwY2Y3MS0yYmViLTQyZjItYTVlNC05YmZkM2M4OGFhNjMiLCJwYXRoIjoiL251L2YoaT0yKS9lYzExL3BsYXlsaXN0Lm0zdTgifQ.ANoy5-sHJoJMMoabwC-gwSQydmubqfzK-ssyeqzkyeRkk7ksMfJcAbHOldCIOmZmZYjYGkgEqx8FhouBqNe32C5pr0Fdj0VBYCG1OSOAUZbcOtTctaLhiS0xaY3_wjeqOYZZeJcsQPeB941zuZx3FzpWIr8lDqIIE0uUDBsXSIpMeNDVI7WajdjVu3Qy2aT___Hqq3Zn0PlenOfFH_wuk2NBzoU5XlzUCOLuqyOlFIEdQuJTNGJHQs9nuCD0Z3TG2PGMcwrizMLrbf4pRmgypgd7lgtVP8W-2ey3CDlya4SvUPz-ieDDcZgckTuZDCvLDy86fFnrlGCrUlcg1ISqxg/nu/f(i=2)/ec11/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Z3BU41y.png" group-title="Canais | REALITY",Estrela Da Casa 2
+https://cr7v.short.gy/ManoTV/Whats75991634025/ECCam2/Index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",Mosaico Estrela da Casa - Mosaico Estrela da Casa
-https://live-01.edge-vtal-gyn-go.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12dGFsLWd5bi1nby52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MjQyMjc1NTYsImlhdCI6MTcyNDE0MTE1NiwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI0YjkwY2Y3MS0yYmViLTQyZjItYTVlNC05YmZkM2M4OGFhNjMiLCJwYXRoIjoiL251L2YoaT0yKS9lYzEyL3BsYXlsaXN0Lm0zdTgifQ.Waxmzg7aONRNaTcMwbpvtB8FNkEJ6t14dv9LNnyDrIDoyCFbRAeN9wG0JmsCHFlnR_uiicCFIkoLIUKMJVo1iRhvyUGeyNA_W_7R5BoNLTw40tNf2PrPlTwkodGVzSBaK9i9G3vAPBldbSWnVGM8kGQDmfriVyta-H05OWHPFqKwrFG34fK1sPveMTfXi8s0cHdzojDjos9gTud2-iqv9LigePwuXlknjBQvkQnycy7mWXrjFjyUjBON3acg15C3fHclf8DOv4Bb309DkNLpUDl6kkFlgckWYfQ9kj70QY3wA8bEYPcQn1s6d6ieYr277-qakEaU8IrnWHZTj229NA/nu/f(i=2)/ec12/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Z3BU41y.png" group-title="Canais | REALITY",EC 1 Extra
+https://abc.embedmax.site/estrelacasa1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",Estrela da Casa - Dinâmica  - Dinâmica
-https://live-01.edge-vtal-gyn-go.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12dGFsLWd5bi1nby52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MjQyMjc1OTAsImlhdCI6MTcyNDE0MTE5MCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI0YjkwY2Y3MS0yYmViLTQyZjItYTVlNC05YmZkM2M4OGFhNjMiLCJwYXRoIjoiL251L2YoaT0yKS9lYzEwL3BsYXlsaXN0Lm0zdTgifQ.cuWPd_rL1YVq4xZpmV8uC5y3wkbPIhrF2JGDNeMq5W4i_VAyFrWI9Lif0wutFpcqRo7LUrICfZQM2KxJCjF1Ggv42pP-yaPSETUvJMnfrJSqTOZLcbTPSFohr4IOgEvBT_2e1UleXuD2TU7NhpBBPEgKN1uMrxqaG0tRguu52zBqlfmbTf89qvwPCKMPE4hY6kCPJbdb73p39npAF5iUqcuqUrJdjPzSpTAfwrrKaEEXxuTB4kQm-J_GEmYimhuheipcRG_PqRDritaEXKg-vuj2QsAfgsC1Rl7kH9m5U1TG9Acy36GBdp2iYjdgT89B-jEUpWzpw1-3HNL8POynFw/nu/f(i=2)/ec10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Z3BU41y.png" group-title="Canais | REALITY",EC 2 Extra
+https://abc.embedmax.site/estrelacasa2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",Estrela da Casa - Cozinha Hellmann’s Supreme  - Cozinha Hellmann’s Supreme
-https://live-01.edge-vtal-gyn-go.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12dGFsLWd5bi1nby52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MjQyMjc2MjMsImlhdCI6MTcyNDE0MTIyMywiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI0YjkwY2Y3MS0yYmViLTQyZjItYTVlNC05YmZkM2M4OGFhNjMiLCJwYXRoIjoiL251L2YoaT0yKS9lYzA1L3BsYXlsaXN0Lm0zdTgifQ.pimG3-bevQ-KsCVWcyn1rKVnfRCYK16sMlx-TofuLAlVr5r6oRXy1fbKj3XD3PU_c6PvRTgkQr11z6s8UKMxmJ7gkmpZ7li19Mv0ssRwlGHQets6DqzYZofnpZvhZFbouyaugKlqJaQR5U-ss24fTgH9THGd8CJOhDTgxox_ymgBSBVLCjLzadHPep3Kmx4RgBHzmiBeo75uKfRWbc492vfIot_V4Y3uM2h5YspAEOY00Gb3jgXssloQD9gP8PVvM8n6JZyDurwlxhl_6Z3KmRC60erJ2IiFZdeW07xc1lOGH_uvkUK3w1Tx7TctslS2cyuvuqVrBshLTe_xtZNRzg/nu/f(i=2)/ec05/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",Estrela da Casa - Banheiro Elseve L’Oréal Paris  - Banheiro Elseve L’Oréal Paris
-https://live-01.edge-vtal-gyn-go.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12dGFsLWd5bi1nby52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MjQyMjc2NjcsImlhdCI6MTcyNDE0MTI2NywiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI0YjkwY2Y3MS0yYmViLTQyZjItYTVlNC05YmZkM2M4OGFhNjMiLCJwYXRoIjoiL251L2YoaT0yKS9lYzA2L3BsYXlsaXN0Lm0zdTgifQ.t6yccGTKacpR-Z8pBj6We824xqksGSXRtsv6WmVShYsekuVHhgFtDC7ZilweZOGCvxiEEf8WSbiPZ_aMIorPLoGBeYH97ugGlQUUHUcC-pBk_Yvd9gyosn9xfRXpm_0k4prpLh1PM3L_o5icgBZ2QL1F0vEmsCpBHxcffwOItkOLEc5u_8k8DnvkYdOlaGyP0ona1FQiM7Vc9PiLZk4Unhu4nG36p5AtqFf77YlappXLBWxZaDRRl7RLTuC1lC_H68y6nO6VRciZCmUfNgIG_I_pq4iB2F2osDVogoxBtr4uEbKrajPlNKSv_p5tHOd4V2aD05E5wdmG_4garVYerQ/nu/f(i=2)/ec06/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",Estrela da Casa - Quarto Laranja - Quarto Laranja
-https://live-01.edge-vtal-gyn-go.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12dGFsLWd5bi1nby52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MjQyMjc3MDIsImlhdCI6MTcyNDE0MTMwMiwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI0YjkwY2Y3MS0yYmViLTQyZjItYTVlNC05YmZkM2M4OGFhNjMiLCJwYXRoIjoiL251L2YoaT0yKS9lYzAyL3BsYXlsaXN0Lm0zdTgifQ.sxA2wAIJyGMmcKQjoww4GaWzyMEY0qj0fX9ThzcjNdy-yKVGx4-JTY_nnzP-oH1L98fpCyhnf4MIe2Srj7QunBg92qrxgo0lfGtShRlav05fQ_jybcYra6efx2W3HGK1rCLs4lQ3aNpd2LeQ4V9XVS1b1YqXOK6i4owq2LCq8c4JMIuWrXV0cJdrvYdd7ddK5-XDdlD70-PaMxa_sjVoguoq3UOr5Hv1hy3FwTNhfPq9puSoVMnqo39QN5TAFDShGhrXS91n7mW7wRhLIzRMKOSuje4HkJ9YjWQPCtpJcsCTq2QTq-uBeGFpYNCiPD8F9pIiywoVTMXGfgtOpvlMJQ/nu/f(i=2)/ec02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",Estrela da Casa - Quarto Azul - Quarto Azul
-https://live-01.edge-vtal-gyn-go.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12dGFsLWd5bi1nby52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MjQyMjc3MzIsImlhdCI6MTcyNDE0MTMzMiwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI0YjkwY2Y3MS0yYmViLTQyZjItYTVlNC05YmZkM2M4OGFhNjMiLCJwYXRoIjoiL251L2YoaT0yKS9lYzAzL3BsYXlsaXN0Lm0zdTgifQ.hrxGcbdjKTXfPGFOsTmUuRy8n3s-RMZDWVR3jISgX71MczDmJevPlUsOJV3_jdSCkaMtxc29ew9qwU7Il3Am21woisHfxQRWJGnqo13DR32KcgNe8GhC65y_KbbTIvC0qissCCbmaNmGMuW66N7aPkSS7rmQpzHgvYo-FX_Fr9ED3SJ2Cf9ytNIqROwQ60V-opwvY7jP7wqr0fokt0zFMQpcR8wyWnMJkR7VFxDKM0W98DeGit4aXClq2_AxR5TT38XP_musN479Y0wC6TwOb4MNpmeGa8Gt-_-8ZpJhRvPdw3yZN6XBdFvVsxExZVr7ZtKtegRWgvaM2GDlwpE_tA/nu/f(i=2)/ec03/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",Estrela da Casa - Lounge - Lounge
-https://live-01.edge-vtal-gyn-go.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12dGFsLWd5bi1nby52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MjQyMjc3NjksImlhdCI6MTcyNDE0MTM2OSwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI0YjkwY2Y3MS0yYmViLTQyZjItYTVlNC05YmZkM2M4OGFhNjMiLCJwYXRoIjoiL251L2YoaT0yKS9lYzA0L3BsYXlsaXN0Lm0zdTgifQ.MkOGrfQmGgsHYd-3Bxvl_CiPD7_4q9yG32w1Q7QCJpDA8VTxizt0rG852b2xFRV-GpL_kH6euimP5g2WcFjc5Nz5ZK1w5424OPiNq4oju3yCnRKChCv3ZqsnKVW2W8TDSqwBW5BZJKv9zRxCpg25eNv9vW4PExpqE0j4umTEeO2v9436jgKr6wGFSP1fEyAxb3EqXQJNsQvqzM79fYJD9X8Jen748zWtSMU4RyolgoXao5AbObsTa8BWYhisrWPtb2Toglbnd-4iDFvBkOkxX1osunNhGUvtZU2UClBr08Phbs1TfVEUIxCLgF_Pdk_6nzuZrAUJ67IoPXLIVEAvwQ/nu/f(i=2)/ec04/playlist.m3u8
 
 
 
