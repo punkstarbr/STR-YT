@@ -260,8 +260,7 @@ https://bit.ly/animaux_inspiration_m3u8
 http://xlpore-samsungus.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1  group-title="N/A", Link para Lista de Canais (Gist) - Repete
 https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", CNN International
-https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+
 #EXTINF:-1  group-title="N/A", Sky News (Pluto)
 https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:-1  group-title="N/A", BBC Live
@@ -1289,7 +1288,8 @@ https://sc.id-tv.kz/CaspianNews.m3u8
 #EXTINF:-1  group-title="N/A",CBC (720p) [Not 24/7]
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
 
-#EXTINF:-1  group-title="N/A",CCTV-13#EXTVLCOPT:network-caching=1000
+#EXTINF:-1  group-title="N/A",CCTV-13
+#EXTVLCOPT:network-caching=1000
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=64&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #EXTINF:-1  group-title="N/A",CGTN (576p) [Timeout]
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=14&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
@@ -1311,16 +1311,6 @@ https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1  group-title="N/A",CNBC Bajar (504p) [Geo-blocked]
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
-#EXTINF:-1  group-title="CNN's",CNN Indonesia (720p)
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1  group-title="CNN's",CNN International Europe (720p)
-https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  group-title="CNN's",CNN International Germany (720p)
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  group-title="CNN's",CNN International UK (720p) [Not 24/7]
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  group-title="CNN's",CNN USA (360p)
-http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
 #EXTINF:-1  group-title="N/A",Di TV (720p)
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
 #EXTINF:-1  group-title="N/A",Dighvijay (240p) [Not 24/7]
@@ -1377,8 +1367,7 @@ https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
 https://media.streambrothers.com:1936/8522/8522/playlist.m3u8
 #EXTINF:-1  group-title="N/A",Halab Today TV (480p) [Not 24/7]
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
-#EXTINF:-1  group-title="N/A",HLN (720p)
-https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+
 #EXTINF:-1  group-title="N/A",Identidad TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 #EXTINF:-1  group-title="N/A",IDG (720p)
@@ -1493,8 +1482,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b17aa
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60cb6df2b2ad610008cd5bea/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
 #EXTINF:-1  group-title="N/A",Pluto TV Cheddar (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812afe1d0f0b8d55dde67fa/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812afe1d0f0b8d55dde67fa&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=226&terminate=false&userId=
-#EXTINF:-1  group-title="N/A",Pluto TV CNN (360p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5421f71da6af422839419cb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=209&terminate=false&userId=
+
 #EXTINF:-1  group-title="N/A",Pluto TV Euronews (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1  group-title="N/A",Pluto TV NBC News NOW (720p) [Not 24/7]
@@ -3309,8 +3297,7 @@ http://red.ipfox.org:8080/1234/12345678/25484
 http://red.ipfox.org:8080/1234/12345678/25483
 #EXTINF:-1  group-title="N/A",|DSTV| Daystar
 http://red.ipfox.org:8080/1234/12345678/25482
-#EXTINF:-1  group-title="N/A",|DSTV| CNN International
-http://red.ipfox.org:8080/1234/12345678/25481
+
 #EXTINF:-1  group-title="N/A",|DSTV| Sky News
 http://red.ipfox.org:8080/1234/12345678/25480
 #EXTINF:-1  group-title="N/A",|DSTV| SABC News
@@ -3587,12 +3574,10 @@ http://red.ipfox.org:8080/1234/12345678/2772
 http://red.ipfox.org:8080/1234/12345678/2773
 #EXTINF:-1  group-title="N/A",|TR| Fox TV HD
 http://red.ipfox.org:8080/1234/12345678/2774
-#EXTINF:-1  group-title="N/A",|TR| Cnn Turk HD
-http://red.ipfox.org:8080/1234/12345678/2778
+
 #EXTINF:-1  group-title="N/A",|TR| Disney Channel
 http://red.ipfox.org:8080/1234/12345678/2779
-#EXTINF:-1  group-title="N/A",|TR| Cnn Turk SD
-http://red.ipfox.org:8080/1234/12345678/2780
+
 #EXTINF:-1  group-title="N/A",|TR| History
 http://red.ipfox.org:8080/1234/12345678/2781
 #EXTINF:-1  group-title="N/A",|TR| Cartoon Network
