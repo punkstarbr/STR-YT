@@ -54,8 +54,14 @@ https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/155916
 #EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
 https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="812" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF 🇲🇽 (Baño)
+#EXTINF:-1 tvg-chno="812" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF (Baño)
 http://tv.proyectox.vip:8080/live/JavierIturbe/eJ0kQhvZNJ/45672.m3u8
+
+#EXTINF:-1 tvg-chno="808" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF (Cuarto Tierra)
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/221156.m3u8
+
+#EXTINF:-1 tvg-chno="809" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF (Cuarto Mar)
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/221157.m3u8
 
 #EXTINF:-1 tvg-chno="804" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Multicamaras)
 http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246415.m3u8
