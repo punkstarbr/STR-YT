@@ -76,5 +76,6 @@ http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246412.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",NOTÍCIAS TELEMUNDO - SERVIÇO
 https://telemundolive.akamaized.net/hls/live/2093200/NEWS105/master_main105.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",NOTÍCIAS TELEMUNDO - SERVIÇO 2
-https://telemundolive.akamaized.net/hls/live/2093200/NEWS106/master_main106.m3u8
+
+#EXTINF:-1 tvg-id="RAIUNO" tvg-name="IT: Rai 1" tvg-logo="http://fanc.tmsimg.com/assets/s21834_ll_h3_ac.png" group-title="Italy",IT: Rai 1
+https://dumdumbullet.com/1011454237/bHg8wYxrId/666898
