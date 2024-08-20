@@ -6,10 +6,7 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Eɴɢʟᴀɴᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/225px-ITV1_logo_%282022%29.svg.png",ITV1 - 1 🇬🇧
-http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MA7A3116345831163458&ct=19254&tsum=fe64dc99ba95f220bea2a2a29319b065
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Eɴɢʟᴀɴᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/225px-ITV1_logo_%282022%29.svg.png",ITV1 - 2 🇬🇧
-http://94.194.203.85:9981/stream/channelid/831789889?ticket=9B74D75722EF2482F742D11311E34C1A110706CE&profile=pass
+
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Eɴɢʟᴀɴᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/235px-ITV2_logo_2022.svg.png",ITV2
 http://198.16.100.90:8278/itv2_antik/playlist.m3u8?tid=ME1E6151053761510537&ct=19249&tsum=1ef927017460bcb40a504bbebc9eecb8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Eɴɢʟᴀɴᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/235px-ITV2_logo_2022.svg.png",ITV2 - 2 🇬🇧
