@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/southafrica.xml"
 
+#EXTINF:-1  tvg-id="NBCWest.us" group-title="NEWS WORLD" tvg-logo="https://creativecloud.adobe.com/content/dam/2017/8/evolution-of-nbc-logo/article-marquee.jpg",NBC 7 San Diego
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/200?cb=20190413001619" group-title="GLOBOPLAY",TV Globo
 https://live-01.edge-vtal-gyn-go.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12dGFsLWd5bi1nby52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MjQxNjcyNzgsImlhdCI6MTcyNDA4MDg3OCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI0YjkwY2Y3MS0yYmViLTQyZjItYTVlNC05YmZkM2M4OGFhNjMiLCJwYXRoIjoiL251L2YoaT0yKS9nbG9iby1nbzAxL3BsYXlsaXN0Lm0zdTgifQ.Q1WP8w5kzR-MnV21Hf5M5a1p45XSOcg4QovZgbxc5ifCYdpKRMBgSIBDi1GlQTUPfgja7xUpxSsPKJw7ByAIJOxyqxpDzmVAQ_eCO4dcHRKTtzE0F_1C6cMR_ZmdB7QonXYOUxVrP1iiD7tbS-XxuQDn8LRKkwiQXGGkQJDyFShIiMuKH0XrkynVEfuuto1AlCn6_KlRYu8Qh_BTHnyoQp8snQBM0T3hXQpGbHi5V2gRK_L4mgPOF4sRCbEOhJXQNwb5su4bcc5MOTF2e7v0QlCy7PgsA7U2FeH5M1undOompyi6YOJ32usqyHQrYavJABghuzJDs7aLTO3YO9qxOg/nu/f(i=2)/globo-go01/playlist.m3u8?originpath=/linear/hls/pa/event/zDETlEnQSOeg7oGmhWRNXg/stream/f94548f7-5b12-4921-a9ee-8573b5f374e9:SCL/master.m3u8
 
