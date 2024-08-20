@@ -46,7 +46,7 @@ http://vipatdom.top:8080/VIP0186171413546510/91719429032804/6345
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 http://animalstream.pro:8080/3@5shark@5@4/SanaleFM45@/18615
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" group-title="USA" user-agent="iPhone",Telemundo East
+#EXTINF:0 tvg-id="TelemundoEast.us" player-buffer="30" tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" group-title="USA" user-agent="iPhone",Telemundo East
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
