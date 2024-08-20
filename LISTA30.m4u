@@ -40,8 +40,7 @@ https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UC
 https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/60b56be1000ea50835fa1e63/publish/media_600.m3u8?aid=5fea09a071a9945deebf5f7c&uid=Bg6LI4fKdeMJhhTot6OAvKC85qMFI9ty&sid=dSjQRNid4eGwhdsHrb7lK89xnQ6KDbpz&pid=BISDXRSuMJt0XzKXuCFxh5Y4drTX222b&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&dnt=true&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&proto=https&pz=us
 #EXTINF:-1 ,a más op 2
 https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/60b56be1000ea50835fa1e63/publish/media_600.m3u8
-#EXTINF:-1 ,ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
 #EXTINF:-1 ,ABC TV | PY
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Abu Dhabi Sports 1
@@ -261,14 +260,7 @@ http://168.205.87.198:8555/live/JOSEE/123456/19.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/antony/1234/19.ts?checkedby:iptvcat.com
 #EXTINF:-1 ,Band | BR
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:-1 ,BAND NEWS
-http://168.205.87.198:8555/live/JOSEE/123456/174.ts?checkedby:iptvcat.com
-#EXTINF:-1 ,BAND NEWS
-http://168.205.87.198:8555/live/michele/123456/174.ts?checkedby:iptvcat.com
-#EXTINF:-1 ,BAND NEWS
-http://168.205.87.198:8555/live/1221/123456/174.ts?checkedby:iptvcat.com
-#EXTINF:-1 ,BAND NEWS
-http://168.205.87.198:8555/live/antony/1234/174.ts?checkedby:iptvcat.com
+
 #EXTINF:-1 ,BAND SPORTS
 http://168.205.87.198:8555/live/antony/1234/176.ts?checkedby:iptvcat.com
 #EXTINF:-1 ,BAND SPORTS
@@ -541,8 +533,7 @@ http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/
 http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Caxias
 https://video-auth1.iol.pt/beachcam/caxias/playlist.m3u8
-#EXTINF:-1 ,CBS News | US
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 ,CEAC TV | CL
 https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Celta TV | AR
@@ -571,8 +562,7 @@ http://s8.stweb.tv:1935/chacra/live/chunks.m3u8?checkedby:iptvcat.com
 https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Channel Fight HD (ENG)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
-#EXTINF:-1 ,Channel News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
 #EXTINF:-1 ,Chavo TV | CL
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,CHI: SPORTING HD
@@ -804,20 +794,7 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,EURO SPORT 4K
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_EUROSPORT4K_HLS/bw20000000/variant.m3u8
-#EXTINF:-1 ,Euronews DE
-https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews EN
-https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews ES
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews FR
-https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews Inglês (720p)
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:-1 ,Euronews IT
-https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Euronews PT
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 ,Europa FM
 https://livefastly-webs.europafm.com/europafm/audio/master.m3u8
 #EXTINF:-1 ,Euskalerria Irratia
@@ -886,10 +863,7 @@ http://wowza.softhost.com.br:1935/fonte/fontetv/chunklist_w1903947223.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 ,FOX HITS
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1 ,FOX NEWS USA
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 ,Fox sport news
-https://austchannel-live.akamaized.net:443/hls/live/2002736/austchannel-sport/master.m3u8
+
 #EXTINF:-1 ,Fox Sports HD (ENG)
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?ROGERIOTORRES
 #EXTINF:-1 ,Foz do Arelho
@@ -974,8 +948,7 @@ http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 https://videos3.earthcam.com/fecnetwork/4338.flv/index.m3u8
 #EXTINF:-1 ,group-title="Live Cam" -  Lions Den US
 https://videos3.earthcam.com/fecnetwork/8671.flv/index.m3u8
-#EXTINF:-1 ,group-title="NEWS WORLD" - CCX1 News (USA)
-http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+
 #EXTINF:-1 ,group-title="Regional" - NDA Channel
 http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
 #EXTINF:-1 ,group-title="Tamil" - Eet TV
