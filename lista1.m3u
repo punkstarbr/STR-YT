@@ -481,17 +481,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/6320ddef274b1b0007b2ee88/master.m3u
 
 
 
-#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="USA",TBS East
-https://webudi.openhd.lol/lb/premium336/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="USA",TNT East
-https://webudi.openhd.lol/lb/premium338/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:0 type="stream" channelId="1967" group-title="USA", Telemundo - Wnju
-https://v-ny.mybtv.net/live/659.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1920px-The_CW.svg.png" group-title="USA",The CW East
-https://v-ny.mybtv.net/live/562/1280x720.m3u8
 
 
 
