@@ -30,32 +30,9 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="ESPANHA",Deportivos: RealMadrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="ESPANHA",Infantiles: Cartoon Network Latino
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="ESPANHA",Infantiles: Cartoon Network Latino
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPANHA",Eventuales: +24
-https://rtvelivestream.akamaized.net/eventual/oca/irtve13_main_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://img2.rtve.es/resources/thumbslive/6924117.jpg" group-title="ESPANHA",Eventuales: +24
-https://rtvelivestream.akamaized.net/eventual/gofast/play_crimen_main_1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://img2.rtve.es/resources/thumbslive/6922467.jpg" group-title="ESPANHA",Eventuales: +24
-https://rtvelivestream.akamaized.net/eventual/gofast/play_epoca_main_1080.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ESPANHA",Eventuales: +24
-https://rtvelivestream.akamaized.net/eventual/gofast/play_cine_main_1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://img2.rtve.es/resources/thumbslive/6909843.jpg" group-title="ESPANHA",Eventuales: +24
-https://rtvelivestream.akamaized.net/eventual/gofast/play_series_main_1080.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPANHA",Eventuales: +24
-https://rtvehlslivestream.akamaized.net/hls/live/2041583/IRTVE01_AKA_HLS_GL0/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPANHA",Eventuales: +24
-https://rtvehlslivestream.akamaized.net/hls/live/2041585/IRTVE02_AKA_HLS_GL0/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPANHA",Eventuales: +24
-https://rtvehlslivestream.akamaized.net/hls/live/2041586/IRTVE03_AKA_HLS_GL0/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPANHA",Eventuales: +24
 https://rtvehlslivestream.akamaized.net/hls/live/2041587/IRTVE04_AKA_HLS_GL0/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ESPANHA",Eventuales: +24
