@@ -18,28 +18,6 @@ http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 
 
 
-
-#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",TUDN
-#EXTVLCOPT:http-referrer=https://www.mediaset.es/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:referrer=https://www.mediaset.es/
-#EXTVLCOPT:player-continuous-http
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25338
-
-#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",UNIMÁS
-#EXTVLCOPT:http-referrer=https://www.mediaset.es/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:referrer=https://www.mediaset.es/
-#EXTVLCOPT:player-continuous-http
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25339
-
-#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",FOX DEPORTES
-#EXTVLCOPT:http-referrer=https://www.mediaset.es/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:referrer=https://www.mediaset.es/
-#EXTVLCOPT:player-continuous-http
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25341
-
 #EXTINF:-1 group-title="USA" tvg-logo="https://tvconnect.us/wp-content/uploads/2022/05/logotipo-tvc.webp", CONNECT USA
 https://5a3c48d69cf69.streamlock.net/tvconnect/tvconnect.sdp/playlist.m3u8
 
