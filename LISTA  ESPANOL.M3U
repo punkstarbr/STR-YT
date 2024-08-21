@@ -17,11 +17,10 @@ http://77.228.160.100:61800/play/a00b
 #EXTINF:-1 tvg-name="fdf" tvg-id="Factoría de Ficción" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png",fdfᴴᴰ 🇪🇸
 http://77.228.160.100:61800/play/a00i
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="ESPANHA",Generalistas: La 1
-https://ztnr.rtve.es/ztnr/6712432.m3u8
-
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="ESPANHA",Generalistas: La 2
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="La1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",La 1
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="La2.TV" tvg-logo="https://www.camilos.es/wp-content/uploads/2018/03/logo_tve-2-750699.png",La 2
+https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 
 
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="ESPANHA",Informativos: Negocios TV
