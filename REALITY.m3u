@@ -1,3 +1,360 @@
+#EXTM3U
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/southafrica.xml"
+
+
+#EXTINF:-1  tvg-id="NBCWest.us" group-title="NEWS WORLD" tvg-logo="https://creativecloud.adobe.com/content/dam/2017/8/evolution-of-nbc-logo/article-marquee.jpg",NBC 7 San Diego
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-logo="https://imgur.com/waZJG1M.png",Globo RJ HD
+https://new.embedflix.co/p2p/globorj/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Reality Show'S Live",Globo SP SD
+https://cdn-4.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Reality Show'S Live",Globo SP HD
+https://cdn-4.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Reality Show'S Live",Globo SP FHD
+https://new.embedflix.co/p2p/globosp/chunks.m3u8
+#EXTINF:-1 tvg-name="ESTRELA DA CASA" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="Reality Show'S Live",ESTRELA DA CASA
+http://bccdn.xyz:80/Mxpro82/728292000/449329
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 01" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="Reality Show'S Live",ESTRELA DA CASA 01
+http://bccdn.xyz:80/Mxpro82/728292000/449330
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 02" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="Reality Show'S Live",ESTRELA DA CASA 02
+http://bccdn.xyz:80/Mxpro82/728292000/449331
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 03" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="Reality Show'S Live",ESTRELA DA CASA 03
+http://bccdn.xyz:80/Mxpro82/728292000/449332
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 04" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="Reality Show'S Live",ESTRELA DA CASA 04
+http://bccdn.xyz:80/Mxpro82/728292000/449333
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 05" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="Reality Show'S Live",ESTRELA DA CASA 05
+http://bccdn.xyz:80/Mxpro82/728292000/449334
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 06" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="Reality Show'S Live",ESTRELA DA CASA 06
+http://bccdn.xyz:80/Mxpro82/728292000/449335
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 07" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="Reality Show'S Live",ESTRELA DA CASA 07
+http://bccdn.xyz:80/Mxpro82/728292000/449336
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 08" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="Reality Show'S Live",ESTRELA DA CASA 08
+http://bccdn.xyz:80/Mxpro82/728292000/449337
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 09" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="Reality Show'S Live",ESTRELA DA CASA 09
+http://bccdn.xyz:80/Mxpro82/728292000/449338
+#EXTINF:-1 tvg-name="ESTRELA DA CASA 10" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="Reality Show'S Live",ESTRELA DA CASA 10
+http://bccdn.xyz:80/Mxpro82/728292000/449339
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Z3BU41y.png" group-title="Reality Show'S Live",Estrela Da Casa 1
+https://cr7v.short.gy/ManoTV/Whats75991634025/ECCam1/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Z3BU41y.png" group-title="Reality Show'S Live",Estrela Da Casa 2
+https://cr7v.short.gy/ManoTV/Whats75991634025/ECCam2/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Z3BU41y.png" group-title="Reality Show'S Live",EC 1 Extra
+https://abc.embedmax.site/estrelacasa1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Z3BU41y.png" group-title="Reality Show'S Live",EC 2 Extra
+https://abc.embedmax.site/estrelacasa2/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="USA",Telemundo Miami
+http://170.82.37.21:8000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="USA",Telemundo Miami 2
+http://190.185.121.102:58092/play/a00f
+#EXTINF:-1 group-title="USA" tvg-logo="https://docdog.top/logo/countries/us/telemundochicago.png",TELEMUNDO CHICAGO
+http://vipatdom.top:8080/VIP0186171413546510/91719429032804/6345
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" group-title="USA" user-agent="iPhone",Telemundo Atlanta
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://animalstream.pro:8080/3@5shark@5@4/SanaleFM45@/18615
+#EXTINF:0 tvg-id="TelemundoEast.us" player-buffer="30" tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" group-title="USA" user-agent="iPhone",Telemundo East
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Mp5fMxR/Canal57.png" group-title="USA" user-agent="iPhone",Canal 57 Miami
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/yY68NHt/vtv.png" group-title="Nacionales" user-agent="iPhone", VTv Canal 17
+https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
+https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="812" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF (Baño)
+http://tv.proyectox.vip:8080/live/JavierIturbe/eJ0kQhvZNJ/45672.m3u8
+
+#EXTINF:-1 tvg-chno="808" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF (Cuarto Tierra)
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/221156.m3u8
+
+#EXTINF:-1 tvg-chno="809" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF (Cuarto Mar)
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/221157.m3u8
+
+#EXTINF:-1 tvg-chno="804" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Multicamaras)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246415.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam1)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246416.m3u8
+
+#EXTINF:-1 tvg-chno="801" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam2)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246414.m3u8
+
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam3)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246413.m3u8
+
+#EXTINF:-1 tvg-chno="803" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam4)
+http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246412.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",NOTÍCIAS TELEMUNDO - SERVIÇO
+https://telemundolive.akamaized.net/hls/live/2093200/NEWS105/master_main105.m3u8
+
+#EXTINF:-1 tvg-id="RAIUNO" tvg-name="IT: Rai 1" tvg-logo="http://fanc.tmsimg.com/assets/s21834_ll_h3_ac.png" group-title="Italy",IT: Rai 1
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK (ITVX) World Of MorseUK (ITVX) Celebrity Big Brother: Live Stream" tvg-logo="" group-title="United Kingdom",Big Brother UK
+https://dumdumbullet.com/1011454237/bHg8wYxrId/799921107223
+
+
+
+
+#EXTINF:-1 tvg-id="RAIUNO" tvg-name="IT RAI 1 (D)" tvg-logo="http://fanc.tmsimg.com/assets/s21834_ll_h3_ac.png" group-title="ITALY",IT RAI 1
+https://dumdumbullet.com/1011454237/bHg8wYxrId/79992114898
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png",RAI 1
+http://154.54.220.67:34780/play/a046
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png",RAI 1
+http://45.65.112.49:8000/play/a078
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png",RAI 1
+http://190.94.186.158:9981/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-logo="",RAI 2
+http://154.54.220.67:34780/play/a047
+#EXTINF:-1 tvg-logo="",RAI 2
+http://45.65.112.49:8000/play/a079
+#EXTINF:-1 tvg-id="RAIDUE" tvg-name="IT RAI 2 (D)" tvg-logo="http://fanc.tmsimg.com/assets/s21812_ll_h3_aa.png" group-title="ITALY",IT RAI 2 (D)
+https://dumdumbullet.com/1011454237/bHg8wYxrId/79992114900
+#EXTINF:-1 tvg-id="RAIDUE" tvg-name="IT: Rai 2" tvg-logo="http://fanc.tmsimg.com/assets/s21812_ll_h3_aa.png" group-title="Italy",IT: Rai 2
+https://dumdumbullet.com/1011454237/bHg8wYxrId/666899
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/250px-Rai_3_-_Logo_2016.svg.png",RAI 3
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 tvg-id="RAITRE" tvg-name="IT RAI 3 (D)" tvg-logo="http://fanc.tmsimg.com/assets/s53928_ll_h3_as.png" group-title="ITALY",IT RAI 3 (D)
+https://dumdumbullet.com/1011454237/bHg8wYxrId/79992114901
+#EXTINF:-1 tvg-id="RAITRE" tvg-name="IT: Rai 3" tvg-logo="http://fanc.tmsimg.com/assets/s53928_ll_h3_as.png" group-title="Italy",IT: Rai 3
+https://dumdumbullet.com/1011454237/bHg8wYxrId/6661979
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="24/7 REALITY LIVE",CANAL 5
+http://181.78.106.127:9000/play/ca012/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" group-title="24/7 REALITY LIVE",CANAL 5 - 2
+http://170.82.37.21:8000/play/a02h/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="24/7 REALITY LIVE",Canal 5  - 3
+http://181.78.105.146:2000/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" group-title="24/7 REALITY LIVE" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/4d/Logo_cn5.png/revision/latest?cb=20150519224125&path-prefix=es",CANAL 5 - 4
+http://181.78.105.146:2000/play/a038/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="24/7 REALITY LIVE",CANAL 5 - 5
+http://45.228.234.167:8000/play/a0ll/index.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/YL1K2C5/Canal-5mx.png" group-title="24/7 REALITY LIVE",CANAL 5 - 6
+http://alfatv.lat:2082/Jk12/KnhcZNttJawM/314687
+
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png"  group-title="24/7 REALITY LIVE",CANAL 5 - 7
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="Reality Show's Live",CANAL 5 - 8
+https://nffthex0kzt.xyz/rk/GjhccbbfddghjdfhhpoljgdsrtggvhgxvzBA/Mbcdfgssghcctsehhgghtdwwexcbnvddw/465.m3u8 
+##EXTVLCOPT:network-caching=1000 #EXTVLCOPT--http-reconnect=true 
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Reality Show's Live",CANAL 5 - 9
+http://00322.xyz:8000/live/saabj84/CNGUPDY6RA/129037.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" group-title="Reality Show's Live",CANAL 5 - 10
+http://38.7.24.161:8000/play/a028
+
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Reality Show's Live",CANAL 5 - 11
+http://38.7.24.161:8000/play/a028
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Reality Show's Live",CANAL 5 - 12
+http://45.68.35.218:4001/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Reality Show's Live",CANAL 5 - 13
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Reality Show's Live",CANAL 5 - 14
+http://45.228.234.167:8000/play/a0ll/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" tvg-logo="http://i64.tinypic.com/2gy8t5h.jpg" group-title="Reality Show'S Live",UNIVISION
+http://45.171.64.180:8000/play/a05c/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 channel-id="samsung-USBC4400020H7" tvg-id="USBC4400020H7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400020H7_20230322T000014SQUARE.png_20230322000014.png" group-title="NEWS WORLD", Telemundo California
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/141621315-19d48d33-4056-4cd1-98bb-aa02ef330bc5.jpg",GRANDE FRATELLO 1 (VPN)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/161234855-c2534e23-ece4-4522-a64f-7458d0b81235.jpg",GRANDE FRATELLO 2 (VPN)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/161437008-47102c5b-a276-4ba1-9534-1cdc26500b30.jpg",GRANDE FRATELLO 3 (VPN)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
+
+
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/162147028-be9e6411-6b5b-44d3-b135-e0109797cc09.jpg",GRANDE FRATELLO EXTRA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/162147028-be9e6411-6b5b-44d3-b135-e0109797cc09.jpg",GRANDE FRATELLO EXTRA - BACKUP
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/08/162147028-be9e6411-6b5b-44d3-b135-e0109797cc09.jpg",GRANDE FRATELLO EXTRA - BACKUP
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live03-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/11/202629434-8966f8cd-169e-4290-ba01-6f097053d833.jpg",GRANDE FRATELLO PARTY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(b1)/index.m3u8
+
+#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2023/09/11/202629434-8966f8cd-169e-4290-ba01-6f097053d833.jpg",GRANDE FRATELLO PARTY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest.mpd
+
+
+
+
+
+
+#EXTINF:-1 channel-id="pluto-64a766cd798def0008734695" tvg-id="64a766cd798def0008734695" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG.png" tvg-chno="1830" group-title="Reality Show's Live", Big Brother Quad View
+https://jmp2.uk/PlutoTV/64a766cd798def0008734695-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64a765c04ea480000823917a" tvg-id="64a765c04ea480000823917a" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG.png" tvg-chno="1835" group-title="Reality Show's Live", Big Brother Camera 1
+https://jmp2.uk/PlutoTV/64a765c04ea480000823917a-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64a765fb798def0008734632" tvg-id="64a765fb798def0008734632" tvg-logo="https://images.pluto.tv/channels/64a765fb798def0008734632/colorLogoPNG.png" tvg-chno="1840" group-title="Reality Show's Live", Big Brother Camera 2
+https://jmp2.uk/PlutoTV/64a7665b902f2300085d7901-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64a7665b902f2300085d7901" tvg-id="64a7665b902f2300085d7901" tvg-logo="https://images.pluto.tv/channels/64a7665b902f2300085d7901/colorLogoPNG.png" tvg-chno="1845" group-title="Reality Show's Live", Big Brother Camera 3
+https://jmp2.uk/PlutoTV/64a765fb798def0008734632-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64a766a794635e0008626601" tvg-id="64a766a794635e0008626601" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/colorLogoPNG.png" tvg-chno="1850" group-title="Reality Show's Live", Big Brother Camera 4
+https://jmp2.uk/PlutoTV/64a766a794635e0008626601-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64a765c04ea480000823917a" tvg-id="64a765c04ea480000823917a" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/7507/928055-613360/603fb01989f749f9f9786a24a4cf8ffa.jpg" group-title="Reality Show's Live",US Big Brother 1 (FHD)
+https://dumdumbullet.com/1011454237/bHg8wYxrId/799921124935
+
+#EXTINF:-1 channel-id="pluto-64a765fb798def0008734632" tvg-id="64a765fb798def0008734632" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/7507/928055-613360/603fb01989f749f9f9786a24a4cf8ffa.jpg" group-title="Reality Show's Live",US Big Brother 2 (FHD)
+https://dumdumbullet.com/1011454237/bHg8wYxrId/799921124936
+
+#EXTINF:-1 channel-id="pluto-64a7665b902f2300085d7901" tvg-id="64a7665b902f2300085d7901" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/7507/928055-613360/603fb01989f749f9f9786a24a4cf8ffa.jpg" group-title="Reality Show's Live",US Big Brother 3 (FHD)
+https://dumdumbullet.com/1011454237/bHg8wYxrId/799921124937
+
+#EXTINF:-1 channel-id="pluto-64a766a794635e0008626601" tvg-id="64a766a794635e0008626601" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/7507/928055-613360/603fb01989f749f9f9786a24a4cf8ffa.jpg" group-title="Reality Show's Live",US Big Brother 4 (FHD)
+https://dumdumbullet.com/1011454237/bHg8wYxrId/799921124938
+
+#EXTINF:-1 channel-id="pluto-64a766cd798def0008734695" tvg-id="64a766cd798def0008734695" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/7507/928055-613360/603fb01989f749f9f9786a24a4cf8ffa.jpg" group-title="Reality Show's Live",US Big Brother 2023 Quad View (FHD)
+https://dumdumbullet.com/1011454237/bHg8wYxrId/799921124939
+
+#EXTINF:-1 tvg-id="Mzansi Magic Music HD.za" tvg-name="AF ZA Big Brother Mzansi" tvg-logo="" group-title="African Sports",AF ZA Big Brother Mzansi
+https://dumdumbullet.com/1011454237/bHg8wYxrId/799921111701
+
+#EXTINF:-1 tvg-id="Mzansi Magic Music HD.za" tvg-name="AF ZW Mzansi Magic" tvg-logo="" group-title="African Sports",AF ZW Mzansi Magic
+https://dumdumbullet.com/1011454237/bHg8wYxrId/79992128060
+
+#EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="FR",TF1
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 - 2
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-id="",TF1 - 3
+http://212.102.60.80/TF1/index.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1" tvg-logo="https://docdog.top/logo/countries/france/tf1-fr.png" group-title="FR",TF1 - 4
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/419
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1" tvg-logo="https://docdog.top/logo/countries/france/tf1-fr.png" group-title="FR",TF1 - 5
+http://vipphyla.top:8080/VIP019169419870119/91702539200735/128944
+
+
+
+
+
+#EXTINF:-1,CHV HD
+http://45.181.123.233:8000/play/a0kl
+
+#EXTINF:-1 tvg-id="pink-reality" tvg-name="Pink Reality" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkReality.png" group-title="Reality Show's Live",Farma Sérvia
+http://bntvs.com:2052/mojvps/svWEB7CXPT/8753
+#EXTINF:-1 tvg-id="pink" tvg-name="PINK 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/Domaci%20UBAČENO/72.%20PINK%201.png" group-title="Srbija",PINK 1
+http://bntvs.com:2052/mojvps/svWEB7CXPT/9
+#EXTINF:-1 tvg-id="pink-plus" tvg-name="Pink Plus" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkPlus.png" group-title="Pink",Pink Plus
+http://bntvs.com:2052/mojvps/svWEB7CXPT/8751
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Reality Show's Live",Zadruga 1
+http://bntvs.com:2052/mojvps/svWEB7CXPT/8736
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Reality Show's Live",Zadruga 2
+http://bntvs.com:2052/mojvps/svWEB7CXPT/8737
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Reality Show's Live",Zadruga 3
+http://bntvs.com:2052/mojvps/svWEB7CXPT/8738
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Reality Show's Live",Zadruga 4
+http://bntvs.com:2052/mojvps/svWEB7CXPT/8739
+
+#EXTINF:-1 group-title="Reality Show's Live", BIG BROTHER AUSTRALIA (VPN)
+https://csm-e-n7aus-eb.tls1.yospace.com/csm/extlive/sevenprd01,CAS07.m3u8
+#EXTINF:-1 group-title="Reality Show's Live",WHO WANT BE A MULHER DO FAZENDEIRO AUSTRALIA (VPN)
+https://csm-e-n7aus-eb.tls1.yospace.com/csm/extlive/sevenprd01,CAS14.m3u8
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Big%20Brother.png",BIG BROTHER ISRAEL (VPN)
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Big%20Brother.png",BIG BROTHER ISRAEL (VPN) 2
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_6fr5xbw2/deliveryProfileId/672/protocol/https/format/applehttp/index_3.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="UK (ITVX) World Of MorseUK (ITVX) Celebrity Big Brother: Live Stream" tvg-logo="" group-title="United Kingdom",Big Brother UK
