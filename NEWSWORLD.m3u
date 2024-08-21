@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg" tvg-id="", Fox News
+http://cord-cutter.net:8080/k4Svp2/645504/1818#checkedby:alliptvlinks.com
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-chno="" tvg-id="" tvg-logo="",Deutsche Welle
 https://mrgmaw.github.io/enlaces/xy/dwes.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-chno="" tvg-id="" tvg-logo="",RT
