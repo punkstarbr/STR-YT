@@ -8,6 +8,14 @@ https://directo.atresmedia.com/2e1074e3833f6b8d5d237f37de397b10c1f3cb66_16827731
 https://atres-live.atresmedia.com/416f09f5f2945d4a4761b12a66f9e6e2b63eb0fb_ES_1682741292_1682770032/h264/live/lasexta/master.m3u8
 
 
+#EXTINF:-1 tvg-name="Cuatro" tvg-id="Cuatro" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Cuatro.svg",Cuatroᴴᴰ 🇪🇸
+http://77.228.160.100:61800/play/a00l
+#EXTINF:-1 tvg-name="Telecinco" tvg-id="Telecinco" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",Telecincoᴴᴰ 🇪🇸 🟡
+http://77.228.160.100:61800/play/a00k
+#EXTINF:-1 tvg-name="LaSexta" tvg-id="La Sexta" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/La%20Sexta.png",La Sextaᴴᴰ 🇪🇸
+http://77.228.160.100:61800/play/a00b
+#EXTINF:-1 tvg-name="fdf" tvg-id="Factoría de Ficción" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png",fdfᴴᴰ 🇪🇸
+http://77.228.160.100:61800/play/a00i
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="ESPANHA",Generalistas: La 1
 https://ztnr.rtve.es/ztnr/6712432.m3u8
