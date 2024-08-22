@@ -329,24 +329,10 @@ https://eu-nl-012.worldcast.tv/dancetelevisionseven/2/dancetelevisionseven.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",24/7 ELETRÔNICA 8
 https://eu-nl-012.worldcast.tv/dancetelevisioneight/2/dancetelevisioneight.m3u8
 
-#EXTINF:-1 tvg-chno="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Azteca_Uno_logo.webp/245px-Azteca_Uno_logo.webp.png",Azteca 1
-http://tvstarlife.com:25461/live/geovany/geovany/27241.m3u8
-#EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas
-http://tvstarlife.com:25461/live/geovany/geovany/24565.m3u8
-#EXTINF:-1 tvg-chno="112" tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/09/AZ-MUNDO-NI-1024x320.jpg",Azteca Mundo
-http://tvstarlife.com:25461/live/geovany/geovany/27297.m3u8
-#EXTINF:-1 tvg-chno="113" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default_mobile/public/images/logos/canl-nueve-100x100.png",Nu9ve
-http://tvstarlife.com:25461/live/geovany/geovany/5137.m3u8
 
 
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/75FDrud.png" group-title="Radios Internacionales",Radio Sputnik | Rusia
-https://nfw.ria.ru/flv/audio.aspx?ID=58982499&type=mp3
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/4NvtTYp.png" group-title="Radios Internacionales",Los 40 | Colombia
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIAAAC_SC
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/71kcIC0.png" group-title="Radios Internacionales",Radio Francia Internacional en español | Francia
-http://live02.rfi.fr/rfienespagnol-64.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/LaG8trk.png" group-title="Radios Internacionales",Rock FM | Rumania
-https://live.rockfm.ro/rockfm.aacp
+
+
