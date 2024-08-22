@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/unitedstatespremium3.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/unitedstatespremium4.xml"
 
 
 #EXTINF:-1  tvg-id="N/A" group-title="SPORTS" tvg-logo="N/A",TVS Boxing
