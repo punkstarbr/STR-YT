@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GxRmwcz/cnnportugal.png" group-title="NEWS WORLD" user-agent="iPhone", CNN Portugal
+http://viegas.maisvip.top:8080/FilipePena2022/AS24FTZ88WPL7/26
+
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg" tvg-id="",Fox News
 http://cord-cutter.net:8080/k4Svp2/645504/1818#checkedby:alliptvlinks.com
 
