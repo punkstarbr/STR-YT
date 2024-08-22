@@ -8,6 +8,8 @@ https://directo.atresmedia.com/2e1074e3833f6b8d5d237f37de397b10c1f3cb66_16827731
 https://atres-live.atresmedia.com/416f09f5f2945d4a4761b12a66f9e6e2b63eb0fb_ES_1682741292_1682770032/h264/live/lasexta/master.m3u8
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Antena 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91176_dark_360w_270h.png" group-title="ESPAÑA",Antena 3
+http://232802178476321106.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321106.ts
 #EXTINF:-1 tvg-name="Cuatro" tvg-id="Cuatro" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Cuatro.svg",Cuatroᴴᴰ 🇪🇸
 http://77.228.160.100:61800/play/a00l
 #EXTINF:-1 tvg-name="Telecinco" tvg-id="Telecinco" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",Telecincoᴴᴰ 🇪🇸 🟡
