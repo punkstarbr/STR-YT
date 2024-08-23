@@ -1,6 +1,9 @@
-#EXTINF:-1,GLOBO RJ INVERTIDO
+#EXTINF:-1,GLOBO RJ 
 https://abc.embedmax.site/globorj/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1,GLOBO SP
+https://abc.embedmax.site/Globosp/tracks-v1a1/mono.m3u8
+#EXTINF:-1,GLOBO MG
+https://new.embedflix.co/p2p/globominas/chunks.m3u8?nimblesessionid=11234320&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI0IDY6NDk6MzAgQU0maGFzaF92YWx1ZT10Vlp1Q3J2WWVGaEg3NlMzT0dNUm53PT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:-1,EC BANHEIRO
 https://live-as-01-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDEtMDMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzI0NDgxNTkzLCJpYXQiOjE3MjQzOTUxOTMsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDApL2VjMDYvcGxheWxpc3QubTN1OCJ9.WePt7oYVMDpca-WYaRMBtJoXCWHjGB97Zx4yvwnPQye4Px5kRUE1ahxERCBkrckfrGtNmI9fzDFjKvsa-cYLR6gKKCxKkEn-5OIXkjmTE62sOQ1Xennar5EhOaka7-y6dvqyqRx3ztk9wcDPUzJfTFT4yj3R1xFIYco_JDWBRjKPBT_PkaDpPlQ3meWipFDzN3czw-wxBVN-n8Y6JTuBx6ldzT23MBQSivlPGAOAlg4FrccmzMD4nNaDyqeiSIXashw0sk3VtSp0M1LrFWAbSoXfa5NkYDrl05zNi1I1B3g5HMnBucHSS-5XlWTHzW_40LeDO3HzsAMHMBSg2bwAFw/nu/f(bMax=3300000,bMin=2000)/ec06/ec06-audio_1=96000-video=3092992.m3u8
 #EXTINF:-1,EC QUARTO 1
