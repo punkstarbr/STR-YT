@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br",GLOBO RJ 
 https://abc.embedmax.site/globorj/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Globo SP
+#EXTINF:-1 tvg-id="Globo SP",Globo SP
 https://abc.embedmax.site/Globosp/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GLOBO MG
 https://new.embedflix.co/p2p/globominas/chunks.m3u8?nimblesessionid=11234320&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI0IDY6NDk6MzAgQU0maGFzaF92YWx1ZT10Vlp1Q3J2WWVGaEg3NlMzT0dNUm53PT0mdmFsaWRtaW51dGVzPTE2MA==
