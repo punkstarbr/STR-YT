@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="NEWS WORLD",GLOBO NEWS HD	
+http://cord-cutter.net:8080/live/j3McKd/673709/164945.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD",GLOBO NEWS HD	
+https://dumdumbullet.com/1011454237/bHg8wYxrId/66614513
+
 #EXTINF:-1 tvg-chno="807" tvg-rec="28" tvg-id="RTUK.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/rt-epg.png" group-title="News",RT UK
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
@@ -278,11 +284,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u
 
 
 
-#EXTINF:-1 group-title="NEWS WORLD",GLOBO NEWS HD	
-http://cord-cutter.net:8080/live/j3McKd/673709/164945.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",GLOBO NEWS HD	
-https://dumdumbullet.com/1011454237/bHg8wYxrId/66614513
 
 #EXTINF:-1 group-title="NEWS WORLD",CNN CHILE
 http://cord-cutter.net:8080/live/j3McKd/673709/57619.m3u8
