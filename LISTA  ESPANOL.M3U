@@ -8,8 +8,7 @@ https://directo.atresmedia.com/2e1074e3833f6b8d5d237f37de397b10c1f3cb66_16827731
 https://atres-live.atresmedia.com/416f09f5f2945d4a4761b12a66f9e6e2b63eb0fb_ES_1682741292_1682770032/h264/live/lasexta/master.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Antena 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91176_dark_360w_270h.png" group-title="ESPAÑA",Antena 3
-http://232802178476321106.ottplayers.xyz:80/play/fe0103523/EKCBrN77pdfdnh/321106.ts
+
 #EXTINF:-1 tvg-name="Cuatro" tvg-id="Cuatro" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Cuatro.svg",Cuatroᴴᴰ 🇪🇸
 http://77.228.160.100:61800/play/a00l
 #EXTINF:-1 tvg-name="Telecinco" tvg-id="Telecinco" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",Telecincoᴴᴰ 🇪🇸 🟡
@@ -25,8 +24,7 @@ http://77.228.160.100:61800/play/a00i
 
 
 
-#EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="ESPANHA",Generalistas: TRECE
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://seeklogo.com/images/T/tve_24h-logo-CF2D2CC96E-seeklogo.com.jpg" group-title="ESPANHA",Informativos: 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
