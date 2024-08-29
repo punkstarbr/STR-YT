@@ -4,11 +4,6 @@
 #EXTINF:-1 tvg-id="XHFNTDT1.mx",TV Azteca Noroeste (Monterrey) (720p)
 https://live.info7.mx/info7/stream.m3u8
 
-#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas",Las Estrellas Latin America (720p)
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas",Las Estrellas-HD (XHX-TDT1) (480p)
-http://190.61.102.67:2000/play/a00g/index.m3u8
-
 #EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno.png" group-title="MEXICO",1.1 Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
