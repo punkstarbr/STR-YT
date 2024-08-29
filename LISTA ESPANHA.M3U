@@ -3,8 +3,6 @@
 https://bit.ly/3FblQIm?/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/babyfirts.png",🇧🇷🧒 ●| Baby Firts [Pluto]
 https://bit.ly/BabyFirts?/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/super_it.png",🇮🇹🧒 ●| Super!Ⓢ 
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://www.pakapaka.gob.ar/img/botones/logo-pakapaka-2.png",🇦🇷🧒 ●| Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w190057400.m3u8
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://sck.pm/sc9k",🇪🇸🧒 ●| TVG Infantil
@@ -16,24 +14,7 @@ http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1566276094.m3u8
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200",🇪🇸🧒 ●| Pequeradio TV 
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/094",🇪🇸 ●| M+ Portada
-http://85.50.168.40:8001/1:0:1:759c:422:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/094",🇪🇸 ●| M. #0
-http://85.50.168.40:8001/1:0:19:788c:414:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/094",🇪🇸 ●| M. estrenos
-http://85.50.168.40:8001/1:0:1:76C0:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/094",🇪🇸 ●| M. Estrenos 2
-http://85.50.168.40:8001/1:0:1:7588:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/094",🇪🇸 ●| M. Comedia
-http://85.50.168.40:8001/1:0:19:7857:41a:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/094",🇪🇸 ●| M. Drama
-http://85.50.168.40:8001/1:0:19:750b:420:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/094",🇪🇸 ●| M. Accion
-http://85.50.168.40:8001/1:0:1:746C:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/094",🇪🇸 ●| M. Series 2
-http://85.50.168.40:8001/1:0:1:7696:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/094",🇪🇸 ●| M. Cine Ñ
-http://85.50.168.40:8001/1:0:1:7736:416:1:c00000:0:0:0:
+
 #EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://cdn.amcnetworks.com/sundance/logos/sundance_tv_logo.png",🇪🇸 ●| Sundance tv
 http://84.112.18.204:8001/1:0:1:76a5:41e:1:c00000:0:0:0:
 
