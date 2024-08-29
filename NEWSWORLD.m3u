@@ -7,7 +7,6 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://list.iptvcat.com/my_list/s/f4111eb523f441da59566bd3a5592750.m3u8
 #EXTINF:-1 tvg-chno="854" tvg-id="BBCNews.uk" tvg-url="https://i.imgur.com/GjICLWN.png" group-title="News" status="online",BBC News (alternative stream)
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
 #EXTINF:-1 tvg-id="30AInvestmentPitch.us" tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="BUSINESS NEWS",30A Investment Pitch (720p)
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1 tvg-id="ADOCCOTV.do" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="BUSINESS NEWS",ADOCCO TV (720p)
