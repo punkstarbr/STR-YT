@@ -6,6 +6,38 @@ http://cord-cutter.net:8080/live/j3McKd/673709/164945.m3u8
 #EXTINF:-1 group-title="NEWS WORLD",GLOBO NEWS HD	
 https://dumdumbullet.com/1011454237/bHg8wYxrId/66614513
 
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GxRmwcz/cnnportugal.png" group-title="NEWS WORLD" user-agent="iPhone", CNN Portugal
+http://viegas.maisvip.top:8080/FilipePena2022/AS24FTZ88WPL7/26
+#EXTINF:-1  tvg-id="cnn.brasil.br" group-title="NEWS WORLD",CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cnn.brasil.br" group-title="NEWS WORLD" group-title="CNN's" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/5f9d3fdfa54d566601cc39893f153d9fbf12f136/CNN_Brasil.svg",CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL" group-title="NEWS WORLD" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias - SEM VPN
+https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1  tvg-id="CNN en Espanol" tvg-name="CNN en Espanol" group-title="NEWS WORLD" tvg-logo="https://monitortv.vercel.app/Monitores/Imagenes/Logo_CNNCHILE2.svg",CNN CHILE
+https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD",CNN CHILE
+http://cord-cutter.net:8080/live/j3McKd/673709/57619.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/aBk06sY.png" group-title="CNN's",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b384000_sleng.m3u8
+#EXTINF:-1  group-title="CNN's",CNN Indonesia (720p)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-chno="807" tvg-rec="28" tvg-id="RTUK.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/rt-epg.png" group-title="News",RT UK
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
@@ -106,8 +138,7 @@ https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/ind
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GxRmwcz/cnnportugal.png" group-title="NEWS WORLD" user-agent="iPhone", CNN Portugal
-http://viegas.maisvip.top:8080/FilipePena2022/AS24FTZ88WPL7/26
+
 
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg" tvg-id="",Fox News
@@ -126,10 +157,6 @@ https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?Playl
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="NEWS WORLD",FOX NEWS USA
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/aBk06sY.png" group-title="CNN's",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b384000_sleng.m3u8
-#EXTINF:-1  group-title="CNN's",CNN Indonesia (720p)
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 
 
@@ -137,8 +164,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 
 
-#EXTINF:-1  group-title="NEWS WORLD",CNN Brasil
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1  group-title="NEWS WORLD",CBS News Dallas Ft Worth (720p)
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 #EXTINF:-1  group-title="NEWS WORLD",CBS News Los Angeles (720p)
@@ -286,16 +311,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u
 
 
 
-#EXTINF:-1 group-title="NEWS WORLD",CNN CHILE
-http://cord-cutter.net:8080/live/j3McKd/673709/57619.m3u8
 
-
-#EXTINF:-1 tvg-id="cnn.brasil.br" group-title="NEWS WORLD" group-title="CNN's" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/5f9d3fdfa54d566601cc39893f153d9fbf12f136/CNN_Brasil.svg",CNN Brasil
-https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-
-
-#EXTINF:-1 group-title="PORTUGAL" group-title="NEWS WORLD" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias - SEM VPN
-https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1  tvg-id="WRDQDT3.us" group-title="NEWS WORLD" tvg-logo="https://media.telemundo31.com/2022/01/WTMO-31.png?resize=400%2C225&quality=85&strip=all",Telemundo Orlando FL
 https://nbculocallive.akamaized.net/hls/live/2037602/orlando/stream1/master.m3u8
@@ -372,8 +388,7 @@ https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
 
 
 
-#EXTINF:-1  tvg-id="CNN en Espanol" tvg-name="CNN en Espanol" group-title="NEWS WORLD" tvg-logo="https://monitortv.vercel.app/Monitores/Imagenes/Logo_CNNCHILE2.svg",CNN CHILE
-https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
+
 
 
 
