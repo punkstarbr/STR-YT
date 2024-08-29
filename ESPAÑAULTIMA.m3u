@@ -4,7 +4,7 @@ https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="ESPANHA" tvg-id="La1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1,tvg-id="La2.TV" tvg-logo="https://www.camilos.es/wp-content/uploads/2018/03/logo_tve-2-750699.png",La 2
+#EXTINF:-1 group-title="ESPANHA" tvg-id="La2.TV" tvg-logo="https://www.camilos.es/wp-content/uploads/2018/03/logo_tve-2-750699.png",La 2
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 
 #EXTINF:-1 group-title="ESPANHA" tvg-id="La2.TV" tvg-logo="https://www.camilos.es/wp-content/uploads/2018/03/logo_tve-2-750699.png",La 2
@@ -13,26 +13,26 @@ https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
-#EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688877.jpg",La 1
+#EXTINF:-1 group-title="TV" tvg-id="La1.TV" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688877.jpg",La 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
 
 
-#EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_3293681.jpg",La 1 - CATALUNHA
+#EXTINF:-1 group-title="ESPANHA" tvg-id="LA 1" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_3293681.jpg",La 1 - CATALUNHA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_720.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="LA 1" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_5190066.jpg",La 1 - CANARIAS
+#EXTINF:-1 group-title="ESPANHA" tvg-id="LA 1" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_5190066.jpg",La 1 - CANARIAS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestream.akamaized.net/rtvesec/can/la1_can_main.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="LA 2" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688885.jpg",La 2
+#EXTINF:-1 group-title="ESPANHA" tvg-id="LA 2" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688885.jpg",La 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="LA 2" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_3987218.jpg",La 2 - CATALUNHA
+#EXTINF:-1 group-title="ESPANHA" tvg-id="LA 2" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_3987218.jpg",La 2 - CATALUNHA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la2_cat_main.m3u8
@@ -50,11 +50,11 @@ https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 
-#EXTINF:-1,tvg-id="Antena3.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Antena_3.svg/1200px-Antena_3.svg.png",Antena 3
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Antena3.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Antena_3.svg/1200px-Antena_3.svg.png",Antena 3
 http://77.228.160.100:61800/play/a00a
-#EXTINF:-1,tvg-id="Cuatro.TV" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_circular_500_-1_d4a5.png",Cuatro
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Cuatro.TV" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_circular_500_-1_d4a5.png",Cuatro
 http://77.228.160.100:61800/play/a00l
-#EXTINF:-1,tvg-id="Telecinco.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png",Telecinco
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Telecinco.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png",Telecinco
 http://77.228.160.100:61800/play/a00k
 #EXTINF:-1,tvg-id="LaSexta.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/712px-La_Sexta_%28A3M%29.svg.png",laSexta
 http://77.228.160.100:61800/play/a00b
