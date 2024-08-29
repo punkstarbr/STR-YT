@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="237" tvg-id="TalkTV.uk" group-title="News",TalkTV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="272" tvg-id="AsharqNews.uk" status="timeout",Asharq News (Arabic)
-https://news.sechls01.visionip.tv/live/visiontvuk-international-asharqnews-SD/playlist.m3u8
-#EXTINF:-1 tvg-chno="802" tvg-id="EuronewsEnglish.fr" status="timeout",Euronews
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-
 #EXTINF:-1 tvg-chno="807" tvg-rec="28" tvg-id="RTUK.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/rt-epg.png" group-title="News",RT UK
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
