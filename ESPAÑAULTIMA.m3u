@@ -26,7 +26,7 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_720.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestream.akamaized.net/rtvesec/can/la1_can_main.m3u8
 
-#EXTINF:-1 group-title="ESPANHA" tvg-id="LA 2" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688885.jpg",La 2
+#EXTINF:-1 group-title="ESPANHA" tvg-id="La2.TV" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688885.jpg",La 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
