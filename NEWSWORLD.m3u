@@ -1,7 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="NEWS WORLD",GLOBO NEWS HD	
+#EXTINF:-1 vg-id="GLOBO NEWS" group-title="NEWS WORLD",GLOBO NEWS HD	
 http://cdnexpress.homelinux.net/live/72.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NEWS WORLD",Globo News HD
+http://dzcdn.vood.top/hls/479_.m3u8
+
+#EXTINF:0 tvg-id="GLOBO NEWS" type="stream" group-title="NEWS WORLD" tvg-logo="", GLOBO NEWS 2
+https://stream1.freetv.fun/f8abfabde50425ec3bbe6cf961f0e757092d5db61b0a228900d613e5066af8a0.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="NEWS WORLD",Band News SD
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
