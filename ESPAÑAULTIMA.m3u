@@ -57,7 +57,7 @@ http://77.228.160.100:61800/play/a00a
 http://77.228.160.100:61800/play/a00l
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Telecinco.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png",Telecinco
 http://77.228.160.100:61800/play/a00k
-#EXTINF:-1,tvg-id="LaSexta.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/712px-La_Sexta_%28A3M%29.svg.png",laSexta
+#EXTINF:-1 group-title="ESPANHA" tvg-id="LaSexta.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/712px-La_Sexta_%28A3M%29.svg.png",laSexta
 http://77.228.160.100:61800/play/a00b
 
 
