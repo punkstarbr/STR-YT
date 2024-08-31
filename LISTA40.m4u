@@ -588,8 +588,7 @@ http://89.249.49.78:8000/play/a0ia
 https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
 #EXTINF:-1  group-title="N/A", Algum canal
 http://45.148.26.176/hls/M2.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://cdn2.cyclingnews.live/hls/P2.m3u8
+
 #EXTINF:-1  group-title="N/A", Algum canal
 http://cdn2.cyclingnews.live/hls/P1.m3u8
 #EXTINF:-1  group-title="N/A", Algum canal
@@ -736,8 +735,7 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1211546076.m3u8
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1  group-title="N/A", Algum canal
 https://59f1cbe63db89.streamlock.net:1443/raniere/_definst_/raniere/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1  group-title="N/A", Algum canal
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?wowzasessionid=inspiration
 #EXTINF:-1  group-title="N/A", Algum canal
@@ -798,12 +796,10 @@ https://685531619097460582835d479ff140bb.mediatailor.us-east-1.amazonaws.com/v1/
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1  group-title="N/A", Algum canal
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://rakuten-africanews-1-no.samsung.wurl.com/manifest/eeb88fab4703f2644e2ca1e8308008c8.m3u8
+
 #EXTINF:-1  group-title="N/A", Algum canal
 https://www.youtube.com/embed/9Auq9mYxFEE?autoplay=1
-#EXTINF:-1  group-title="N/A", Algum canal
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+
 #EXTINF:-1  group-title="N/A", Algum canal
 https://live.presstv.ir/liveprs/smil:liveprs.smil/chunklist_w1913887334_b944100_slen.m3u8
 #EXTINF:-1  group-title="N/A", Algum canal
@@ -1190,16 +1186,7 @@ https://live2.alalam.ir/alalam.m3u8
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1  group-title="N/A",Al Hurra (720p)
 https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
-#EXTINF:-1  group-title="N/A",Al Iraqiya News (720p) [Not 24/7]
-https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Al Jazeera Balkans (1080p)
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1  group-title="N/A",Al Jazeera Documentary (576p) [Not 24/7]
-http://teledunet.com:8080/live/azrotv/azrotv2021/10040.m3u8
-#EXTINF:-1  group-title="N/A",Al Jazeera English (1080p)
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1  group-title="N/A",Al Jazeera Mubasher (1080p)
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+
 #EXTINF:-1  group-title="N/A",Al Manar (576p) [Not 24/7]
 https://manar.live/iptv/playlist.m3u8
 #EXTINF:-1  group-title="N/A",Al Masirah (720p) [Not 24/7]
