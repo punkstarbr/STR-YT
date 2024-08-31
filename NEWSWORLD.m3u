@@ -16,11 +16,57 @@ https://stream1.freetv.fun/f8abfabde50425ec3bbe6cf961f0e757092d5db61b0a228900d61
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
 
 
+#EXTINF:-1 group-title="PORTUGAL" group-title="NEWS WORLD" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias - SEM VPN
+https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+
 #EXTINF:-1 tvg-id="cnn.brasil.br" group-title="NEWS WORLD" group-title="CNN's" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/5f9d3fdfa54d566601cc39893f153d9fbf12f136/CNN_Brasil.svg",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL" group-title="NEWS WORLD" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias - SEM VPN
-https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:0  tvg-id="CNNBrasil.br" tvg-logo="https://i.ibb.co/7kD8t97/cnn-brasil.png" group-title="CNN's" user-agent="iPhone", CNN Brasil
+http://bccdn.xyz:80/594023850943868/897489270938609/588
+
+#EXTINF:-1  group-title="CNN's" tvg-id="CNNInternationalEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png" ,CNN US 1
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+
+#EXTINF:-1  group-title="CNN's" tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png" ,CNN US 2
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-id="CNNInternationalNorthAmerica.us" tvg-logo="https://i.ibb.co/L6NGZFj/cnn.png" group-title="CNN's" user-agent="iPhone", CNN America
+http://204.157.251.250:8000/play/a068/index.m3u8
+
+
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/L6NGZFj/cnn.png" group-title="CNN's" user-agent="iPhone", CNN Europa
+https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
+
+#EXTINF:0 channel-id="samsung-ATBD190000101" tvg-id="ATBD190000101" player-buffer="30" tvg-logo="https://i.ibb.co/jw6VHBg/cnnfast.jpg" group-title="CNN's" user-agent="iPhone", CNN Fast
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://jmp2.uk/SamsungTVPlus/ATBD190000101.m3u8
+
+#EXTINF:-1 group-title="CNN's" tvg-id=""  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIFOiTu3AdvEbMU59ITXCkJbPTkymY1zAqt9JQlb87Cb8wliVDDnbY9ITMVrpAex3gOUk&usqp=CAU",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/cnntv.smil/chunklist_w1719934476_b384000_sleng.m3u8
+#EXTINF:-1 group-title="CNN's" tvg-id=""  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIFOiTu3AdvEbMU59ITXCkJbPTkymY1zAqt9JQlb87Cb8wliVDDnbY9ITMVrpAex3gOUk&usqp=CAU",CNN INDONESIA 2
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="CNN's" tvg-id="(no tvg-id)" tvg-name="CNN Indonesia" tvg-logo="https://www.cnnbrasil.com.br/wp-content/themes/cnnbrasil/assets/favicon/apple-touch-icon.png" ,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3cKE6zfz9RIUTCS0obU-EleqWvrNmZrAPg&s" group-title="CNN's",N1 CNN
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
+
+#EXTINF:-1 group-title="TV" tvg-id="rainews.tv.vodafone.pt" tvg-logo="https://www.raiplay.it/resizegd/300x-/dl/img/2023/01/19/1674083857577_1.jpg",RAI NEWS24
+https://streamcdng18-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="rainews.tv.vodafone.pt" tvg-logo="https://www.raiplay.it/resizegd/300x-/dl/img/2023/01/19/1674083857577_1.jpg",RAI NEWS24
+https://streamcdne2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
 
 #EXTINF:-1  tvg-id="CNN en Espanol" tvg-name="CNN en Espanol" group-title="NEWS WORLD" tvg-logo="https://monitortv.vercel.app/Monitores/Imagenes/Logo_CNNCHILE2.svg",CNN CHILE
 https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
