@@ -39,7 +39,12 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 
 
-
+#EXTINF:-1  group-title="N/A",7 Noticias (1080p)
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
+#EXTINF:-1  group-title="N/A",24 #EXTVLCOPT:network-caching=1000
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1  group-title="N/A",100% News (576p)
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 
 
 
