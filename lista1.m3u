@@ -13,8 +13,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/bitsbb01/webgrabplus-siteinipack/master/siteini.pack/Brazil/vivo.com.br.channels.xml"
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇧🇷 | BRAZIL",CBTV Now
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="🇧🇷 | BRAZIL",Nova Era TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://i.imgur.com/Tgov03S.jpg" group-title="🇧🇷 | BRAZIL",Rede Minas
