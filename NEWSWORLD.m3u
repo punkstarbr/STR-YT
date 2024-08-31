@@ -42,6 +42,20 @@ https://tv.nknews.org/tvdash/stream.mpd
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
 
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/euronews.png" group-title="NOTICIAS",Euronews | Union Europea
+https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="France24Espanol(English).mx" tvg-name="France24Espanol(English).mx" tvg-logo="http://i.imgur.com/BFMMPwP.png" group-title="NOTICIAS",France 24 Espanol | Francia
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="http://i.imgur.com/BFMMPwP.png" group-title="NOTICIAS",France 24 | Francia
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="RAI" tvg-name="RAI" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rai_italia_international.png" group-title="NOTICIAS",Rai Internacional | Italia
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF:-1 tvg-id="RaiNews24(src01).it" tvg-name="RaiNews24(src01).it" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rai_italia_international.png" group-title="NOTICIAS",Rai News 24 | Italia
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF:-1 tvg-id="RT en Espanol" tvg-name="RT en Espanol" tvg-logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="NOTICIAS",RT en Espanol | Rusia
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://www.skymedia.ie/wp-content/uploads/sites/4/2016/01/channel-logo-sky-news.png" group-title="NOTICIAS",SKY News | Reino Unido
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
 
 #EXTINF:-1  group-title="N/A",7 Noticias (1080p)
