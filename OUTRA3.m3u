@@ -1814,23 +1814,7 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1 group-title="DEPORTES-LMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png",TVRI Sport HD (480p)
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES-LMS" tvg-logo="https://i.imgur.com/sal5CkX.jpg",TVS Boxing (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES-LMS" tvg-logo="https://i.imgur.com/ui099xQ.jpg",TVS Classic Sports (720p)
-http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES-LMS" tvg-logo="https://i.imgur.com/OFO86K5.jpg",TVS Sports (960p)
-https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES-LMS" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Sports Bureau (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES-LMS" tvg-logo="https://i.imgur.com/RMewTGr.jpg",TVS Turbo (360p)
-https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES-LMS" tvg-logo="https://i.imgur.com/jQdBjyx.jpg",TVS Women Sports (480p)
-https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES-LMS" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1769345cf61eb60b5893",Wired2Fish (720p)
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
