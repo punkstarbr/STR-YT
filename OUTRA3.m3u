@@ -410,38 +410,15 @@ http://a92cb231-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/6
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=6bSLyFJzzvyW_ngsjtWh&channelId=6018913ea15130002b284195
 
 
-#EXTINF:-1 tvg-id="Boomerang Clasico" tvg-name="Boomerang Clasico" tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="INFANTILES",Boomerang Clasico | ND
-http://161.97.152.4:81/hls/boomerang.m3u8
-
-
-#EXTINF:-1 tvg-id="Canal Ipe" tvg-name="Canal Ipe" tvg-logo="https://i.imgur.com/BADfaU8.png" group-title="INFANTILES",Canal Chicos Ipe | Perú
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTILES" tvg-name="Cartoon Network Latino",Cartoon Network Latino
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTILES" tvg-name="Cartoon Network Latino",Cartoon Network Latino
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Caricaturas" tvg-name="Caricaturas" tvg-logo="https://cdn.mitvstatic.com/programs/ar_chiquilines-1991_l_l.jpg" group-title="INFANTILES",Chiquilines | USA
-https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
-
-#EXTINF:-1 tvg-id="Caricaturas" tvg-name="Caricaturas" tvg-logo="https://cdn.mitvstatic.com/programs/ar_chiquilines-1991_l_l.jpg" group-title="INFANTILES",Chiquilines | USA
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Clan HD" tvg-name="Clan HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="INFANTILES",Clan TVE | Spain
-https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Fox Kids" tvg-name="Fox Kids" tvg-logo="https://i.postimg.cc/Z518Hwrr/FOX-Kids-logo.png" group-title="INFANTILES",Fox Kids | Peru
 
 
-#EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://i.imgur.com/D9wFBkQ.png" group-title="INFANTILES",Jetix | Peru
 
 
-#EXTINF:-1 tvg-id="Caricaturas" tvg-name="Caricaturas" tvg-logo="https://www.yugioh-world.com/wp-content/uploads/2020/02/Kidoodle-Logo.png" group-title="INFANTILES",Kidoodle TV (Inglés) | Canada
-https://7c16fcbdbd1b4a74b712c2052303b6bb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KidoodleTV/1d045896-8061-414f-b467-2b5afadb837e/3.m3u8
+
+
 
 
 
