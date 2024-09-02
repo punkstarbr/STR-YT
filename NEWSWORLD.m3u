@@ -19,7 +19,7 @@ https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
 #EXTINF:-1 group-title="PORTUGAL" group-title="NEWS WORLD" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias - SEM VPN
 https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:-1 tvg-id="cnn.brasil.br" group-title="NEWS WORLD" group-title="CNN's" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/5f9d3fdfa54d566601cc39893f153d9fbf12f136/CNN_Brasil.svg",CNN Brasil
+#EXTINF:-1 tvg-id="cnn.brasil.br" group-title="NEWS WORLD" group-title="CNN's" tvg-logo="https://i.ibb.co/7kD8t97/cnn-brasil.png",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
 #EXTINF:0  tvg-id="CNNBrasil.br" tvg-logo="https://i.ibb.co/7kD8t97/cnn-brasil.png" group-title="CNN's" user-agent="iPhone", CNN Brasil
