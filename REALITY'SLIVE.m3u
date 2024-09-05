@@ -1,55 +1,4 @@
-Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
-Requirement already satisfied: yt-dlp in /usr/local/lib/python3.10/dist-packages (2024.8.6)
-Requirement already satisfied: brotli in /usr/local/lib/python3.10/dist-packages (from yt-dlp) (1.1.0)
-Requirement already satisfied: certifi in /usr/local/lib/python3.10/dist-packages (from yt-dlp) (2024.8.30)
-Requirement already satisfied: mutagen in /usr/local/lib/python3.10/dist-packages (from yt-dlp) (1.47.0)
-Requirement already satisfied: pycryptodomex in /usr/local/lib/python3.10/dist-packages (from yt-dlp) (3.20.0)
-Requirement already satisfied: requests<3,>=2.32.2 in /usr/local/lib/python3.10/dist-packages (from yt-dlp) (2.32.3)
-Requirement already satisfied: urllib3<3,>=1.26.17 in /usr/local/lib/python3.10/dist-packages (from yt-dlp) (2.0.7)
-Requirement already satisfied: websockets>=12.0 in /usr/local/lib/python3.10/dist-packages (from yt-dlp) (13.0.1)
-Requirement already satisfied: charset-normalizer<4,>=2 in /usr/local/lib/python3.10/dist-packages (from requests<3,>=2.32.2->yt-dlp) (3.3.2)
-Requirement already satisfied: idna<4,>=2.5 in /usr/local/lib/python3.10/dist-packages (from requests<3,>=2.32.2->yt-dlp) (3.8)
-Requirement already satisfied: streamlink in /usr/local/lib/python3.10/dist-packages (6.9.0)
-Requirement already satisfied: certifi in /usr/local/lib/python3.10/dist-packages (from streamlink) (2024.8.30)
-Requirement already satisfied: isodate in /usr/local/lib/python3.10/dist-packages (from streamlink) (0.6.1)
-Requirement already satisfied: lxml<6,>=4.6.4 in /usr/local/lib/python3.10/dist-packages (from streamlink) (4.9.4)
-Requirement already satisfied: pycountry in /usr/local/lib/python3.10/dist-packages (from streamlink) (24.6.1)
-Requirement already satisfied: pycryptodome<4,>=3.4.3 in /usr/local/lib/python3.10/dist-packages (from streamlink) (3.20.0)
-Requirement already satisfied: PySocks!=1.5.7,>=1.5.6 in /usr/local/lib/python3.10/dist-packages (from streamlink) (1.7.1)
-Requirement already satisfied: requests<3,>=2.26.0 in /usr/local/lib/python3.10/dist-packages (from streamlink) (2.32.3)
-Requirement already satisfied: trio<1,>=0.22.0 in /usr/local/lib/python3.10/dist-packages (from streamlink) (0.26.2)
-Requirement already satisfied: trio-websocket<1,>=0.9.0 in /usr/local/lib/python3.10/dist-packages (from streamlink) (0.11.1)
-Requirement already satisfied: typing-extensions>=4.0.0 in /usr/local/lib/python3.10/dist-packages (from streamlink) (4.12.2)
-Requirement already satisfied: urllib3<3,>=1.26.0 in /usr/local/lib/python3.10/dist-packages (from streamlink) (2.0.7)
-Requirement already satisfied: websocket-client<2,>=1.2.1 in /usr/local/lib/python3.10/dist-packages (from streamlink) (1.8.0)
-Requirement already satisfied: exceptiongroup in /usr/local/lib/python3.10/dist-packages (from streamlink) (1.2.2)
-Requirement already satisfied: charset-normalizer<4,>=2 in /usr/local/lib/python3.10/dist-packages (from requests<3,>=2.26.0->streamlink) (3.3.2)
-Requirement already satisfied: idna<4,>=2.5 in /usr/local/lib/python3.10/dist-packages (from requests<3,>=2.26.0->streamlink) (3.8)
-Requirement already satisfied: attrs>=23.2.0 in /usr/local/lib/python3.10/dist-packages (from trio<1,>=0.22.0->streamlink) (24.2.0)
-Requirement already satisfied: sortedcontainers in /usr/local/lib/python3.10/dist-packages (from trio<1,>=0.22.0->streamlink) (2.4.0)
-Requirement already satisfied: outcome in /usr/local/lib/python3.10/dist-packages (from trio<1,>=0.22.0->streamlink) (1.3.0.post0)
-Requirement already satisfied: sniffio>=1.3.0 in /usr/local/lib/python3.10/dist-packages (from trio<1,>=0.22.0->streamlink) (1.3.1)
-Requirement already satisfied: wsproto>=0.14 in /usr/local/lib/python3.10/dist-packages (from trio-websocket<1,>=0.9.0->streamlink) (1.2.0)
-Requirement already satisfied: six in /usr/local/lib/python3.10/dist-packages (from isodate->streamlink) (1.16.0)
-Requirement already satisfied: h11<1,>=0.9.0 in /usr/local/lib/python3.10/dist-packages (from wsproto>=0.14->trio-websocket<1,>=0.9.0->streamlink) (0.14.0)
-Requirement already satisfied: beautifulsoup4 in /usr/local/lib/python3.10/dist-packages (4.12.3)
-Requirement already satisfied: soupsieve>1.2 in /usr/local/lib/python3.10/dist-packages (from beautifulsoup4) (2.6)
-Requirement already satisfied: selenium in /usr/local/lib/python3.10/dist-packages (4.24.0)
-Requirement already satisfied: urllib3<3,>=1.26 in /usr/local/lib/python3.10/dist-packages (from urllib3[socks]<3,>=1.26->selenium) (2.0.7)
-Requirement already satisfied: trio~=0.17 in /usr/local/lib/python3.10/dist-packages (from selenium) (0.26.2)
-Requirement already satisfied: trio-websocket~=0.9 in /usr/local/lib/python3.10/dist-packages (from selenium) (0.11.1)
-Requirement already satisfied: certifi>=2021.10.8 in /usr/local/lib/python3.10/dist-packages (from selenium) (2024.8.30)
-Requirement already satisfied: typing_extensions~=4.9 in /usr/local/lib/python3.10/dist-packages (from selenium) (4.12.2)
-Requirement already satisfied: websocket-client~=1.8 in /usr/local/lib/python3.10/dist-packages (from selenium) (1.8.0)
-Requirement already satisfied: attrs>=23.2.0 in /usr/local/lib/python3.10/dist-packages (from trio~=0.17->selenium) (24.2.0)
-Requirement already satisfied: sortedcontainers in /usr/local/lib/python3.10/dist-packages (from trio~=0.17->selenium) (2.4.0)
-Requirement already satisfied: idna in /usr/local/lib/python3.10/dist-packages (from trio~=0.17->selenium) (3.8)
-Requirement already satisfied: outcome in /usr/local/lib/python3.10/dist-packages (from trio~=0.17->selenium) (1.3.0.post0)
-Requirement already satisfied: sniffio>=1.3.0 in /usr/local/lib/python3.10/dist-packages (from trio~=0.17->selenium) (1.3.1)
-Requirement already satisfied: exceptiongroup in /usr/local/lib/python3.10/dist-packages (from trio~=0.17->selenium) (1.2.2)
-Requirement already satisfied: wsproto>=0.14 in /usr/local/lib/python3.10/dist-packages (from trio-websocket~=0.9->selenium) (1.2.0)
-Requirement already satisfied: pysocks!=1.5.7,<2.0,>=1.5.6 in /usr/local/lib/python3.10/dist-packages (from urllib3[socks]<3,>=1.26->selenium) (1.7.1)
-Requirement already satisfied: h11<1,>=0.9.0 in /usr/local/lib/python3.10/dist-packages (from wsproto>=0.14->trio-websocket~=0.9->selenium) (0.14.0)
+
 #EXTINF:-1, Gala - Final - 23 de fevereiro de 2019 | Love on Top | TVI Player
 https://streaming-vod2.iol.pt/vod/0/7/a/9/smil:5c71f33a0cf28438fc4e07a9-L.smil/5c71f33a0cf28438fc4e07a9-L-1000k.mp4_chunk.m3u8?nimblesessionid=89447762&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjQgODozNDoxOCBQTSZoYXNoX3ZhbHVlPUp2M2VvMjdTS0RSYXpucXNmaUgyK0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zOGYxYzY0Mi03NzQzLTQ0MjQtOTBlZC1kZTA1YjMxMDQ2NDY%3D
 #EXTINF:-1, Diário - 22 de fevereiro de 2019 | Love on Top | TVI Player
@@ -152,39 +101,7 @@ https://streaming-vod1.iol.pt/vod/5/4/d/6/smil:58dd899b0cf2004cbd3f54d6-L.smil/5
 https://streaming-vod1.iol.pt/vod/f/d/e/7/smil:5b9af12c0cf22e5fe074fde7-L.smil/5b9af12c0cf22e5fe074fde7-L-1000k.mp4_chunk.m3u8?nimblesessionid=30874334&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjQgODo0NTo0NCBQTSZoYXNoX3ZhbHVlPUVvVHNxY1BONWM3YTh5YURKMW44T3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zMmQ2ZjNjMi0xNGUzLTQ5YWItOGFkZC0yYjQ4NWE2ZWVmNTY%3D
 #EXTINF:-1, Love on Top - Diário - 28 de abril de 2016 | Love on Top | TVI Player
 https://streaming-vod2.iol.pt/vod/f/f/6/8/smil:57228e1f0cf273cab45fff68-L.smil/57228e1f0cf273cab45fff68-L-1000k.mp4_chunk.m3u8?nimblesessionid=89451031&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjQgODo0Njo0IFBNJmhhc2hfdmFsdWU9VzcwZ3VGRFcweWVJRVZlN21mdzNxdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQ4ZjlmMzE4LWY4MDgtNDE3NC05ZmFkLTBhZDM0ZjFmMDliZQ%3D%3D
-No more videos to load.
-Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
-Collecting internetarchive
-  Downloading internetarchive-4.1.0-py3-none-any.whl.metadata (4.9 kB)
-Collecting docopt<0.7.0,>=0.6.0 (from internetarchive)
-  Downloading docopt-0.6.2.tar.gz (25 kB)
-  Preparing metadata (setup.py) ... done
-Collecting jsonpatch>=0.4 (from internetarchive)
-  Downloading jsonpatch-1.33-py2.py3-none-any.whl.metadata (3.0 kB)
-Requirement already satisfied: requests<3.0.0,>=2.25.0 in /usr/local/lib/python3.10/dist-packages (from internetarchive) (2.32.3)
-Collecting schema>=0.4.0 (from internetarchive)
-  Downloading schema-0.7.7-py2.py3-none-any.whl.metadata (34 kB)
-Requirement already satisfied: tqdm>=4.0.0 in /usr/local/lib/python3.10/dist-packages (from internetarchive) (4.66.5)
-Requirement already satisfied: urllib3>=1.26.0 in /usr/local/lib/python3.10/dist-packages (from internetarchive) (2.0.7)
-Requirement already satisfied: importlib-metadata>=3.6.0 in /usr/local/lib/python3.10/dist-packages (from internetarchive) (8.4.0)
-Requirement already satisfied: zipp>=0.5 in /usr/local/lib/python3.10/dist-packages (from importlib-metadata>=3.6.0->internetarchive) (3.20.1)
-Collecting jsonpointer>=1.9 (from jsonpatch>=0.4->internetarchive)
-  Downloading jsonpointer-3.0.0-py2.py3-none-any.whl.metadata (2.3 kB)
-Requirement already satisfied: charset-normalizer<4,>=2 in /usr/local/lib/python3.10/dist-packages (from requests<3.0.0,>=2.25.0->internetarchive) (3.3.2)
-Requirement already satisfied: idna<4,>=2.5 in /usr/local/lib/python3.10/dist-packages (from requests<3.0.0,>=2.25.0->internetarchive) (3.8)
-Requirement already satisfied: certifi>=2017.4.17 in /usr/local/lib/python3.10/dist-packages (from requests<3.0.0,>=2.25.0->internetarchive) (2024.8.30)
-Downloading internetarchive-4.1.0-py3-none-any.whl (97 kB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 97.5/97.5 kB 3.4 MB/s eta 0:00:00
-Downloading jsonpatch-1.33-py2.py3-none-any.whl (12 kB)
-Downloading schema-0.7.7-py2.py3-none-any.whl (18 kB)
-Downloading jsonpointer-3.0.0-py2.py3-none-any.whl (7.6 kB)
-Building wheels for collected packages: docopt
-  Building wheel for docopt (setup.py) ... done
-  Created wheel for docopt: filename=docopt-0.6.2-py2.py3-none-any.whl size=13704 sha256=70a7323c5814486033b9aab044bb2d336e769f45fb699d2c613452d281581e34
-  Stored in directory: /root/.cache/pip/wheels/fc/ab/d4/5da2067ac95b36618c629a5f93f809425700506f72c9732fac
-Successfully built docopt
-Installing collected packages: schema, docopt, jsonpointer, jsonpatch, internetarchive
-Successfully installed docopt-0.6.2 internetarchive-4.1.0 jsonpatch-1.33 jsonpointer-3.0.0 schema-0.7.7
+
 
 #EXTINF:-1 tvg-name="ESTRELA DA CASA 02" tvg-logo="https://i.imgur.com/YlSrqDa.png" group-title="Reality Show'S Live",ESTRELA DA CASA 02
 http://bccdn.xyz:80/Mxpro82/728292000/449331
