@@ -36,10 +36,7 @@ http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8?checkedby:i
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,8 NTV | MX
 https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 ,a más
-https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/60b56be1000ea50835fa1e63/publish/media_600.m3u8?aid=5fea09a071a9945deebf5f7c&uid=Bg6LI4fKdeMJhhTot6OAvKC85qMFI9ty&sid=dSjQRNid4eGwhdsHrb7lK89xnQ6KDbpz&pid=BISDXRSuMJt0XzKXuCFxh5Y4drTX222b&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&dnt=true&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&proto=https&pz=us
-#EXTINF:-1 ,a más op 2
-https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/60b56be1000ea50835fa1e63/publish/media_600.m3u8
+
 
 #EXTINF:-1 ,ABC TV | PY
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3UCL
@@ -62,10 +59,7 @@ https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m
 #EXTINF:-1 ,Acento TV | DO
 http://acentotv01.streamprolive.com/hls/live.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 ,ADN 40 | MX
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
-#EXTINF:-1 ,adn 40 op 2
-https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/60b578b060947317de7b57ac/publish/media_600.m3u8
+
 #EXTINF:-1 ,Adventure Sports Network HD (ENG)
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8?ROGERIOTORRES
 #EXTINF:-1 ,AGRO BRASIL
@@ -232,10 +226,7 @@ http://lb.kstream.org/aovivo/HD_AXN/video.m3u8?token=5aba9ab204ff55dec74965d4fa0
 #EXTINF:-1 ,Aysen TV | CL
 http://v2.tustreaming.cl:80/aysentv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 ,azteca uno
-https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609b243156cca108312822a6/publish/media_600.m3u8?aid=5fea09a071a9945deebf5f7c&uid=Bg6LI4fKdeMJhhTot6OAvKC85qMFI9ty&sid=dSjQRNid4eGwhdsHrb7lK89xnQ6KDbpz&pid=XXjQfuApAfDxKrHdJHLR04Jz1P8GmXIC&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&dnt=true&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&proto=https&pz=us
-#EXTINF:-1 ,azteca uno op 2
-https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609b243156cca108312822a6/publish/media_600.m3u8
+
 #EXTINF:-1 ,B4u Kadak
 http://103.199.160.85:80/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 ,Baden TV¹ HD (Alemanha)
