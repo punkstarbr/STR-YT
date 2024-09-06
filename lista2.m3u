@@ -1,13 +1,5 @@
 #EXTINF:-1 ,ADN 40 | MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
-#EXTINF:-1 ,adn 40 op 2
-https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/60b578b060947317de7b57ac/publish/media_600.m3u8
-#EXTINF:-1 ,azteca uno
-https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609b243156cca108312822a6/publish/media_600.m3u8?aid=5fea09a071a9945deebf5f7c&uid=Bg6LI4fKdeMJhhTot6OAvKC85qMFI9ty&sid=dSjQRNid4eGwhdsHrb7lK89xnQ6KDbpz&pid=XXjQfuApAfDxKrHdJHLR04Jz1P8GmXIC&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&dnt=true&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&proto=https&pz=us
-#EXTINF:-1 ,azteca uno op 2
-https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609b243156cca108312822a6/publish/media_600.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WltLUSg.png" group-title="MEXICO",Azteca 7 Mexico City
-http://190.61.102.67:31589/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JnRpLg8.png" group-title="MEXICO",Azteca Uno
 http://190.61.102.67:31589/play/a04p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gAcWmFc.png" group-title="MEXICO",Canal 5
