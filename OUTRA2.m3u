@@ -4,7 +4,16 @@
 
 
 
-
+#EXTINF:-1 tvg-id="BBCUHD1.uk",BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
+#EXTINF:-1 tvg-id="BBCUHD2.uk",BBC UHD 2 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_02/iptv_uhd_v1.mpd
+#EXTINF:-1 tvg-id="BBCUHD3.uk",BBC UHD 3 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_03/iptv_uhd_v1.mpd
+#EXTINF:-1 tvg-id="BBCUHD4.uk",BBC UHD 4 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd
+#EXTINF:-1 tvg-id="BBCUHD5.uk",BBC UHD 5 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd
 
 
 #EXTINF:-1 tvg-chno="1" tvg-rec="28" tvg-id="BBCOneEngland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC 1
@@ -105,7 +114,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_scotla
 #EXTINF:-1, BBC Scotland HD (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
 
-#EXTINF:-1 tvg-id="BBCTorontoGaundaPunjab.ca",BBC Toronto Gaunda Punjab (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BBCTorontoGaundaPunjab.ca",Gaunda Punjab TV (720p)
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 
 #EXTINF:-1, BBC Two England (540p) [Geo-blocked]
@@ -120,16 +129,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_no
 #EXTINF:-1, BBC Two Northern Ireland HD (720p) [Geo-blocked]
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-id="BBCUHD1.uk",BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
-#EXTINF:-1 tvg-id="BBCUHD2.uk",BBC UHD 2 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_02/iptv_uhd_v1.mpd
-#EXTINF:-1 tvg-id="BBCUHD3.uk",BBC UHD 3 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_03/iptv_uhd_v1.mpd
-#EXTINF:-1 tvg-id="BBCUHD4.uk",BBC UHD 4 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd
-#EXTINF:-1 tvg-id="BBCUHD5.uk",BBC UHD 5 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd
+
 
 
 
