@@ -214,7 +214,7 @@ https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master_4000.m3u8
 
 
 
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",SKY NEWS - SERVIÇO 1
+#EXTINF:-1  tvg-id="Sky News" tvg-name="Sky News" group-title="NEWS WORLD" tvg-logo="https://www.skymedia.ie/wp-content/uploads/sites/4/2016/01/channel-logo-sky-news.png",SKY NEWS - SERVIÇO 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",SKY NEWS - SERVIÇO 2
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
@@ -294,8 +294,7 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_18
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 #EXTINF:-1 tvg-id="RT en Espanol" tvg-name="RT en Espanol" tvg-logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="NEWS WORLD",RT en Espanol | Rusia
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://www.skymedia.ie/wp-content/uploads/sites/4/2016/01/channel-logo-sky-news.png" group-title="NEWS WORLD",SKY News | Reino Unido
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://www.skynews.com/content/dam/skynews/logos/Sky-News-Logo-2018.png",SKY NEWS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8?ads.caid=nbcuskynews&ads.csid=samsungtvplus_us_nbcuskynews_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3455&ads.xumo_contentName=skynews&ads.xumo_providerI
 
