@@ -97,10 +97,11 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1h
 
 
 #EXTINF:-1  tvg-id="CNN en Espanol" tvg-name="CNN en Espanol" group-title="NEWS WORLD" tvg-logo="https://monitortv.vercel.app/Monitores/Imagenes/Logo_CNNCHILE2.svg",CNN CHILE
-https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
+http://cord-cutter.net:8080/live/j3McKd/673709/57619.m3u8
+
 
 #EXTINF:-1 group-title="NEWS WORLD",CNN CHILE
-http://cord-cutter.net:8080/live/j3McKd/673709/57619.m3u8
+https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/aBk06sY.png" group-title="CNN's",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b384000_sleng.m3u8
