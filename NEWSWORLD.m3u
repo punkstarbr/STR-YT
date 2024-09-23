@@ -132,14 +132,8 @@ https://cbsn-3-fastly.cbsnstream.cbsnews.com/out/v1/f081461c65494eeaa9ec596d0fe9
 https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
 
 
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider10.jpg",ABC News Live 1 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master_4000.m3u8
-
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider6.jpg",ABC News Live 2 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
-
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider6.jpg",ABC News Live 2 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master_4000.m3u8
 
 #EXTINF:-1  tvg-id="ABCNewsLive3.us" group-title="NEWS WORLD" tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider3.jpg",ABC News Live 3 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
@@ -148,12 +142,10 @@ https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider3.jpg",ABC News Live 3 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master_4000.m3u8
 
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider4.jpg",ABC News Live 4 (720p)
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider1.jpg",ABC News Live 4 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 
 
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider1.jpg",ABC News Live 4 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master_4000.m3u8
 
 #EXTINF:-1  tvg-id="ABCNewsLive5.us" group-title="NEWS WORLD" tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider4.jpg",ABC News Live 5 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
