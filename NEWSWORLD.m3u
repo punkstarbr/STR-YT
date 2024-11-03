@@ -1,5 +1,39 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/0x1fWbw.png" group-title="NEWS WORLD",DW Arabe
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="DWDeutsch.de" tvg-logo="https://i.imgur.com/0x1fWbw.png" group-title="GERMAN NEWS",DW Deutsch
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qdJUDL8.png" group-title="NATIONAL NEWS",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b384000_sleng.m3u8
+
+#EXTINF:0 tvg-id="CNA.sg" tvg-logo="https://i.imgur.com/xJZ9ChT.png" group-title="NEWS WORLD",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v7Zj0iJ.png" group-title="FRENCH NEWS",TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+
+#EXTINF:-1 tvg-id="CGTNFrancais.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/CGTN_-_fran%C3%A7ais.png" group-title="FRENCH NEWS",CGTN Français
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/CGTN_Russian.png" group-title="RUSSIAN NEWS",CGTN-Русский
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRfQZMK.png" group-title="NEWS WORLD",LiveNow Fox
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="NEWS WORLD",Khyber News TV (404p) [Not 24/7]
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
 #EXTINF:-1  group-title="NEWS WORLD",Jovem Pan News (1080p) [Not 24/7]
