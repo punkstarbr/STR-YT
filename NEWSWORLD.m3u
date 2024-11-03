@@ -1,5 +1,24 @@
 #EXTM3U
 
+#EXTINF:-1  group-title="NEWS WORLD",Khyber News TV (404p) [Not 24/7]
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
+#EXTINF:-1  group-title="NEWS WORLD",Jovem Pan News (1080p) [Not 24/7]
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1  group-title="NEWS WORLD",Kanak News (720p) [Not 24/7]
+https://live.kanaknews.com:4443/live/stream/playlist.m3u8
+#EXTINF:-1  group-title="NEWS WORLD",Malabar News (720p) [Not 24/7]
+http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
+#EXTINF:-1  group-title="NEWS WORLD",Manorama News (576p)
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1  group-title="NEWS WORLD",Mathrubhumi News (576p) [Not 24/7]
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+#EXTINF:-1  group-title="NEWS WORLD",Meteonews (1080p)
+https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1  group-title="NEWS WORLD",Metro TV (360p) [Not 24/7]
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1  group-title="NEWS WORLD",OAN (1080p)
+http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NEWS WORLD",Globo News HD
 http://dzcdn.vood.top/hls/479_.m3u8
 
