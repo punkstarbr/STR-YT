@@ -1374,26 +1374,19 @@ https://master.starmena-cloud.com/hls/jam.m3u8
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1  group-title="N/A",Janam TV (720p)
 https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Jovem Pan News (1080p) [Not 24/7]
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
 #EXTINF:-1  group-title="N/A",Kalaignar Seithikal (576p) [Not 24/7]
 http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
-#EXTINF:-1  group-title="N/A",Kanak News (720p) [Not 24/7]
-https://live.kanaknews.com:4443/live/stream/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Khyber News TV (404p) [Not 24/7]
-https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
+
+
 #EXTINF:-1  group-title="N/A",Libya Al Ahrar TV (720p) [Not 24/7]
 https://video.zidivo.com/live983/GrtjM_FNGC/playlist.m3u8
 #EXTINF:-1  group-title="N/A",M24 TV (720p) [Not 24/7]
 http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Malabar News (720p) [Not 24/7]
-http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
+
 #EXTINF:-1  group-title="N/A",Mangalam (576p) [Not 24/7]
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
-#EXTINF:-1  group-title="N/A",Manorama News (576p)
-http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
-#EXTINF:-1  group-title="N/A",Mathrubhumi News (576p) [Not 24/7]
-http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+
 #EXTINF:-1  group-title="N/A",Medi 1 TV Afrique (1080p) [Not 24/7]
 http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:-1  group-title="N/A",Medi 1 TV Arabic (1080p) [Not 24/7]
@@ -1404,10 +1397,9 @@ http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
 #EXTINF:-1  group-title="N/A",Mekameleen TV (1080p)
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Meteonews (1080p)
-https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1  group-title="N/A",Metro TV (360p) [Not 24/7]
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+
+
 #EXTINF:-1  group-title="N/A",Mihan TV (360p) [Not 24/7]
 https://iptv.mihantv.com/live/playlist1/index.m3u8
 #EXTINF:-1  group-title="N/A",Mihan TV (360p) [Not 24/7]
@@ -1424,8 +1416,7 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1  group-title="N/A",NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1  group-title="N/A",OAN (1080p)
-http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+
 #EXTINF:-1  group-title="N/A",OAN Encore (720p) [Geo-blocked]
 https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
 #EXTINF:-1  group-title="N/A",Palestine Today (480p) [Geo-blocked]
