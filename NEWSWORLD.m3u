@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="CNN's",CNN MONEY
+#EXTINF:-1 group-title="CNN's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSekYZ4eEAlUYn_FP_v10tBDl874Mw1LH3deQ&s",CNN MONEY
 https://youtube.jitendra-unatti.workers.dev/wanda.m3u8?id=B17COaUwgYc
 
 #EXTINF:-1 tvg-id="666c9c60a7efd40008f552f0" tvg-name="BM&C News" tvg-logo="https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/colorLogoPNG.png" group-title="Notícias" tvg-chno="679", BM&C News
