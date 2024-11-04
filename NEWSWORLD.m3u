@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="CNN's",CNN MONEY
+https://youtube.jitendra-unatti.workers.dev/wanda.m3u8?id=B17COaUwgYc
+
 #EXTINF:-1 tvg-id="666c9c60a7efd40008f552f0" tvg-name="BM&C News" tvg-logo="https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/colorLogoPNG.png" group-title="Notícias" tvg-chno="679", BM&C News
 https://stitcher.pluto.tv/stitch/hls/channel/666c9c60a7efd40008f552f0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=84656b24-9ad2-11ef-8827-66fe5cfa5133
 
