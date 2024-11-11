@@ -1,16 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://i.imgur.com/QWazNSS.png" group-title="NEWS WORLD",Jovem Pan News
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="666c9c60a7efd40008f552f0" tvg-name="BM&C News" tvg-logo="https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/colorLogoPNG.png" group-title="NEWS WORLD" tvg-chno="679", BM&C News
-https://stitcher.pluto.tv/stitch/hls/channel/666c9c60a7efd40008f552f0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=84656b24-9ad2-11ef-8827-66fe5cfa5133
-
-#EXTINF:-1 tvg-id="645a99282858cb0008ea8378" tvg-name="NEW Brasil" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png" group-title="NEWS WORLD" tvg-chno="770", NEW Brasil
-https://stitcher.pluto.tv/stitch/hls/channel/645a99282858cb0008ea8378/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=84656b24-9ad2-11ef-8827-66fe5cfa5133
-
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="NEWS WORLD",Globo News HD
 http://dzcdn.vood.top/hls/479_.m3u8
 
@@ -22,6 +11,19 @@ https://stream1.freetv.fun/f8abfabde50425ec3bbe6cf961f0e757092d5db61b0a228900d61
 
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="NEWS WORLD",Band News SD
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://i.imgur.com/QWazNSS.png" group-title="NEWS WORLD",Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="666c9c60a7efd40008f552f0" tvg-name="BM&C News" tvg-logo="https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/colorLogoPNG.png" group-title="NEWS WORLD" tvg-chno="679", BM&C News
+https://stitcher.pluto.tv/stitch/hls/channel/666c9c60a7efd40008f552f0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=84656b24-9ad2-11ef-8827-66fe5cfa5133
+
+#EXTINF:-1 tvg-id="645a99282858cb0008ea8378" tvg-name="NEW Brasil" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png" group-title="NEWS WORLD" tvg-chno="770", NEW Brasil
+https://stitcher.pluto.tv/stitch/hls/channel/645a99282858cb0008ea8378/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=84656b24-9ad2-11ef-8827-66fe5cfa5133
+
+
 
 
 #EXTINF:-1 group-title="PORTUGAL" group-title="NEWS WORLD" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias - SEM VPN
