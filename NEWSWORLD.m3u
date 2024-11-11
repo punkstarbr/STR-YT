@@ -1,45 +1,5 @@
 #EXTM3U
 
-
-
-
-
-#EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/0x1fWbw.png" group-title="NEWS WORLD",DW Arabe
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
-
-
-
-#EXTINF:0 tvg-id="CNA.sg" tvg-logo="https://i.imgur.com/xJZ9ChT.png" group-title="NEWS WORLD",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v7Zj0iJ.png" group-title="NEWS WORLD",TV5 Monde Info
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GRfQZMK.png" group-title="NEWS WORLD",LiveNow Fox
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
-
-
-#EXTINF:-1  group-title="NEWS WORLD",Malabar News (720p) [Not 24/7]
-http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",Manorama News (576p)
-http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",Mathrubhumi News (576p) [Not 24/7]
-http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",Meteonews (1080p)
-https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",Metro TV (360p) [Not 24/7]
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",OAN (1080p)
-http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://i.imgur.com/QWazNSS.png" group-title="NEWS WORLD",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
@@ -294,6 +254,46 @@ https://603c568fccdf5.streamlock.net/live2/dhaweb2/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://i.ibb.co/jLd8Fcb/aa.png",AA SERVIÇO 1
 http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/0x1fWbw.png" group-title="NEWS WORLD",DW Arabe
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
+
+
+
+#EXTINF:0 tvg-id="CNA.sg" tvg-logo="https://i.imgur.com/xJZ9ChT.png" group-title="NEWS WORLD",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v7Zj0iJ.png" group-title="NEWS WORLD",TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRfQZMK.png" group-title="NEWS WORLD",LiveNow Fox
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1  group-title="NEWS WORLD",Malabar News (720p) [Not 24/7]
+http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
+#EXTINF:-1  group-title="NEWS WORLD",Manorama News (576p)
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1  group-title="NEWS WORLD",Mathrubhumi News (576p) [Not 24/7]
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+#EXTINF:-1  group-title="NEWS WORLD",Meteonews (1080p)
+https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1  group-title="NEWS WORLD",Metro TV (360p) [Not 24/7]
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1  group-title="NEWS WORLD",OAN (1080p)
+http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+
+
 #EXTINF:-1 group-title="TV" tvg-id="rainews.tv.vodafone.pt" tvg-logo="https://www.raiplay.it/resizegd/300x-/dl/img/2023/01/19/1674083857577_1.jpg",RAI NEWS24
 https://streamcdng18-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="rainews.tv.vodafone.pt" tvg-logo="https://www.raiplay.it/resizegd/300x-/dl/img/2023/01/19/1674083857577_1.jpg",RAI NEWS24
@@ -361,14 +361,9 @@ http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 
 
 
-#EXTINF:-1  group-title="N/A", Algum canal
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+
 #EXTINF:-1  group-title="N/A", Algum canal
 http://cdn2.cyclingnews.live/hls/P2.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://rakuten-africanews-1-no.samsung.wurl.com/manifest/eeb88fab4703f2644e2ca1e8308008c8.m3u8
 #EXTINF:-1  group-title="N/A",Al Iraqiya News (720p) [Not 24/7]
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1  group-title="N/A",Al Jazeera Balkans (1080p)
@@ -547,9 +542,6 @@ https://sc.id-tv.kz/Mir24.m3u8
 #EXTINF:-1 group-title="NEWS WORLD", Noyabrsk 24
 https://strm.yandex.ru/kal/noyabrsk24/noyabrsk240.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD", 112 Ukraine
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-
 #EXTINF:-1 group-title="NEWS WORLD", Russia 24
 https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8
 
@@ -568,17 +560,11 @@ https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD", Akamai Live Event
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD", Atameken Business Channel
-https://sc.id-tv.kz/Atameken.m3u8
-
 #EXTINF:-1 group-title="NEWS WORLD", Bloomberg HT (Turkey)
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD", Google News Event
 https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", APTV Channel (Asia)
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD", Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
@@ -633,9 +619,6 @@ https://v4.tustreaming.cl/tevexinter/index.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD", CloudFront Stream
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD", AccuWeather
-https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD", Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
