@@ -1,16 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
 
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png",🧒 ●| Inspector Gadget
-https://bit.ly/3FblQIm?/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/babyfirts.png",🇧🇷🧒 ●| Baby Firts [Pluto]
-https://bit.ly/BabyFirts?/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200",🇪🇸🧒 ●| Pequeradio TV 
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png",🇪🇸 ●| La 1ᴴᴰ 
-http://eja.tv/?f637f17a2fdc60ed45df337e150c36fa.m3u8
 
 #EXTINF:-1 tvg-logo="https://statics.atresmedia.com/atresplayer/assets/web/images/channels/antena-3-logo.svg" group-title="ESPANHA", ANTENA 3 (COM VPN)
 https://directo.atresmedia.com/2e1074e3833f6b8d5d237f37de397b10c1f3cb66_1682773131/antena3/master.m3u8
