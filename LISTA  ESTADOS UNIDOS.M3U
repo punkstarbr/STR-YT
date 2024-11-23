@@ -2377,11 +2377,11 @@ http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 http://worcester.vod.castus.tv/live/ch1.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sxxRphV.png" group-title="USA PUBLIC",White Plains Community Media
 http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81NqdwB.png" group-title="P.A.T.S",Arkansas - KNOE news 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81NqdwB.png" group-title="USA",Arkansas - KNOE news 8
 https://dai2-playlistserver.aws.syncbak.com/playlist/893553/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjcyMzUsImlzcyI6IldMUyIsIm1kNSI6IjM5YWE1ZjczMTgyYTg0NThiY2QzOTcxMjQzYzVhZDc1IiwibWlkIjoiODkzNTUzIn0.v4oZTq8PnYSg_UAfc_nt9tO2ThQy44A-F8-colQ2Ijg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81NqdwB.png" group-title="P.A.T.S",Arkansas - KNOE Live Event
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81NqdwB.png" group-title="USA",Arkansas - KNOE Live Event
 https://playlistserver.aws.syncbak.com/playlist/13353644/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTA1NDQ4MDgsImlzcyI6IldMUyIsIm1kNSI6ImRiYjE0OGQwMDQxNmE1YzBmMjQyZmY4MTVjNTBiYTlhIiwibWlkIjoiMTMzNTM2NDQifQ.ifqK3SjqEA9zxIzehzOADwGU3hh7l-T-kXpUQSs10sU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GaWiHiz.png" group-title="P.A.T.S",Arkansas - WMC 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GaWiHiz.png" group-title="USA",Arkansas - WMC 5
 https://dai2-playlistserver.aws.syncbak.com/playlist/18497172/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODQ5NzE3MiIsIm1kNSI6IjYzOWYxNjJjOTZjZjJmZWFmYjQ1YWY1NTA4MzhmMGQ4IiwiaWF0IjoxNTk0MDU4Mjc4LCJpc3MiOiJTeW5jYmFrIChURykifQ.m34pXxraDlVLkgkAtFOwXbZ4DqUaAXQjOrumoMi2Fso
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1AkpB2q.jpg" group-title="P.A.T.S",Arkansas - KAIT 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1AkpB2q.jpg" group-title="USA",Arkansas - KAIT 8
 https://dai2-playlistserver.aws.syncbak.com/playlist/18533680/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODUzMzY4MCIsIm1kNSI6Ijg2MTZhMDgxMGU0MjViNmZjMjE0YjcxZmM3N2ViMjU1IiwiaWF0IjoxNTk0NTgzNTc4LCJpc3MiOiJTeW5jYmFrIChURykifQ.iMmFxpzDdyXuuhMVZm1jIN2JZ4B1Cl6ms5RwyuI2P-E
