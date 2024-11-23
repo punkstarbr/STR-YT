@@ -142,7 +142,11 @@ https://cbsn-2.cbsnstream.cbsnews.com/out/v1/a6a897e8f4f74cfc896223dfd822482f/ma
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2022/01/19/e6521679-1e8a-4522-af30-b416193d8414/thumbnail/1920x1080/d73c8305850f4e4a85a25627a616d62b/cbsnews-1920x1080.jpg",CBS NEWS SERVIÇO 2
 https://cbsn-3-fastly.cbsnstream.cbsnews.com/out/v1/f081461c65494eeaa9ec596d0fe96a14/master.m3u8
 
+#EXTINF:-1 group-title="Japan" tvg-logo="https://i.imgur.com/vcGsZVD.png" group-title="NEWS WORLD" ,HBC Hokkaido News 24 JP Serviço
+https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
 
+#EXTINF:-1 tvg-id="HOMEHiroshimaNews.jp",HOME Hiroshima News Serviço
+https://ythls.armelin.one/channel/UCRnFGOp_mjaCYEhMzsE2iHA.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider10.jpg",ABC News Live 1 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
@@ -1118,3 +1122,18 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 #EXTINF:-1 tvg-id="ABCNews.au" tvg-logo="https://i.imgur.com/jtPPRFX.png" group-title="NEWS WORLD",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+#EXTINF:-1 tvg-id="AajNews.pk" tvg-logo="https://i.imgur.com/VNGnHYz.png" group-title="NEWS WORLD",Aaj News
+https://ythls.armelin.one/channel/UCgBAPAcLsh_MAPvJprIz89w.m3u8 
+#EXTINF:-1 tvg-id="" group-title="NEWS WORLD",ABC TV News Japão
+https://ythls.armelin.one/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" group-title="NEWS WORLD",GB News
+https://ythls.armelin.one/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
+#EXTINF:-1 tvg-id="TOSNews.jp" tvg-logo="https://i.imgur.com/JBkXyvj.jpg" group-title="NEWS WORLD",TOS News Japão
+https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
+#EXTINF:-1 tvg-id="SBSNews.kr" group-title="NEWS WORLD",SBS News CORÉIA
+https://ythls.armelin.one/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
+#EXTINF:-1 tvg-id="NewsTamil24x7.in" group-title="NEWS WORLD",News Tamil 24x7
+https://ythls.armelin.one/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
+#EXTINF:-1 tvg-id="NewsMalayalam24x7.in" group-title="NEWS WORLD",News Malayalam 24x7
+https://ythls.armelin.one/channel/UCXp6JTdq7-WwBK09S7SzmxQ.m3u8
+
