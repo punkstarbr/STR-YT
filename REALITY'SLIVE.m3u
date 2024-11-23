@@ -6,21 +6,6 @@
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="USA",Telemundo Miami
-http://170.82.37.21:8000/play/a02t/index.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://docdog.top/logo/countries/us/telemundochicago.png",TELEMUNDO CHICAGO
-http://vipatdom.top:8080/VIP0186171413546510/91719429032804/6345
-#EXTINF:0 tvg-id="WNJUDT1.us player-buffer="30" tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" group-title="USA" user-agent="iPhone",Telemundo Atlanta
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-http://animalstream.pro:8080/3@5shark@5@4/SanaleFM45@/18615
 #EXTINF:0 tvg-id="TelemundoEast.us" player-buffer="30" tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" group-title="USA" user-agent="iPhone",Telemundo East
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
