@@ -2349,12 +2349,7 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:0 group-title="ESTADOS UNIDOS",Youtoo America (1080p)
 #EXTVLCOPT:network-caching=1000
 https://thegateway.app/YouToo/CueTones/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jjHm3a.png" group-title="USA PUBLIC",Akaku 53 Hawaii
-https://akaku.vod.castus.tv/live/ch1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jjHm3a.png" group-title="USA PUBLIC",Akaku 54 Hawaii
-https://akaku.vod.castus.tv/live/ch2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jjHm3a.png" group-title="USA PUBLIC",Akaku 55 Hawaii
-https://akaku.vod.castus.tv/live/ch3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJG1KGR.png" group-title="USA PUBLIC",CCX Media Minnesota
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxEzPeX.png" group-title="USA PUBLIC",Connecticut Network
