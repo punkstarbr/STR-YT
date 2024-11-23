@@ -110,33 +110,33 @@ http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/410
 #EXTINF:-1 tvg-chno="13" tvg-rec="28" tvg-id="E4.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/e4-epg.png" group-title="General",E4 - SEM VPN
 https://cdnuk001.broadcastcdn.net/KUK-E4/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="16" tvg-id="QVCUK.uk" group-title="Shopping" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/qvc-epg.png",QVC - SEM VPN
+#EXTINF:-1 tvg-chno="16" tvg-id="QVCUK.uk" group-title="HOME SHOPPING" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/qvc-epg.png",QVC - SEM VPN
 https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-id="Dave.uk" tvg-name="Dave" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/dave-epg.png" group-title="General",Dave - SEM VPN
 https://cdnuk001.broadcastcdn.net/KUK-DAVE/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-id="TJC.uk" group-title="Shopping" status="online",TJC - SEM VPN
+#EXTINF:-1 tvg-chno="22" tvg-id="TJC.uk" group-title="HOME SHOPPING" status="online",TJC - SEM VPN
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(TJCOTT)/master.mpd
 
-#EXTINF:-1 tvg-chno="37" tvg-id="QVCBeautyUK.uk" group-title="Shopping",QVC Beauty - SEM VPN
+#EXTINF:-1 tvg-chno="37" tvg-id="QVCBeautyUK.uk" group-title="HOME SHOPPING",QVC Beauty - SEM VPN
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-chno="38" tvg-id="QVCStyleUK.uk" group-title="Shopping",QVC Style - SEM VPN
+#EXTINF:-1 tvg-chno="38" tvg-id="QVCStyleUK.uk" group-title="HOME SHOPPING",QVC Style - SEM VPN
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
 
-#EXTINF:-1 tvg-chno="45" tvg-id="GemsTV.uk" group-title="Shopping",Gems TV - SEM VPN
+#EXTINF:-1 tvg-chno="45" tvg-id="GemsTV.uk" group-title="HOME SHOPPING",Gems TV - SEM VPN
 https://lo2-1.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-id="IdealWorldTV.uk" group-title="Shopping",Ideal World (limited) - SEM VPN 
+#EXTINF:-1 tvg-chno="51" tvg-id="IdealWorldTV.uk" group-title="HOME SHOPPING",Ideal World (limited) - SEM VPN 
 https://ythls.onrender.com/channel/UCJbgGTpBWuC87VFIKTTO4RQ.m3u8
 #EXTINF:-1 tvg-chno="53" tvg-id="TG4.ie" status="timeout",TG4 (Irish) - SEM VPN
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 
-#EXTINF:-1 tvg-chno="72" tvg-id="JewelleryMaker.uk" group-title="Shopping",Jewellery Maker - SEM VPN
+#EXTINF:-1 tvg-chno="72" tvg-id="JewelleryMaker.uk" group-title="HOME SHOPPING",Jewellery Maker - SEM VPN
 https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestreamFullHD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="84" tvg-id="PBSAmerica.uk" group-title="General",PBS America - SEM VPN
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="85" tvg-id="CreateandCraft.uk" group-title="Shopping",Create & Craft - SEM VPN
+#EXTINF:-1 tvg-chno="85" tvg-id="CreateandCraft.uk" group-title="HOME SHOPPING",Create & Craft - SEM VPN
 https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
 #EXTINF:-1 tvg-chno="87" tvg-id="TVWarehouse.uk",TV Warehouse
 https://tvwarehouse.r.worldssl.net/mystream.m3u8
