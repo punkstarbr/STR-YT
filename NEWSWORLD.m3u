@@ -1140,3 +1140,22 @@ https://ythls.armelin.one/channel/UCXp6JTdq7-WwBK09S7SzmxQ.m3u8
 https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" group-title="NEWS WORLD",Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="NEWS WORLD",NTV
+http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" group-title="NEWS WORLD",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png" tvg-id="AstroAwani.my" group-title="NEWS WORLD",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="NEWS WORLD",ADN40
+http://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/xnMeKG6.png" group-title="NEWS WORLD",RTU
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="NEWS WORLD",teleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8at5psc3p5xax7y/news1.png?dl=1" group-title="NEWS WORLD",News1 Tailandia
+http://news1.live14.com/stream/news1_hi.m3u8
