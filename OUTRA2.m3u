@@ -451,24 +451,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="MANDARIN NEWS",TDM 澳門資訊頻道
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="TURKISH NEWS",NTV
-https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://i.imgur.com/Qq58W0E.png" group-title="TURKISH NEWS",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png" tvg-id="AstroAwani.my" group-title="MALAY NEWS",Astro Awani
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/8cdAvQF.png" group-title="LATINO NEWS",ADN40
-http://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dOTAsGd.png" group-title="LATINO NEWS",RTU
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="LATINO NEWS",teleSUR
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdWajHP.png" group-title="THAI NEWS",News1
-http://news1.live14.com/stream/news1_hi.m3u8
 
 
 
