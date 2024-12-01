@@ -362,7 +362,9 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://www.skynews.com/content/dam/skynews/logos/Sky-News-Logo-2018.png",SKY NEWS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8?ads.caid=nbcuskynews&ads.csid=samsungtvplus_us_nbcuskynews_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3455&ads.xumo_contentName=skynews&ads.xumo_providerI
 
-#EXTINF:-1 group-title="NEWS WORLD",24 Канал
+#EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="NEWS WORLD",1+1 UCRÂNIA
+https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",24 Канал UCRÂNIA
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 
 
@@ -371,15 +373,15 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 
 #EXTINF:-1  group-title="N/A", Algum canal
 http://cdn2.cyclingnews.live/hls/P2.m3u8
-#EXTINF:-1  group-title="N/A",Al Iraqiya News (720p) [Not 24/7]
+#EXTINF:-1  group-title="NEWS WORLD",Al Iraqiya News (720p) [Not 24/7]
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Al Jazeera Balkans (1080p)
+#EXTINF:-1  group-title="NEWS WORLD",Al Jazeera Balkans (1080p)
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1  group-title="N/A",Al Jazeera Documentary (576p) [Not 24/7]
 http://teledunet.com:8080/live/azrotv/azrotv2021/10040.m3u8
-#EXTINF:-1  group-title="N/A",Al Jazeera English (1080p)
+#EXTINF:-1  group-title="NEWS WORLD",Al Jazeera English (1080p)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1  group-title="N/A",Al Jazeera Mubasher (1080p)
+#EXTINF:-1  group-title="NEWS WORLD",Al Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
 #EXTINF:-1 tvg-chno="807" tvg-rec="28" tvg-id="RTUK.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/rt-epg.png" group-title="NEWS WORLD",RT UK
@@ -1136,8 +1138,7 @@ https://ythls.armelin.one/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
 https://ythls.armelin.one/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
 #EXTINF:-1 tvg-id="NewsMalayalam24x7.in" group-title="NEWS WORLD",News Malayalam 24x7
 https://ythls.armelin.one/channel/UCXp6JTdq7-WwBK09S7SzmxQ.m3u8
-#EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="NEWS WORLD",1+1 UCRÂNIA
-https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" group-title="NEWS WORLD",Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
 
