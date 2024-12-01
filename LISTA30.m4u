@@ -1674,3 +1674,590 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw
 #EXTINF:-1 ,The Shopping Channel Canada
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", 100 Automoto HD
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", 100 Automoto HD
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", 30A Music
+https://30a-tv.com:443/music.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", 4FunTV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", 5TV (Corrientes) (480p)
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", 5TV (Corrientes) (480p) [Not 24/7]
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", 5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="PY" tvg-logo="Undefined.png", ABC TV
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AGRO BRASIL
+http://168.205.87.198:8555/live/JOSEE/123456/7.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AGRO BRASIL
+http://168.205.87.198:8555/live/michele/123456/7.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AGRO BRASIL
+http://168.205.87.198:8555/live/antony/1234/7.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AGRO BRASIL
+http://168.205.87.198:8555/live/1111/123456/7.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AGRO BRASIL
+http://168.205.87.198:8555/live/leila/123456/7.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Agro Brasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="BR" tvg-logo="Undefined.png", Agro Brasil TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Agro Brasil² (C.Grande-MS)
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/chunklist_w1647341087.m3u8?IMDSFULL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AGRO CANAL
+http://168.205.87.198:8555/live/michele/123456/10.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AGRO CANAL
+http://168.205.87.198:8555/live/1221/123456/10.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AGRO CANAL
+http://168.205.87.198:8555/live/JOSEE/123456/10.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AGRO CANAL
+http://168.205.87.198:8555/live/antony/1234/10.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AGRO CANAL
+http://168.205.87.198:8555/live/leila/123456/10.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AgroBrasil TV (720p) [Not 24/7]
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AGROMAIS
+http://168.205.87.198:8555/live/JOSEE/123456/175.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AGROMAIS
+http://168.205.87.198:8555/live/antony/1234/175.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AGROMAIS
+http://168.205.87.198:8555/live/1221/123456/175.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Akaku TV 1
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Akaku TV 2
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Akaku TV 3
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Al Hurria HD (Iraque)
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w836773702.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Alagoa - Altura
+https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
+
+#EXTINF:-1 group-title="ES" tvg-logo="Undefined.png", Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Alcarria TV¹ (Guadalajara-ES)
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", ALL SPORTS
+http://168.205.87.198:8555/live/leila/123456/148.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", ALL SPORTS
+http://168.205.87.198:8555/live/michele/123456/148.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", ALL SPORTS
+http://168.205.87.198:8555/live/1221/123456/148.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", ALL SPORTS
+http://168.205.87.198:8555/live/JOSEE/123456/148.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", ALL SPORTS
+http://168.205.87.198:8555/live/antony/1234/148.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Almograve - New
+https://video-auth1.iol.pt/beachcam/bcalmograve/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Alvor
+https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AMERICA LATINO
+http://168.205.87.198:8555/live/leila/123456/16.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AMERICA LATINO
+http://168.205.87.198:8555/live/JOSEE/123456/16.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AMERICA LATINO
+http://168.205.87.198:8555/live/michele/123456/16.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AMERICA LATINO
+http://168.205.87.198:8555/live/antony/1234/16.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AMERICA LATINO
+http://168.205.87.198:8555/live/1111/123456/16.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", AMERICA LATINO
+http://168.205.87.198:8555/live/1221/123456/16.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="MX" tvg-logo="Undefined.png", AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", ANIMAL PLANET
+http://168.205.87.198:8555/live/michele/123456/18.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", ANIMAL PLANET
+http://168.205.87.198:8555/live/antony/1234/18.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", ANIMAL PLANET
+http://168.205.87.198:8555/live/leila/123456/18.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="PE" tvg-logo="Undefined.png", Antares TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Antena 1 Açores
+https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Antena 1 Fado
+https://streaming-live.rtp.pt/liveradio/antena1fado80a/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Antena 1 Madeira
+https://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Antena 1 Memória
+https://streaming-live.rtp.pt/liveradio/antena1memoria80a/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Antena 1 Vida
+https://streaming-live.rtp.pt/liveradio/vida80a/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Antena 2 Jazzin'
+https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Antena 2 Opera
+https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
+
+#EXTINF:-1 group-title="CL" tvg-logo="Undefined.png", Antofagasta TV
+https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Areia Branca
+https://video-auth1.iol.pt/beachcam/bcareiabranca/playlist.m3u8
+
+#EXTINF:-1 group-title="KR" tvg-logo="Undefined.png", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Arirang TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Arrifana
+https://video-auth1.iol.pt/beachcam/arrifana/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", ARTE1
+http://168.205.87.198:8555/live/1221/123456/170.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", ARTE1
+http://168.205.87.198:8555/live/JOSEE/123456/170.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", ARTE1
+http://168.205.87.198:8555/live/antony/1234/170.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="CL" tvg-logo="Undefined.png", Atacama Noticias TV
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="CL" tvg-logo="Undefined.png", Atacama TV
+https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Atlanta Channel¹ (USA)
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Atlanta Channel² (USA)
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+
+#EXTINF:-1 group-title="PE" tvg-logo="Undefined.png", Autentica TV
+https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Baden TV¹ HD (Alemanha)
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Baden TV² HD (Alemanha)
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w550637166.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Baía de Cascais
+https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", BAND
+http://168.205.87.198:8555/live/1221/123456/19.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", BAND
+http://168.205.87.198:8555/live/michele/123456/19.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", BAND
+http://168.205.87.198:8555/live/leila/123456/19.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", BAND
+http://168.205.87.198:8555/live/JOSEE/123456/19.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", BAND
+http://168.205.87.198:8555/live/antony/1234/19.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="BR" tvg-logo="Undefined.png", Band
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", BAND SPORTS
+http://168.205.87.198:8555/live/antony/1234/176.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", BAND SPORTS
+http://168.205.87.198:8555/live/1221/123456/176.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", BAND SPORTS
+http://168.205.87.198:8555/live/michele/123456/176.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", BAND SPORTS
+http://168.205.87.198:8555/live/JOSEE/123456/176.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Banda HD (PA)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Beach Grooves
+http://stream.beachgrooves.com:8000/stream
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Bloomberg TV
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+
+#EXTINF:-1 group-title="BO" tvg-logo="Undefined.png", Bolivia TV 7.2
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="DO" tvg-logo="Undefined.png", Bonao TV
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="CL" tvg-logo="Undefined.png", Buin Somos Todos
+https://bst.buin.cl/0.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Cadena Digital
+http://185.23.192.118:8006/;stream.mp3
+
+#EXTINF:-1 group-title="ES" tvg-logo="Undefined.png", Cadena Elite
+https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Cadena Latino
+http://185.23.192.118:8000/;stream.mp3
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Cadena SER - Ràdio Manresa
+http://streaming.enantena.com:8000/taronjadigital-bages56.mp3
+
+#EXTINF:-1 group-title="CO" tvg-logo="Undefined.png", Cali TV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", California Music Channel
+https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
+
+#EXTINF:-1 group-title="CL" tvg-logo="Undefined.png", Campus TV
+https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Canal 10 (México)
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 group-title="CL" tvg-logo="Undefined.png", Canal 2 de San Antonio
+https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="CL" tvg-logo="Undefined.png", Canal 2 Quellon
+https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Canal 2000
+http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
+
+#EXTINF:-1 group-title="CL" tvg-logo="Undefined.png", Canal 21 Chillán
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="MX" tvg-logo="Undefined.png", Canal 28 Nuevo Leon
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="CR" tvg-logo="Undefined.png", Canal 8
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="CL" tvg-logo="Undefined.png", Canal 9 Bío Bí­o TV
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Canal Blau Ràdio
+http://streaming.enantena.com:8000/canalblau128.mp3
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Canal Extremadura
+https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="CO" tvg-logo="Undefined.png", Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="CL" tvg-logo="Undefined.png", Canal ISB
+https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="CL" tvg-logo="Undefined.png", Canal SCÑ - San Carlos Ñuble
+https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="CR" tvg-logo="Undefined.png", Canal VM Latino
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="DO" tvg-logo="Undefined.png", Canal4RD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Canale 7
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Canale 7 HD (Itália)
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+
+#EXTINF:-1 group-title="CL" tvg-logo="Undefined.png", Caracola TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Carcavelos
+https://video-auth1.iol.pt/beachcam/carcavelos/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Carrussel FM
+https://server10.emitironline.com:2199/tunein/carruselfm.pls
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Carvoeiro
+https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Cetelmon TV España
+http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
+
+#EXTINF:-1 group-title="AR" tvg-logo="Undefined.png", Chaco TV
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", CHI: SPORTING HD
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="CL" tvg-logo="Undefined.png", Chile Channel
+https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="BR" tvg-logo="Undefined.png", Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="AR" tvg-logo="Undefined.png", CN 24/7 Neuquen
+https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 group-title="CR" tvg-logo="Undefined.png", Colosal TV
+https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Comporta
+https://video-auth1.iol.pt/beachcam/bccomporta/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Connecticut Network (USA)
+http://video.ct-n.com/live/ctnstream/playlist.m3u8
+
+#EXTINF:-1 group-title="CO" tvg-logo="Undefined.png", Cosmovisión
+https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Costa de Caparica - CDS Norte
+https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Costa de Caparica - Riviera
+https://video-auth1.iol.pt/beachcam/riviera/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Costa de Caparica - S. João
+https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Costa Nova
+https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
+
+#EXTINF:-1 group-title="AR" tvg-logo="Undefined.png", CPE TV
+https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="ES" tvg-logo="Undefined.png", Cristiana TV
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="CO" tvg-logo="Undefined.png", CTV
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Cultura - TV Futuro
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CL" tvg-logo="Undefined.png", Decima TV
+https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Deutsche Welle Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Deutsche Welle Deutsch
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Deutsche Welle Deutsch+
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Deutsche Welle Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", digitalHits FM
+http://digitalhits.frilab.com:8000/digitalhits;
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Discovery Channel
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1942549659.m3u8?IMDSFULL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Dubai Sports 2 (Dubai)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Dubai Sports 2 HD (ARA)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Dubai Sports 3 (Dubai)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Dubai Sports 3 (Dubai)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Dubai Sports 3 HD (ARA)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="DE" tvg-logo="Undefined.png", DW Deutsch
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="DE" tvg-logo="Undefined.png", DW Deutsch+
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="DE" tvg-logo="Undefined.png", DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="DE" tvg-logo="Undefined.png", DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", DW Inglês (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", El Pinguino Tv (Chile)
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1602984822.m3u8
+
+#EXTINF:-1 group-title="CL" tvg-logo="Undefined.png", Energia TV
+https://cdn.oneplaychile.cl:1936/regionales/energia-fm/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Ericeira
+https://video-auth1.iol.pt/beachcam/ericeiraspots/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Esmoriz
+https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Espinho
+https://video-auth1.iol.pt/beachcam/espinho/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", ETB 1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", ETB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Euro Indie Music (Reino Unido)
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Euskalerria Irratia
+http://server4.beatproducciones.com:8014/;
+
+#EXTINF:-1 group-title="US" tvg-logo="Undefined.png", EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Extrema TV (Costa Rica)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="PR" tvg-logo="Undefined.png", Faro de Santidad TV
+https://5dbcd1053301e.streamlock.net:4443/farotv/farotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Ferreira do Zêzere - Lago Azul
+https://video-auth1.iol.pt/beachcam/bclagoazul/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Fight Network (ENG)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Figueira da Foz
+https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", First Music Channel Bielorrusia
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", First Music Channel Bielorrusia
+http://hz1.teleport.cc/HLS/SD.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Fish TV HD
+http://168.205.87.198:8555/live/123456/123456/62.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", FM Italia TV
+https://stream1.xdevel.com/video0s975817-1182/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="AR" tvg-logo="Undefined.png", FM Metropolitana 100.5 MHZ
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Fonte TV (1080p) [Not 24/7]
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Fonte TV¹
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Fonte TV³
+http://wowza.softhost.com.br:1935/fonte/fontetv/chunklist_w1903947223.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", FOX HITS
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", Foz do Arelho
+https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8
+
+#EXTINF:-1 group-title="FR" tvg-logo="Undefined.png", France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", France 24 Arabic
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", France 24 Français
+https://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", France 24H¹ (Reino Unido)
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", France24 Arabic
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", France24 France
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 group-title="PE" tvg-logo="Undefined.png", Genios TV
+https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="CL" tvg-logo="Undefined.png", Girovisual TV
+https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Undefined" tvg-logo="Undefined.png", GNM TV
+https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="BR" tvg-logo="Undefined.png", Gospel Movies Television
+https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8?PlaylistM3UCL
