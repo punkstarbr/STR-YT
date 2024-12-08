@@ -29,22 +29,11 @@ http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/221156.m
 #EXTINF:-1 tvg-chno="809" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2023/5/25/f425x230-734314_748296_5050.jpg",LCDLF (Cuarto Mar)
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/221157.m3u8
 
-#EXTINF:-1 tvg-chno="804" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Multicamaras)
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246415.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam1)
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246416.m3u8
 
-#EXTINF:-1 tvg-chno="801" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam2)
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246414.m3u8
 
-#EXTINF:-1 tvg-chno="802" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam3)
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246413.m3u8
-
-#EXTINF:-1 tvg-chno="803" tvg-logo="https://www.chileshow.cl/u/fotografias/m/2023/4/15/f425x230-43202_57184_5050.png",GH 🇨🇱 (Cam4)
-http://ultrapremium.cloud:8080/live/942330689tv/0as03m/246412.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="N/A",NOTÍCIAS TELEMUNDO - SERVIÇO
 https://telemundolive.akamaized.net/hls/live/2093200/NEWS105/master_main105.m3u8
@@ -222,7 +211,7 @@ https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1.m3u8
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 - 2
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-id="",TF1 - 3
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://iili.io/JmogGzN.png",TF1 - 3
 http://212.102.60.80/TF1/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1" tvg-logo="https://docdog.top/logo/countries/france/tf1-fr.png" group-title="FR",TF1 - 4
 http://vipphyla.top:8080/VIP019169419870119/91702539200735/419
@@ -250,7 +239,16 @@ http://bntvs.com:2052/mojvps/svWEB7CXPT/8737
 http://bntvs.com:2052/mojvps/svWEB7CXPT/8738
 #EXTINF:-1 tvg-id="" tvg-name="Zadruga 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Reality Show's Live",Zadruga 4
 http://bntvs.com:2052/mojvps/svWEB7CXPT/8739
-
+#EXTINF:-1 tvg-id="" tvg-name="BIGBROTHER VIP ALBANIA 1" tvg-logo="" group-title="KOMBETARE & LOKALE",BIGBROTHER VIP ALBANIA 1
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/84099.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIGBROTHER VIP ALBANIA 2" tvg-logo="" group-title="KOMBETARE & LOKALE",BIGBROTHER VIP ALBANIA 2
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/84100.ts
+#EXTINF:-1 tvg-id="" tvg-name="BB VIP KOSOVA 1" tvg-logo="" group-title="KOMBETARE & LOKALE",BB VIP KOSOVA 1
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/83032.ts
+#EXTINF:-1 tvg-id="" tvg-name="BB VIP KOSOVA 2" tvg-logo="" group-title="KOMBETARE & LOKALE",BB VIP KOSOVA 2
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/83033.ts
+#EXTINF:-1 tvg-id="Top Channel HD" tvg-name="TOP Channel FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/topchannel.png" group-title="KOMBETARE & LOKALE",TOP Channel FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8728.ts
 #EXTINF:-1 group-title="Reality Show's Live", BIG BROTHER AUSTRALIA (VPN)
 https://csm-e-n7aus-eb.tls1.yospace.com/csm/extlive/sevenprd01,CAS07.m3u8
 #EXTINF:-1 group-title="Reality Show's Live",WHO WANT BE A MULHER DO FAZENDEIRO AUSTRALIA (VPN)
