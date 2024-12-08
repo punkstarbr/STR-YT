@@ -214,36 +214,6 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest.mpd
 
 
 
-#EXTINF:-1 channel-id="pluto-64a766cd798def0008734695" tvg-id="64a766cd798def0008734695" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG.png" tvg-chno="1830" group-title="Reality Show's Live", Big Brother Quad View
-https://jmp2.uk/PlutoTV/64a766cd798def0008734695-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-64a765c04ea480000823917a" tvg-id="64a765c04ea480000823917a" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG.png" tvg-chno="1835" group-title="Reality Show's Live", Big Brother Camera 1
-https://jmp2.uk/PlutoTV/64a765c04ea480000823917a-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-64a765fb798def0008734632" tvg-id="64a765fb798def0008734632" tvg-logo="https://images.pluto.tv/channels/64a765fb798def0008734632/colorLogoPNG.png" tvg-chno="1840" group-title="Reality Show's Live", Big Brother Camera 2
-https://jmp2.uk/PlutoTV/64a7665b902f2300085d7901-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-64a7665b902f2300085d7901" tvg-id="64a7665b902f2300085d7901" tvg-logo="https://images.pluto.tv/channels/64a7665b902f2300085d7901/colorLogoPNG.png" tvg-chno="1845" group-title="Reality Show's Live", Big Brother Camera 3
-https://jmp2.uk/PlutoTV/64a765fb798def0008734632-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-64a766a794635e0008626601" tvg-id="64a766a794635e0008626601" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/colorLogoPNG.png" tvg-chno="1850" group-title="Reality Show's Live", Big Brother Camera 4
-https://jmp2.uk/PlutoTV/64a766a794635e0008626601-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-64a765c04ea480000823917a" tvg-id="64a765c04ea480000823917a" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/7507/928055-613360/603fb01989f749f9f9786a24a4cf8ffa.jpg" group-title="Reality Show's Live",US Big Brother 1 (FHD)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/799921124935
-
-#EXTINF:-1 channel-id="pluto-64a765fb798def0008734632" tvg-id="64a765fb798def0008734632" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/7507/928055-613360/603fb01989f749f9f9786a24a4cf8ffa.jpg" group-title="Reality Show's Live",US Big Brother 2 (FHD)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/799921124936
-
-#EXTINF:-1 channel-id="pluto-64a7665b902f2300085d7901" tvg-id="64a7665b902f2300085d7901" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/7507/928055-613360/603fb01989f749f9f9786a24a4cf8ffa.jpg" group-title="Reality Show's Live",US Big Brother 3 (FHD)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/799921124937
-
-#EXTINF:-1 channel-id="pluto-64a766a794635e0008626601" tvg-id="64a766a794635e0008626601" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/7507/928055-613360/603fb01989f749f9f9786a24a4cf8ffa.jpg" group-title="Reality Show's Live",US Big Brother 4 (FHD)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/799921124938
-
-#EXTINF:-1 channel-id="pluto-64a766cd798def0008734695" tvg-id="64a766cd798def0008734695" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/7507/928055-613360/603fb01989f749f9f9786a24a4cf8ffa.jpg" group-title="Reality Show's Live",US Big Brother 2023 Quad View (FHD)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/799921124939
-
 
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0031_000.png" group-title="FR" tvg-chno=" ",TF1
