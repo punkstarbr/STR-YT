@@ -17,9 +17,6 @@
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="🇧🇷 | BRAZIL",Nova Era TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 
-#EXTINF:-1 tvg-id="TVMAX.br" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="🇧🇷 | BRAZIL",TV Max
-https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
-
 #EXTINF:-1 tvg-name="NKNews" tvg-id="" group-title="KOREA" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nknews.png",DITADURA COREIA
 https://tv.nknews.org/tvdash/stream.mpd
 
