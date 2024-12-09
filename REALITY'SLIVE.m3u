@@ -1,6 +1,50 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Reality Show's Live",Telefe
+http://181.13.173.86:8000/play/a06c/index.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="Reality Show's Live",Telefe | Argentina - TDA 11.1
+http://181.209.114.13:8000/play/a06c/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="Reality Show's Live",TELEFE FHD4
+http://181.191.140.2:8000/play/a0it/index.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="Reality Show's Live",TELEFE FHD5
+http://181.191.140.2:8000/play/a0hu/index.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="Reality Show's Live",TELEFE FHD6
+http://181.191.140.229:8000/play/a0hu/index.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="Reality Show's Live",TELEFE FHD7
+http://181.191.140.229:8000/play/a0it/index.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="Reality Show's Live",TELEFE FHD8
+http://45.172.16.186:8000/play/a0qt/index.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="Reality Show's Live",TELEFE FHD9
+http://45.172.16.186:8000/play/a0qt
+
+#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://telefe-static.akamaized.net/media/18154476/logo-telefe-twitter.png" group-title="Argentina", Telefe (VPN) - TDA 11.1
+https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+
+#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina", Telefe (VPN) 2 - TDA 11.1
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+#EXTINF:-1 tvg-chno="111" tvg-id="TelefeHD.ar" tvg-logo="https://git.io/JOTOu" group-title="Nacionales", Telefe
+https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
+
+#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina.png" group-title="Argentina",Telefe | Argentina
+http://198.27.117.10:8080/Carlos2022/Carlos2022/362541
+
+
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/q6BQ5YO.png",Telefe Canal 7 Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/251_13_Max_Television.png",Telefe 13 Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="13Max.ar" tvg-logo="http://i.imgur.com/oSApjUM.png" group-title="Argentina",13 Max HD
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w2131508282.m3u8
+#EXTINF:-1 tvg-id="13Max.ar" tvg-logo="http://i.imgur.com/oSApjUM.png" group-title="Argentina",13 Max FHD
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 #EXTINF:-1  tvg-id="NBCWest.us" group-title="NEWS WORLD" tvg-logo="https://creativecloud.adobe.com/content/dam/2017/8/evolution-of-nbc-logo/article-marquee.jpg",NBC 7 San Diego
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
@@ -232,16 +276,6 @@ http://bntvs.com:2052/mojvps/svWEB7CXPT/8737
 http://bntvs.com:2052/mojvps/svWEB7CXPT/8738
 #EXTINF:-1 tvg-id="" tvg-name="Zadruga 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Reality Show's Live",Zadruga 4
 http://bntvs.com:2052/mojvps/svWEB7CXPT/8739
-#EXTINF:-1 tvg-id="" tvg-name="BIGBROTHER VIP ALBANIA 1" tvg-logo="" group-title="KOMBETARE & LOKALE",BIGBROTHER VIP ALBANIA 1
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/84099.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIGBROTHER VIP ALBANIA 2" tvg-logo="" group-title="KOMBETARE & LOKALE",BIGBROTHER VIP ALBANIA 2
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/84100.ts
-#EXTINF:-1 tvg-id="" tvg-name="BB VIP KOSOVA 1" tvg-logo="" group-title="KOMBETARE & LOKALE",BB VIP KOSOVA 1
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/83032.ts
-#EXTINF:-1 tvg-id="" tvg-name="BB VIP KOSOVA 2" tvg-logo="" group-title="KOMBETARE & LOKALE",BB VIP KOSOVA 2
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/83033.ts
-#EXTINF:-1 tvg-id="Top Channel HD" tvg-name="TOP Channel FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/topchannel.png" group-title="KOMBETARE & LOKALE",TOP Channel FHD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8728.ts
 #EXTINF:-1 group-title="Reality Show's Live", BIG BROTHER AUSTRALIA (VPN)
 https://csm-e-n7aus-eb.tls1.yospace.com/csm/extlive/sevenprd01,CAS07.m3u8
 #EXTINF:-1 group-title="Reality Show's Live",WHO WANT BE A MULHER DO FAZENDEIRO AUSTRALIA (VPN)
