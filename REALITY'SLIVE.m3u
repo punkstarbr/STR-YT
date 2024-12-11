@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ABCEast.us" tvg-logo="https://iili.io/JmoUd6g.png" group-title="USA",ABC East
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="CBSEast.us" tvg-logo="https://iili.io/JmoUFcJ.png" group-title="USA",CBS East
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-id="FoxEast.us" tvg-logo="https://iili.io/JmoUJMF.png" group-title="USA",Fox East
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="NBCEast.us" tvg-logo="https://iili.io/JmoU3Fa.png" group-title="USA",NBC East
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+
 #EXTINF:-1 tvg-name="NKNews" tvg-id="" group-title="Reality Show's Live" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nknews.png",DITADURA COREIA
 https://tv.nknews.org/tvdash/stream.mpd
 
