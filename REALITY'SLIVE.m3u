@@ -8,10 +8,18 @@ http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="NBCEast.us" tvg-logo="https://iili.io/JmoU3Fa.png" group-title="USA",NBC East
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="KNBCDT1.us" tvg-logo="https://iili.io/JmoU3Fa.png" group-title="USA",NBC West
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
 #EXTINF:-1 tvg-name="NKNews" tvg-id="" group-title="Reality Show's Live" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nknews.png",DITADURA COREIA
 https://tv.nknews.org/tvdash/stream.mpd
 
+#EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://iili.io/JmosVLl.png" group-title="SPAIN",Telecinco
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e1dbacf4b932a11cd6cecb741def23d:0375536d6e512003972d1d6ea1f4d7c0
+https://ott.zapitv.com/live/eds_c2/telecinco/dash_live_enc/telecinco.mpd
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Reality Show's Live",Telefe
 http://181.13.173.86:8000/play/a06c/index.m3u8
 #EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://i.imgur.com/q6BQ5YO.png",Telefe Canal 7 Jujuy
