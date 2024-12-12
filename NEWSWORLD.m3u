@@ -263,6 +263,8 @@ https://603c568fccdf5.streamlock.net/live2/dhaweb2/playlist.m3u8
 http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://iili.io/JmKvove.png" group-title="NEWS WORLD",MSNBC
+http://41.205.93.154:80/MSNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/0x1fWbw.png" group-title="NEWS WORLD",DW Arabe
 #KODIPROP:inputstream=inputstream.adaptive
