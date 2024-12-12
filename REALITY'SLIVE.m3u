@@ -8,7 +8,7 @@ http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="NBCEast.us" tvg-logo="https://iili.io/JmoU3Fa.png" group-title="USA",NBC East
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="KNBCDT1.us" tvg-logo="https://iili.io/JmoU3Fa.png" group-title="USA",NBC West
+#EXTINF:-1 tvg-id="KNBCDT1.us" tvg-logo="https://iili.io/JmoU3Fa.png" group-title="USA",NBC West 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
