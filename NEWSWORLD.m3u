@@ -276,7 +276,9 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/strea
 #EXTINF:0 tvg-id="CNA.sg" tvg-logo="https://i.imgur.com/xJZ9ChT.png" group-title="NEWS WORLD",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-
+#EXTINF:0 tvg-id="cna" group-title="NEWS WORLD" tvg-logo="https://i.ibb.co/NTKgPfv/cna.png",CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?cc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v7Zj0iJ.png" group-title="NEWS WORLD",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
