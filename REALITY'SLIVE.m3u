@@ -10,6 +10,24 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manife
 #EXTINF:-1 tvg-id="Canale 5 HD.it" tvg-logo="https://iili.io/d93woZP.png" group-title="Reality Show's Live",Canale 5
 http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/2365
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 1" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: ITV 1
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/361
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 2" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: ITV 2
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/362
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 3" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: ITV 3
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/363
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 4" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: ITV 4
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/364
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 1" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: BBC 1
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/352
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 2" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: BBC 2
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/353
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 3" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: BBC 3
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/354
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC Four" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: BBC Four
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/355
+
 #EXTINF:-1 tvg-id="ABCEast.us" tvg-logo="https://iili.io/JmoUd6g.png" group-title="USA",ABC East
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="CBSEast.us" tvg-logo="https://iili.io/JmoUFcJ.png" group-title="USA",CBS East
