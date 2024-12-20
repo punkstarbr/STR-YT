@@ -69,7 +69,7 @@ http://45.171.64.180:8000/play/a05c/index.m3u8
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Mp5fMxR/Canal57.png" group-title="USA" user-agent="iPhone",Canal 57 Miami
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/yY68NHt/vtv.png" group-title="Nacionales" user-agent="iPhone", VTv Canal 17
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/yY68NHt/vtv.png" group-title="Reality Show's Live" user-agent="iPhone", VTv Canal 17
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/chunklist.m3u8
 
 
