@@ -7,39 +7,9 @@
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Canale 5 HD.it" tvg-logo="https://iili.io/d93woZP.png" group-title="Reality Show's Live",Canale 5
-http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/2365
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 1" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: ITV 1
-http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/361
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 2" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: ITV 2
-http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/362
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 3" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: ITV 3
-http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/363
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 4" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: ITV 4
-http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/364
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 1" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: BBC 1
-http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/352
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 2" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: BBC 2
-http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/353
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 3" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: BBC 3
-http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/354
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC Four" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: BBC Four
-http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/355
 
-#EXTINF:-1 tvg-id="ABCEast.us" tvg-logo="https://iili.io/JmoUd6g.png" group-title="USA",ABC East
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="CBSEast.us" tvg-logo="https://iili.io/JmoUFcJ.png" group-title="USA",CBS East
-http://fl2.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1 tvg-id="FoxEast.us" tvg-logo="https://iili.io/JmoUJMF.png" group-title="USA",Fox East
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="NBCEast.us" tvg-logo="https://iili.io/JmoU3Fa.png" group-title="USA",NBC East
-http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="KNBCDT1.us" tvg-logo="https://iili.io/JmoU3Fa.png" group-title="USA",NBC West 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
 #EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://iili.io/JmosVLl.png" group-title="Reality Show's Live",Telecinco
 #KODIPROP:inputstream.adaptive.license_type=clearkey
