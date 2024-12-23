@@ -1,3 +1,10 @@
+#EXTINF:-1 group-title="TV" tvg-id="La1.TV" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688877.jpg",La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png",La 1
+http://eja.tv/?f637f17a2fdc60ed45df337e150c36fa.m3u8
+
 #EXTINF:-1 group-title="ESPANHA" tvg-id="La1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 
@@ -11,13 +18,9 @@ https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 
 
+
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
-#EXTINF:-1 group-title="TV" tvg-id="La1.TV" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688877.jpg",La 1
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
 
-
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png",La 1
-http://eja.tv/?f637f17a2fdc60ed45df337e150c36fa.m3u8
 
 #EXTINF:-1 group-title="ESPANHA" tvg-id="LA 1" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_3293681.jpg",La 1 - CATALUNHA
 #KODIPROP:inputstream=inputstream.adaptive
@@ -63,13 +66,6 @@ http://77.228.160.100:61800/play/a00k
 #EXTINF:-1 group-title="ESPANHA" tvg-id="LaSexta.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/712px-La_Sexta_%28A3M%29.svg.png",laSexta
 http://77.228.160.100:61800/play/a00b
 
-
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png",🧒 ●| Inspector Gadget
-https://bit.ly/3FblQIm?/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/babyfirts.png",🇧🇷🧒 ●| Baby Firts [Pluto]
-https://bit.ly/BabyFirts?/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200",🇪🇸🧒 ●| Pequeradio TV 
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 
 
