@@ -11,54 +11,14 @@ https://atres-live.atresmedia.com/416f09f5f2945d4a4761b12a66f9e6e2b63eb0fb_ES_16
 
 
 
-#EXTINF:-1 tvg-name="Cuatro" tvg-id="Cuatro" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Cuatro.svg",Cuatroᴴᴰ 🇪🇸
-http://77.228.160.100:61800/play/a00l
-#EXTINF:-1 tvg-name="Telecinco" tvg-id="Telecinco" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",Telecincoᴴᴰ 🇪🇸 🟡
-http://77.228.160.100:61800/play/a00k
-#EXTINF:-1 tvg-name="LaSexta" tvg-id="La Sexta" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/La%20Sexta.png",La Sextaᴴᴰ 🇪🇸
-http://77.228.160.100:61800/play/a00b
-#EXTINF:-1 tvg-name="fdf" tvg-id="Factoría de Ficción" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png",fdfᴴᴰ 🇪🇸
-http://77.228.160.100:61800/play/a00i
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://seeklogo.com/images/T/tve_24h-logo-CF2D2CC96E-seeklogo.com.jpg" group-title="ESPANHA",Informativos: 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 group-title= "ESPANHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png",ahlakid.com - Canal 24 horas (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw/live&checkedby:ahlakid.com
-#EXTINF:-1,24h
-http://79.147.151.106:8069/udp/239.250.1.3:1234
-#EXTINF:0 group-title= "ESPANHA",Canal 24 horas (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw/live
-#EXTINF:-1 group-title= "ESPANHA",ahlakid.com - 24 H
-http://first.datalink.ovh:25461/Miafamili/YisLmb8vq2/662?checkedby:ahlakid.com
-#EXTINF:-1 group-title= "ESPANHA",ahlakid.com - 24 HORAS
-http://hostengine.live:25461/palmer/palmer/147587?checkedby:ahlakid.com
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/SvUWRQm.png",ahlakid.com - 24 Horas
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8?checkedby:ahlakid.com
-#EXTINF:-1 group-title="News;Undefined",ahlakid.com - rtve.es 24h
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?checkedby:ahlakid.com
-#EXTINF:-1 group-title= "ESPANHA",ahlakid.com - 24 Horas ES
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7174?checkedby:ahlakid.com
-#EXTINF:-1 group-title= "ESPANHA",ahlakid.com - 24H HD
-http://loginto.live:80/JP1584/xuCu1Csjrs/79005?checkedby:ahlakid.com
-#EXTINF:0 group-title= "ESPANHA",Canal 24 horas (720p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8
-#EXTINF:0 group-title= "ESPANHA",Canal 24 horas (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-https://rtvelivestreamv3.akamaized.net/24h_bkp_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="ESPANHA",Informativos: Euronews
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="ESPANHA",Informativos: Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg" group-title="ESPANHA",Informativos: 7NN Noticias
