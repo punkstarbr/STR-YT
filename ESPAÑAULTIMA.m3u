@@ -1,8 +1,8 @@
-#EXTINF:-1 group-title="TV" tvg-id="La1.TV" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688877.jpg",La 1
+#EXTINF:-1 group-title="ESPANHA" tvg-id="La1.TV" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688877.jpg",La 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png",La 1
+#EXTINF:-1 tvg-id="" group-title="ESPANHA" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png",La 1
 http://eja.tv/?f637f17a2fdc60ed45df337e150c36fa.m3u8
 
 #EXTINF:-1 group-title="ESPANHA" tvg-id="La1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",La 1
@@ -55,7 +55,7 @@ https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 
-#EXTINF:-1 tvg-name="fdf" tvg-id="Factoría de Ficción" group-title="Espanha 🇪🇸🇲🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png",fdf
+#EXTINF:-1 tvg-name="fdf" tvg-id="Factoría de Ficción" group-title="ESPANHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png",fdf
 http://77.228.160.100:61800/play/a00i
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Antena3.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Antena_3.svg/1200px-Antena_3.svg.png",Antena 3
 http://77.228.160.100:61800/play/a00a
