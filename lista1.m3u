@@ -23,6 +23,9 @@ https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br" tvg-logo="https://i.imgur.com/G0x4xqa.png",Canal Metropolitano de Noticia (720p)
 https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
 
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiWS8tSnh3vPBUiKlc6oKlMizcFWoupiC_gdZts5NxZOhoa245uT_bF7NEvXixNzUbhIivVcqygqFkg53527xFqEEMacppDKIupHDXLgLC8ZkjNf1bsOktBefByAo2_67lqjvGGAEGvr62k2GV5hjJ-qL_Q3X-naMY16HBfnYhmF_78m4EMUDulavACzg=w359-h359",CMN GOIANIA
+https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tvpampa.com.br/wp-content/themes/tvpampa/images/logo-footer-pampaHigh.png",TV Pampa - RedeTV! RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
 
@@ -294,8 +297,7 @@ https://ssl1.transmissaodigital.com:20102/127.75ATISGRURCB
 https://ssl1.transmissaodigital.com:20105/TORREGRU135.2RCBFONIAEXCLUSIVARADIOCOMBRASIL
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",radio vinha
 https://streaming.vinhafm.com.br/stream
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiWS8tSnh3vPBUiKlc6oKlMizcFWoupiC_gdZts5NxZOhoa245uT_bF7NEvXixNzUbhIivVcqygqFkg53527xFqEEMacppDKIupHDXLgLC8ZkjNf1bsOktBefByAo2_67lqjvGGAEGvr62k2GV5hjJ-qL_Q3X-naMY16HBfnYhmF_78m4EMUDulavACzg=w359-h359",CMN GOIANIA
-https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
+
 
 
 
