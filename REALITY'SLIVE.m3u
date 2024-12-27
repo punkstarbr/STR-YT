@@ -31,12 +31,7 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1  tvg-id="NBCWest.us" group-title="NEWS WORLD" tvg-logo="https://creativecloud.adobe.com/content/dam/2017/8/evolution-of-nbc-logo/article-marquee.jpg",NBC 7 San Diego
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo="http://i64.tinypic.com/2gy8t5h.jpg" group-title="USA",UNIVISION
-http://45.171.64.180:8000/play/a05c/index.m3u8
-#EXTINF:0 tvg-id="TelemundoEast.us" player-buffer="30" tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" group-title="USA" user-agent="iPhone",TELEMUNDO
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT--http-reconnect=true
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/Mp5fMxR/Canal57.png" group-title="USA" user-agent="iPhone",Canal 57 Miami
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/yY68NHt/vtv.png" group-title="Reality Show's Live" user-agent="iPhone", VTv Canal 17
