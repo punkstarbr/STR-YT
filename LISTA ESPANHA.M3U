@@ -9,11 +9,9 @@ https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n644
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Espanha" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg",ahlakid.com - Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
 
-
-
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg",ahlakid.com - Alcarria TV
-http://217.182.77.27/live/alcarriatv-livestream.m3u8?checkedby:ahlakid.com
 #EXTINF:-1 group-title= "ESPANHA",ahlakid.com - Andalucia ES
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7254?checkedby:ahlakid.com
 #EXTINF:-1 group-title= "ESPANHA",ahlakid.com - Antena 3 FHD ES
@@ -947,8 +945,7 @@ https://limited35.todostreaming.es/live/mitjans-livestream.m3u8?checkedby:ahlaki
 
 
 
-#EXTINF:-1 ,ahlakid.com - Alcarria TV
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
 #EXTINF:-1 ,ahlakid.com - 7 Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1 ,ahlakid.com - Canal Parlamento
