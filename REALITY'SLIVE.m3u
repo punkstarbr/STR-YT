@@ -8,8 +8,8 @@
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
 
 
-
-
+#EXTINF:-1 tvg-id="Canale 5 HD.it" tvg-logo="https://iili.io/d93woZP.png" group-title="Reality Show's Live",Canale 5
+http://cord-cutter.net:8080/live/j3McKd/673709/212903.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://iili.io/JmosVLl.png" group-title="Reality Show's Live",Telecinco
 #KODIPROP:inputstream.adaptive.license_type=clearkey
