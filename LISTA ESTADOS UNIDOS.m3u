@@ -9,6 +9,8 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="CBSEast.us" tvg-logo="https://iili.io/JmoUFcJ.png" group-title="USA",CBS East
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-id="NEW YORK NY WCBS" tvg-name="CBS: NY NEW YORK WCBS" tvg-logo="https://iili.io/JmoUFcJ.png" group-title="USA", CBS: NY NEW YORK WCBS
+http://cord-cutter.net:8080/live/j3McKd/673709/120681.m3u8
 #EXTINF:-1 tvg-id="FoxEast.us" tvg-logo="https://iili.io/JmoUJMF.png" group-title="USA",Fox East
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="NBCEast.us" tvg-logo="https://iili.io/JmoU3Fa.png" group-title="USA",NBC East
@@ -22,6 +24,12 @@ https://5a3c48d69cf69.streamlock.net/tvconnect/tvconnect.sdp/playlist.m3u8
 
 
 
+#EXTINF:0 tvg-id="ext" tvg-logo="http://i64.tinypic.com/2gy8t5h.jpg" group-title="USA",UNIVISION
+http://45.171.64.180:8000/play/a05c/index.m3u8
+#EXTINF:0 tvg-id="TelemundoEast.us" player-buffer="30" tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" group-title="USA" user-agent="iPhone",TELEMUNDO
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
 #EXTINF:-1 tvg-id="Univision" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="USA",Univision
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
@@ -183,8 +191,7 @@ https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x
 #EXTINF:-1 tvg-id="NEW YORK NY WABC" tvg-name="ABC: NY NEW YORK WABC" tvg-logo="" group-title="Local", ABC: NY NEW YORK WABC
 http://cord-cutter.net:8080/live/j3McKd/673709/120680.m3u8
 
-#EXTINF:-1 tvg-id="NEW YORK NY WCBS" tvg-name="CBS: NY NEW YORK WCBS" tvg-logo="" group-title="Local", CBS: NY NEW YORK WCBS
-http://cord-cutter.net:8080/live/j3McKd/673709/120681.m3u8
+
 
 #EXTINF:-1 tvg-id="NEW YORK NY WNBC" tvg-name="NBC: NY NEW YORK WNBC" tvg-logo="" group-title="Local", NBC: NY NEW YORK WNBC
 http://cord-cutter.net:8080/live/j3McKd/673709/120682.m3u8
