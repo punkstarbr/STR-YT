@@ -332,41 +332,8 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest.mpd
 
 
 
-#EXTINF:-1 channel-id="pluto-64a766cd798def0008734695" tvg-id="64a766cd798def0008734695" tvg-logo="https://images.pluto.tv/channels/64a766cd798def0008734695/colorLogoPNG.png" tvg-chno="1830" group-title="Reality Show's Live", Big Brother Quad View
-https://jmp2.uk/PlutoTV/64a766cd798def0008734695-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-64a765c04ea480000823917a" tvg-id="64a765c04ea480000823917a" tvg-logo="https://images.pluto.tv/channels/64a765c04ea480000823917a/colorLogoPNG.png" tvg-chno="1835" group-title="Reality Show's Live", Big Brother Camera 1
-https://jmp2.uk/PlutoTV/64a765c04ea480000823917a-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-64a765fb798def0008734632" tvg-id="64a765fb798def0008734632" tvg-logo="https://images.pluto.tv/channels/64a765fb798def0008734632/colorLogoPNG.png" tvg-chno="1840" group-title="Reality Show's Live", Big Brother Camera 2
-https://jmp2.uk/PlutoTV/64a7665b902f2300085d7901-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-64a7665b902f2300085d7901" tvg-id="64a7665b902f2300085d7901" tvg-logo="https://images.pluto.tv/channels/64a7665b902f2300085d7901/colorLogoPNG.png" tvg-chno="1845" group-title="Reality Show's Live", Big Brother Camera 3
-https://jmp2.uk/PlutoTV/64a765fb798def0008734632-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-64a766a794635e0008626601" tvg-id="64a766a794635e0008626601" tvg-logo="https://images.pluto.tv/channels/64a766a794635e0008626601/colorLogoPNG.png" tvg-chno="1850" group-title="Reality Show's Live", Big Brother Camera 4
-https://jmp2.uk/PlutoTV/64a766a794635e0008626601-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-64a765c04ea480000823917a" tvg-id="64a765c04ea480000823917a" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/7507/928055-613360/603fb01989f749f9f9786a24a4cf8ffa.jpg" group-title="Reality Show's Live",US Big Brother 1 (FHD)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/799921124935
-
-#EXTINF:-1 channel-id="pluto-64a765fb798def0008734632" tvg-id="64a765fb798def0008734632" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/7507/928055-613360/603fb01989f749f9f9786a24a4cf8ffa.jpg" group-title="Reality Show's Live",US Big Brother 2 (FHD)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/799921124936
-
-#EXTINF:-1 channel-id="pluto-64a7665b902f2300085d7901" tvg-id="64a7665b902f2300085d7901" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/7507/928055-613360/603fb01989f749f9f9786a24a4cf8ffa.jpg" group-title="Reality Show's Live",US Big Brother 3 (FHD)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/799921124937
-
-#EXTINF:-1 channel-id="pluto-64a766a794635e0008626601" tvg-id="64a766a794635e0008626601" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/7507/928055-613360/603fb01989f749f9f9786a24a4cf8ffa.jpg" group-title="Reality Show's Live",US Big Brother 4 (FHD)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/799921124938
-
-#EXTINF:-1 channel-id="pluto-64a766cd798def0008734695" tvg-id="64a766cd798def0008734695" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/7507/928055-613360/603fb01989f749f9f9786a24a4cf8ffa.jpg" group-title="Reality Show's Live",US Big Brother 2023 Quad View (FHD)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/799921124939
-
-#EXTINF:-1 tvg-id="Mzansi Magic Music HD.za" tvg-name="AF ZA Big Brother Mzansi" tvg-logo="" group-title="African Sports",AF ZA Big Brother Mzansi
-https://dumdumbullet.com/1011454237/bHg8wYxrId/799921111701
-
-#EXTINF:-1 tvg-id="Mzansi Magic Music HD.za" tvg-name="AF ZW Mzansi Magic" tvg-logo="" group-title="African Sports",AF ZW Mzansi Magic
-https://dumdumbullet.com/1011454237/bHg8wYxrId/79992128060
 
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="FR",TF1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
@@ -383,8 +350,7 @@ http://vipphyla.top:8080/VIP019169419870119/91702539200735/128944
 
 
 
-#EXTINF:-1,CHV HD
-http://45.181.123.233:8000/play/a0kl
+
 
 #EXTINF:-1 tvg-id="pink-reality" tvg-name="Pink Reality" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkReality.png" group-title="Reality Show's Live",Farma Sérvia
 http://bntvs.com:2052/mojvps/svWEB7CXPT/8753
