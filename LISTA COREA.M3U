@@ -1,34 +1,21 @@
-#EXTINF:-1  group-title="TV#Korea",KBS 1
-https://tv.iill.top/kbs/11&p=0
-#EXTINF:-1  group-title="TV#Korea",KBS Drama
-http://mytv.dothome.co.kr/ch/catv/2.php
-#EXTINF:-1  group-title="TV#Korea",KBS Joy
-http://mytv.dothome.co.kr/ch/catv/3.php
-#EXTINF:-1  group-title="TV#Korea",KBS Kids
-http://mytv.dothome.co.kr/ch/catv/6.php
-#EXTINF:-1  group-title="TV#Korea",KBS LIFE
-http://mytv.dothome.co.kr/ch/catv/5.php
-#EXTINF:-1  group-title="TV#Korea",KBS LiveCam DokDo
+#EXTM3U
+#EXTINF:-1 group-title="TV#Korea" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6UmlzrdYm3Fly9QBeXwqxDyDn8B2HmAWLqpcDCrnoTszC8cOrUP6MiIyWZM0&s",KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1  group-title="TV#Korea",KBS NEWS
+#EXTINF:-1 group-title="TV#Korea" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-pRdr-pZifHg0vMlK_VgxRamtqyh0-8EPOKONTOzHo0gbX7_O3wIzmBcciUc&s",KBS NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
-#EXTINF:-1  group-title="TV#Korea",KBS Story
-http://mytv.dothome.co.kr/ch/catv/4.php
-#EXTINF:-1  group-title="TV#Korea",KCTV 광주
+#EXTINF:-1 group-title="TV#Korea" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVz-OW8rwFU1WVkUpnO_GfhRSaY6nSJpy7ZdCeHJfn-WN3TFVmQqEkAD0GQ&s",KCTV 광주
 http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-#EXTINF:-1  group-title="TV#Korea",Korea TV
+#EXTINF:-1 group-title="TV#Korea" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tozx67mgD4VTAtxV5VwlhtXLLmTeLOXAqPPjKjK5wnTxtBf4JVds7R0bYw&s",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1  group-title="TV#Korea",MBC
+#EXTINF:-1 group-title="TV#Korea" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU-NpGuxmHJp0ndWazY3YCwa_tzAJjW5Pg--sspKQMCl46ct6CF1QFOeThsQ&s",MBC
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1  group-title="TV#Korea",MBC
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1  group-title="TV#Korea",NBS
+#EXTINF:-1 group-title="TV#Korea" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECX_HpDWJ4ZqPG3UZNZsNX1iE96y7AHdu002cenhB2V5Z-NgnjElGXbZj1ss&s",NBS
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1  group-title="TV#Korea",ob Plus tv
+#EXTINF:-1 group-title="TV#Korea" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsnzxzScsZJBtdIqJv9HyD-n8PhxnJMLr-yekTZtzb20sptqal6IbRd83MIg&s",ob Plus tv
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
-#EXTINF:-1  group-title="TV#Korea",TBS Seoul
+#EXTINF:-1 group-title="TV#Korea" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPLGyF9Xn5ElCd_2M0TRC3jCcIhmRTHWQcwndCze44-_NZ2PJKMBjobwOXIQ&s",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1  group-title="TV#Korea",The K-POP
+#EXTINF:-1 group-title="TV#Korea" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1kWldvJs5jMoo7RQhjvjsXGTNFesEYzHeyip6mcAekKOFC5bQ7FtZOMO2rw&s",The K-POP
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1  group-title="TV#Korea",국방国防TV
+#EXTINF:-1 group-title="TV#Korea" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS1Q89IK8pc6r_z9aJ9NB1X_1CsFLhQ0IH9dH5gDDBSZ-88M-X3IGpkX8aOA&s",국방国防TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
