@@ -977,23 +977,23 @@ http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8
 #EXTINF:-1 group-title="FR" tvg-id="Undefined" tvg-logo="Undefined.png",France 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",France 24 Arabic
+#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBx03sXlMXmGeXAFKenwxhDY-f_a45XiLNyf80gMb7K4e9VaeHMox7O6gdt8w&s",France 24 Arabic
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",France 24 English
+#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Vaa7v66WR4J6RHEHm2EkZ1smJa2DQyR9tyXXGtEoFKeGp0Hc-CUEYEYI42E&s",France 24 English
 https://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",France 24 Français
+#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoI_x4V25aomija2HgQL56Gxvs_N_rGVcoAWLKPX-m_ZQf9BKJcRL-82Xc9vk&s",France 24 Français
 https://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",France 24H¹ (Reino Unido)
+#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqqkkFBVpklXcvOdF29NG0EOoYITS1lUMs4k8ti2d94Fs3hFnbwldzbAJWkUY&s",France 24H¹ (Reino Unido)
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",France24 Arabic
+#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLTlSXRxG0p8fPY_Mnjc9F7qx1iiodnzIW9qOQy-yUpaKilH8UdO-yhGHeQ&s",France24 Arabic
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",France24 France
+#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoI_x4V25aomija2HgQL56Gxvs_N_rGVcoAWLKPX-m_ZQf9BKJcRL-82Xc9vk&s",France24 France
 http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="PE" tvg-id="Undefined" tvg-logo="Undefined.png",Genios TV
+#EXTINF:-1 group-title="PE" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAHJUZkdxhQH_rYiWZYL07z19Jsu1mp326GYCPCz37DBLA3XdFWHxEGblySwk&s",Genios TV
 https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="CL" tvg-id="Undefined" tvg-logo="Undefined.png",Girovisual TV
+#EXTINF:-1 group-title="CL" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnIRHhr9ujQJSjWcJVNVgDRmu4e8hxnaAf9ZXnsoM6-MEM6nrvH0Qo0IN06w&s",Girovisual TV
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",GNM TV
+#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWUio95uIr0SNVwvGdzU4o0T4bjezqDKJ6Nkv9wK4gYhPhfMZOOjE4Hw5sqpU&s",GNM TV
 https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8?ROGERIOTORRES
-#EXTINF:-1 group-title="BR" tvg-id="Undefined" tvg-logo="Undefined.png",Gospel Movies Television
+#EXTINF:-1 group-title="BR" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnPrsp7VHbbfqHb5H-T7C1GLpoZDBDVUnDrznkpXhkYoPuG-v8Tndj5bKWPFE&s",Gospel Movies Television
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8?PlaylistM3UCL
