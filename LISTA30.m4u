@@ -51,8 +51,6 @@ https://video-auth1.iol.pt/beachcam/lecadapalmeira/playlist.m3u8
 https://panel.dattalive.com:443/8128_1/8128_1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Love Nature 4K (ENG)
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?ROGERIOTORRES
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",LRP Television | CL
-https://v2.tustreaming.cl/lrp/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Madeira - Jardim do Mar
 https://video-auth1.iol.pt/beachcam/jardimdomardois/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Madeira - Ponta Pequena - Paul
@@ -73,8 +71,6 @@ https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcmonteclerigo/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Mortal FM
 http://server6.20comunicacion.com:8044/
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",MovieSphere
-https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",MyTime Movie Network (BR)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",NASA TV Media
@@ -137,8 +133,6 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Paço de Arcos
 https://video-auth1.iol.pt/beachcam/parcos/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Parede
-https://video-auth1.iol.pt/beachcam/parede/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Patagonia Radio TV | CL
 https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",PequeRadio TV
@@ -155,8 +149,6 @@ http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8?PlaylistM3UCL
 http://85.186.146.34:8080
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Porta dos Fundos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Porto - Homem do Leme
-https://video-auth1.iol.pt/beachcam/bchomemdoleme/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Power | AR
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Praia Canide Norte - Sul
@@ -253,16 +245,12 @@ http://213.136.92.8:8030/stream
 https://panel.dattalive.com:443/8146/8146/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Rádio Jovem Pan FM (SP)
 http://centova6.ciclanohost.com.br:9256//;stream.mp3
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Radio Las Nieves | CL
-https://v2.tustreaming.cl/rln/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Rádio Lusitânia
 https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Rádio MEO Music
 http://centova.radios.pt:8495/;listen.pls
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Ràdio Mollet
 http://streaming.enantena.com:8000/radiomollet56.mp3
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Rádio Nostalgia
-http://centova.radios.pt:8435
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Rádio Nova Era
 http://centova.radios.pt:9478/
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Ràdio Olot
@@ -313,8 +301,6 @@ http://80.37.181.205:8000/;audio.mp3
 https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Radiocanal San Francisco | AR
 http://204.199.3.2/.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Rakuten Documentaries HD (PT)
-https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",RAP107
 http://streaming.enantena.com:8000/rap56.mp3
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",RCG 1 Saltillo | MX
@@ -339,16 +325,10 @@ http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Rede Brasil TV (RBC TV)
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Rede Mão Amiga (480p) [Not 24/7]
-http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Rede Vida | BR
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",RedeTV! Pampa
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",RedeTV! Pampa
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Restauracion TV Houston | US
 https://2-fss-2.themediacdn.com/pl_138/amlst:200836-1357134/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Retrô Cartoon
@@ -373,10 +353,6 @@ https://common01.todostreaming.es/live/ribera-livestream.m3u8
 http://media.neuquen.gov.ar/rtn/television/media.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",RTN | AR
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",RTP Internacional³ (Portugal)
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",RTP Macau (Portugal)
-http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",RTQ Queretaro | MX
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",RTRS SR
@@ -431,10 +407,6 @@ http://rogerslive-i.akamaihd.net/hls/live/202801/event/index.m3u8?sd=10&rebase=o
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Tarragona Ràdio
 http://streaming.enantena.com:8000/tarragona128.mp3
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TDM - Teledifusão de Macau (CN)
-https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TDM - Teledifusão de Macau (PT)
-https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Tele Familia | CO
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Tele Mix | AR
@@ -443,12 +415,8 @@ https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
 https://inliveserver.com:1936/11516/11516/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Teleangol Radio | CL
 http://unlimited1-cl-isp.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Telecanal Santa Cruz | CL
-https://unlimited1-cl-isp.dps.live/tcsc/tcsc.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Telecreativa | AR
 https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Telediez | AR
-https://videohd.live:19360/8020/8020.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TeleNord | AR
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Telepacífico | CO
@@ -507,12 +475,6 @@ http://stream3.camara.gov.br/tv1/manifest.m3u8
 http://stream2.camara.gov.br:8134/tv1/manifest.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Câmara Canal 2³ (DF)
 http://stream2.camara.gov.br:8134/tv2/manifest.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Camera HD
-https://stream3.camara.gov.br/tv1/manifest.m3u8?ROGERIOTORRES
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Cidade Canal 9 (720p) [Não 24/7]
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Cinec³ (SP)
-http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Cosmos 15.1 | PE
 https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Destak² SD (Birigui)
@@ -523,16 +485,12 @@ http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/playlist.m3u8
 https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Digital Birigui² (SP)
 http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Dos Salta | AR
-https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Gracia | CO
 https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Grande Natal HDTV * | BR
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV KU
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Moçambique 1 (Moçambique)
-http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w195134477_b364000_slpor.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Mundial | BR
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Novo Tempo HD (Jacareí-SP)
@@ -561,10 +519,6 @@ http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Sim Sao Mateus | BR
 https://5cf4a2c2512a2.streamlock.net:443/8236/8236/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Sol Comunidade (480p) [Não 24/7]
-http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Sol Comunidade¹ (RS)
-http://streaming03.zas.media:1935/tvsol/tvsol/playlist-480p.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Terceiro Anjo (360p) [Não 24/7]
 https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Terceiro Anjo¹
@@ -575,14 +529,6 @@ http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist_w1373785554.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV UCT | CL
 https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV UFG (720p) [Not 24/7]
-http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV UFG HD
-http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?ROGERIOTORRES
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV UFG² (Goiás)
-http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1120468120_b1544100_sleng.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV UFG³ (Goiás)
-http://wowza.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Universal | BR
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV+ | CL
@@ -617,8 +563,6 @@ http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 http://196.28.226.121:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",tvm moçambique internacional
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TVN 24 Horas 2 | CL
-https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TVP Culiacan | MX
 https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TVP Los Mochis | MX
@@ -649,8 +593,6 @@ https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist
 http://192.100.186.53:8090/hls/live.stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Uni Teve | AR
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",UniTV Porto Alegre (480p)
-http://unitvaovivo.ufrgs.br:8080/live.ogg
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Universidad Autonoma TV | CL
 https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",UTV San Clemente | CL
@@ -685,8 +627,6 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8?PlaylistM3UCL
 http://168.205.87.198:8555/live/1499/123456/162.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="1058" tvg-logo="https://www.m3u.cl/logo/1058_Spectrum_Channel.png",tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://www.m3u.cl/logo/1058_Spectrum_Channel.png" -  Spectrum Channel | CL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",MTV PLUTO TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Pluto TV MTV (720p)
@@ -723,12 +663,6 @@ http://168.205.87.198:8555/live/antony/1234/7.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/1111/123456/7.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",AGRO BRASIL
 http://168.205.87.198:8555/live/leila/123456/7.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Agro Brasil TV
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="BR" tvg-id="Undefined" tvg-logo="Undefined.png",Agro Brasil TV
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Agro Brasil² (C.Grande-MS)
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/chunklist_w1647341087.m3u8?IMDSFULL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",AGRO CANAL
 http://168.205.87.198:8555/live/michele/123456/10.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",AGRO CANAL
@@ -739,8 +673,6 @@ http://168.205.87.198:8555/live/JOSEE/123456/10.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/antony/1234/10.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",AGRO CANAL
 http://168.205.87.198:8555/live/leila/123456/10.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",AgroBrasil TV (720p) [Not 24/7]
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",AGROMAIS
 http://168.205.87.198:8555/live/JOSEE/123456/175.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",AGROMAIS
@@ -881,8 +813,6 @@ https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
 https://bst.buin.cl/0.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Cadena Digital
 http://185.23.192.118:8006/;stream.mp3
-#EXTINF:-1 group-title="ES" tvg-id="Undefined" tvg-logo="Undefined.png",Cadena Elite
-https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Cadena Latino
 http://185.23.192.118:8000/;stream.mp3
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Cadena SER - Ràdio Manresa
@@ -1007,8 +937,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?Pla
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",El Pinguino Tv (Chile)
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1602984822.m3u8
-#EXTINF:-1 group-title="CL" tvg-id="Undefined" tvg-logo="Undefined.png",Energia TV
-https://cdn.oneplaychile.cl:1936/regionales/energia-fm/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Ericeira
 https://video-auth1.iol.pt/beachcam/ericeiraspots/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Esmoriz
@@ -1041,16 +969,8 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Fish TV HD
 http://168.205.87.198:8555/live/123456/123456/62.m3u8?ROGERIOTORRES
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",FM Italia TV
-https://stream1.xdevel.com/video0s975817-1182/stream/playlist.m3u8
 #EXTINF:-1 group-title="AR" tvg-id="Undefined" tvg-logo="Undefined.png",FM Metropolitana 100.5 MHZ
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Fonte TV (1080p) [Not 24/7]
-http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Fonte TV¹
-http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Fonte TV³
-http://wowza.softhost.com.br:1935/fonte/fontetv/chunklist_w1903947223.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",FOX HITS
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="Undefined.png",Foz do Arelho
