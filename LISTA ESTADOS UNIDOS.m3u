@@ -189,8 +189,11 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="USA",ABC 7 Los Angeles 24/7
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 
+#EXTINF:-1 tvg-id="UFC" tvg-name="24/7 UFC" tvg-logo="" group-title="Sports", 24/7 UFC
+http://cord-cutter.net:8080/live/j3McKd/673709/146291.m3u8
 
-
+#EXTINF:-1 tvg-id="GUNSMOKE" tvg-name="24/7 GUNSMOKE" tvg-logo="" group-title="Classic", 24/7 GUNSMOKE
+http://cord-cutter.net:8080/live/j3McKd/673709/140069.m3u8
 
 #EXTINF:-1 tvg-id="NEW YORK NY WABC" tvg-name="ABC: NY NEW YORK WABC" tvg-logo="" group-title="Local", ABC: NY NEW YORK WABC
 http://cord-cutter.net:8080/live/j3McKd/673709/120680.m3u8
@@ -662,8 +665,7 @@ http://cord-cutter.net:8080/live/j3McKd/673709/139757.m3u8
 #EXTINF:-1 tvg-id="TeenNick" tvg-name="TeenNick" tvg-logo="" group-title="Kids", TeenNick
 http://cord-cutter.net:8080/live/j3McKd/673709/140004.m3u8
 
-#EXTINF:-1 tvg-id="GUNSMOKE" tvg-name="24/7 GUNSMOKE" tvg-logo="" group-title="Classic", 24/7 GUNSMOKE
-http://cord-cutter.net:8080/live/j3McKd/673709/140069.m3u8
+
 
 #EXTINF:-1 tvg-id="WDAM" tvg-name="NBC (WDAM) Laurel (F)" tvg-logo="" group-title="Local", NBC (WDAM) Laurel (F)
 http://cord-cutter.net:8080/live/j3McKd/673709/140399.m3u8
@@ -686,8 +688,7 @@ http://cord-cutter.net:8080/live/j3McKd/673709/140900.m3u8
 #EXTINF:-1 tvg-id="KCRG" tvg-name="ABC (KCRG) WATERLOO-IOWA CITY" tvg-logo="" group-title="Local", ABC (KCRG) WATERLOO-IOWA CITY
 http://cord-cutter.net:8080/live/j3McKd/673709/140901.m3u8
 
-#EXTINF:-1 tvg-id="UFC" tvg-name="24/7 UFC" tvg-logo="" group-title="Sports", 24/7 UFC
-http://cord-cutter.net:8080/live/j3McKd/673709/146291.m3u8
+
 
 #EXTINF:-1 tvg-id="UFC HD" tvg-name="UFC (HD)" tvg-logo="" group-title="Sports", UFC (HD)
 http://cord-cutter.net:8080/live/j3McKd/673709/146293.m3u8
