@@ -4,246 +4,98 @@
 
 
 
-#EXTINF:-1 tvg-id="100AutoMotoTV.bg" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" group-title="🔵 AUTO",Auto Moto TV (406p)
+#EXTINF:-1 group-title="🔵 AUTO" tvg-id="100AutoMotoTV.bg" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg",Auto Moto TV (406p)
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="🟤 MUZIC",Wanasah (1080p)
+#EXTINF:-1 group-title="🟤 MUZIC" tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/GmgibYW.jpg",Wanasah (1080p)
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-
-#EXTINF:0 tvg-id="hoabinh" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/3hdbX4p/Hoa-Binh-cc.webp",Hòa Bình
+#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG" tvg-id="hoabinh" tvg-logo="https://i.ibb.co/3hdbX4p/Hoa-Binh-cc.webp",Hòa Bình
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8?cc
-#EXTINF:0 group-title="🔴 KÊNH THIẾU NHI" tvg-logo="https://dl.dropboxusercontent.com/s/lslvqe41s8j7itv/PBS",PBS Kids
+#EXTINF:-1 group-title="🔴 KÊNH THIẾU NHI" tvg-id="Undefined" tvg-logo="https://dl.dropboxusercontent.com/s/lslvqe41s8j7itv/PBS",PBS Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8?cc
-
-
-
-#EXTINF:-1 tvg-id="HorseandCountry.au" tvg-logo="https://i.imgur.com/r5Ip3P0.png" group-title="🇦🇺 | ÚC",Horse and Country (720p)
+#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-id="HorseandCountry.au" tvg-logo="https://i.imgur.com/r5Ip3P0.png",Horse and Country (720p)
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="M4TVMalayalam.au" tvg-logo="https://i.imgur.com/2fbxRsU.png" group-title="🇦🇺 | ÚC",M4TV Malayalam (1080p) [Not 24/7]
-https://app.m4stream.live/mfourmalayalamhls/live.m3u8
-
-#EXTINF:-1 tvg-id="CanadaOne.ca" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="🇨🇦 | CANADA",Canada One (720p) [Not 24/7]
+#EXTINF:-1 group-title="🇨🇦 | CANADA" tvg-id="CanadaOne.ca" tvg-logo="https://i.imgur.com/zr6KoiS.jpg",Canada One (720p) [Not 24/7]
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanadaStarTV.ca" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="🇨🇦 | CANADA",Canada Star TV (720p)
-https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8
-#EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png" group-title="🇨🇦 | CANADA",Canal Savoir (360p)
-https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="DegrassiTheNextGenerationCanada.ca" tvg-logo="https://i.imgur.com/mRBQKp3.png" group-title="🇨🇦 | CANADA",Degrassi The Next Generation (Canada) (720p)
-http://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇨🇦 | CANADA",Mav TV
-https://mavtv-1-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesItaly.it" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="🇮🇹 | Ý",Rakuten Action Movies Italy (720p)
-https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇹 | Ý",Rakuten Comedy Movies
-https://rakuten-comedymovies-6-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesItaly.it" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="🇮🇹 | Ý",Rakuten Comedy Movies Italy (720p)
-https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVSpotlightItaly.it" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="🇮🇹 | Ý",Rakuten Spotlight Italy (720p)
-https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVTopFreeItaly.it" tvg-logo="https://i.imgur.com/kA27xdB.png" group-title="🇮🇹 | Ý",Rakuten Top Free Italy (720p)
-https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="3TamilTV.in" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="🇮🇳 | ẤN ĐỘ",3 Tamil TV (720p) [Not 24/7]
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-id="India Today" group-title="🇮🇳 | ẤN ĐỘ",India Today
+#EXTINF:-1 group-title="🇮🇳 | ẤN ĐỘ" tvg-id="India Today" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9gVRlY905yYfuZPE8PY42hjTi4bRzNYhiMsS7GR6wXk5aA-XdhJM6NhuejQ&s",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 tvg-id="ThaiPBS3.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png",Thai PBS
+#EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-id="ThaiPBS3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png",Thai PBS
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-id="EBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" group-title="🇰🇷 | HÀN QUỐC",EBS 2 (400p)
+#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-id="EBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png",EBS 2 (400p)
 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/qceaIf7.png" group-title="🇰🇷 | HÀN QUỐC",EBS e (400p)
+#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/qceaIf7.png",EBS e (400p)
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="🇰🇷 | HÀN QUỐC",EBS kids (400p)
+#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png",EBS kids (400p)
 http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-logo="https://i.imgur.com/ImUHRG2.png" group-title="🇰🇷 | HÀN QUỐC",EBS+ 1 (400p)
+#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-id="EBSPlus1.kr" tvg-logo="https://i.imgur.com/ImUHRG2.png",EBS+ 1 (400p)
 http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/mgFRZFq.png" group-title="🇰🇷 | HÀN QUỐC",EBS+ 2 (400p)
+#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/mgFRZFq.png",EBS+ 2 (400p)
 http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="GCN.kr" tvg-logo="https://i.imgur.com/QUxuHA1.png" group-title="🇰🇷 | HÀN QUỐC",GCN24 Korean (480p) [Not 24/7]
+#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-id="GCN.kr" tvg-logo="https://i.imgur.com/QUxuHA1.png",GCN24 Korean (480p) [Not 24/7]
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="🇰🇷 | HÀN QUỐC",KBS World (720p)
+#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png",KBS World (720p)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-
-
-#EXTINF:-1 tvg-id="MBCAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/512px-Munhwa_Broadcasting_Company.svg.png" group-title="🇰🇷 | HÀN QUỐC",MBC America (480p)
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
-#EXTINF:-1 tvg-id="Karusel.ru" tvg-logo="https://i.imgur.com/4wmnx1W.png" group-title="🇷🇺 | NGA" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",Карусель (540p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇷🇺 | NGA",Кинозал (VHS 90s) (720p) [Not 24/7]
-https://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1 tvg-id="KonniyMir.ru" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/1521843/2a00000175f4a4304593ef5a089f8aa21dfa/214x121" group-title="🇷🇺 | NGA",Конный Мир (576p) [Geo-blocked]
-http://cdn-01.bonus-tv.ru/konnyimir/playlist.m3u8
-#EXTINF:-1 tvg-id="RussiaK.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png" group-title="🇷🇺 | NGA" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",Культура (540p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:-1 tvg-id="KuraiTV.ru" tvg-logo="https://i.imgur.com/AxgNvdp.png" group-title="🇷🇺 | NGA",Курай (576p)
-https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇷🇺 | NGA",КФУ ТВ (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN4XZNgpWmntBkxJiE29UTnl7ZNxzJwIk0ML2H5kbc-q5igmGSUQvqxQgeqQ&s",КФУ ТВ (1080p) [Not 24/7]
 https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="LanetTV.ua" tvg-logo="https://i.imgur.com/L7Zr5KU.png" group-title="🇷🇺 | NGA",Ланет.TV (486p)
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="LanetTV.ua" tvg-logo="https://i.imgur.com/L7Zr5KU.png",Ланет.TV (486p)
 http://kiev1-cdn.lanet.tv/live/1008.m3u8
-#EXTINF:-1 tvg-id="LenTV24.ru" tvg-logo="https://i.imgur.com/7O71BwP.png" group-title="🇷🇺 | NGA" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",Лен ТВ 24 (540p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
-#EXTINF:-1 tvg-id="MaturTV.ru" tvg-logo="https://i.imgur.com/Pg7K7eV.png" group-title="🇷🇺 | NGA",Матур ТВ (1080p)
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="MaturTV.ru" tvg-logo="https://i.imgur.com/Pg7K7eV.png",Матур ТВ (1080p)
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 tvg-id="MezhduNet.ru" tvg-logo="https://i.imgur.com/NiMwX2y.jpeg" group-title="🇷🇺 | NGA",Между.Net (Междуреченск) (720p) [Not 24/7]
-http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
-#EXTINF:-1 tvg-id="Ministerstvoidey.ru" tvg-logo="https://xn--b1aebclacktlowlcmd.xn--p1ai/wp-content/themes/blog/img/logo.png" group-title="🇷🇺 | NGA",Министерство идей (720p)
-http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Mir.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg/512px-%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg.png" group-title="🇷🇺 | NGA",Мир (1080p) [Not 24/7]
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="MirPlus2.ru" tvg-logo="https://i.imgur.com/CrFWXTD.png" group-title="🇷🇺 | NGA",Мир +2 (540p) [Not 24/7]
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="MirPlus4.ru" tvg-logo="https://i.imgur.com/CrFWXTD.png" group-title="🇷🇺 | NGA",Мир +4 (540p) [Not 24/7]
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="MirPlus7.ru" tvg-logo="https://i.imgur.com/CrFWXTD.png" group-title="🇷🇺 | NGA",Мир +7 (540p)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="Morskoi.ru" tvg-logo="https://www.lyngsat.com/logo/tv/mm/morskoi_ru.png" group-title="🇷🇺 | NGA",Морской (720p) [Not 24/7]
-http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/742/index.m3u8
-#EXTINF:-1 tvg-id="Moskva24.ru" tvg-logo="https://i.imgur.com/BOry400.png" group-title="🇷🇺 | NGA",Москва 24 (576p) [Not 24/7]
-https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV.ru" tvg-logo="https://i.imgur.com/ll4uTv5.png" group-title="🇷🇺 | NGA",МТВ (Волгоград) (720p) [Not 24/7]
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="MTV.ru" tvg-logo="https://i.imgur.com/ll4uTv5.png",МТВ (Волгоград) (720p) [Not 24/7]
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MuzSoyuz.ru" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/55846/2a0000016585fe3d303aaed2be3e04b85166/170x100" group-title="🇷🇺 | NGA",Муз союз (576p)
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="MuzSoyuz.ru" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/55846/2a0000016585fe3d303aaed2be3e04b85166/170x100",Муз союз (576p)
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 tvg-id="HopeTV.ru" tvg-logo="https://i.imgur.com/Xl82Rbl.png" group-title="🇷🇺 | NGA",Надежда (720p)
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="HopeTV.ru" tvg-logo="https://i.imgur.com/Xl82Rbl.png",Надежда (720p)
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Nadiya.ua" tvg-logo="https://i.imgur.com/k4Qy5VO.png" group-title="🇷🇺 | NGA",Надия/Новый канал (576p) [Not 24/7]
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="Nadiya.ua" tvg-logo="https://i.imgur.com/k4Qy5VO.png",Надия/Новый канал (576p) [Not 24/7]
 http://nadiya.home-net.com.ua/mob/mystream.m3u8
-#EXTINF:-1 tvg-id="NanoTV.ru" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/70787/2a0000016d3a3be79b56e511f3a6f5d6124c/340x200" group-title="🇷🇺 | NGA",Нано (540p)
-http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1 tvg-id="Nauka.ru" tvg-logo="https://i.imgur.com/sQuWOgM.png" group-title="🇷🇺 | NGA" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Наука (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s98/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇷🇺 | NGA",Наше Крутое HD (1080p) [Not 24/7]
-http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/915/index.m3u8
-#EXTINF:-1 tvg-id="NebesaTV7.ru" tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" group-title="🇷🇺 | NGA",Небеса ТВ7 (720p)
-https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NizhniyNovgorod24.ru" tvg-logo="https://i.imgur.com/ZWgPVIC.png" group-title="🇷🇺 | NGA",Нижний Новгород 24 (720p) [Not 24/7]
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="NizhniyNovgorod24.ru" tvg-logo="https://i.imgur.com/ZWgPVIC.png",Нижний Новгород 24 (720p) [Not 24/7]
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
-#EXTINF:-1 tvg-id="NikaTV.ru" tvg-logo="https://i.imgur.com/F3UEQLc.png" group-title="🇷🇺 | NGA",Ника ТВ (576p) [Not 24/7]
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="NikaTV.ru" tvg-logo="https://i.imgur.com/F3UEQLc.png",Ника ТВ (576p) [Not 24/7]
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Novyymir.ru" tvg-logo="https://i.imgur.com/jiU4LHy.png" group-title="🇷🇺 | NGA",Новый мир (406p) [Not 24/7]
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/512px-NTV_logo_2003.svg.png" group-title="🇷🇺 | NGA" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",НТВ (540p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 tvg-id="NTVStyl.ru" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/54380/2a0000015f068397d74e07654042b67ebbb7/160x160" group-title="🇷🇺 | NGA" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",НТВ Стиль (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s77/index.m3u8
-#EXTINF:-1 tvg-id="NTM.ru" tvg-logo="https://ntm13.ru/wp-content/uploads/2018/12/unnamed.jpg" group-title="🇷🇺 | NGA",НТМ (Народное телевидение Мордовии) (720p) [Not 24/7]
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="NTM.ru" tvg-logo="https://ntm13.ru/wp-content/uploads/2018/12/unnamed.jpg",НТМ (Народное телевидение Мордовии) (720p) [Not 24/7]
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NTS.ru" tvg-logo="https://i.imgur.com/gpzH088.png" group-title="🇷🇺 | NGA",НТС (Севастополь) (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="NTS.ru" tvg-logo="https://i.imgur.com/gpzH088.png",НТС (Севастополь) (1080p) [Not 24/7]
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-logo="https://i.imgur.com/NvhLjXU.jpg" group-title="🇷🇺 | NGA",Общественное Независимое Телевидение (576p)
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-logo="https://i.imgur.com/NvhLjXU.jpg",Общественное Независимое Телевидение (576p)
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-logo="https://i.imgur.com/sUgj2s7.png" group-title="🇷🇺 | NGA",Первый Музыкальный Канал (576p)
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="FirstMusicChannel.by" tvg-logo="https://i.imgur.com/sUgj2s7.png",Первый Музыкальный Канал (576p)
 http://hz1.teleport.cc/HLS/SD.m3u8
-#EXTINF:-1 tvg-id="PervyyTulskiy.ru" tvg-logo="https://i.imgur.com/MBjji4q.png" group-title="🇷🇺 | NGA",Первый Тульский (576p) [Not 24/7]
-http://5.164.24.83/tula/1tv_low/index.m3u8
-#EXTINF:-1 tvg-id="Prima.ru" tvg-logo="https://www.prima-tv.ru/img/logo.png" group-title="🇷🇺 | NGA" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",Прима (1080p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
-#EXTINF:-1 tvg-id="Prosveshchenie.ru" tvg-logo="https://i.imgur.com/RUVjCYK.png" group-title="🇷🇺 | NGA",Просвещение (540p) [Geo-blocked]
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="Prosveshchenie.ru" tvg-logo="https://i.imgur.com/RUVjCYK.png",Просвещение (540p) [Geo-blocked]
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
-#EXTINF:-1 tvg-id="5Kanal.ru" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/69315/2a000001600802273a72e1640280961cfa0b/orig" group-title="🇷🇺 | NGA" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",Пятый Канал (540p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 tvg-id="RadioGovoritMoskva.ru" tvg-logo="https://i.imgur.com/lmVoN3H.png" group-title="🇷🇺 | NGA",Радио Говорит Москва (404p) [Not 24/7]
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="RadioGovoritMoskva.ru" tvg-logo="https://i.imgur.com/lmVoN3H.png",Радио Говорит Москва (404p) [Not 24/7]
 http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
-#EXTINF:-1 tvg-id="RadioHit.ru" tvg-logo="https://i.imgur.com/5xKqV1s.png" group-title="🇷🇺 | NGA",Радио Хит (Орск) (720p)
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="RadioHit.ru" tvg-logo="https://i.imgur.com/5xKqV1s.png",Радио Хит (Орск) (720p)
 http://lova.me/hls/hithd.m3u8
-#EXTINF:-1 tvg-id="RadioShanson.ru" tvg-logo="https://i.imgur.com/NwuwdPS.png" group-title="🇷🇺 | NGA",Радио Шансон (720p) [Not 24/7]
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="RadioShanson.ru" tvg-logo="https://i.imgur.com/NwuwdPS.png",Радио Шансон (720p) [Not 24/7]
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1 tvg-id="RBKTV.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RBK_logo.svg/512px-RBK_logo.svg.png" group-title="🇷🇺 | NGA",РБК (576p)
-http://uiptv.do.am/1ufc/701293058/playlist.m3u8
-#EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/512px-REN_TV_logo_2017.svg.png" group-title="🇷🇺 | NGA" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",РЕН ТВ (540p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="🇷🇺 | NGA",Россия 24 (576p) [Not 24/7]
-http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
-#EXTINF:-1 tvg-id="RostovPapa.ru" tvg-logo="https://i.imgur.com/Eybyuem.png" group-title="🇷🇺 | NGA",Ростов-папа (1080p)
-http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="RTRPlaneta.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="🇷🇺 | NGA" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",РТР-Планета (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s15/index.m3u8
-#EXTINF:-1 tvg-id="RusskiySever.ru" tvg-logo="https://i.imgur.com/prda1GP.jpeg" group-title="🇷🇺 | NGA",Русский Север (Вологда) (1080p)
-http://185.186.142.16/streams.rs.m3u8
-#EXTINF:-1 tvg-id="Rybolov.ru" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/70263/2a000001715ed9f583fff05677a02fd9c186/214x121" group-title="🇷🇺 | NGA" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Рыболов (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s55/index.m3u8
-#EXTINF:-1 tvg-id="Ryzhiy.ru" tvg-logo="https://i.imgur.com/QlncxbD.png" group-title="🇷🇺 | NGA" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Рыжий (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s57/index.m3u8
-#EXTINF:-1 tvg-id="Salyam.ru" tvg-logo="https://i.imgur.com/thfF7IJ.jpg" group-title="🇷🇺 | NGA",Салям (576p)
-https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:-1 tvg-id="SamaraGIS.ru" tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" group-title="🇷🇺 | NGA",Самара ГИС (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="SamaraGIS.ru" tvg-logo="https://samaragis.ru/wp-includes/images/logo.png",Самара ГИС (1080p) [Not 24/7]
 http://45.67.57.9:8080/new/new/playlist.m3u8
-#EXTINF:-1 tvg-id="Svarozhichi.ua" tvg-logo="https://www.lyngsat.com/logo/tv/ss/svarozhychy-ua.png" group-title="🇷🇺 | NGA",Сварожичи (720p)
-http://80.91.177.102:1935/live/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="SelengaTV.ru" tvg-logo="https://i.imgur.com/HXSNnvU.png" group-title="🇷🇺 | NGA",Селенга ТВ (576p)
-http://90.188.37.86/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="🇳🇱 | HÀ LAN" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Internacional (504p) [Not 24/7]
+#EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png",RTP Internacional (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVAmstelveen.nl" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/51/71/17115/1/c175.png" group-title="🇳🇱 | HÀ LAN",RTV Amstelveen (720p) [Not 24/7]
-https://live.rtva.nl/live/zender.m3u8
-#EXTINF:-1 tvg-id="RTVDordrecht.nl" tvg-logo="https://i.imgur.com/vryzDJk.jpg" group-title="🇳🇱 | HÀ LAN",RTV Dordrecht (480p)
+#EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-id="RTVDordrecht.nl" tvg-logo="https://i.imgur.com/vryzDJk.jpg",RTV Dordrecht (480p)
 https://ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVDrenthe.nl" tvg-logo="https://i.imgur.com/usBIZo2.png" group-title="🇳🇱 | HÀ LAN",RTV Drenthe (1080p)
+#EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-id="RTVDrenthe.nl" tvg-logo="https://i.imgur.com/usBIZo2.png",RTV Drenthe (1080p)
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
-#EXTINF:-1 tvg-id="RTVMaastricht.nl" tvg-logo="https://i.imgur.com/5m3d7cP.jpg" group-title="🇳🇱 | HÀ LAN",RTV Maastricht (720p) [Not 24/7]
+#EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-id="RTVMaastricht.nl" tvg-logo="https://i.imgur.com/5m3d7cP.jpg",RTV Maastricht (720p) [Not 24/7]
 http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVNoord.nl" tvg-logo="https://i.imgur.com/yZEsfsv.png" group-title="🇳🇱 | HÀ LAN",RTV Noord (720p) [Not 24/7]
+#EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-id="RTVNoord.nl" tvg-logo="https://i.imgur.com/yZEsfsv.png",RTV Noord (720p) [Not 24/7]
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
-#EXTINF:-1 tvg-id="RTVNoordExtra.nl" tvg-logo="https://i.imgur.com/yZEsfsv.png" group-title="🇳🇱 | HÀ LAN",RTV Noord Extra (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-id="RTVNoordExtra.nl" tvg-logo="https://i.imgur.com/yZEsfsv.png",RTV Noord Extra (1080p) [Not 24/7]
 https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
-#EXTINF:-1 tvg-id="RTVOost.nl" tvg-logo="https://i.imgur.com/Y26C78S.png" group-title="🇳🇱 | HÀ LAN",RTV Oost (720p)
+#EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-id="RTVOost.nl" tvg-logo="https://i.imgur.com/Y26C78S.png",RTV Oost (720p)
 https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
-#EXTINF:-1 tvg-id="RTVPurmerend.nl" tvg-logo="https://i.imgur.com/dLKSpqz.png" group-title="🇳🇱 | HÀ LAN",RTV Purmerend (720p)
+#EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-id="RTVPurmerend.nl" tvg-logo="https://i.imgur.com/dLKSpqz.png",RTV Purmerend (720p)
 https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVRijnmond.nl" tvg-logo="https://i.imgur.com/TYsLlr0.png" group-title="🇳🇱 | HÀ LAN",RTV Rijnmond (1080p)
+#EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-id="RTVRijnmond.nl" tvg-logo="https://i.imgur.com/TYsLlr0.png",RTV Rijnmond (1080p)
 https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
-#EXTINF:-1 tvg-id="RTVRijnstreekTV.nl" tvg-logo="https://i.imgur.com/g7WMTvM.png" group-title="🇳🇱 | HÀ LAN",RTV Rijnstreek TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-id="RTVRijnstreekTV.nl" tvg-logo="https://i.imgur.com/g7WMTvM.png",RTV Rijnstreek TV (720p) [Not 24/7]
 https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVSlingeland.nl" tvg-logo="https://i.imgur.com/PREoM2y.png" group-title="🇳🇱 | HÀ LAN",RTV Slingeland (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-id="RTVSlingeland.nl" tvg-logo="https://i.imgur.com/PREoM2y.png",RTV Slingeland (1080p) [Not 24/7]
 https://ms7.mx-cd.net/dtv-10/105-475831/RTV_Slingeland.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVUtrecht.nl" tvg-logo="https://i.imgur.com/5cVkPR3.png" group-title="🇳🇱 | HÀ LAN",RTV Utrecht (1080p)
+#EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-id="RTVUtrecht.nl" tvg-logo="https://i.imgur.com/5cVkPR3.png",RTV Utrecht (1080p)
 https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
-#EXTINF:-1 tvg-id="RTVWesterwolde.nl" tvg-logo="https://i.imgur.com/86oiZRV.jpg" group-title="🇳🇱 | HÀ LAN",RTV Westerwolde (432p)
+#EXTINF:-1 group-title="🇳🇱 | HÀ LAN" tvg-id="RTVWesterwolde.nl" tvg-logo="https://i.imgur.com/86oiZRV.jpg",RTV Westerwolde (432p)
 https://media.rtvwesterwolde.nl/hls/live/index.m3u8
-#EXTINF:-1 group-title="🇮🇩 | INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
-#EXTINF:-1 group-title="🇮🇩 | INDONESIA" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png",RCTI (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1 group-title="🇮🇩 | INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png",MNC TV HD (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTINF:-1 tvg-id="BatuTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png" group-title="🇮🇩 | INDONESIA",Batu TV
-http://117.103.69.219:8080/live/streaming/index.m3u8
-#EXTINF:-1 group-title="🇸🇬 | SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ==&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ=&
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
-#EXTINF:-1 group-title="🇸🇬 | SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG/nkMNDuNoZKk/1cG3xTZG5w=&
-https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
-#EXTINF:-1 group-title="🇸🇬 | SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ/UWeTXAOfpju0oZkr0UtvrZ8k=&
-https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇳 | INTERNATIONAL",Korça + (1080p) - Albania
-http://32.shqiptv.org/korca/albplus/index.m3u8
-#EXTINF:-1 tvg-id="LaTele.ch" tvg-logo="https://i.imgur.com/3SDlImf.png" group-title="🇺🇳 | INTERNATIONAL",La Télé (1080p)
-https://edge.vedge.infomaniak.com/livecast/ik:latele/playlist.m3u8
