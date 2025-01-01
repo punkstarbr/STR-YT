@@ -425,9 +425,6 @@ https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-HzoqLDP9NBmcw_bi94Msm8B8nf-IayaYIq2P1PviA4RLG2REP74c5lZDQ&s",Alcarria TV (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIFSt7LZUyLuCUshEoq_t-S2eEJCyIH1cBUCqw5M9qrgX-sYj7s7hiR6G7-s&s",Bloomberg TV EMEA Live Event (720p)
-#EXTVLCOPT:network-caching=1000
-https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2HcrrcTzGe2wWS14TJTqreordAQB_4rLu52bJxTjgk33oPcqjAnmM4hDwNNs&s",Cadena Elite (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
