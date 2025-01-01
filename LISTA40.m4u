@@ -2,46 +2,8 @@
 
 
 
-#EXTINF:-1  group-title="N/A",Int. Am rica: Se al Colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1  group-title="N/A", TVM INTERNACIONAL
-http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
-#EXTINF:-1  group-title="N/A", Canal Desconhecido
-http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_w539729195_b714000_slpor.m3u8
-#EXTINF:-1  group-title="N/A", TDM Canal 2
-http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/chunklist_w1683699584.m3u8
-#EXTINF:-1  group-title="N/A", TDM Canal 3
-http://live4.tdm.com.mo/ch3/_definst_/ch3.live/chunklist_w1384254171.m3u8
-#EXTINF:-1  group-title="N/A", Canção Nova
-https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Santuário de Fátima (Sapo)
-https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8?wowzasessionid=inspiration
-#EXTINF:-1  group-title="N/A", Santuário de Fátima (Bitly)
-https://bit.ly/SantuarioFatima?/chunklist.m3u8?wowzasessionid=inspiration
-#EXTINF:-1  group-title="N/A", IGR Online
-http://195.22.11.11:1935/igronline/igronline2/chunklist_w523639935.m3u8
-#EXTINF:-1  group-title="N/A", Transmissão ao Vivo
-https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
-#EXTINF:-1  group-title="N/A", Fiocruz
-https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
-#EXTINF:-1  group-title="N/A", Canal Desconhecido
-http://85.187.222.252:9191/play/a00e
-#EXTINF:-1  group-title="N/A", Transmissão Bitly 1
-https://bit.ly/326rRZp?inspiration.m3u8
-#EXTINF:-1  group-title="N/A", Transmissão Bitly 2
-https://bit.ly/3qB0a4n?inspiration.m3u8
-#EXTINF:-1  group-title="N/A", Transmissão Bitly 3
-https://bit.ly/3fvH5dB?inspiration.m3u8
-#EXTINF:-1  group-title="N/A", Transmissão Bitly 4
-https://bit.ly/3tEZVHt?inspiration.m3u8
-#EXTINF:-1  group-title="N/A", Transmissão Cloudfront
-https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index_2.m3u8
-#EXTINF:-1  group-title="N/A", Fuel TV (720p)
-https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1  group-title="N/A", Transmissão Bitly 5
-https://bit.ly/3Hxwlb8?/playlist_1920x1080_4200k.m3u8
-#EXTINF:-1  group-title="N/A", Transmissão Bitly 6
-https://bit.ly/3J39Afq?/playlist_1920x1080.m3u8
+
+
 
 #EXTINF:-1  group-title="N/A", Canal Desconhecido 1
 https://bit.ly/3otT401?/index.m3u8
