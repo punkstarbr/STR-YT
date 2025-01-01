@@ -12,7 +12,7 @@ https://cdn-5.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="NEWS WORLD",Band News HD
 https://cdn-5.nxplay.com.br/BAND_NEWS_TK/index.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="cnn.brasil.br" tvg-logo="https://i.ibb.co/7kD8t97/cnn-brasil.png",CNN Brasil
+#EXTINF:-1 group-title="CNN's" group-title="NEWS WORLD" tvg-id="cnn.brasil.br" tvg-logo="https://i.ibb.co/7kD8t97/cnn-brasil.png",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="CNN's" tvg-id="CNNBrasil.br" tvg-logo="https://i.ibb.co/7kD8t97/cnn-brasil.png",CNN Brasil
 http://bccdn.xyz:80/594023850943868/897489270938609/588
