@@ -11,9 +11,7 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG" tvg-id="hoabinh" tvg-logo="https://i.ibb.co/3hdbX4p/Hoa-Binh-cc.webp",Hòa Bình
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8?cc
-#EXTINF:-1 group-title="🔴 KÊNH THIẾU NHI" tvg-id="Undefined" tvg-logo="https://dl.dropboxusercontent.com/s/lslvqe41s8j7itv/PBS",PBS Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8?cc
+
 #EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-id="HorseandCountry.au" tvg-logo="https://i.imgur.com/r5Ip3P0.png",Horse and Country (720p)
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🇨🇦 | CANADA" tvg-id="CanadaOne.ca" tvg-logo="https://i.imgur.com/zr6KoiS.jpg",Canada One (720p) [Not 24/7]
@@ -22,20 +20,7 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-id="ThaiPBS3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png",Thai PBS
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-id="EBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png",EBS 2 (400p)
-http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/qceaIf7.png",EBS e (400p)
-http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png",EBS kids (400p)
-http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-id="EBSPlus1.kr" tvg-logo="https://i.imgur.com/ImUHRG2.png",EBS+ 1 (400p)
-http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/mgFRZFq.png",EBS+ 2 (400p)
-http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-id="GCN.kr" tvg-logo="https://i.imgur.com/QUxuHA1.png",GCN24 Korean (480p) [Not 24/7]
-http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png",KBS World (720p)
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
 #EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN4XZNgpWmntBkxJiE29UTnl7ZNxzJwIk0ML2H5kbc-q5igmGSUQvqxQgeqQ&s",КФУ ТВ (1080p) [Not 24/7]
 https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺 | NGA" tvg-id="LanetTV.ua" tvg-logo="https://i.imgur.com/L7Zr5KU.png",Ланет.TV (486p)
