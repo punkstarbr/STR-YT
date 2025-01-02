@@ -5,28 +5,7 @@
 
 
 
-#EXTINF:-1  group-title="N/A", Link para Lista de Canais (Gist)
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", AMC Presents (3000k)
-https://amc-amcpresents-1.vizio.wurl.com/manifest/3000.m3u8
-#EXTINF:-1  group-title="N/A", Plex AMC Presents (MediaTailor)
-https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
-#EXTINF:-1  group-title="N/A", AMC IFC Films Picks (3000k)
-https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/3000.m3u8
-#EXTINF:-1  group-title="N/A", AMC Rush (3000k)
-https://amc-rushbyamc-1.vizio.wurl.com/manifest/3000.m3u8
-#EXTINF:-1  group-title="N/A", Plex Go USA TV (MediaTailor)
-https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV//playlist.m3u8
-#EXTINF:-1  group-title="N/A", Ion Plus (1920x1080)
-https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
-#EXTINF:-1  group-title="N/A", Link para Lista de Canais (Gist) - Repete
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", CSI Inspiration
-https://bit.ly/csi_inspiration_m3u8
-#EXTINF:-1  group-title="N/A", Horror Terror
-https://bit.ly/horrorterror?/master_4.m3u8
-#EXTINF:-1  group-title="N/A", Ghost TV
-https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w2065029930.m3u8
+
 
 #EXTINF:-1  group-title="N/A", Horrify (BitGravity)
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_4.m3u8
@@ -4354,5 +4333,344 @@ https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?Pl
 https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="BR" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnPrsp7VHbbfqHb5H-T7C1GLpoZDBDVUnDrznkpXhkYoPuG-v8Tndj5bKWPFE&s",Gospel Movies Television
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8?PlaylistM3UCL
+#EXTM3U
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlNdD2WlApTZO3ThYisX0DJU4jwJAM_ToLqwrNEsOo9tuJRdk89lKCG9KdztI&s",Apple Tree (720p)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_3wRSXhdwdd1iiSzXQ6rP3i8la2zcSrTF8cFpTPqUiQWfEIBkaqH6pq4xeww&s",|TR| Disney Channel
+http://red.ipfox.org:8080/1234/12345678/2779
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpY2O35xrO7esERJnACrPg_5fbiGZadfJjpnocs1ciVAcCTOR4fAg_aRrx-A&s",|TR| History
+http://red.ipfox.org:8080/1234/12345678/2781
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMIspV1nRShOiYQx-QAPxdUIk6WvtOzWB8FHH91rZkaN_dfEWmACV1PRlfyPk&s",|TR| Cartoon Network
+http://red.ipfox.org:8080/1234/12345678/2782
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrH5_fGLD9PyscCb8Ue_tRRVfHyRrBSMPNV9nl-rXCp0sTxDejMSBHwhYRIQ&s",|TR| TLC
+http://red.ipfox.org:8080/1234/12345678/2784
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ybE733gZBnPQtqeZLDxQnrOnrzXZi__dz0VtuH0je009M6XcaVtq7S1DH-s&s",|TR| ATV FHD
+http://red.ipfox.org:8080/1234/12345678/2785
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmiiz06X3TEBgeuERARQuUo28hExd4pyCUCSioheNJqT5T4wzT4bT6NMttwA&s",|TR| ATV HD
+http://red.ipfox.org:8080/1234/12345678/2786
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmCGmYZEbQvSJMdpA4Bk5ZFxJZmrQZAgGhAv1WgOCK-cSyBgUY4FdqxqSMOg&s",|TR| A2 TV HD
+http://red.ipfox.org:8080/1234/12345678/2787
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREsXzQsku5Tyn2Cr1WGXmYKHJj863N17qN8ZnCAWAbeKkrQrkYpZ7GdH9Q1n0&s",|TR| A Haber
+http://red.ipfox.org:8080/1234/12345678/2788
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcuRKQdWKmP-0eof-1nHt0YZEznB9zwOG9ZdWX7WKJ-i0dPaNP9Q-Zhinuwg&s",|TR| TRT Turk
+http://red.ipfox.org:8080/1234/12345678/2789
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAsIVz5_AUrQaa90Mq9OT-hbC7VSA0CJ1iOF8WV2A740QTGbNrp42jY2KQT-E&s",|TR| A SPOR HD
+http://red.ipfox.org:8080/1234/12345678/2790
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZCvMG7HMlw44AnNIpqxV_SFo75x_aqGmiZwUgA0NzVk7o3a5ttc1zhVQgKiE&s",|TR| Discovery IDX HD
+http://red.ipfox.org:8080/1234/12345678/2791
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNd4xwCqC3HtHbLAyJ9cjLUrELSaHk4XLudpZUg_XYVVCSKEaCEKcs5QMS6w&s",|TR| Animal Planet HD
+http://red.ipfox.org:8080/1234/12345678/2792
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL8j-sKM9ZYzOwvjEJOLNKd8qC8xTYBVQj5ttjaFkCCYVeDBQaHve0y9gjog&s",|TR| Nat Geo Wild HD
+http://red.ipfox.org:8080/1234/12345678/2793
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFbQzFA8ZtpFw-vA9pbDG42zFev_nGEMTWqc4GaHnsQbSBcacVtY_AdvMeOg&s",|TR| Discovery HD
+http://red.ipfox.org:8080/1234/12345678/2794
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRG_2KkyNkUyBOLTFXLBvhf3GajofUG64868oIMIpTBYX2-UNORCskiBB1sDQ&s",|TR| Power Turk
+http://red.ipfox.org:8080/1234/12345678/2795
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5PTMYCbwlg89YMIkcrmjO8Bj6XjCppXfpkb8B01FAaXZB6PPrM-V2YjxVeQ&s",|TR| Nickelodeon
+http://red.ipfox.org:8080/1234/12345678/2802
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7yMoNPM1sp-h8QjaWiyVAPtyraVMAMNPNA5jHsW5rE__X4qg4dHXaMjD_nlw&s",|TR| Nat Geo HD
+http://red.ipfox.org:8080/1234/12345678/2803
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeMCJZkwol3k9Ro-SEQ4YsaI8FkAl3hylW_uvptfrtwZB2vzUxcROig-2wxw&s",|TR|  Kanal 24 FHD
+http://red.ipfox.org:8080/1234/12345678/2804
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRYOKTwRf8UMOhu2eQDYVkwUnBeNoZZi7StX5Oua-4QGl0NBjfWXM0eU3wYLE&s",|TR| Teve 2 HD
+http://red.ipfox.org:8080/1234/12345678/2805
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0AMsXoz93U-LaO-5FOtWeDo9LnCGMBjD_DEdlSPJGCPYcGNddKX3IVlPgYw&s",|TR| Bengu Turk
+http://red.ipfox.org:8080/1234/12345678/2807
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJL3S7YxxBNf2DwlkhMlOE9SZBj76P0f7munK7Aox7Xw6B9TK-ijIm8G6ew&s",|TR| Tivibu  Spor 2
+http://red.ipfox.org:8080/1234/12345678/2820
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLWbIGe4TPnsN0ergKbQRL9NZ9W_jjnSIplgslLrDkLUeay7Tm2uGuiwusDA&s",|TR| Tivibu  Spor 1
+http://red.ipfox.org:8080/1234/12345678/2821
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIj0TJyiQPxcAhWv53xpnnM_qvsXHCcj0-TUWYUfzIeo2EoEBe-y0EOMvg8w&s",|TR| 360 TV HD
+http://red.ipfox.org:8080/1234/12345678/2824
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwu581c-ymtW6NljFSO4FReWk34yOmpoZFs2IMgd_382BBGMKw6VnRDs8NWw&s",|BE| No T l  HD [FR]
+http://red.ipfox.org:8080/1234/12345678/37652
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHksncVOawGXUe9F2osw7YoJnXKjTIFeiksCvfnb2ybyry_qFrcLJkJ6hBvhY&s",|BE| CANVAS HD [NL]
+http://red.ipfox.org:8080/1234/12345678/37651
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKOj0e174B3Hi-adUSbWUKCEYHX1z34c3jxXDW-amkBwJ5DzMXskhxFAkr5Xo&s",|BE| PLAY SPORTS 2 FHD
+http://red.ipfox.org:8080/1234/12345678/37649
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT59uXAJeEf1mOZOe6aKEPpcwGGJ3jdL09m5rzEQkk20l8QZvQ_LB6pYr2tVw&s",|BE| PLAY SPORTS 3 FHD
+http://red.ipfox.org:8080/1234/12345678/37648
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4MP_9hzzrKUAG0YDfofuZ2MukJxdLJ_Srvt_cKfqQlXXzNjCaZgwiDvHtAg&s",|BE| BE CINE HD [FR]
+http://red.ipfox.org:8080/1234/12345678/37643
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiT65kaMIA4Rfaxy1ZeADcpL8PFe1p_2NKBfgQhEVykKiJCZ8ApxSH7M-iYQ&s",|BE| LN24 HD [FR]
+http://red.ipfox.org:8080/1234/12345678/37617
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrVocNAjD2VwQiYrBw5H1aCQ3-PJEugK8RutGEoIe8cyVDVutf9wouimXILw&s",|BE| LA TROIS HD [FR]
+http://red.ipfox.org:8080/1234/12345678/37611
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTHVhDalUcddUGBOXVtBvpHC0FD5tQnA5g9t8dImSehpPjb51uqL8gERCpEVs&s",|BE| Ketnet HD [NL]
+http://red.ipfox.org:8080/1234/12345678/37609
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlTHIBu1u-vmrkq6Ttqa1xMr5_p-AwIWTFjWPHfe2B3CZXcvz6dXSYzwF3Dg&s",|BE| njam! HD [NL]
+http://red.ipfox.org:8080/1234/12345678/37603
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa2In9jAFQSFl1ojDLF_VjGV-ouY6xX9VNAflznrhgHIQIP7I2wdPfSm-0_g&s",|BE| Play 5 HD [NL]
+http://red.ipfox.org:8080/1234/12345678/37602
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPKdzMyosGfwVLxDelWxW052OSKQZ8i7fxDvpiG0K96waxP2L2rYU2n8fvGg&s",|BE| Play 6 HD [NL]
+http://red.ipfox.org:8080/1234/12345678/37601
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8s-bsbrf91gevcE3pqZeFfRCNeYGi1AtFNyHermnNSe91nlEjWNjOInyQIQ&s",|BE| Play 7 HD [NL]
+http://red.ipfox.org:8080/1234/12345678/37600
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJPX9V3OtyyrndrJ4v4UAdImx0_ANReNcXnklQ9OTgwNcfEianYh9FOGEynpE&s",|BE| Plug RTL HD [FR]
+http://red.ipfox.org:8080/1234/12345678/37599
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJHsgAcPdQ28QXdooLfp61tO__uf6Lv90WxvgVW_x_4_CGr9gXDg9792ty_DI&s",|BE| TLC HD [NL]
+http://red.ipfox.org:8080/1234/12345678/37592
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQslzY8iTeKx5UGjBD6yXcnoDyK8J5hdO3ciCpEoa3WTyk6aUI6Y6jExGku1VI&s",|BE| VTM FHD [NL]
+http://red.ipfox.org:8080/1234/12345678/37589
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUFDlnJjahdxyWxKuc1BrA-2oBCQr7kN6MxpLG9w_S_XG878yUQiYFhAUKKGU&s",|BE| VTM4 HD {NL]
+http://red.ipfox.org:8080/1234/12345678/37587
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXr-F9P809QEuGyv-3Df4jh-J-eJsPJI5g-EOD-7Lfr1z03RkoguDEef5KN2k&s",|BE| VTM Kids HD [NL]
+http://red.ipfox.org:8080/1234/12345678/37585
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-9CYACW2G_wlfTgfkl9PB3K73EQIbfRcNKaysS6tXkLX5iH117V_7q-Now&s",|BE| RTL TVI HD [FR]
+http://red.ipfox.org:8080/1234/12345678/37584
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk0WY9eIiuU1a7HNNwxhTHPe1_Elb9M0YEcszT-Gr6uaG7Iyv-PacqMWsxptU&s",|BE| TIPIK HD [FR]
+http://red.ipfox.org:8080/1234/12345678/37575
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk0WY9eIiuU1a7HNNwxhTHPe1_Elb9M0YEcszT-Gr6uaG7Iyv-PacqMWsxptU&s",|BE| TIPIK VISION HD [FR]
+http://red.ipfox.org:8080/1234/12345678/37574
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgdr9z7mFD9CKAzMBs3U2E_5O3A4QU_O7ELuyAOcuwX8OEVHXOyAwLWKflxQ&s",|BE| Pickx+ HD [FR]
+http://red.ipfox.org:8080/1234/12345678/37565
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZSXJinipuIH2cJYksrqFkWsaTDD504h4M-aF6yjVcg2Bsuukmg0y1MCZjuw&s",|BE| Pickx+ Sports 1 FR HD
+http://red.ipfox.org:8080/1234/12345678/37564
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXxvuAtEDXjpM8XFGmU22A0cQ0jC9uN2lMU_RgcSPu1hcCtnhDBIfuvawGA&s",|BE| Pickx+ Sports 6 NL HD
+http://red.ipfox.org:8080/1234/12345678/37553
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXxvuAtEDXjpM8XFGmU22A0cQ0jC9uN2lMU_RgcSPu1hcCtnhDBIfuvawGA&s",|BE| Pickx+ Sports 7 FR HD
+http://red.ipfox.org:8080/1234/12345678/37552
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXxvuAtEDXjpM8XFGmU22A0cQ0jC9uN2lMU_RgcSPu1hcCtnhDBIfuvawGA&s",|BE| Pickx+ Sports 7 NL HD
+http://red.ipfox.org:8080/1234/12345678/37551
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUJ191QcW-KHCmC5WGit1BmYebNE4juNLZuXWAOQrfXjx0TdKBFH96YGBlirs&s",|BG| BTV Action
+http://red.ipfox.org:8080/1234/12345678/31315
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrDr1Gdr7eDslZgxFrCyuZMRQZPYtvKp-k_X8GLzQiXkmo2eckZs1T5ZyHQbk&s",|BG| BTV Cinema
+http://red.ipfox.org:8080/1234/12345678/31314
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRycwq7c67oXs441VBg-hHWM68Y3AOjRniVBPihvmXs3vfPUdi8v78AP21omQ&s",|BG| BTV Comedy
+http://red.ipfox.org:8080/1234/12345678/31313
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9jLS5n1rCWX8ZQttYoQucd0pwzn8JSU1ERAcwjl2pH6WX1ydUfcAUcD1n2A&s",|BG| Kino Nova
+http://red.ipfox.org:8080/1234/12345678/31312
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQz9m514NlnCLktChSMP4lS--nKBn2jWpw5GtecABwvzbNbuxjC_t_lB9Ybw&s",|BG| FilmBox Extra HD
+http://red.ipfox.org:8080/1234/12345678/31304
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcTHLe6mt_UJqqrLhjWFNq1KEhne_x4OGRJ8Bmy83uim68PqmHVpPRht9TmQ&s",|BG| Action Plus HD
+http://red.ipfox.org:8080/1234/12345678/31302
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBmy10QYtz9_E5vTnuArsIKyiBJp6RqWPKTkNDH3WyFaDdm83zzic0ymd1A&s",|BG| Cinema Plus
+http://red.ipfox.org:8080/1234/12345678/31301
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpUUV60iCl-yFRxpfxGsKNtGPSDuQnr_BaxmsSZDflukYbRbiO0Oc9IQ8Naw&s",|BG| Comedy Plus
+http://red.ipfox.org:8080/1234/12345678/31300
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM5Pw4XDAYbqsYW0_-0ksQaCFhQqfMzil7eA27VxUkIiTRDe5hnpp0uaEs4So&s",|BG| Movie Star HD
+http://red.ipfox.org:8080/1234/12345678/31299
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFFOZbePSm3zRnCHXBos9dN3bOwJHlUCdRw80bYLlvnPLcGDReEXLYUG61Bg&s",|BG| FOX HD
+http://red.ipfox.org:8080/1234/12345678/31298
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZxmNXdJ8xv4gMLMsofDwi8efDRjxBauoblnnQszjqVydlVCtJmeg1opEde0&s",|BG| Fen TV
+http://red.ipfox.org:8080/1234/12345678/31297
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN-hhBTwoRdz7AKpskwOIzbG8srkJIyg6Afw88w9F7W3oiRRQqhtBguQU1uw&s",|BG| Fox Life
+http://red.ipfox.org:8080/1234/12345678/31296
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG44_jUnq8gvS9-lFeMys81ZAuszK-pYw4nnWys6vlSeqRk-5DJl1AMcD1VW0&s",|BG| AMC HD
+http://red.ipfox.org:8080/1234/12345678/31295
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEHzcdu2ug2gNkzO2gWwQcC6i85aEOKhlVC-GOTw02Cv0jR9upptNI1qygslg&s",|BG| Diema Sport 1 HD
+http://red.ipfox.org:8080/1234/12345678/31293
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8b21lp6fG2Y_iKGm_szC7MwbJ7NgRDwNjamOW26ozZqLwqlzqrvrpHsYfZXI&s",|BG| Diema Sport 2 HD
+http://red.ipfox.org:8080/1234/12345678/31292
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfSZw_LHXCjQFp_AGK8NvP6NGBjX-nOAZPLmtYUDwIGRA5r4jbh-H33xfu6i8&s",|BG| Nova Sport HD
+http://red.ipfox.org:8080/1234/12345678/31291
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8LMEB-yHtd0qiZSL9McnFU7f1Vs4EdRjNERg_PW8ZzuBVcy5hyhVM2H5auJ8&s",|BG| MAX Sport 1 HD
+http://red.ipfox.org:8080/1234/12345678/31290
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6GGjNYEik144vK5j8-iJ_UJQ-dR-9YaAFh64GzAf1l_yKW_qGsD6vGA6rtQ&s",|BG| MAX Sport 2 HD
+http://red.ipfox.org:8080/1234/12345678/31289
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf7pskmbo-NfKKPJIosMNILxS02bA3ZlaPXOdOLy9S_f_KBkZvVDmVbhJN37A&s",|BG| MAX Sport 3 HD
+http://red.ipfox.org:8080/1234/12345678/31288
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsc7acaxDAe0rloc4XrDtNHenk8hY3HuZSJkZmykfusHNYcMnUEZen5wNfXKA&s",|BG| TLC HD
+http://red.ipfox.org:8080/1234/12345678/31287
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjcpefKHB3lyxAo_ZvLXg9F8JeUFYddyc6esgYU9TvnpyNMc8kYAm18lsx9w&s",|BG| BTV Lady
+http://red.ipfox.org:8080/1234/12345678/31286
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO5Zt7XWEuKYA_aEQvWhRSjyn9YrBXhEYrtjRpy4Xo_TV5dXouQrXKJDuj-kA&s",|BG| SPORT Plus HD
+http://red.ipfox.org:8080/1234/12345678/31285
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5hVl52N5X0oN5jh8vcvq4nHGA_Af__HUlUy7GWpobyl9WwFcT5xOnyAPFvg&s",|BG| RING HD
+http://red.ipfox.org:8080/1234/12345678/31284
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr9ms6jDQhTTYOAX34yJOvyeXBM1j19G_FuxtEWD5LssfcE3o1ja-Dzhff-A&s",|BG| Kanal 3
+http://red.ipfox.org:8080/1234/12345678/31279
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiW-KD7HbmtIiJzIH8KV9JmiA2l8DvnPGZYOCwcV-Dj-YC5PcUapf-8F37MZ8&s",|BG| Disney Channel
+http://red.ipfox.org:8080/1234/12345678/31278
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuco8wdJDFDs-qxjzwl1Jo_SUWiPhyOJl9WCQm483VDHOLDy0cIVLBGB20Cg&s",|BG| Cartoon Network
+http://red.ipfox.org:8080/1234/12345678/31276
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5PTMYCbwlg89YMIkcrmjO8Bj6XjCppXfpkb8B01FAaXZB6PPrM-V2YjxVeQ&s",|BG| Nickelodeon
+http://red.ipfox.org:8080/1234/12345678/31275
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBrP_suagKfn2_cZwYL9cYd9Ca6UsXuW2UPra5iNZilybF-UnAOel7_McTRA&s",|BG| Evrokom
+http://red.ipfox.org:8080/1234/12345678/31274
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKW7AVwe5biQK-CQwb0LzPQf-6DjFMPUf5HY5QwKuLTc0vJpQydupwCLYLw&s",|BG| EKids HD
+http://red.ipfox.org:8080/1234/12345678/31272
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbhB-Kzf7CIZ_HWhvC7s4JFHd-toq61p2yxU4cw4kwbK_ZgeEi2-02ds4kIg&s",|BG| F Plus
+http://red.ipfox.org:8080/1234/12345678/31270
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxNiKCbNpt_fxrlgzFRumZ-QmtX_xxEdZmRmkb_1QIzKAuaSLJD2gT91foHd8&s",|BG| Epic Drama
+http://red.ipfox.org:8080/1234/12345678/31269
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeJnzva76ZQhs3yAfIWhNYBU-ttjOe5K5Y9utiOF2cBqM7wkZnKho8gdyFVQQ&s",|BG| Bulgaria On Air
+http://red.ipfox.org:8080/1234/12345678/31267
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSam57I8qTId3xf6g1UFpw4pSb91AmINk5Ew-kxR7r60yq6iz9SQ41j6lnTWw&s",|BG| 24 Kitchen HD
+http://red.ipfox.org:8080/1234/12345678/31266
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVnexbTlLjUHM8EpJCygIXzzA4GSMlXhx55fbTl2_xtFdXq5fsgYjgu_DO4g&s",|BG| TV Evropa
+http://red.ipfox.org:8080/1234/12345678/31264
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaXZiKLhrYWKxgXgJ_KgCGwLfYctIYXnS23eSzmkWqnE5Ya9nDiBHKzDeptw&s",|BG| History Channel HD
+http://red.ipfox.org:8080/1234/12345678/31263
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFbQzFA8ZtpFw-vA9pbDG42zFev_nGEMTWqc4GaHnsQbSBcacVtY_AdvMeOg&s",|BG| Discovery Channel HD
+http://red.ipfox.org:8080/1234/12345678/31260
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZCvMG7HMlw44AnNIpqxV_SFo75x_aqGmiZwUgA0NzVk7o3a5ttc1zhVQgKiE&s",|BG| ID Xtra HD
+http://red.ipfox.org:8080/1234/12345678/31258
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy8sW4Kyz7Hh6BIjv0uLyM6vugkQkSrwmreLCsldin41klvgiqkrSc3vnntQ&s",|BG| BTV HD
+http://red.ipfox.org:8080/1234/12345678/31257
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuDeHutrXyISBYEsyiRxlaaUHlv7wBdiPof2yEjYtVEAKsC8I5OSepJINTcw&s",|BG| Viasat Explorer
+http://red.ipfox.org:8080/1234/12345678/31255
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn01jYamKux-m2vvV_fRo5P0p8gJjqiEsW7zeX7F2ZnAj9I6_6OdkxymvZ4A&s",|BG| Diema Family
+http://red.ipfox.org:8080/1234/12345678/31254
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSez6h6VHuISnwOVFdcSCzv6J_RyeZtYA_ftl04VY561Rqv6Ex54U5Hw7rmsZE&s",|BG| Nova TV
+http://red.ipfox.org:8080/1234/12345678/31253
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7yMoNPM1sp-h8QjaWiyVAPtyraVMAMNPNA5jHsW5rE__X4qg4dHXaMjD_nlw&s",|BG| NAT Geo HD
+http://red.ipfox.org:8080/1234/12345678/31251
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8KYVLhnV_MjFEyHb_x_ed-5SWrMVWlB5eMYNQbJ2FYUvpmTHHvAJPkx4iHQ&s",|BG| NAT Geo Wild
+http://red.ipfox.org:8080/1234/12345678/31250
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA0dB_MEUDwScgrLoW574XFM-VUe6Flbw_EOs_7lfKylDleudpCZkDDjF_4A&s",|BG| Travel Channel
+http://red.ipfox.org:8080/1234/12345678/31249
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh2f6X9aUSFxjqanQCx1eJZNbcJDfUwQL_3e7voPxhM4_B4hqDTi39zxXe3g&s",|BG| Diema HD
+http://red.ipfox.org:8080/1234/12345678/31247
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZRu1dNfhwG233U3xkN8gYIk1i4xiSE_EE3X9ycebRIaZ7quhnxb9mB8MHy0&s",|BG| Animal Planet
+http://red.ipfox.org:8080/1234/12345678/31246
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyDChPvRyyEkY5s7-2uC_v8heISm0N-MX8NUFjv5EdBZcXTpW0TBaTsDP9w&s",|BG| City TV
+http://red.ipfox.org:8080/1234/12345678/31245
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnVWtrfb-lPD9QbkOee3t4zlAQ8Sz-a-_AWw65wYxia6_HUCoOWjpOq9ebJA&s",|BG| Magic TV
+http://red.ipfox.org:8080/1234/12345678/31243
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC1iXmNGP4ypg8W9T24d_okRHJ2UHoC_QLZCd8rADT-_A8zHck7e_I0KBCNQ&s",|BG| BNT 4 HD
+http://red.ipfox.org:8080/1234/12345678/31236
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPX9Ajx0viGyrp1WewBo90XygfnjOo-vL-c71WmNq3L3khatxFJaeoG2wixA&s",|BG| BNT 3 HD
+http://red.ipfox.org:8080/1234/12345678/31234
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNJwzhj6FfLNjBpKmRLO1mFOhvDLa0RaKMny7r86_HoexnAqw0lPiy-IL77Q&s",|BG| BNT 2 HD
+http://red.ipfox.org:8080/1234/12345678/31233
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVbK1gXjUhamW1nRkPyi4FDpVxUDle3jKstxElHgEFLCApvcFyZCVuRSc7UQc&s",|BG| BNT 1 HD
+http://red.ipfox.org:8080/1234/12345678/31232
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIiOHm9bw_E-dehBE7M3awhm0xQXmN6kU10HOSj-k-FD2OJOd6NlN3K5-rkWo&s",|BG| Planeta HD
+http://red.ipfox.org:8080/1234/12345678/31231
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQixIjHh9Dy_ST48Qrv6fzpQS5J1E_8lm8tSif29Li61dddN2pyRXu_UUW6ig&s",|BG| Planeta Folk
+http://red.ipfox.org:8080/1234/12345678/31228
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsIR7QNgulKcrkqUmc-rmaPso1_eTvmqRqLPCgLdvwN6DX75wer5rECngQnA&s",|BG| FenFolk TV
+http://red.ipfox.org:8080/1234/12345678/31227
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS0PwFs8eWiRVkCDye3_m1DAYkFHa-CSqc3f4QWEa2XAg-e8k5LhgCdaheyQ&s",|BG| Folklor TV
+http://red.ipfox.org:8080/1234/12345678/31226
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOg9CiQUaL-9kr8ksHRb5vWMyBfNne6DSsQR8sNMfDP7MkujLcP-m9_cqeg&s",|BG| Tiankov Folk
+http://red.ipfox.org:8080/1234/12345678/31224
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpKPnzpETi4jaxn-2ICuLCsBBBAB0r54wCr9-s4KuaH7LC2FxIdExEr8iBWxs&s",|BG| Hobby TV
+http://red.ipfox.org:8080/1234/12345678/31219
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbJpqhRK43aC8vZDbIbebFfsNXobBjcEQI6TOa-UrBXA7X6c8brHnhAc1cRqY&s",|BG| Hobby Lov
+http://red.ipfox.org:8080/1234/12345678/31217
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEg8PM65nlvZcvIbZT-ey_vq1iqhXJZoIV7JaLzKutceP32M0G5xZW_KRBQw&s",DR1
+http://red.ipfox.org:8080/1234/12345678/41331
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWw2PSyYKnydGrUDXUfbOYHuFGzgTpeJJGAJr0ZDr08d48V6wznOmHwYZFW2s&s",DR2
+http://red.ipfox.org:8080/1234/12345678/41330
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVj2XAoqf4RZraqlamE36OwxkB0IN7Jff5k4mrWgxjFH4jKS3TU3GXL5BDOA&s",Kanal 4 HD
+http://red.ipfox.org:8080/1234/12345678/41329
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR2AC_wUSPVHMo42Q6nfguFuib3Z_2UhJqkvZ5JsN9z-VejMmHgriBv-VS9bc&s",TV3 HD
+http://red.ipfox.org:8080/1234/12345678/41328
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR2AC_wUSPVHMo42Q6nfguFuib3Z_2UhJqkvZ5JsN9z-VejMmHgriBv-VS9bc&s",TV3+ HD
+http://red.ipfox.org:8080/1234/12345678/41327
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgdM-uyVUSK7j2PCaWt9cDVtluCEKpsx6DN0PUTWBvx-5soTSRqX6Y7FaO4Q&s",Canal 9 HD
+http://red.ipfox.org:8080/1234/12345678/41326
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG5suRv-8sQ4bZ6Kr46IbX1PVGL8ITIOYrLRnyYOxZQ9Hx35JytTXBRzE1vg&s",TV 2 News
+http://red.ipfox.org:8080/1234/12345678/41325
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-LfNsg7IeI-McSh4FuFoJcEaegVIQ4DuHCJwoL-ilFOAMzLijusbfHF05-Q&s",TV 2 SPORT
+http://red.ipfox.org:8080/1234/12345678/41323
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2R5cS6JEBIZU5cLi2vZpI__uw4-D7HJyuxY3dzYkAxgPlqNldmk3gIFppwA&s",TV 2 Charlie
+http://red.ipfox.org:8080/1234/12345678/41322
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSswyiTJ9ZA8fo4LMw8FNT_IQ5Yplcmk8WjVu_U2W3LzbdqKtbMfd_LQ9yotY&s",TV 2 Fri
+http://red.ipfox.org:8080/1234/12345678/41321
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhxUczdSvUHrz6UGRLAUcLkFY-NRnwVbDKTO0Ia9g0BkQv9k-jtCqEYjIK3B8&s",DK4
+http://red.ipfox.org:8080/1234/12345678/41320
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiT4cRrT5Y_xcySY8uW8_sgfhDJuRLJoAq2rU0U9cYNzHjcybehimRtrQi4lQ&s",TV3 Puls
+http://red.ipfox.org:8080/1234/12345678/41319
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3BkMwXnoT4q5BnmYK4Ynq-Y9zv-2hJUlNKYeJNDHaGcu-o7H4SNnth8NE3g&s",TV 2 Zulu
+http://red.ipfox.org:8080/1234/12345678/41317
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3UyREMmTOcu2rNZYecJhMytQK7MrFNRwNX63W_IzKX7yY2QNXmEvy9klCsA&s",TV 2 SPORT X
+http://red.ipfox.org:8080/1234/12345678/41316
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1L_RL6qiiPpU1qNRFt4aYOeF4sH0ZesMuFqqnTUQOHizxrp1BFmQD2zBhumg&s",TV3 MAX
+http://red.ipfox.org:8080/1234/12345678/41315
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRld9sfTf-s_BHFEtS4RmBN5lavvEWRnkkifuIbjb-_EJMUFCsmWl4F4O-nb_Q&s",DR Ramasjang
+http://red.ipfox.org:8080/1234/12345678/41314
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlUNArhXLXdPyIlynk78v4D8IwwHrZ71EsODCrZhfh6AgKra6tPuYI2o9iNw&s",TV 2
+http://red.ipfox.org:8080/1234/12345678/41309
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhXzH3_0J2TX3vnc3XBT_-GFPLuEtDfc_icKGrj9_advd4t9mzbcvG5jYjPM&s",Kanal 5
+http://red.ipfox.org:8080/1234/12345678/41308
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnxTyNubxPmMN1TEd2ktvfjuz5uP0W1gg83SdpzQ-2IzTdhr0xufGTfs_E8Q&s",6eren
+http://red.ipfox.org:8080/1234/12345678/41307
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWw3_8z37Ngh7oDOKw_UXszTkrV2xfuzLFGHxQUj43hk5u6-8MvtsLXRSaA&s",|BiH| Hayat TV
+http://red.ipfox.org:8080/1234/12345678/26430
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStaNVVpbFXeYAjcYN2ThH7CfvHEYoN4j5Zu6_lZJpqrwv4sxGlErrtim_5yCE&s",|BiH| Nova BH
+http://red.ipfox.org:8080/1234/12345678/26429
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQepDD88C4XZFjLJ8KAXXPQqS16UgIW0iEj4EQ8l6HC4zseQn9Zkb2OqH7khA&s",|BiH| BHT
+http://red.ipfox.org:8080/1234/12345678/26428
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuU0OPAgUMxbXpCeeg5fnYdj-gxSd-pyXB-g08u0dUNE68-dqUqU8InLx3HA&s",|BiH| OBN
+http://red.ipfox.org:8080/1234/12345678/26426
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMu5ASixTKcpPhblkuFG2LOM8JBhe3l5jRThm0cwWjOLQyCR49QvBUM_1RVNk&s",|BiH| Hayat Plus
+http://red.ipfox.org:8080/1234/12345678/26425
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLfw4Ms9g6OiH9rhuCt48OclbTCMDkSyc19nAKR2RPvKtLBe2oFgG8teWg0w&s",|BiH| RTRS
+http://red.ipfox.org:8080/1234/12345678/26424
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQqsLC81W2QCLu34TZ_HPfhgWDH-uMT_UwGC9Gi6QMYvSZU4MwcYwz9QIWtA0&s",|BiH| ATV
+http://red.ipfox.org:8080/1234/12345678/26423
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGu2nyHhSLb5QOvBJVjZ_d4PyQhfDV00RB80yZc5hQasKoSiytX1Wqr1vKR_A&s",|BiH| RTV Vojvodina
+http://red.ipfox.org:8080/1234/12345678/26422
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS90ug55EuJyofeo5ZTFFngAi3eTjXEdQ6gpcR2RbWWiNhqO2htWm_AWVjeaQ&s",|BiH| TV SLON
+http://red.ipfox.org:8080/1234/12345678/26421
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT04UObtZZiKlY5Efz-V1mt32LbQVgMOZiI6g0XkHY_omrV1KC-FzUJVDMeIrc&s",|BiH| RTV TK
+http://red.ipfox.org:8080/1234/12345678/26420
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSApdFYDPXn7eqos5JmYS2qQn5D1s0-KlLWc5itUR0m8dgkC5fXgQQruW5PzQM&s",|BiH| City tv
+http://red.ipfox.org:8080/1234/12345678/26419
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJqx-qJqurSQBFxdSWDCtmH1nCMBsydmQhwbDYBE4Alv9doE43wHZZV2bM1dA&s",|BiH| N1 BIH
+http://red.ipfox.org:8080/1234/12345678/26418
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBlroX5EOUVqp-aIaXYKfVQmspt6B1RJQ70ntxNhxGYzPsDpIwbAGD_CpIjQ&s",|BiH| Al Jazeera
+http://red.ipfox.org:8080/1234/12345678/26417
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd_xdvdT_aRrTW3jjPOM8LSOnaIopWkZR-CgH_REE0zCMVydubFW3mROmGcw&s",|HR| HRT 1
+http://red.ipfox.org:8080/1234/12345678/26416
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVMHDzIUFghXsK7ITswzr628k6XsTweoM4seTusDwN54W7ryMSmYaRdG_UnQ&s",|HR| HRT 2
+http://red.ipfox.org:8080/1234/12345678/26415
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhGCQEkOI-cUPN8_qMixvJBN3cl7F63jtpREffXlyJJh9T9sMylMGQg3n6ZhU&s",|HR| HRT 3
+http://red.ipfox.org:8080/1234/12345678/26414
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe1fVs-RCZJ4wZA1RbwgiTNuUZAaneacPOJTfKsSFbeUpx1ZrCL1ze8RYhQw&s",|HR| HRT 4
+http://red.ipfox.org:8080/1234/12345678/26413
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhpkThrNr9gZfhrdobR6H33sj0EhJSVag9Tai22NBG1saSrvxlndUa86dosw&s",|HR| NOVA TV
+http://red.ipfox.org:8080/1234/12345678/26412
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTybVKKyp_MxHdmzSggrOrxST8lxSpczJkBh2cSN78zbxbXgGVy08oT5xpCoic&s",|HR| DOMA TV
+http://red.ipfox.org:8080/1234/12345678/26411
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD7JKrTY1ILKCF3eof29biFTAFEBl4piYhCHBoPRCvG4pFToObga0SN1bK3Hg&s",|HR| RTL
+http://red.ipfox.org:8080/1234/12345678/26410
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzjCHrgNiU2fS6i0h3-B2EELzeyE8v1OLY-dMR-doDZGmi1ZDrAKpagVwSh6Q&s",|HR| RTL 2
+http://red.ipfox.org:8080/1234/12345678/26409
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgHbrukp7q66Xfsqi_Dd77m76lmcufXYGshbJLsF4QqSYo1VmdUe_NnQnypA&s",|HR| RTL CRIME
+http://red.ipfox.org:8080/1234/12345678/26408
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVtIPRpDSf9-oWuFd_lgMiInRQGg1WMZKSCOpGQuWwJ3GcwwdKoKlD_67MuQ&s",|HR| RTL LIVING
+http://red.ipfox.org:8080/1234/12345678/26407
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVGaJBaJO7dh6RPrJM_4Cz_1VvF18R-KM0dFsywMzzihbliKOTWqVAyUvbVA&s",|HR| RTL KOCKICA
+http://red.ipfox.org:8080/1234/12345678/26406
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPm8u6th-b_dmU0eZzJIg03p3Qdy5-wYQfRbh-k5WKWFGazc_mvvPxp1Gy5A&s",|HR| RTL Passion
+http://red.ipfox.org:8080/1234/12345678/26405
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOK_kJmwKfrhdWG7cmQrmGBh2oj4LM1g3jNNif3ZigTnA3TFpMKnZc5WHFw&s",|HR| LAUDATO TV
+http://red.ipfox.org:8080/1234/12345678/26404
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDT4oR_cejfK5pzctzchggMFbTlaJwEPLSn1rgHwH5zCCDqUQobgSLiIZXeg&s",|HR| NARODNI TV
+http://red.ipfox.org:8080/1234/12345678/26403
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk2X1UQ1cCxys0n7fPXZBOExxmL7BF7pQjwCuklJVudCIFfUcdk_gaWCFOJ08&s",|HR| Banovina TV
+http://red.ipfox.org:8080/1234/12345678/26402
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRof4gMUlT0LGOi8w1rwElswWX-Dv-YtpgfX1QBSpxT2Wqvq3HdfbMif-UJAQ&s",|EXYU| HBO 2
+http://red.ipfox.org:8080/1234/12345678/26400
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIqvPWVMhOIlNDM1EjL_Agi53ldiYErThnAjJdRmMuTz3-pIgePZ8N7UV7xQ&s",|EXYU| HBO 3
+http://red.ipfox.org:8080/1234/12345678/26399
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYl9UfxWClzD58OMc_vbYk1gS6VdXJpRvOM_aWi8Eu3pd108XmqMN1cVP1lg&s",|EXYU| DIVA
+http://red.ipfox.org:8080/1234/12345678/26398
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4q-bLFucFnyDmUpsBIjxoPEguFznNMj9AQ7uYyb5snuoArUfsUKyaIfRdhg&s",|EXYU| Fox
+http://red.ipfox.org:8080/1234/12345678/26397
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAbOsW9TnSWfvScV7ejk8uztAWEGXRZGc_519eEIVLG5MeYYXgnLcnEPU69g&s",|EXYU| Fox Life
+http://red.ipfox.org:8080/1234/12345678/26396
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEcOeSOCXfSX2woPgLPk201Jz0kHmZ7Ug6g2sd67pZi-s0T8QDwUQrGWPMgNE&s",|EXYU| CineStar Premiere 2
+http://red.ipfox.org:8080/1234/12345678/26395
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeZ5ssI1L7PvHDHDqCY2IKWenvWhIuiS3_p0Yh1bASGrq5bnI-YBP5XNalMg&s",|EXYU| Cinemax
+http://red.ipfox.org:8080/1234/12345678/26394
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwHB5dFa7i1nwWDTEtl_eOPcvBxmGA3SKGbZvgwwAk2GKC6QmVj0eu3cHBqg&s",|EXYU| Cinemax 2
+http://red.ipfox.org:8080/1234/12345678/26393
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZcg-80cBsXj7bGnLjG6yVp2j8kRQvTnYy7hXAJhyoNxYN6CiJPCXru5zYDA&s",|EXYU| Cinestar TV
+http://red.ipfox.org:8080/1234/12345678/26392
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdPWs6dZskYvIePY86Yu2eTnsxTB0scIC9PmNSqGO04eEk_tPP-lhWlQ7B1rM&s",|EXYU| CMC
+http://red.ipfox.org:8080/1234/12345678/26391
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYb-76j7ODIur9_6ONihtjzRAwMk6oitogoTfGOjQ56FX-aqTkkWOvTIFY6g&s",|EXYU| DM SAT
+http://red.ipfox.org:8080/1234/12345678/26390
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCzQ5ASMNiSTY3ymsCLwCdpPs8uAEpsQ2fOioJu-BBWIWPgoW4eSaaV-30gg&s",|EXYU| GRAND TV Narodna
+http://red.ipfox.org:8080/1234/12345678/26389
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHP7uuNuf4x0gRm7o5JB7W8vqwTNJ9ZOAuJSTlFW-B5UcWm7vSm41NRvPzX-o&s",|EXYU| Grand TV 2
+http://red.ipfox.org:8080/1234/12345678/26388
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8-8RUuDuXX3MDu-gWYpSDxsDDWeKAnj5FG3ToNknQgsOfi4OwZlqNpym5PA&s",|EXYU| KCN 1
+http://red.ipfox.org:8080/1234/12345678/26387
 
 
