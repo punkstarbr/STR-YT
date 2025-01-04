@@ -1,5 +1,40 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 1 " tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai 1 
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/2355
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 2" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai 2
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/2356
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 3" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai 3
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/2357
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 4" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai 4
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/2358
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 5" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai 5
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/2359
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png",RAI 1
+http://154.54.220.67:34780/play/a046
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png",RAI 1
+http://45.65.112.49:8000/play/a078
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png",RAI 1
+http://190.94.186.158:9981/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-logo="",RAI 2
+http://154.54.220.67:34780/play/a047
+#EXTINF:-1 tvg-logo="",RAI 2
+http://45.65.112.49:8000/play/a079
+#EXTINF:-1 tvg-id="RAIDUE" tvg-name="IT RAI 2 (D)" tvg-logo="http://fanc.tmsimg.com/assets/s21812_ll_h3_aa.png" group-title="ITALY",IT RAI 2 (D)
+https://dumdumbullet.com/1011454237/bHg8wYxrId/79992114900
+#EXTINF:-1 tvg-id="RAIDUE" tvg-name="IT: Rai 2" tvg-logo="http://fanc.tmsimg.com/assets/s21812_ll_h3_aa.png" group-title="Italy",IT: Rai 2
+https://dumdumbullet.com/1011454237/bHg8wYxrId/666899
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/250px-Rai_3_-_Logo_2016.svg.png",RAI 3
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 tvg-id="RAITRE" tvg-name="IT RAI 3 (D)" tvg-logo="http://fanc.tmsimg.com/assets/s53928_ll_h3_as.png" group-title="ITALY",IT RAI 3 (D)
+https://dumdumbullet.com/1011454237/bHg8wYxrId/79992114901
+#EXTINF:-1 tvg-id="RAITRE" tvg-name="IT: Rai 3" tvg-logo="http://fanc.tmsimg.com/assets/s53928_ll_h3_as.png" group-title="Italy",IT: Rai 3
+https://dumdumbullet.com/1011454237/bHg8wYxrId/6661979
+
 #EXTINF:-1 tvg-id="Canale 5 HD.it" tvg-logo="https://iili.io/d93woZP.png" group-title="Reality Show's Live",Canale 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -66,19 +101,6 @@ https://telemundolive.akamaized.net/hls/live/2093200/NEWS105/master_main105.m3u8
 https://dumdumbullet.com/1011454237/bHg8wYxrId/799921107223
 
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 1 " tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai 1 
-http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/2355
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 2" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai 2
-http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/2356
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 3" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai 3
-http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/2357
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 4" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai 4
-http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/2358
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 5" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai 5
-http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/2359
 
 
 
@@ -224,27 +246,7 @@ https://dumdumbullet.com/1011454237/bHg8wYxrId/799921107223
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png",RAI 1
-http://154.54.220.67:34780/play/a046
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png",RAI 1
-http://45.65.112.49:8000/play/a078
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png",RAI 1
-http://190.94.186.158:9981/play/a053/index.m3u8
 
-#EXTINF:-1 tvg-logo="",RAI 2
-http://154.54.220.67:34780/play/a047
-#EXTINF:-1 tvg-logo="",RAI 2
-http://45.65.112.49:8000/play/a079
-#EXTINF:-1 tvg-id="RAIDUE" tvg-name="IT RAI 2 (D)" tvg-logo="http://fanc.tmsimg.com/assets/s21812_ll_h3_aa.png" group-title="ITALY",IT RAI 2 (D)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/79992114900
-#EXTINF:-1 tvg-id="RAIDUE" tvg-name="IT: Rai 2" tvg-logo="http://fanc.tmsimg.com/assets/s21812_ll_h3_aa.png" group-title="Italy",IT: Rai 2
-https://dumdumbullet.com/1011454237/bHg8wYxrId/666899
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/250px-Rai_3_-_Logo_2016.svg.png",RAI 3
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RAITRE" tvg-name="IT RAI 3 (D)" tvg-logo="http://fanc.tmsimg.com/assets/s53928_ll_h3_as.png" group-title="ITALY",IT RAI 3 (D)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/79992114901
-#EXTINF:-1 tvg-id="RAITRE" tvg-name="IT: Rai 3" tvg-logo="http://fanc.tmsimg.com/assets/s53928_ll_h3_as.png" group-title="Italy",IT: Rai 3
-https://dumdumbullet.com/1011454237/bHg8wYxrId/6661979
 
 
 
