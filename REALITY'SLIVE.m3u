@@ -171,20 +171,22 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://iili.io/JmogGzN.png" group-title="Reality Show's Live",TF1
-http://212.102.60.80/TF1/index.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0031_000.png" group-title="Reality Show's Live" tvg-chno=" ",TF1 - 2
-https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="Reality Show's Live",TF1 - 3
+#EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="Reality Show's Live",TF1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Reality Show's Live",TF1 - 4
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://iili.io/JmogGzN.png" group-title="Reality Show's Live",TF1 - 5
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://iili.io/JmogGzN.png" group-title="Reality Show's Live",TF1 - 2
 http://212.102.60.80/TF1/index.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1" tvg-logo="https://docdog.top/logo/countries/france/tf1-fr.png" group-title="Reality Show's Live",TF1 - 6
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0031_000.png" group-title="Reality Show's Live" tvg-chno=" ",TF1 - 3
+https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tf1.m3u8
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1" tvg-logo="https://docdog.top/logo/countries/france/tf1-fr.png" group-title="Reality Show's Live",TF1 - 4
 http://vipphyla.top:8080/VIP019169419870119/91702539200735/419
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1" tvg-logo="https://docdog.top/logo/countries/france/tf1-fr.png" group-title="Reality Show's Live",TF1 - 7
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Reality Show's Live",TF1 - 5
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1" tvg-logo="https://docdog.top/logo/countries/france/tf1-fr.png" group-title="Reality Show's Live",TF1 - 6
 http://vipphyla.top:8080/VIP019169419870119/91702539200735/128944
+
+
+
 
 
 
@@ -222,8 +224,6 @@ https://dumdumbullet.com/1011454237/bHg8wYxrId/799921107223
 
 
 
-#EXTINF:-1 tvg-id="RAIUNO" tvg-name="IT RAI 1 (D)" tvg-logo="http://fanc.tmsimg.com/assets/s21834_ll_h3_ac.png" group-title="ITALY",IT RAI 1
-https://dumdumbullet.com/1011454237/bHg8wYxrId/79992114898
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png",RAI 1
 http://154.54.220.67:34780/play/a046
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png",RAI 1
@@ -341,16 +341,9 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="FR",TF1
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 - 2
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-id="",TF1 - 3
-http://212.102.60.80/TF1/index.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1" tvg-logo="https://docdog.top/logo/countries/france/tf1-fr.png" group-title="FR",TF1 - 4
-http://vipphyla.top:8080/VIP019169419870119/91702539200735/419
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1" tvg-logo="https://docdog.top/logo/countries/france/tf1-fr.png" group-title="FR",TF1 - 5
-http://vipphyla.top:8080/VIP019169419870119/91702539200735/128944
+
+
+
 
 
 
