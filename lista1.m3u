@@ -29,24 +29,7 @@ https://ssl1.transmissaodigital.com:20102/127.75ATISGRURCB
 https://ssl1.transmissaodigital.com:20105/TORREGRU135.2RCBFONIAEXCLUSIVARADIOCOMBRASIL
 #EXTINF:-1 group-title="CAMERA AO VIVO" MOSAICO TV ALEMANHA
 http://80.61.63.103:81/cam_1.cgi
-#EXTINF:-1 group-title="CAMERA AO VIVO"
-http://177.136.215.152:8000/webcapture.jpg?command=snap&channel=1?COUNTER
-#EXTINF:-1 group-title="CAMERA AO VIVO"
-http://177.136.215.152:8000/webcapture.jpg?command=snap&channel=2?COUNTER
-#EXTINF:-1 group-title="CAMERA AO VIVO"
-http://177.136.215.152:8000/webcapture.jpg?command=snap&channel=3?COUNTER
-#EXTINF:-1 group-title="CAMERA AO VIVO"
-http://177.136.215.152:8000/webcapture.jpg?command=snap&channel=4?COUNTER
-#EXTINF:-1 group-title="CAMERA AO VIVO"
-http://177.136.215.152:8000/webcapture.jpg?command=snap&channel=5?COUNTER
-#EXTINF:-1 group-title="CAMERA AO VIVO"
-http://177.136.215.152:8000/webcapture.jpg?command=snap&channel=6?COUNTER
-#EXTINF:-1 group-title="CAMERA AO VIVO"
-http://177.136.215.152:8000/webcapture.jpg?command=snap&channel=7?COUNTER
-#EXTINF:-1 group-title="CAMERA AO VIVO"
-http://177.136.215.152:8000/webcapture.jpg?command=snap&channel=8?COUNTER
-#EXTINF:-1 group-title="CAMERA AO VIVO"
-http://177.136.215.152:8000/webcapture.jpg?command=snap&channel=9?COUNTER
+
 
 #EXTINF:-1 group-title="🇧🇷 | BRAZIL" tvg-id="NovaEraTV.br" tvg-logo="https://i.imgur.com/IK3F9Uq.png",Nova Era TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
