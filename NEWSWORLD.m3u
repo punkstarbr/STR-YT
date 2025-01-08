@@ -3,6 +3,10 @@
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 group-title="NEWS WORLD", CAPITOLIO
 https://www-senate-gov-media-srs.akamaized.net/hls/live/2036784/capcam/capcam/master.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",REUTERS SERVIÇO
+https://mdstrm.com/live-stream-playlist-v/5346f657c1e6f5810b5b9df3.m3u8?DVR
+#EXTINF:-1 group-title="NEWS WORLD",REUTERS SERVIÇO 2
+https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/Wu4ykxo.png",Globo News HD
 http://dzcdn.vood.top/hls/479_.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/Wu4ykxo.png",Globo News HD
