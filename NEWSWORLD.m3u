@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="KCTV.kp" tvg-logo="https://i.imgur.com/O6G4tJ8.png",Korean Central Television (KCTV) (576p)
 https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 group-title="NEWS WORLD", CAPITOLIO
+https://www-senate-gov-media-srs.akamaized.net/hls/live/2036784/capcam/capcam/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/Wu4ykxo.png",Globo News HD
 http://dzcdn.vood.top/hls/479_.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/Wu4ykxo.png",Globo News HD
