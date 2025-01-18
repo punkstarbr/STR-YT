@@ -153,7 +153,7 @@ https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/bmRb65v/T47.jpg" group-title="Noticieros" user-agent="iPhone", Telemundo Noticias 47
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/aad665e7-150e-4428-acb7-3176d5b60cc8/2.m3u8
+https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/aad665e7-150e-4428-acb7-3176d5b60cc8/playlist.m3u8
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" group-title="Entretenimiento" user-agent="iPhone", Telemundo East
 #EXTVLCOPT:http-user-agent=iPhone
@@ -558,28 +558,7 @@ http://cord-cutter.net:8080/live/j3McKd/673709/159119.m3u8
 http://cord-cutter.net:8080/live/j3McKd/673709/159120.m3u8
 #EXTINF:-1 group-title="News" tvg-id="NEWS 12 CONNECTICUT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSjJkxU_PghyFABJRsj_QLySQ2Vlujbw3lyE9Chy_6yY9ruvQCjiIOjw_7Ow&s",NEWS 12 CONNECTICUT HD
 http://cord-cutter.net:8080/live/j3McKd/673709/159246.m3u8
-#EXTINF:-1 group-title="International" tvg-id="FRANCE 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmrbOqjG8PomXE86TM5SAMP5_Z30xG2nW1kot6nym9nU63PCzUdpHMrAYwA&s",FRANCE 2 FHD
-http://cord-cutter.net:8080/live/j3McKd/673709/160297.m3u8
-#EXTINF:-1 group-title="International" tvg-id="FRANCE 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQONO80OTwp8oIc8fzLkInbb6ZJ8xondzxrzyVhvYg1hZZOSi99MbV3ifz0Ipg&s",FRANCE 3 FHD
-http://cord-cutter.net:8080/live/j3McKd/673709/160298.m3u8
-#EXTINF:-1 group-title="International" tvg-id="FRANCE 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRrR9BsBZw4zTAzFAAxFQuDp1lm06mXAEU-PnGfC7FTLZEyqnuRWDE-P9C4w&s",FRANCE 4 FHD
-http://cord-cutter.net:8080/live/j3McKd/673709/160299.m3u8
-#EXTINF:-1 group-title="International" tvg-id="FRANCE 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu32fM_Xm6U-85aB1LCxFXx6tYjCCu1SdpmlXj5xLUwdm5dCbriIctZf2QHbk&s",FRANCE 5 FHD
-http://cord-cutter.net:8080/live/j3McKd/673709/160300.m3u8
-#EXTINF:-1 group-title="International" tvg-id="AB3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr6MUDj0n6v9nnGeWPZYTCFLFGbfBngXq9kOQhdANhR85PkhhrS-l1_dfkFw&s",AB3 HD
-http://cord-cutter.net:8080/live/j3McKd/673709/160302.m3u8
-#EXTINF:-1 group-title="International" tvg-id="MCM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBZcXDqx9hacNNvV9xAo99bAph_kqQfIhIiNHNRWdSMHRRaMo6ded0VByfDtE&s",MCM
-http://cord-cutter.net:8080/live/j3McKd/673709/160303.m3u8
-#EXTINF:-1 group-title="International" tvg-id="CANAL+ CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdQBH7n5DuXfXar_GGoMgKuUayTbTes_msil5yvKKo9zPCffyhOkytnZeGvw&s",CANAL+ CINEMA FHD
-http://cord-cutter.net:8080/live/j3McKd/673709/160304.m3u8
-#EXTINF:-1 group-title="International" tvg-id="C8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbo3nxTE4KNcCIg5_URYEsIzNcFcCtl_vQTWEOPumfafVAEuJvSEGo-CxWRA&s",C8 FHD
-http://cord-cutter.net:8080/live/j3McKd/673709/160305.m3u8
-#EXTINF:-1 group-title="International" tvg-id="CANAL+ DECALE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl1e-PkB2u266-2gMjec_o8DYEVOL8m7gTdGZcmAAE5HpL7DhmG71F6Is97GE&s",CANAL+ DECALE FHD
-http://cord-cutter.net:8080/live/j3McKd/673709/160306.m3u8
-#EXTINF:-1 group-title="International" tvg-id="CANAL+ FAMILY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTU_qC6skc2XK6lMWo_Tsj0kVxCmSk94pg_Ib-Jxb6LQm2_fECxwpE-LtAbQ&s",CANAL+ FAMILY FHD
-http://cord-cutter.net:8080/live/j3McKd/673709/160307.m3u8
-#EXTINF:-1 group-title="International" tvg-id="CINE+ FAMIZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkbSbE7zZD6Gz3u-tTD7QDdySva5991FH2rgOEvgfxDj-Qnr0FDD18pWWpA&s",CINE+ FAMIZ FHD
-http://cord-cutter.net:8080/live/j3McKd/673709/160308.m3u8
+
 #EXTINF:-1 group-title="News" tvg-id="Real America's Voice" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4BwMQMrSC3QllOLEW5TUFNfkki2sC0A9G-lvZRDISy6XKA3mpuf7wrp_xZw&s",Real America's Voice (STV)
 http://cord-cutter.net:8080/live/j3McKd/673709/160581.m3u8
 #EXTINF:-1 group-title="News" tvg-id="Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_D9WOAaoPC8yyCvYzHJpvW8L72lbzeA_1Rk2-f3J4P3pczmQXR1UyFtSehA&s",Al Jazeera
