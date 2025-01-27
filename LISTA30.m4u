@@ -1,1272 +1,263 @@
 #EXTM3U
-
-
-
-
-
-
-
-#EXTINF:-1  group-title="N/A", Horrify (BitGravity)
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_4.m3u8
-#EXTINF:-1  group-title="N/A", Link para Lista de Canais (Gist)
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Samsung UK - Playlist 1080p
-https://uksono1-samsunguk.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1  group-title="N/A", Stitcher - Powr Live Stream
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Hallmark Movies & More
-https://bit.ly/HallmarkMoviesMore?/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Paramount Network
-https://bit.ly/ParamountNetwork?/chunklist.m3u8
-#EXTINF:-1  group-title="N/A", Paramount Movies
-https://bit.ly/ParamountMovie_m3u8
-#EXTINF:-1  group-title="N/A", Moviesphere UK - Playlist 1080p
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkUSw54GzWRZi44tTt3C9LUVltxmkBqmpvFrki2pBeKu6FtvKDqaIhJTqexlg&s",Moviesphere UK - Playlist 1080p
 https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1  group-title="N/A", Cinehouse (Plex)
-https://digitalmediarights-cinehouse-1-us.plex.wurl.tv/4300.m3u8
-#EXTINF:-1  group-title="N/A", CineReal (Amagi)
-https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
-#EXTINF:-1  group-title="N/A", TopCine (BitGravity)
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_6.m3u8
-#EXTINF:-1  group-title="N/A", Link para Lista de Canais (Gist) - Repete
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Paranormal Status
-https://bit.ly/ParanormalStatus?/playlist_1280x720_3000k.m3u8
-#EXTINF:-1  group-title="N/A", The Walking Dead Universe
-https://bit.ly/TheWalkingDeadUniverse?/playlist_1280x720_3000k.m3u8
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 1
-https://bit.ly/3sdVL7a?/playlist_1280x720_3000k.m3u8
-#EXTINF:-1  group-title="N/A", MasterChef BR
-https://bit.ly/masterchefBR?/playlist_1280x720_3000k.m3u8
-#EXTINF:-1  group-title="N/A", Goo Talents
-https://bit.ly/goo-talents?/playlist_1280x720_3000k.m3u8
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 2
-http://85.50.168.40:8001/1:0:1:7795:424:1:C00000:0:0:0:
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 3
-https://bit.ly/3HePfDk?768x432_1200000/index.m3u8
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 4
-https://bit.ly/3GcXmzd?/768x432_1200000/index.m3u8
-#EXTINF:-1  group-title="N/A", AMC Maschic (1920x1080)
-https://amc-maschic-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
-#EXTINF:-1  group-title="N/A", Saber Mas (Plex)
-https://sabermas-plex.amagi.tv/SaberMas-xumo/master_6.m3u8
-#EXTINF:-1  group-title="N/A", Rakuten Hola (3000k)
-https://rakuten-hola-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1  group-title="N/A", ET Live (Fastly)
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_83.m3u8
-#EXTINF:-1  group-title="N/A", Ads Stream
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=759
-#EXTINF:-1  group-title="N/A", Young Hollywood
-https://younghollywood-rakuten-samsung.amagi.tv/playlist720p.m3u8
-#EXTINF:-1  group-title="N/A", Celebrity Scene
-https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcelebrityscene/chunks.m3u8
-#EXTINF:-1  group-title="N/A", Playlist R (1080p)
-https://d1qaz9zojo1ayt.cloudfront.net/playlistR1080p.m3u8
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 5
-https://bit.ly/3zKDoKn?/3000.m3u8
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 6
-http://supportstreams.net:80/558585765/n4ySrfoH20/342
-#EXTINF:-1  group-title="N/A", HISTORY (5 Cents CDN)
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
-#EXTINF:-1  group-title="N/A", História Pluto
-https://bit.ly/historypluto
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 7
-http://78.83.191.18:8000/play/a06j
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 8
-http://195.222.7.26:7001/play/a00q
-#EXTINF:-1  group-title="N/A", Local Now 145 (720p)
-https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 9
-http://195.222.7.26:7001/play/a02d
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 10
-http://78.83.191.18:8000/play/a03p
-#EXTINF:-1  group-title="N/A", Local Now 154 (720p)
-https://linear-154.frequency.stream/dist/localnow/154/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1  group-title="N/A", Insight TV (720p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1O9Ly67Zd4cGBbBSJOJGEvVpKzoHZf1kJK61ujZ-jZBx5X_W99elLrZ1oe-U&s",Insight TV (720p)
 https://insighttv-samsungau.amagi.tv/playlistE720p.m3u8
-#EXTINF:-1  group-title="N/A", In Trouble (1080p)
-https://introuble-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1  group-title="N/A", In Wonder (720p)
-https://inwonder-samsungau.amagi.tv/playlist720.m3u8
-#EXTINF:-1  group-title="N/A", Wonder (UK - 720p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa_-RBmPAMuJIThoTz261hw1xT0EBaVD5RIBUDIU0KZNhtq3tWZ-4CEXymtw&s",Wonder (UK - 720p)
 https://wonder-samsung-uk.amagi.tv/playlist720-p.m3u8
-
-#EXTINF:-1  group-title="N/A", Link para Lista de Canais (Gist) - Repete
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", CGTN - Inspiration
-https://livedoc.cgtn.com/1000d/prog_index.m3u8?wowzasessionid=inspiration
-#EXTINF:-1  group-title="N/A", Documentário Pluto
-https://bit.ly/DocumentarioPluto?/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Documentary Mais
-https://bit.ly/Documentarymais?/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Doc Channel
-https://bit.ly/DocCnhannel?/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Google DAI Event
-https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
-#EXTINF:-1  group-title="N/A", So Real - Local Now
-https://soreal-localnow.cinedigm.com/playlist1080p.m3u8
-#EXTINF:-1  group-title="N/A", Outdoor Channel (Samsung AU)
-https://outdoorchannel-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1  group-title="N/A", FilmOn VR Streams
-http://www.filmon.com/vr-streams/2798.high/playlist.m3u8
-#EXTINF:-1  group-title="N/A", AMC Absolute Reality
-https://amc-absolutereality-1.vizio.wurl.com/manifest/3000.m3u8
-#EXTINF:-1  group-title="N/A", AMC Slightly Off
-https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/3000.m3u8
-#EXTINF:-1  group-title="N/A", Link para Lista de Canais (Gist) - Repete
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Haunt TV (1080p)
-https://haunttv-roku.amagi.tv/playlist1080-p.m3u8
-#EXTINF:-1  group-title="N/A", Law & Crime
-http://lawandcrime.samsung.wurl.com/manifest/ba22738f5210d46fa070549d33f64816.m3u8
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 1
-https://bit.ly/34t4Ws5?/playlist1080-p.m3u8
-#EXTINF:-1  group-title="N/A", True Crime Now
-https://bit.ly/TrueCrimeNow?/manifest/3000.m3u8
-#EXTINF:-1  group-title="N/A", Danger TV
-https://dangertv.samsung.wurl.com/manifest/3000.m3u8
-#EXTINF:-1  group-title="N/A", Court TV (Katz Networks)
-https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/07.m3u8
-#EXTINF:-1  group-title="N/A", A&E Crime 360
-https://aenetworks-crime360-1.samsung.wurl.com/manifest/3000.m3u8
-#EXTINF:-1  group-title="N/A", Investigation Crime
-https://bit.ly/Investigationcrime?/playlist1080-p.m3u8
-#EXTINF:-1  group-title="N/A", FBI Inspiration
-https://bit.ly/fbi_inspiration_m3u8
-#EXTINF:-1  group-title="N/A", Crime Time BAMCA
-https://crimetimebamca-roku.amagi.tv/playlist1080-p.m3u8
-#EXTINF:-1  group-title="N/A", LDS Timeline (Samsung AU)
-https://lds-timeline-samsungau.amagi.tv/playlist720-p.m3u8
-#EXTINF:-1  group-title="N/A", A&E Network AE
-https://aenetworks-ae-1.samsung.wurl.com/manifest/3000.m3u8
-#EXTINF:-1  group-title="N/A", Big Life
-https://biglife.sinclair.wurl.com/manifest/3000.m3u8
-#EXTINF:-1  group-title="N/A", Demand Africa
-https://demandafrica-samsungmexico.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1  group-title="N/A", Link para Lista de Canais (Gist) - Repete
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/=============
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 2
-http://supportstreams.net:80/558585765/n4ySrfoH20/114301.ch
-#EXTINF:-1  group-title="N/A", Google DAI Event 2
-https://dai.google.com/linear/hls/event/qd8D8TtbQ-2fFw5-1sZiWQ/master.m3u8
-#EXTINF:-1  group-title="N/A", Luckdog Inspiration
-https://bit.ly/Luckdog_Inspiration?.m3u8
-#EXTINF:-1  group-title="N/A", Dogs 24/7
-https://bit.ly/dogs24-7?/3000.m3u8
-#EXTINF:-1  group-title="N/A", Cats 24/7
-https://bit.ly/Cats24-7?/3000.m3u8
-#EXTINF:-1  group-title="N/A", BAMUS ENG (Roku)
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1  group-title="N/A", Link para Lista de Canais (Gist) - Repete
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 1
-http://140.238.1.21:9876/stream/channelid/1261814116?profile=pass
-#EXTINF:-1  group-title="N/A", Wild HD (Mobile TV BG)
-https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 2
-http://supportstreams.net:80/558585765/n4ySrfoH20/286
-#EXTINF:-1  group-title="N/A", Wild Earth (Plex)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaOrVqfYWZu0M_IBZUztIbkyaNGEZahllgDFQM53AlFnoj1V0aCYFwHBXEpA&s",Wild Earth (Plex)
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1  group-title="N/A", Animais Pluto
-https://bit.ly/AnimalsPluto?/playlist720p.m3u8
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 3
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0yeYPtrpUbuEbswAZ4k-rJbU-Q3PGvKxNgEDZCJpsiKgfOmec5RC3msh6OxQ&s",Canal Desconhecido 3
 https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
-#EXTINF:-1  group-title="N/A", In Wild (Samsung AU)
-https://inwild-samsungau.amagi.tv/playlist720-p.m3u8
-#EXTINF:-1  group-title="N/A", Animaux Inspiration
-https://bit.ly/animaux_inspiration_m3u8
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 4
-http://xlpore-samsungus.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1  group-title="N/A", Link para Lista de Canais (Gist) - Repete
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-
-#EXTINF:-1  group-title="N/A", Sky News (Pluto)
-https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
-#EXTINF:-1  group-title="N/A", BBC Live
-http://84.22.33.214/bbc/index.m3u8
-#EXTINF:-1  group-title="N/A", FilmOn VR Streams
-http://www.filmon.com/vr-streams/27.high/playlist.m3u8
-#EXTINF:-1  group-title="N/A", France 24
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoI_x4V25aomija2HgQL56Gxvs_N_rGVcoAWLKPX-m_ZQf9BKJcRL-82Xc9vk&s",France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8?wowzasessionid=inspiration
-#EXTINF:-1  group-title="N/A", Arirang TV
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpLXOydppmNEvT92ii1NIz8epRByXUPEuW9Ps-5_tAxHq8n4LaUv0qaXwd0g&s",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1  group-title="N/A", NHK World
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1  group-title="N/A", Al Jazeera English
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQieGU_0wje1vc4_w8WGooIAoy5ptWrcrMcQv5ih4sM-kMWFGhz14dzYJ9YQkg&s",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-#EXTINF:-1  group-title="N/A", Link para Lista de Canais (Gist) - Repete
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Fashion TV Paris
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-kgYHdDuvaMTjfF-paCCNE08KoaMIlWlfn6eDBjP8H4_et5Dtt69YH4PkfA&s",Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8?wowzasessionid=inspiration
-#EXTINF:-1  group-title="N/A", Fashion TV Midnight Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1  group-title="N/A", Fashion UA
-http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1  group-title="N/A", Global Fashion Channel
-https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_540p.m3u8
-#EXTINF:-1  group-title="N/A", Kaloopy HeroGo
-https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-HeroGo/5633b8bc-d69e-4a01-9f4b-f257fb412cff/3.m3u8
-#EXTINF:-1  group-title="N/A", IMDB (Site)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEM4ixUnRIbrI2e7mc8_zywdzJT_X0DZw960bY5cDf5Ux1TypZ0kqPqy7Jvw&s",IMDB (Site)
 https://www.imdb.com/
-#EXTINF:-1  group-title="N/A", Redbox America’s Test Kitchen
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 5
-http://85.50.168.40:8001/1:0:1:76CE:40E:1:C00000:0:0:0:
-#EXTINF:-1  group-title="N/A", TV Cocina Pluto
-https://bit.ly/tvcocinaPluto?/master1080p.m3u8
-#EXTINF:-1  group-title="N/A", AMC El Gourmet
-https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
-#EXTINF:-1  group-title="N/A", SBS HD LU5
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
-#EXTINF:-1  group-title="N/A", BBC Food Inspiration
-https://bit.ly/bbcfood_inspiration_m3u8
-#EXTINF:-1  group-title="N/A", Bon Appetit (Samsung)
-https://bonappetit-samsung.amagi.tv/master1080p.m3u8
-#EXTINF:-1  group-title="N/A", Redbox Bon Appetit
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1  group-title="N/A", Food Network (Roku)
-https://ft-ifood-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1  group-title="N/A", Local Now
-https://linear-139.frequency.stream/dist/localnow/139/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1  group-title="N/A", Tastemade PT
-https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1  group-title="N/A", Tastemade ES
-https://tastemade-es16tm-samsung.amagi.tv/playlist1080.m3u8
-#EXTINF:-1  group-title="N/A", Tastemade Travel
-https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1  group-title="N/A", Link para Lista de Canais (Gist) - Repete
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-
-#EXTINF:-1  group-title="N/A", GoTraveler
-https://bit.ly/GoTraveler?/playlist720_p.m3u8
-#EXTINF:-1  group-title="N/A", Canal Brasileiro 1
-http://177.20.208.58:8000/play/a04i/index.m3u8
-#EXTINF:-1  group-title="N/A", Travel Channel
-http://162.244.80.146/Travel/index.m3u8
-#EXTINF:-1  group-title="N/A", Travel XP (Rakuten)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNS9nObIwIeLNgT0ZqdQaHC52ooyFf_1q7cckdITqBBtWAIx1tKYlXtAl7FlE&s",Travel XP (Rakuten)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1  group-title="N/A", Canal Travel 2
-https://bit.ly/3nbc6rA?/rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1  group-title="N/A", Tripsmarter KTV HD
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYMlVsVKCsIcgLJynaggEaIlCOyh_hdkN8989zHsalflayqSz7BsusYQPVsQ&s",Tripsmarter KTV HD
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:-1  group-title="N/A", Unreel Stitcher Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8
-#EXTINF:-1  group-title="N/A", VK Video Link
-http://vk.com/video_ext.php?oid=432851568&id=456239017&hash=78c72a2626a861a?
-#EXTINF:-1  group-title="N/A", Kids Channel
-http://c2.manasat.com:1935/kkids/kkids3/playlist.m3u8?wowzasessionid=inspiration
-#EXTINF:-1  group-title="N/A", RTP Zigzag HD
-https://streaming-live.rtp.pt/liverepeater/smil:zigzagHD.smil/playlist.m3u8?wowzasessionid=inspiration
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 6
-https://5c483b9d1019c.streamlock.net/8054/8054/chunklist_w648759078.m3u8
-#EXTINF:-1  group-title="N/A", Canal Mono 1
-https://bit.ly/3ssv2Uy?/mono.m3u8
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 7
-http://maxq.live:25461/123/123/737
-#EXTINF:-1  group-title="N/A", Emirhan IPTV
-http://pas3.pasiptv.com:25461/Emirhan/Emirhan/62568
-#EXTINF:-1  group-title="N/A", TomDJ Stream
-rtmp://5.8.52.88/live/tomdj$OPT:avio-options=%7Brtmp_pageurl=http://ovego.tv/%7D
-#EXTINF:-1  group-title="N/A", Canal Mono 2
-https://bit.ly/3rUCg15?/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="N/A", Publica US East 1
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdUuUYZ9apot0AFTpTdsgFKm-knDCQv23JivVrz5s0-FAbXeWEVRz22UloWQ&s",Publica US East 1
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-#EXTINF:-1  group-title="N/A", Canal Mono 3
-https://bit.ly/3cXQNoL?/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="N/A", Retro TV
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZsTeLCHE0JP-cUAGgXRTk2DZI7aQlvvAu-m4kN6eF15c8-k7IcUidcs2c2L8&s",Retro TV
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1567216407.m3u8
-#EXTINF:-1  group-title="N/A", Everton TV
-https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w983130143.m3u8
-#EXTINF:-1  group-title="N/A", Anime TV
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTowQlz-o5G2fGpIyVHYgwFA-XjXnsOVOTZgsBIGBG7SjsqYclF7ltgAQYOg&s",Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
-#EXTINF:-1  group-title="N/A", Canal Mono 4
-https://bit.ly/3qY2y4m?/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="N/A", Anime Station 1
-https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w2074350440.m3u8
-#EXTINF:-1  group-title="N/A", Link para Lista de Canais (Gist) - Repete
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Link para Lista de Canais (Gist) - Repete
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", FilmOn VR Streams 1
-http://www.filmon.com/vr-streams/316.high/playlist.m3u8
-#EXTINF:-1  group-title="N/A", FilmOn VR Streams 2
-http://www.filmon.com/vr-streams/318.high/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Nick Jr. 1
-https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
-#EXTINF:-1  group-title="N/A", Nick Jr. 2
-https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
-#EXTINF:-1  group-title="N/A", Nick Jr. 3
-https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
-#EXTINF:-1  group-title="N/A", Retro Crush
-https://digitalmediarights-retrocrush-1.sinclair.wurl.com/manifest/2000.m3u8
-#EXTINF:-1  group-title="N/A", Roku Cocoro
-https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Lego Channel (Roku)
-https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
-#EXTINF:-1  group-title="N/A", Unreel Stitcher Live 2
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Unreel Stitcher Live 3
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Publica US East 2
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdUuUYZ9apot0AFTpTdsgFKm-knDCQv23JivVrz5s0-FAbXeWEVRz22UloWQ&s",Publica US East 2
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=60
-#EXTINF:-1  group-title="N/A", Publica US East 3
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOnLKGnde0FW_Y_cY9J6A8gidk1fLo6Jc5AqmXTtvbNdzSUWyaglU2GRwBA&s",Publica US East 3
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
-#EXTINF:-1  group-title="N/A", VK Link
-https://vk.com/luky74
-#EXTINF:-1  group-title="N/A", Twitch R6 Esports BR
-https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/r6esportsbr
-#EXTINF:-1  group-title="N/A", Canal 720Rlp
-https://bit.ly/3nvh9n1?/playlist720Rlp.m3u8
-#EXTINF:-1  group-title="N/A", Publica US East 4
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5LwsA2LhuP5nwkUu5dJf0HHIXrLQIIfb5WgS7UJN8Ks_i6kRR5Vt1Upi-Ew&s",Publica US East 4
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
-#EXTINF:-1  group-title="N/A", Ottera TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=461
-#EXTINF:-1  group-title="N/A", Eye On Sports
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNEu63YTNEsUIKVauMQCbWW8KNicQisdDzm7OolCstIo7rr4vYtc-HMlsX_mA&s",Eye On Sports
 https://eyeonesports.com/720/ESR-002SCTE35.m3u8
-#EXTINF:-1  group-title="N/A", Venntv Distrotv
-https://venntv-distrotv.amagi.tv/playlist720Rlp.m3u8
-#EXTINF:-1  group-title="N/A", Canal Desconhecido 8
-http://82.114.83.86:8006/play/a03f
-#EXTINF:-1  group-title="N/A", VK Link 2
-http://vk.com/luky74%20
-
-#EXTINF:-1  group-title="N/A", Algum canal
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/3sYLlrg?master/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://vk.com/video_ext.php?oid=432851568&id=456239017&hash=78c72a2626a861a/////
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/taurinotv?/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://85.50.168.40:8001/1:0:19:782D:428:1:C00000:0:0:0:
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://us.chileiptv.xyz:80/vEakS93BV/144aUNlbo7/181800
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://us.chileiptv.xyz:80/vEakS93BV/144aUNlbo7/181803
-#EXTINF:-1  group-title="N/A", Algum canal
-http://189.91.128.150:4444/udp/227.10.20.117:1234
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/Fishing_inspiration_m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://30a-tv.com/darcizzle.m3u8?wowzasessionid=inspiration
-#EXTINF:-1  group-title="N/A", Algum canal
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8?wowzasessionid=inspiration
-#EXTINF:-1  group-title="N/A", Algum canal
-https://obsession-media.sinclair.wurl.com/manifest/3000.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/31s29L6
-#EXTINF:-1  group-title="N/A", Algum canal
-http://189.91.128.150:4444/udp/227.10.20.81:1234
-#EXTINF:-1  group-title="N/A", Algum canal
-http://62.210.152.185:38953/Patricia/DeFa4XeDMR/22731
-#EXTINF:-1  group-title="N/A", Algum canal
-http://189.91.128.150:4444/udp/227.10.20.128:1234
-#EXTINF:-1  group-title="N/A", Algum canal
-http://189.91.128.150:4444/udp/227.10.20.152:1234
-#EXTINF:-1  group-title="N/A", Algum canal
-http://62.210.152.185:38953/Patricia/DeFa4XeDMR/22729
-#EXTINF:-1  group-title="N/A", Algum canal
-http://189.91.128.150:4444/udp/227.10.20.86:1234
-#EXTINF:-1  group-title="N/A", Algum canal
-http://189.91.128.150:4444/udp/227.10.20.153:1234
-#EXTINF:-1  group-title="N/A", Algum canal
-http://62.210.152.185:38953/Patricia/DeFa4XeDMR/22723
-#EXTINF:-1  group-title="N/A", Algum canal
-http://189.91.128.150:4444/udp/227.10.20.116:1234
-#EXTINF:-1  group-title="N/A", Algum canal
-http://62.210.152.185:38953/Patricia/DeFa4XeDMR/22722
-#EXTINF:-1  group-title="N/A", Algum canal
-http://189.91.128.150:4444/udp/227.10.20.132:1234
-#EXTINF:-1  group-title="N/A", ==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
-http://62.210.152.185:38953/Patricia/DeFa4XeDMR/78325
-#EXTINF:-1  group-title="N/A", Algum canal
-http://tv.mylatinplay.xyz:25461/kZAkSqk8cD/guFjEjz8ja/65430
-#EXTINF:-1  group-title="N/A", Algum canal
-http://200.24.159.179:8500/play/a03b
-#EXTINF:-1  group-title="N/A", Algum canal
-http://45.179.140.242:8000/play/a0l8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/21521
-#EXTINF:-1  group-title="N/A", Algum canal
-http://ultra-premium-pro.xyz:8080/Userxcambioxplay2022@@/mpkS6CTPCw/37093
-#EXTINF:-1  group-title="N/A", ==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4903
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4904
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4905
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4906
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/7454
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/30281
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/30280
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/30279
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/30278
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/30277
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/30276
-#EXTINF:-1  group-title="N/A", ==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
-https://aquagm.qarva.info:8074/CHANNEL527/BITRATE2/playlist.m3u8$OPT:http-ext-header=Origin:https://silktv.ge
-#EXTINF:-1  group-title="N/A", Algum canal
-https://aquagm.qarva.info:8074/CHANNEL532/BITRATE2/playlist.m3u8$OPT:http-ext-header=Origin:https://silktv.ge
-#EXTINF:-1  group-title="N/A", Algum canal
-https://aquagm.qarva.info:8074/CHANNEL634/BITRATE2/playlist.m3u8$OPT:http-ext-header=Origin:https://silktv.ge8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://vk.com/luky74/
-#EXTINF:-1  group-title="N/A", Algum canal
-http://archive.simpletv.eu:8080/boxnation/index.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/nbatvusa?/index.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://84.22.33.214/nbatv/mpegts?token=test
-#EXTINF:-1  group-title="N/A", Algum canal
-http://37.19.203.217:8085/udp/239.10.10.60:5000
-#EXTINF:-1  group-title="N/A", Algum canal
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
-#EXTINF:-1  group-title="N/A", ==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
-http://62.210.152.185:38953/Patricia/DeFa4XeDMR/22757
-
-#EXTINF:-1  group-title="N/A", Algum canal
-http://189.91.128.150:4444/udp/227.10.20.119:1234
-#EXTINF:-1  group-title="N/A", Algum canal
-http://177.104.160.101:8000/play/a006
-#EXTINF:-1  group-title="N/A", Algum canal
-http://tv.mylatinplay.xyz:25461/kZAkSqk8cD/guFjEjz8ja/9413
-#EXTINF:-1  group-title="N/A", Algum canal
-http://62.210.152.185:38953/Patricia/DeFa4XeDMR/22669
-#EXTINF:-1  group-title="N/A", Algum canal
-http://62.210.152.185:38953/Patricia/DeFa4XeDMR/22668
-#EXTINF:-1  group-title="N/A", Algum canal
-http://189.91.128.150:4444/udp/227.10.20.102:1234
-#EXTINF:-1  group-title="N/A", Algum canal
-http://189.91.128.150:4444/udp/227.10.20.104:1234
-#EXTINF:-1  group-title="N/A",==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/RealMadridtv?/chunklist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://154.62.74.29:1935/live/barza/chunklist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://154.62.74.29:1935/live/gol/chunklist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://91.126.141.13:1935/live/91/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/tdp/dash/tdp.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0dbaf99a2445785158dc6390e1d6fc399135dd940
-#EXTINF:-1  group-title="N/A", Algum canal
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b4128000_DVR.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://supportstreams.net:80/558585765/n4ySrfoH20/650066
-#EXTINF:-1  group-title="N/A", Algum canal
-http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://lightning-tracesport-samsungau.amagi.tv/playlist480p.m3u8
-#EXTINF:-1  group-title="N/A",==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A",==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/3716
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/3715
-#EXTINF:-1  group-title="N/A", Algum canal
-http://archive.simpletv.eu:8080/SkySport5HD/index.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF:-1  group-title="N/A",==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
-http://89.249.49.78:8000/play/a0ia
-#EXTINF:-1  group-title="N/A",==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
-http://45.148.26.176/hls/M2.m3u8
-
-#EXTINF:-1  group-title="N/A", Algum canal
-http://cdn2.cyclingnews.live/hls/P1.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://77.247.109.101/hls/A1.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://77.247.109.111/hls/T1.m3u8
-#EXTINF:-1  group-title="N/A",==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/BeinSportXtra?/master.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1  group-title="N/A",==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A",==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
-http://31.42.187.197:25461/spor/spor/2
-#EXTINF:-1  group-title="N/A", Algum canal
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-#EXTINF:-1  group-title="N/A",==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
-http://supportstreams.net:80/558585765/n4ySrfoH20/316515
-#EXTINF:-1  group-title="N/A", Algum canal
-http://supportstreams.net:80/558585765/n4ySrfoH20/316516
-#EXTINF:-1  group-title="N/A", Algum canal
-http://supportstreams.net:80/558585765/n4ySrfoH20/316517
-#EXTINF:-1  group-title="N/A", Algum canal
-http://supportstreams.net:80/558585765/n4ySrfoH20/316518
-#EXTINF:-1  group-title="N/A", Algum canal
-http://supportstreams.net:80/558585765/n4ySrfoH20/316519
-#EXTINF:-1  group-title="N/A", Algum canal
-http://93.157.62.180:80/KSport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://93.157.62.180:80/KSport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://93.157.62.180:80/KSport3/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://93.157.62.180:80/KSport4/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bal.varcdn1.ru/lb/setanta1/index.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://84.42.140.147:8890/hdmi
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1  group-title="N/A",==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
-http://213.151.233.20:8000/dna-6069-tv-pc/hls/4000v105.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://84.200.70.178:41142/bysid/31200
-#EXTINF:-1  group-title="N/A", Algum canal
-http://strim.enetwork.ge/Eurosport_2_HD/index.m3u8?token=test
-#EXTINF:-1  group-title="N/A", Algum canal
-http://212.102.60.80/Eurosport2/index.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://sparktv-samsunguk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/motorvisiontv?/3.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://ov.ottera.tv/live/master2300000.m3u8;session=mvg_mv
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/chunklist_w1703129660.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_sleng.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/CHOPPERTOWN?/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://hdtv.prod2.ioio.tv/broker/manifests/de245a96-516c-413d-81e9-419c05bbc6a7/1080/4423680.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://bit.ly/31s29L6
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/Extrememais
-#EXTINF:-1  group-title="N/A", Algum canal
-https://outside-tv.samsung.wurl.com/manifest/316fba602419717190792b6b47574254.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://edgesports-plex.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://www.sck.pm
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/golfpassusa?/5.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://github.com/
-#EXTINF:-1  group-title="N/A", Algum canal
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=726
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/FightNetwork?/index.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/3000.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
-#EXTINF:-1  group-title="N/A", Algum canal
-https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1278619934.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1211546076.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1  group-title="N/A", Algum canal
-https://59f1cbe63db89.streamlock.net:1443/raniere/_definst_/raniere/playlist.m3u8
-
-#EXTINF:-1  group-title="N/A", Algum canal
-http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?wowzasessionid=inspiration
-#EXTINF:-1  group-title="N/A", Algum canal
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1280624010_b176000_sleng.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/chunklist_w1575676158.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w900580339.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w916705553.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w985797903.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://mastershowtv.videovox.pw/master6123/master6123/chunklist_w88667257.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/chunklist_w634097499_b1300000.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://www.raiplay.it
-#EXTINF:-1  group-title="N/A", Algum canal
-http://www.raiplay.it/
-#EXTINF:-1  group-title="N/A", Algum canal
-http://ott.riotelecomm.es:4513/m3u8/CBBCHDFIBRA.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://archive.simpletv.eu:8080/CBSReality/index.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://ott.riotelecomm.es:4513/m3u8/5USAFIBRA.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://212.102.48.142:8085/udp/236.3.1.7:1234
-#EXTINF:-1  group-title="N/A", Algum canal
-http://archive.simpletv.eu:8080/ITV1/index.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://ott.riotelecomm.es:4513/m3u8/ITV2FIBRA.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://ott.riotelecomm.es:4513/m3u8/ITV3FIBRA.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://212.102.48.142:8085/udp/236.3.1.6:1234
-#EXTINF:-1  group-title="N/A", Algum canal
-http://ott.riotelecomm.es:4513/m3u8/ITV4FIBRA.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://212.102.48.142:8085/udp/236.3.1.9:1234
-#EXTINF:-1  group-title="N/A", Algum canal
-http://ott.riotelecomm.es:4513/m3u8/5STARFIBRA.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?wowzasessionid=inspiration
-#EXTINF:-1  group-title="N/A", Algum canal
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/chunklist_w937625253.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://685531619097460582835d479ff140bb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive/a4731144-af5a-4f67-b304-2c7a53f020fa/0.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
-
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://www.youtube.com/embed/9Auq9mYxFEE?autoplay=1
-
-#EXTINF:-1  group-title="N/A", Algum canal
-https://live.presstv.ir/liveprs/smil:liveprs.smil/chunklist_w1913887334_b944100_slen.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_42.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://www.filmon.com/vr-streams/1729.high/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://www.filmon.com/vr-streams/3887.high/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
-#EXTINF:-1  group-title="N/A", Algum canal
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://bit.ly/2WwEp5W////%20%20
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1  group-title="N/A", Algum canal
-https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://cast.cdnseguro.com:19360/8092/8092.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://185.140.187.67:8085/udp/238.2.0.45:1234
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://salto-streams.nl/hls/sotv1_high.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://qwest-jazz-plex.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://qwest-mix-plex.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1  group-title="N/A",==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/3t94rxC?inspiration.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/MTVAreyouTheOne?inspiration.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/3rrz7ZU?/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/34xiFy2?/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/34BEY5L?/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/3K2CDBb?/playlist.m3u8
-#EXTINF:-1  group-title="N/A",==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
-http://supportstreams.net:80/558585765/n4ySrfoH20/171591
-#EXTINF:-1  group-title="N/A",==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A",==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1  group-title="N/A", Algum canal
-https://stirr.ott-channels.stingray.com/qello/master_1920x1080_4500kbps.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1  group-title="N/A",==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-plex/CDN/1280x720_2855600/index.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://tv.siete.us/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w807150064.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://broadcast.mytvtogo.net/musicalatinaparati/musicalatinaparati/chunklist_w49508185.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w955335976.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w1199481911.m3u8
-#EXTINF:-1  group-title="N/A",==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
-https://cdn17.fntvchannel.com/index_1080.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1  group-title="N/A", Algum canal
-http://player-api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
-#EXTINF:-1  group-title="N/A",==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
-https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://46.40.6.203/EGMelody/index.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1  group-title="N/A", Algum canal
-http://web.onair-radio.eu:1935/video/video/playlist.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1  group-title="N/A", Algum canal
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1  group-title="N/A", Algum canal
-https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd
-#EXTINF:-1  group-title="N/A", Algum canal
-https://livestreamdirect-breezetv.mediaworks.nz/breezetv_4.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
-#EXTINF:-1  group-title="N/A",==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
-https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/8830da17af6f45c18bae545abe878729/live.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/vevo80s?wmsAuthSign=InspirationLinks
-#EXTINF:-1  group-title="N/A", Algum canal
-https://bit.ly/vevo90s?wmsAuthSign=InspirationLinks
-#EXTINF:-1  group-title="N/A", Algum canal
-https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1  group-title="N/A",==============
-https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
-#EXTINF:-1  group-title="N/A", Algum canal
-https://stirr.ott-channels.stingray.com/115/master.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://stirr.ott-channels.stingray.com/128/master_768x432_500kbps.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://stirr.ott-channels.stingray.com/107/master.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://stirr.ott-channels.stingray.com/155/master.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://stirr.ott-channels.stingray.com/190/master_768x432_500kbps.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://stream.vagalume.fm
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://edge2.audioxi.com/CLASSIC
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
-#EXTINF:-1  group-title="N/A", Algum canal
-http://stream3.radio.is:443/80flashback
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://strm112.1.fm/80s_90s_mobile_mp3
-#EXTINF:-1  group-title="N/A", Algum canal
-http://sc2b-sjc.1.fm:7032/
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://6d9a.webradio.upx.net.br:9940/stream?
-#EXTINF:-1  group-title="N/A", Algum canal
-http://stream.vagalume.fm
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://streaming-live.rtp.pt/liveradio/vida80a/chunklist_DVR.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/chunklist_DVR.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 https://streaming-live.rtp.pt/liveradio/antena380a/chunklist_DVR.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://mcrscast.mcr.iol.pt/cidadefm
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://centova.radios.pt:8495/stream/1/
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://centova.radios.pt:9478/stream/1/
-#EXTINF:-1  group-title="N/A", Algum canal
-http://centova.radios.pt:8435/stream/1/
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://centova.radios.pt:9522/stream/1/
-#EXTINF:-1  group-title="N/A", Algum canal
-http://mcrscast.mcr.iol.pt/m80
-#EXTINF:-1  group-title="N/A", Algum canal
-http://mcrscast.mcr.iol.pt/comercial
-#EXTINF:-1  group-title="N/A", Algum canal
-https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC
-#EXTINF:-1  group-title="N/A", Algum canal
-https://playerservices.streamtheworld.com/api/livestream-redirect/GR80SRFM_SC
-#EXTINF:-1  group-title="N/A", Algum canal
-https://playerservices.streamtheworld.com/api/livestream-redirect/OCEANPACIFICAAC_SC
-#EXTINF:-1  group-title="N/A", Algum canal
-http://213.239.218.99:7116/stream
-#EXTINF:-1  group-title="N/A", Algum canal
-http://centova.radios.pt:8435/;
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://195.23.85.126:9500/stream/1/
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://195.23.85.126:8401/stream/1/
-#EXTINF:-1  group-title="N/A", Algum canal
-http://213.239.218.99:7098/;?1475760096281.aac
-#EXTINF:-1  group-title="N/A", Algum canal
-https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADOR_ADP.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://mcrscast.mcr.iol.pt/smoothfm
-#EXTINF:-1  group-title="N/A", Algum canal
-http://195.23.102.207/vodafone
-#EXTINF:-1  group-title="N/A", Algum canal
-http://mcrscast.mcr.iol.pt/vodafone
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://centova.radios.pt:8499/stream/1/
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://tsfdirecto.tsf.pt/tsfdirecto.mp3
-#EXTINF:-1  group-title="N/A", Algum canal
-http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
-#EXTINF:-1  group-title="N/A", Algum canal
-http://radiocast.rtp.pt/antena180a.mp3
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8?wowzasessionid=inspiration
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8?wowzasessionid=inspiration
-#EXTINF:-1  group-title="N/A", Algum canal
-https://centova.radios.com.pt/proxy/460?mp=/stream
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://centova.radios.pt:9492/stream
-#EXTINF:-1  group-title="N/A", Algum canal
-https://stream.zeno.fm/fx5n4m0xkwzuv
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://23.111.128.190:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1629008333.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://stream.visit-x.tv:1935/vxtv/live_720p/chunklist_w1911927332.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-http://62.37.6.216:8001/1:0:1:778b:424:1:c00000:0:0:0:
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://www.filmon.com/vr-streams/6155.high/playlist.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
-https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Porto Seguro - Praia de Taperapuan
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ05KPqfLU8ZW5SiDsArQJkWBUoTC0rBaXc93r0bEWdBs-k8igyLlXcbYAuA&s",Porto Seguro - Praia de Taperapuan
 https://video2archives.earthcam.com/sunrisesunset-vod/_definst_/MP4:15041/2022/02/25/sunrise-tl.mp4/playslist.m3u8
-#EXTINF:-1  group-title="N/A",Copacabana Live
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEQRDd0DL1pcD0PWPx0xi_Fl9CZH5_0HbE08vIRinKJT54hvA3YgxOWcvyLyA&s",Copacabana Live
 https://hd-auth.skylinewebcams.com/live.m3u8?a=g6kho3o8qrioq5gqcbonte6vn4
-#EXTINF:-1  group-title="N/A",Basilica Aparecida
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5AI-KieU6YYU58iKlD_NzAXYBwTdesc7cZZ3oaecQPe0s-VfHUNbmG8yKrLI&s",Basilica Aparecida
 https://hd-auth.skylinewebcams.com/live.m3u8?a=g6kho3o8qrioq5gqcbonte6vn4
-#EXTINF:-1  group-title="N/A",Basilica Aparecida
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5AI-KieU6YYU58iKlD_NzAXYBwTdesc7cZZ3oaecQPe0s-VfHUNbmG8yKrLI&s",Basilica Aparecida
 https://hd-auth.skylinewebcams.com/live.m3u8?a=g6kho3o8qrioq5gqcbonte6vn4
-#EXTINF:-1  group-title="N/A",1001 Noites (720p) [Not 24/7]
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Beauty IQ (1080p)
-https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
-#EXTINF:-1  group-title="N/A",Citruss TV (720p) [Geo-blocked]
-https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
-#EXTINF:-1  group-title="N/A",Craft Store TV (720p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxzFTWeS0jWZobY3pKnOg2EELSMRgxLk9G4V4pWuwiYCi__6Vj2E3oXHApg&s",Craft Store TV (720p)
 https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
-#EXTINF:-1  group-title="N/A",Cruise1st TV (396p) [Geo-blocked]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
-#EXTINF:-1  group-title="N/A",Donna Shopping (1080p) [Not 24/7]
-https://media.streambrothers.com:1936/8038/8038/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Expo Channel (360p)
-https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
-#EXTINF:-1  group-title="N/A",Gems TV (360p)
-http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
-#EXTINF:-1  group-title="N/A",GSTV (720p)
-https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Horse Shopping Channel (720p)
-https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8
-#EXTINF:-1  group-title="N/A",HSN 2 (720p) [Not 24/7]
-https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
-#EXTINF:-1  group-title="N/A",HSN (720p)
-https://hsn.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Jewelry Television (720p)
-https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Leomax 24 (1080p)
-https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Leomax Plus (576p)
-https://tvshops.bonus-tv.ru/cdn/discount/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Luxury (1080p)
-http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1  group-title="N/A",Mediashop TV (576p)
-https://mediashop.akamaized.net/hls/live/2032402/Meine_Einkaufswelt/1.m3u8
-#EXTINF:-1  group-title="N/A",Persian Bazar (720p) [Not 24/7]
-https://stream.persiantv1.com/ptv1/playlist1/index.m3u8
-#EXTINF:-1  group-title="Home Shopping",QVC 2 (720p)
-https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
-#EXTINF:-1  group-title="Home Shopping",QVC2 (Deutsch) (540p)
-http://live.qvcde.simplestreamcdn.com/live/qvcde_plus_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1  group-title="Home Shopping",QVC 3 (720p)
-https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
-#EXTINF:-1  group-title="Home Shopping",QVC (720p)
-https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8
-#EXTINF:-1  group-title="Home Shopping",QVC Beauty (German) (540p)
-https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1  group-title="Home Shopping",QVC Italia (540p)
+#EXTINF:-1 group-title="Home Shopping" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEuXBq9rdn23ibD_VRaFxEWxgTk3NzdXIKvyfJ_8OO8VZwoIhZTdxRdF1lX4&s",QVC Italia (540p)
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-#EXTINF:-1  group-title="Home Shopping",QVC Japan (720p)
+#EXTINF:-1 group-title="Home Shopping" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQByxiZpnIEAdJP1pDlrGLAP1z6De2wGles-oDenIh8Do0oiljQtBJCvQvI_N8&s",QVC Japan (720p)
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1  group-title="Home Shopping",QVC Live (720p) [Not 24/7]
-http://n1.klowdtv.net/live2/qvclive_720p/playlist.m3u8
-#EXTINF:-1  group-title="Home Shopping",QVC PLUS (540p)
-https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1  group-title="Home Shopping",QVC Style (Deutsch) (540p)
-http://live.qvcde.simplestreamcdn.com/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1  group-title="Home Shopping",QVC UK (540p)
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1  group-title="Home Shopping",QVC UK +1 (540p)
-https://live-qvcuk.simplestreamcdn.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
-#EXTINF:-1  group-title="Home Shopping",QVC UK Beauty (540p)
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1  group-title="Home Shopping",QVC UK Extra (540p)
-https://live-qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1  group-title="Home Shopping",QVC UK Style (540p)
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1  group-title="Home Shopping",Shop Channel (1080p) [Not 24/7]
+#EXTINF:-1 group-title="Home Shopping" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqW_FZVlDeRxNg9u1cuk6W-N4jXV7X9jpDRAYj85k3GLoELZgzEAGOGZgYVFU&s",Shop Channel (1080p) [Not 24/7]
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1  group-title="Home Shopping",Shop HQ (720p)
-https://aos01-evine.secure.footprint.net/evine/clean/appleman.m3u8
-#EXTINF:-1  group-title="Home Shopping",Shop LC (1080p)
+#EXTINF:-1 group-title="Home Shopping" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ162BN5vgvzGeEQD9TbLjcwWV_RBrl8iKJp3UHvqjkEC169yOaZlv3OQWGfiA&s",Shop LC (1080p)
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
-#EXTINF:-1  group-title="Home Shopping",Shop TV (480p) [Not 24/7]
-https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/playlist.m3u8
-#EXTINF:-1  group-title="Home Shopping",Shopping Live (576p) [Not 24/7]
+#EXTINF:-1 group-title="Home Shopping" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSwE329y-jMN4-XVHrjXvrpifVEi898AzaDkauQ9j-66R2b_QibrB-_VppUw&s",Shopping Live (576p) [Not 24/7]
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
-#EXTINF:-1  group-title="Home Shopping",STIRR HSN (720p)
-https://dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8
-#EXTINF:-1  group-title="Home Shopping",STIRR QVC (720p)
-https://dai.google.com/linear/hls/event/roEbn_l7Tzezwy22F1NSfA/master.m3u8
-#EXTINF:-1  group-title="Home Shopping",The Shopping Channel (720p)
-https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1  group-title="Home Shopping",Tommy Teleshopping (480p)
+#EXTINF:-1 group-title="Home Shopping" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjtKvz7J1sBqhmRYuK5AKXiYfBUTX4umO0PBxpEsxjgLktPmYXdKHdh2u49A&s",Tommy Teleshopping (480p)
 http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
-#EXTINF:-1  group-title="N/A",TVS Rare Collectibles (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8
-#EXTINF:-1  group-title="N/A",TVS Silo Discount Network (484p) [Not 24/7]
-https://rpn1.bozztv.com/36bay2/gusa-tvssilodiscount/index.m3u8
-#EXTINF:-1  group-title="N/A", Algum canal
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1  group-title="N/A",3/24 (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
-
-#EXTINF:-1  group-title="N/A",101TV Malaga (1080p) [Not 24/7]
-https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:-1  group-title="N/A",A24 (720p)
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-#EXTINF:-1  group-title="N/A",Aaj Tak (360p) [Geo-blocked]
-https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-
-#EXTINF:-1  group-title="N/A",ABP Ananda (720p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIYRkzJw0xa78grsFtmchVF3E8XJJrqwncnfPWg9wI0wdcmS271LK-qLAN3c&s",ABP Ananda (720p)
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
-#EXTINF:-1  group-title="N/A",ABP Asmita (720p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAd-z30rGsBHwo_98yv_Qh-3rFMwxco4HU1bqEeLK9Yq1w2i1RoJp_IX0czHg&s",ABP Asmita (720p)
 https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
-#EXTINF:-1  group-title="N/A",ABP Hindi (720p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkQzSTGIippY_IWlOkA9FGE2yDS4wBphmvgYrQb_eNXGlGRXp3PozLiLKejXg&s",ABP Hindi (720p)
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
-#EXTINF:-1  group-title="N/A",ABP Majha (720p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIYRkzJw0xa78grsFtmchVF3E8XJJrqwncnfPWg9wI0wdcmS271LK-qLAN3c&s",ABP Majha (720p)
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
-#EXTINF:-1  group-title="N/A",ADN Radio (1080p)
-https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
-#EXTINF:-1  group-title="N/A",AfricaNews English (720p)
-https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Agromais (1080p) [Geo-blocked]
-https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
-#EXTINF:-1  group-title="N/A",AKD Calcutta News (540p) [Geo-blocked]
-https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8
-#EXTINF:-1  group-title="N/A",Al Alam (360p) [Not 24/7]
-https://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1  group-title="N/A",Al Hadath TV (1080p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjtww1PNuieIC5zJ6ksZAbdY5mbDA7Gt2IqHdkbzgua-fymLs-I7LlkQZpw&s",Al Hadath TV (1080p)
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-#EXTINF:-1  group-title="N/A",Al Hurra (720p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPbdhG4kL6CwjpYJ9OqmF0vLzUpdPzbtsIja9y6Y6NRCOjSqgnvgA2z6NtWg&s",Al Hurra (720p)
 https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
-
-#EXTINF:-1  group-title="N/A",Al Manar (576p) [Not 24/7]
-https://manar.live/iptv/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Al Masirah (720p) [Not 24/7]
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQakQ-f5xVwUYou1HMlVCWMuRHIEE9WdKDfB6vzW97vm-fcPPTHSxQpw9Bql_0&s",Al Masirah (720p) [Not 24/7]
 https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Al Masirah Mubacher (642p) [Not 24/7]
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1z97vDvhhcwKZNT7wTcAt4sUxtJC2iqMGRseQlizntoKkqtRc1wO4hT-qYk&s",Al Masirah Mubacher (642p) [Not 24/7]
 https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Al Rafidain (1024p) [Not 24/7]
-http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Al Sabah (360p) [Not 24/7]
-https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Al Sharqiya News (1080p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkYxOCTTbajtq7Rydv8SDPNvPahCiGaz30APAwBbBtEB7bd9FC-vfHdeigumQ&s",Al Sharqiya News (1080p)
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Al Yaum TV (720p)
-https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Alaraby TV (1080p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXccI7BMbuz4FoMy1JPqUJcjZZ7nncNfZe5LS79So46DHd3HmtrTY75aJedTI&s",Alaraby TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Aleph News (720p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-iW1P9WellgB-NrysXW3pvtMpJYT9VOs1n8km2fSgH3h4l0p4_No7Kr4-uc&s",Aleph News (720p)
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Alghad Almushreq (576p)
-http://82.212.74.3:8000/live/7512.m3u8
-#EXTINF:-1  group-title="N/A",Amar Ujala (360p) [Not 24/7]
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCNNguSNukrTU-Hfqrtfrxnh9o5jozEJxkrVkRyLOGutMDs974bK_x0uz6hg&s",Amar Ujala (360p) [Not 24/7]
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
-#EXTINF:-1  group-title="N/A",America's Voice (720p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkPND-_SYX_3CUXykyLHeMQFcTWkBP-GO2bgXUWzzcb5HAOIiZ0e503sVx2OA&s",America's Voice (720p)
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
-#EXTINF:-1  group-title="N/A",AMX Noticias (720p) [Not 24/7]
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJJb-5SEZAge6-WtekKhhyhHWbmSGFtAhdug9ewt-BbTuzcIAJEWcsiUSSec&s",AMX Noticias (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1  group-title="N/A",ARB 24 (1080p) [Not 24/7]
-http://85.132.81.184:8080/arb24/live1/index.m3u8
-#EXTINF:-1  group-title="N/A",Arise News (576p)
-https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Asianet News (720p) [Not 24/7]
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDZPX1PTazJz-lIoxE92x4vPy96y5VXbMBfFNLptx4KfCBLdb8CO0Vv3lRtQ&s",Asianet News (720p) [Not 24/7]
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Asianet News Bangla (360p) [Not 24/7]
-https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Asianet News Kannada (360p) [Not 24/7]
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9o9_4rgdqb_EKA1UzMPIMo5GpuA6MFjuFyt1VzoGZbjnOTixm9ROEruEif0c&s",Asianet News Kannada (360p) [Not 24/7]
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Asianet News Tamil (360p) [Not 24/7]
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS36vnHyFYllrqeUsXJ6nFhrsOjrW_MOztXstLARg9I8vH71jObmGwPPQ79Jw&s",Asianet News Tamil (360p) [Not 24/7]
 https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
-#EXTINF:-1  group-title="N/A",ATN News (720p) [Not 24/7]
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEluuE61Qjv_gduWfg4d_N_XhNbVkHYx3xSsgctZ8D-wWHw6FuvnSQ3oy6Nw&s",ATN News (720p) [Not 24/7]
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-#EXTINF:-1  group-title="N/A",ATN News (720p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/playlist.m3u8
-#EXTINF:-1  group-title="N/A",ATV+ Noticias (480p) [Not 24/7]
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Australia Channel (720p)
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-#EXTINF:-1  group-title="N/A",B1 (272p) [Not 24/7]
-https://stream.adunity.com/b1/b1.m3u8
-#EXTINF:-1  group-title="N/A",Bayon TV (360p) [Not 24/7]
-http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
-#EXTINF:-1  group-title="N/A",BBC Arabic (720p)
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
-#EXTINF:-1  group-title="N/A",BBC News (540p) [Geo-blocked]
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1  group-title="N/A",BBC One Scotland (540p) [Geo-blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1  group-title="N/A",BBC Persian (720p)
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
-#EXTINF:-1  group-title="N/A",BBC World News (576p)
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1  group-title="N/A",BeritaSatu (720p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBEHMARI93VLmd9fZDmaulIIydKgkXq6-hynTnzWbvMgfE3ccHhRX99XGxrg&s",BeritaSatu (720p)
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:-1  group-title="N/A",BeritaSatu English (540p) [Not 24/7]
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:-1  group-title="N/A",BeritaSatu World (540p) [Not 24/7]
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1  group-title="N/A",BFMTV (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xgz4t1
-#EXTINF:-1  group-title="N/A",Black News Channel (1080p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsGMWWRr6T_UojeKimXg6T4ewdTgsJ-j-GvpixZKZeFLiE__n1QLadkpt6JAE&s",Black News Channel (1080p)
 http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Bulgaria On Air (720p)
-http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Canal 5 Noticias (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/c5n/live
-#EXTINF:-1  group-title="N/A",Canal 26 (720p)
-http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Canal Metropolitano de Noticias (720p) [Not 24/7]
-http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Caspian News (576p) [Not 24/7]
-https://sc.id-tv.kz/CaspianNews.m3u8
-#EXTINF:-1  group-title="N/A",CBC (720p) [Not 24/7]
-http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
-
-#EXTINF:-1  group-title="N/A",CCTV-13
-#EXTVLCOPT:network-caching=1000
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=64&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:-1  group-title="N/A",CGTN (576p) [Timeout]
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=14&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:-1  group-title="N/A",CGTN Arabic (576p) [Not 24/7]
-http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1  group-title="N/A",CGTN English (432p) [Not 24/7]
-https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
-#EXTINF:-1  group-title="N/A",CGTN Espa ol (576p) [Not 24/7]
-http://livees.cgtn.com/500e/prog_index.m3u8
-#EXTINF:-1  group-title="N/A",Channel 2 News (432p)
-https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
-#EXTINF:-1  group-title="N/A",Channel 24 (720p)
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Channel T1 (720p) [Not 24/7]
-http://irbtv.net/channelt1/1080/index.m3u8
-#EXTINF:-1  group-title="N/A",Cheddar News (1080p)
-https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  group-title="N/A",CNA (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7jV47qJcpE1dM_2qOzi29WfOFTeGVhtZRqEcoROu3YT2XUMArwQvtQckdHwU&s",CNA (1080p) [Geo-blocked]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1  group-title="N/A",CNBC Bajar (504p) [Geo-blocked]
-https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
-#EXTINF:-1  group-title="N/A",Di TV (720p)
-https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Dighvijay (240p) [Not 24/7]
-https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Dijlah (1080p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD9yOSM4mb-xMbxA6M5240TG2BISQzxnIZWvJu2B8vFb8VzYVacqAa-gk-QA&s",Dijlah (1080p)
 http://91.134.145.75:10001/Dijlah/index.m3u8
-#EXTINF:-1  group-title="N/A",like Gecko) Mobile/15E148" - DW (480p)
-http://ott-cdn.ucom.am/s26/index.m3u8
-#EXTINF:-1  group-title="N/A",DW Arabic (1080p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbWFGycajoB9SP9zYNNbl4KqT1WVai3WiD7Y8RO7q2DR6VAPSD2hISxbCYSzQ&s",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1  group-title="N/A",DW Deutsch (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoP1N6_-9-T12B6RhUz0F9qPjL4DRHg1tHWAIcHzOYtKaAc1o163bBvMbU0Q&s",DW Deutsch (1080p) [Geo-blocked]
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-#EXTINF:-1  group-title="N/A",DW English (1080p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5K1pv8MjQYK3XMSyB5OusS8qj4WVFMJKk7lHEegeF-8tbIxeyLHMgrM4Zg&s",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1  group-title="N/A",DW Espa ol (1080p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4VHoJ4f7ptJ1jJxoVjYEAcpij1uJYylWSQn173tGkd3i2peqb0A0ytUD3Xw&s",DW Espa ol (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1  group-title="N/A",Ekushey TV (480p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIN2CBtkY8BymEmggMyZabPXl1OImBP4m3uZfbD7OkmR8s33MP1Gfw4Gl0jg&s",Ekushey TV (480p)
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1  group-title="N/A",Entertainment Tonight (1080p)
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-#EXTINF:-1  group-title="N/A",ERT News (720p) [Geo-blocked]
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLXbF4jREVY3t5JsDe-c3SB1u4ogr4ieAP1yHUc_G0X5uwSURZx91pLTEpMgo&s",ERT News (720p) [Geo-blocked]
 http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
-#EXTINF:-1  group-title="N/A",Estrella News (1080p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV78jm2fTop7vf5bSYRMBLcN9HpkCI4gWmGeoVNNAc8277eaX7apDcP7rzaS0&s",Estrella News (1080p)
 https://estrellanews-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Euronews en Espa ol (720p)
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Expressen TV (720p) [Not 24/7]
-https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/chunklist_b3628000.m3u8
-#EXTINF:-1  group-title="N/A",EYE95 America (1080p) [Not 24/7]
-https://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
-#EXTINF:-1  group-title="N/A",FASTWAY NEWS (720p) [Not 24/7]
-http://163.47.214.155:1935/fwnews/live/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Fox News Channel (720p)
-http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
-#EXTINF:-1  group-title="N/A",FOX News Now (720p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjjvBQXcIoQM2Wb1Fpxb7tlKNZWrIbqe1McFrL96niDDrGWcK3Qq-iI-3L4A&s",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Fox News Radio (720p)
-https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:-1  group-title="N/A",France 24 Arabic (1080p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECgdS6FvQZKoYXVdTwzeNckCT-iAneyn6WM6Gth957Er6RBzIpsc-TN6ohEc&s",France 24 Arabic (1080p)
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-#EXTINF:-1  group-title="N/A",France 24 English (1080p)
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1  group-title="N/A",France 24 Espa ol (1080p)
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF:-1  group-title="N/A",France 24 Fran ais (1080p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCTnHVde-KMkf7tXsMUELQtZjSnJFE0Tb6QKYuq3Gtpgr6_7yeYdsuqNLo2z8&s",France 24 Fran ais (1080p)
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1  group-title="N/A",Fresh News (720p)
-http://167.99.65.12:1935/live/myStream/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Fresh News TV (720p)
-http://167.99.65.12:1935/live/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Futurism (720p)
-https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
-#EXTINF:-1  group-title="N/A",Global Punjab (720p) [Not 24/7]
-https://media.streambrothers.com:1936/8522/8522/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Halab Today TV (480p) [Not 24/7]
-http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
-
