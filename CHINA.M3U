@@ -1,87 +1,13 @@
 
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml"
 
-
-
-#EXTINF:0 group-title="CHINA",Bloomberg TV Asia Live Event (720p)
+#EXTM3U
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7_Lpr3VzQEUSxrQOCF8e2UMHRYEvmWehQ6zDYgU82Re9m2xOYmHbL9w2ZIw&s",Bloomberg TV Asia Live Event (720p)
 #EXTVLCOPT:network-caching=1000
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
-
-#EXTINF:0 group-title="CHINA",CCTV+ 1 (600p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRED5JuoPYimK38rrmeLL_zRnYAdmVbHGa3im6gPqEhHOvGMRjfgdcVZyRG5qU&s",CCTV+ 1 (600p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:0 group-title="CHINA",CCTV+ 2 (600p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRED5JuoPYimK38rrmeLL_zRnYAdmVbHGa3im6gPqEhHOvGMRjfgdcVZyRG5qU&s",CCTV+ 2 (600p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:0 group-title="CHINA",CCTV-1综合 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=29&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:0 group-title="CHINA",CCTV-2财经 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
-#EXTINF:0 group-title="CHINA",CCTV-3综艺 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=80&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:0 group-title="CHINA",CCTV-4中文国际 (540p)
-#EXTVLCOPT:network-caching=1000
-http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
-#EXTINF:0 group-title="CHINA",CCTV-4中文国际 (576p)
-#EXTVLCOPT:network-caching=1000
-http://111.63.117.13:6060/030000001000/CCTV-4/CCTV-4.m3u8
-#EXTINF:0 group-title="CHINA",CCTV-4中文国际 (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
-#EXTINF:0 group-title="CHINA",CCTV-4中文国际 (576p) [Offline]
-#EXTVLCOPT:network-caching=1000
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
-#EXTINF:0 group-title="CHINA",CCTV-4中文国际 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225534/index.m3u8
-#EXTINF:0 group-title="CHINA",CCTV-4中文国际 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
-#EXTINF:0 group-title="CHINA",CCTV-4中文国际 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:0 group-title="CHINA",CCTV-4中文国际 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:0 group-title="CHINA",CCTV-4中文国际 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://117.169.120.140:8080/live/cctv-4/.m3u8
-#EXTINF:0 group-title="CHINA",CCTV-4中文国际 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://183.207.248.71/cntv/live1/cctv-4/cctv-4
-#EXTINF:0 group-title="CHINA",CCTV-4中文国际 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
-#EXTINF:0 group-title="CHINA",CCTV-4中文国际 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8
-#EXTINF:0 group-title="CHINA",CCTV-4中文国际 (1080p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:0 group-title="CHINA",CCTV-4中文国际 (1080p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:0 group-title="CHINA",CCTV-4中文国际 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227378/index.m3u8
-#EXTINF:0 group-title="CHINA",CCTV-5+体育赛事 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=36&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:0 group-title="CHINA",CCTV-5体育 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
-#EXTINF:0 group-title="CHINA",CCTV-6电影 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
-#EXTINF:0 group-title="CHINA",CCTV-7国防军事 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=28&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:0 group-title="CHINA",CCTV-8电视剧 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
-#EXTINF:0 group-title="CHINA",CCTV-9纪录 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=33&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
