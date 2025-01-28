@@ -14,3 +14,121 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5K1pv8MjQYK3XMSyB5OusS8qj4WVFMJKk7lHEegeF-8tbIxeyLHMgrM4Zg&s",DW English (1080p)
 #EXTVLCOPT:network-caching=1000
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:0 group-title="CHINA",NewTV爱情喜剧 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+#EXTINF:0 group-title="CHINA",NewTV精品体育 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+#EXTINF:0 group-title="CHINA",NewTV精品大剧 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+#EXTINF:0 group-title="CHINA",NewTV精品纪录 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
+#EXTINF:0 group-title="CHINA",NewTV精品電影 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:0 group-title="CHINA",NewTV精品電影 (1080p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:0 group-title="CHINA",NewTV超级体育 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:0 group-title="CHINA",NewTV超级电影 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:0 group-title="CHINA",NewTV超级电影 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:0 group-title="CHINA",NewTV超级电视剧 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:0 group-title="CHINA",NewTV超级综艺 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:0 group-title="CHINA",NewTV金牌综艺 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
+#EXTINF:0 group-title="CHINA",Red Bull TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0 group-title="CHINA",RT Documentary (1080p)
+#EXTVLCOPT:network-caching=1000
+https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
+#EXTINF:0 group-title="CHINA",RT News (1080p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
+#EXTINF:0 group-title="CHINA",SDETV (576p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227019/index.m3u8
+#EXTINF:0 group-title="CHINA",SiTV七彩戏剧 (540p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://112.25.48.68/live/program/live/qcxj/1300000/mnf.m3u8
+#EXTINF:0 group-title="CHINA",SiTV全纪实台 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://112.25.48.68/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:0 group-title="CHINA",SiTV动漫秀场 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://112.25.48.68/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:0 group-title="CHINA",SiTV劲爆体育 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=74&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:0 group-title="CHINA",SiTV劲爆体育 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://112.25.48.68/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:0 group-title="CHINA",SiTV幸福彩 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=73&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:0 group-title="CHINA",SiTV新视觉 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=75&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:0 group-title="CHINA",SiTV新视觉台 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://112.25.48.68/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:0 group-title="CHINA",SiTV极速汽车 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://112.25.48.68/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:0 group-title="CHINA",SiTV欢笑剧场 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://112.25.48.68/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:0 group-title="CHINA",SiTV法治天地 (540p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://112.25.48.68/live/program/live/fztd/1300000/mnf.m3u8
+#EXTINF:0 group-title="CHINA",SiTV游戏风云 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://112.25.48.68/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:0 group-title="CHINA",SiTV生活时尚 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://112.25.48.68/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:0 group-title="CHINA",SiTV都市剧场 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://112.25.48.68/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:0 group-title="CHINA",SiTV魅力足球 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=76&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:0 group-title="CHINA",SiTV魅力足球 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://112.25.48.68/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:0 group-title="CHINA",TRT World (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="CHINA",TV BRICS Chinese (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+#EXTINF:0 group-title="CHINA",TVB 明珠台 (240p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=12&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_rate_id=2&FvSeid=1&Pcontent_id=8114.m3u8&Provider_id=0
+#EXTINF:0 group-title="CHINA",TVB明珠台 (480p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
+#EXTINF:0 group-title="CHINA",TVB明珠台 (480p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:0 group-title="CHINA",TVB明珠台 (576p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=12&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:0 group-title="CHINA",TVB翡翠台 (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
