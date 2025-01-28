@@ -23,14 +23,7 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRyX5gM1qgKBwvN4jiFD89GjQ4edKxUJ5qvZfBb-s6Pv8pyvIeiF-K8GWf6A&s",Rudaw TV (1080p)
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvL5915dpT8q0Nzulnm7jkqiE62k3-miE_OYBi3WhrxLPNsBn0Tzur9ocyw&s",Sky News Arabia (Portrait) (1280p) [Not 24/7]
-https://stream.skynewsarabia.com/vertical/vertical.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKYBEx3JZoK7-wnz4P_T4lmnrZxer5ih04XPojbngduqVb9wJfoNsUSWjfA&s",Sky News Extra 1 (540p)
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjdz6WqjRjJ2n2SikuvUOvT-sXyy9zSckLpgxBI0PRu7iDAu_oK0x8mN43iA&s",Sky News Extra 2 (540p) [Not 24/7]
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjdz6WqjRjJ2n2SikuvUOvT-sXyy9zSckLpgxBI0PRu7iDAu_oK0x8mN43iA&s",Sky News Extra 3 (1080p)
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBUVFUbQjCfxmMpggBedM_I9WgjosNlUDQfUdwXKxG5S8fOn2CkuukDLnpKQ&s",TGRT Haber (360p) [Not 24/7]
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:-1  group-title="N/A",The Wall Street Journal Live (720p)
