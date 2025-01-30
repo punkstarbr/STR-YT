@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1  group-title="N/A",Global News British Columbia (720p)
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+#EXTINF:-1  group-title="N/A",Global News Calgary (720p)
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
+#EXTINF:-1  group-title="N/A",GLOBAL NEWS
+https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8
+#EXTINF:-1  group-title="N/A",Global News Halifax (720p)
+https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
+#EXTINF:-1  group-title="N/A",Global News Kingston (720p)
+https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9/live.isml/.m3u8
+#EXTINF:-1  group-title="N/A",Global News Lethbridge (720p)
+https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc0/live.isml/.m3u8
+#EXTINF:-1  group-title="N/A",Global News Montreal (720p)
+https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
+#EXTINF:-1  group-title="N/A",Global News National (720p)
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1  group-title="N/A",Global News Okanagan (720p)
+https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8
+#EXTINF:-1  group-title="N/A",Global News Peterborough(720p)
+https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8
+#EXTINF:-1  group-title="N/A",Global News Regina (720p)
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+#EXTINF:-1  group-title="N/A",Global News Saskatoon (720p)
+https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
+#EXTINF:-1  group-title="N/A",Global News Toronto (720p)
+https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
+#EXTINF:-1  group-title="N/A",Global News Winnipeg (720p)
+https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Y7Fa2eUglqqWnMcDRBzIfLYuP7QpPe9qHkoq7zEzmoxxwUPYSdqFTzuYm3s&s",India Today (720p) [Not 24/7]
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yB6IKighgeiOzJDgn4N59HxeW8vYJ-yZvnJ09beDbczjKzF89ObFvcNIgQ&s",Iran International (1080p)
@@ -190,34 +218,7 @@ http://x00.so:80/Q6bbe/FZnw29/71917.ts
 http://x00.so:80/Q6bbe/FZnw29/71918.ts
 #EXTINF:-1  group-title="CANAIS ABERTOS",TV ALMG
 https://streaming.almg.gov.br/live/tvalmg.m3u8
-#EXTINF:-1  group-title="N/A",Global News British Columbia (720p)
-https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
-#EXTINF:-1  group-title="N/A",Global News Calgary (720p)
-https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
-#EXTINF:-1  group-title="N/A",GLOBAL NEWS
-https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8
-#EXTINF:-1  group-title="N/A",Global News Halifax (720p)
-https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
-#EXTINF:-1  group-title="N/A",Global News Kingston (720p)
-https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9/live.isml/.m3u8
-#EXTINF:-1  group-title="N/A",Global News Lethbridge (720p)
-https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc0/live.isml/.m3u8
-#EXTINF:-1  group-title="N/A",Global News Montreal (720p)
-https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
-#EXTINF:-1  group-title="N/A",Global News National (720p)
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-#EXTINF:-1  group-title="N/A",Global News Okanagan (720p)
-https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8
-#EXTINF:-1  group-title="N/A",Global News Peterborough(720p)
-https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8
-#EXTINF:-1  group-title="N/A",Global News Regina (720p)
-https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
-#EXTINF:-1  group-title="N/A",Global News Saskatoon (720p)
-https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
-#EXTINF:-1  group-title="N/A",Global News Toronto (720p)
-https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
-#EXTINF:-1  group-title="N/A",Global News Winnipeg (720p)
-https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
+
 
 
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",EPTV Campinas
