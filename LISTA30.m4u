@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Y7Fa2eUglqqWnMcDRBzIfLYuP7QpPe9qHkoq7zEzmoxxwUPYSdqFTzuYm3s&s",India Today (720p) [Not 24/7]
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yB6IKighgeiOzJDgn4N59HxeW8vYJ-yZvnJ09beDbczjKzF89ObFvcNIgQ&s",Iran International (1080p) 
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yB6IKighgeiOzJDgn4N59HxeW8vYJ-yZvnJ09beDbczjKzF89ObFvcNIgQ&s",Iran International (1080p)
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yB6IKighgeiOzJDgn4N59HxeW8vYJ-yZvnJ09beDbczjKzF89ObFvcNIgQ&s",Iran International (1080p) 2
 https://live.playstop.me/1816184091/index.m3u8
@@ -23,206 +23,23 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRyX5gM1qgKBwvN4jiFD89GjQ4edKxUJ5qvZfBb-s6Pv8pyvIeiF-K8GWf6A&s",Rudaw TV (1080p)
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBUVFUbQjCfxmMpggBedM_I9WgjosNlUDQfUdwXKxG5S8fOn2CkuukDLnpKQ&s",TGRT Haber (360p) [Not 24/7]
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
-#EXTINF:-1  group-title="N/A",The Wall Street Journal Live (720p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm-Lo4zVOk57PJuanSo7_-DUpUFX2dbPzuqfAQekwwVxlnUgkBk5nuw10V1vo&s",The Wall Street Journal Live (720p)
 https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
-#EXTINF:-1  group-title="N/A",The Young Turks (TYT) (1080p) [Not 24/7]
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJMwPHJfqZWsPH6zi8vpPjErxgVO2IumE2dLctELExdkMoYwaB3YRrMwCUbtE&s",The Young Turks (TYT) (1080p) [Not 24/7]
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
-#EXTINF:-1  group-title="N/A",Time Vision News (720p) [Not 24/7]
-http://cloud.logicwebs.in:1935/timevision/timevision/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Times Now (480p) [Geo-blocked]
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-#EXTINF:-1  group-title="N/A",Top Stories by Newsy (720p)
-http://content.uplynk.com/channel/04cce35dcd994bbc82d61805ae67a65f.m3u8
-#EXTINF:-1  group-title="N/A",TRT Arabi (720p) [Not 24/7]
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1  group-title="N/A",TRT World (720p) [Not 24/7]
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1  group-title="N/A",TSN Tele Sondrio News (480p) [Not 24/7]
-http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
-#EXTINF:-1  group-title="N/A",TV7 News (270p) [Not 24/7]
-http://217.61.26.46:8080/hls/news.m3u8
-#EXTINF:-1  group-title="N/A",TV9 Kannada (720p) [Not 24/7]
-https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
-#EXTINF:-1  group-title="N/A",TV9 News (720p) [Not 24/7]
-https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/playlist.m3u8
-#EXTINF:-1  group-title="N/A",TV Noticias 7.3 (768p)
-http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1  group-title="N/A",TV Per  Noticias (768p) [Not 24/7]
-https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1  group-title="N/A",TV Seventeen (720p)
-https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
-#EXTINF:-1  group-title="N/A",TV deoNews (720p) [Not 24/7]
-https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
-#EXTINF:-1  group-title="N/A",like Gecko) Mobile/13G36" - TVM El Salvador (720p)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHnm2RwVP4Qe4Va3ios2B9a9QMhz2xpeFPUX84tSItHy9E3MUXs5asDysZic&s",like Gecko) Mobile/13G36" - TVM El Salvador (720p)
 http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Twenty Four News (576p) [Not 24/7]
-http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
-#EXTINF:-1  group-title="N/A",USA Today (1080p)
-https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
-#EXTINF:-1  group-title="N/A",Visi n Noticias Per  (VNP) (720p) [Not 24/7]
-https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:-1  group-title="N/A",VoA Persian (1080p)
-https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
-#EXTINF:-1  group-title="N/A",VoA TV (1080p) [Not 24/7]
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1  group-title="N/A",WELT [Geo-blocked]
-https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
-#EXTINF:-1  group-title="N/A",WJCL-TV News Savannah GA (720p)
-https://v-pi.theus6tv.tk/hls/6.1/playlist.m3u8
-
-
-#EXTINF:-1 group-title="N/A", Unknown Stream 1
-http://80.237.51.37:8101
-
-#EXTINF:-1 group-title="N/A", Unknown Stream 2
-http://80.237.51.37:8102
-
-#EXTINF:-1 group-title="N/A", RTR Russia K
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_2.m3u8
-
-#EXTINF:-1 group-title="N/A", Unknown Stream 3
-http://80.237.51.37:8106
-
-#EXTINF:-1 group-title="N/A", Unknown Stream 4
-http://80.237.51.37:8107
-
-#EXTINF:-1 group-title="N/A", RTR Russia 24
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-
-#EXTINF:-1 group-title="N/A", RTR Live Stream
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
-
-#EXTINF:-1 group-title="N/A", RTR Live Stream (Russia)
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
-
-#EXTINF:-1 group-title="N/A", Unknown Stream 1
-http://80.237.51.37:8117
-
-#EXTINF:-1 group-title="N/A", Unknown Stream 2
-http://80.237.51.37:8118
-
-#EXTINF:-1 group-title="N/A", Mir TV - Mir 24
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTplnJbDxNcX5CSLXOmza8f3WsIGWS137qpkxnDoUS2bjF1sAPQ2q3kbP8Cuw&s",Mir TV - Mir 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
-#EXTINF:-1 group-title="N/A", Mir TV - General
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-
-#EXTINF:-1 group-title="N/A", Mir TV - HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-
-#EXTINF:-1 group-title="N/A", IGI Channel (SD)
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYP2Y3UecNS-iXsrMngS2dsGye7bZHDfrlVFDQjbIaVPf_FgRix62sKGeEWM&s",IGI Channel (SD)
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-
-#EXTINF:-1 group-title="N/A", IGI Channel (SD) - Duplicate
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq3gXJiwLM_38iVH4Ll7qxcDPq6rbw7XLHjUCKgRJGrqofDxpi8uOvDok42Q&s",IGI Channel (SD) - Duplicate
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-
-#EXTINF:-1 group-title="N/A", Unknown Stream 3
-http://80.237.51.37:8104
-
-#EXTINF:-1 group-title="N/A", Unknown Stream 4
-http://80.237.51.37:8105
-
-#EXTINF:-1 group-title="N/A", Unknown Stream 5
-http://80.237.51.37:8110
-
-#EXTINF:-1 group-title="N/A", UTV Channel
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjmipvNgVDeBvWyY2cGr0Fh8KTBe8wVicH-6AoPqKN4mxgzRk7MM70F7yc0NI&s",UTV Channel
 http://92.50.128.180/utv/1358/index.m3u8
-
-#EXTINF:-1 group-title="N/A", Ren TV (Kazakhstan)
-https://sc.id-tv.kz/RenTV_34_35.m3u8
-
-#EXTINF:-1 group-title="N/A", Unknown Stream 6
-http://80.237.51.37:8111
-
-#EXTINF:-1 group-title="N/A", Unknown Stream 7
-http://80.237.51.37:8119
-
-#EXTINF:-1 group-title="N/A", Unknown Stream 8
-http://80.237.51.37:8116
-
-#EXTINF:-1 group-title="N/A", Unknown Stream 9
-http://80.237.51.37:8114
-
-#EXTINF:-1 group-title="N/A", Unknown Stream 10
-http://80.237.51.37:8115
-
-#EXTINF:-1 group-title="N/A", Unknown Stream 11
-http://80.237.51.37:8113
-
-#EXTINF:-1 group-title="N/A", CTC Channel (Russia)
-http://46.174.83.66/CTC/mpegts
-
-#EXTINF:-1 group-title="N/A", STS Channel (Kazakhstan)
-https://sc.id-tv.kz/STS_34_35.m3u8
-
-#EXTINF:-1 group-title="N/A", Unknown Stream 1
-http://80.237.51.37:8109
-
-#EXTINF:-1 group-title="N/A", Unknown Stream 2
-http://80.237.51.37:8112
-
-#EXTINF:-1 group-title="N/A", RFE TV Channel
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-
-#EXTINF:-1 group-title="N/A", Bonus TV Stream
-http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
-
-#EXTINF:-1 group-title="N/A", 8TV Russia
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnMYax1dRk4a00BSXYUi2-UyMZNzm52Dl9MDJawBUprvbWIBKCqlhlGZ9KAnM&s",8TV Russia
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
-
-#EXTINF:-1 group-title="N/A", 8TV Europe
+#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpOvF4OLNgdDev3M6z8dwi7Efm2nKc2nOxmBuj9ESzibdBFGJNlG5QKrKQRAk&s",8TV Europe
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
-
-#EXTINF:-1 group-title="N/A", Unknown Stream 3
-http://46.174.83.66/U/mpegts
-
-#EXTINF:-1 group-title="N/A", Unknown Stream 4
-http://140.238.127.147:80/streams/5.m3u8
-
-#EXTINF:-1 group-title="N/A", Studio 360 News
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-
-#EXTINF:-1 group-title="N/A", 1TV Channel (Wink Player)
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
-
-#EXTINF:-1 group-title="N/A", TNT Channel (Wink Player)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
-
-#EXTINF:-1 group-title="N/A", TNT4 Channel (Wink Player)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
-
-#EXTINF:-1 group-title="N/A", REN TV Channel (Wink Player)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
-
-#EXTINF:-1 group-title="N/A", NTV Channel (Wink Player)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
-
-#EXTINF:-1 group-title="N/A", OTR Channel (Wink Player)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8?version=2
-
-#EXTINF:-1 group-title="N/A", 5TV Channel (Wink Player)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
-
-#EXTINF:-1 group-title="N/A", TVC Channel (Wink Player)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
-
-#EXTINF:-1 group-title="N/A", STS Channel (Wink Player)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
-
-#EXTINF:-1 group-title="N/A", REN TV Perm (Wink Player)
-http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8?version=2
-
-#EXTINF:-1 group-title="N/A", SPAS Channel (Wink Player)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/bw2000000/variant.m3u8?version=2
-
-#EXTINF:-1 group-title="N/A", 2x2 Channel
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
-
-#EXTINF:-1 group-title="N/A", U Channel (Wink Player)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
-
-#EXTINF:-1 group-title="N/A", Peretz Channel (Wink Player)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
