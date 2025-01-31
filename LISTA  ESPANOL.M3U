@@ -50,8 +50,6 @@ https://cloudvideo.servers10.com:8081/8144/index.m3u8
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/esteponatelevision/picture?width=200&height=200",Andalucía: Estepona TV
 https://cloudvideo.servers10.com:8081/8022/index.m3u8
-#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniAZB2q-vXPojR8-s48qBkScsAsVmJBpZSs6ZkMwA=s200",Andalucía: Canal Doñana
-https://secure5.todostreaming.es/live/division-alm.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="DiezTV.TV" tvg-logo="https://graph.facebook.com/dieztv/picture?width=200&height=200",Andalucía: Diez TV
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/costadelsoltv/picture?width=200&height=200",Andalucía: CostadelSol TV
@@ -104,8 +102,6 @@ https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 https://streamingtvi.gestec-video.com/hls/tvixa1.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200",C. Valenciana: Intercomarcal TV
 https://streamingtvi.gestec-video.com/hls/tvixa3.m3u8
-#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/grup.televisio/picture?width=200&height=200",C. Valenciana: Ribera TV
-https://common01.todostreaming.es/live/ribera-livestream.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/alacantitv/picture?width=200&height=200",C. Valenciana: Alacantí TV
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/burrianateve/picture?width=200&height=200",C. Valenciana: Burriana TV
@@ -120,8 +116,6 @@ https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/ondavalenciatv/picture?width=200&height=200",C. Valenciana: Onda Valencia
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200",Illes Balears: TEF
-https://5940924978228.streamlock.net/EIVISSA_1/EIVISSA_1/playlist.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="MelillaTV.TV" tvg-logo="https://graph.facebook.com/TelevisionMelilla/picture?width=200&height=200",Melilla: Melilla TV
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/populartvml/picture?width=200&height=200",Melilla: Popular TV Melilla
@@ -172,16 +166,12 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200",Int. América: America's Voice USA EN
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
-#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/BUZZRtv/picture?width=200&height=200",Int. América: BUZZR TV USA EN
-https://buzzr-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200",Int. América: Newsmax TV USA EN
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/ElFinancieroMx/picture?width=200&height=200",Int. América: El Financiero Mexico
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",Int. América: Canal Once Mexico
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 group-title="ESPANHA" tvg-id="TeleSUR.TV" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200",Int. América: TeleSUR Venezuela
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200",Int. América: Bolivia 7.2 TV
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/ABCTVpy/picture?width=200&height=200",Int. América: ABC TV Paraguay
@@ -236,9 +226,6 @@ https://streamtv.mediasector.es/hls/activatv/index.m3u8
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/fmurban/picture?width=200&height=200",Musicales: La Urban TV España
 https://urbanrevolution.es:8443/live/TV/master.m3u8
-#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/StzGrupo/picture?width=200&height=200",Musicales: STZ Telebista España
-#EXTVLCOPT:http-referrer=https://stztelebista.com
-https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/ProduccionesAudiovisuales.CV/picture?width=200&height=200",Musicales: VIVA RTV España
 https://app.viloud.tv/hls/channel/c0d91440f0b445407e7b7a4e414f64ca.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/kronehit/picture?width=200&height=200",Musicales: Kronehit Austria
