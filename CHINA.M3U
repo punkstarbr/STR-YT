@@ -146,3 +146,72 @@ http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OeT46G4TEAH2lO4R69w52FsMnf7IOSSa6Um3gjRrRKFW0T2-4dm9_K2pYQ&s",浙江 Ⅰ 绍兴综合 (576p) [Timeout]
 #EXTVLCOPT:network-caching=1000
 http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+#EXTINF:0 group-title="CHINA",湖南卫视 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
+#EXTINF:0 group-title="CHINA",湖南卫视 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://223.110.245.139/PLTV/4/224/3221227404/index.m3u8
+#EXTINF:0 group-title="CHINA",湖南卫视 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227191/index.m3u8
+#EXTINF:0 group-title="CHINA",湖南卫视 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://223.110.245.168/PLTV/4/224/3221227320/index.m3u8
+#EXTINF:0 group-title="CHINA",湖南卫视 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://223.110.245.170/PLTV/3/224/3221227191/index.m3u8
+#EXTINF:0 group-title="CHINA",湖南卫视 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:0 group-title="CHINA",湖南卫视 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:0 group-title="CHINA",湖南卫视 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
+#EXTINF:0 group-title="CHINA",湖南卫视 (1080p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=6&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:0 group-title="CHINA",湖南卫视 (1080p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=6&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:0 group-title="CHINA",湖南卫视 (1080p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+http://223.110.254.134:6610/cntv/live1/hunanstv/hunanstv/1.m3u8
+#EXTINF:0 group-title="CHINA",湖南卫视 (1080p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+http://183.207.248.71/cntv/live1/hunanstv/hunanstv
+#EXTINF:0 group-title="CHINA",湖南卫视 [Timeout]
+#EXTVLCOPT:network-caching=1000
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=006&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:0 group-title="CHINA",湖南快乐垂钓 (1080p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=69&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:0 group-title="CHINA",湖南快乐购 (1080p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=56&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:0 group-title="CHINA",湖南茶 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=70&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:0 group-title="CHINA",湖南都市 (576p)
+#EXTVLCOPT:network-caching=1000
+http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8
+#EXTINF:0 group-title="CHINA",湖南金鹰卡通 (576p)
+#EXTVLCOPT:network-caching=1000
+http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8
+#EXTINF:0 group-title="CHINA",湘潭公共 (576p)
+#EXTVLCOPT:network-caching=1000
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+#EXTINF:0 group-title="CHINA",湘潭新闻综合 (720p)
+#EXTVLCOPT:network-caching=1000
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:0 group-title="CHINA",湛江综合 (540p)
+#EXTVLCOPT:network-caching=1000
+http://dslive.grtn.cn/zjzh/playlist.m3u8
+#EXTINF:0 group-title="CHINA",滁州公共 (450p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+http://183.167.193.45:1935/live/cztvgg/playlist.m3u8
+#EXTINF:0 group-title="CHINA",滁州新闻综合 (450p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+http://183.167.193.45:1935/live/cztvzh/playlist.m3u8
