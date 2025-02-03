@@ -152,546 +152,63 @@ http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44lfqgxcGjJgExcpDcXOzs7xGyonk7nCefjpIpfA3xU0rFxIrGgakbE8BFg&s",萬州三峽移民 (576p)
 #EXTVLCOPT:network-caching=1000
 http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
-
-
-
-
-
-
-#EXTINF:0 group-title="CHINA",萬州三峽移民 (576p)
-#EXTVLCOPT:network-caching=1000
-http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
-#EXTINF:0 group-title="CHINA",萬州影視文藝 (576p)
-#EXTVLCOPT:network-caching=1000
-http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
-#EXTINF:0 group-title="CHINA",萬州影視文藝 (576p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdrCHgQxQOPAM7pZayn1wmr-MIdFEQB3u9TlKxPJMCvGRFpHa5xr-w57GIg&s",萬州影視文藝 (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
-#EXTINF:0 group-title="CHINA",萬州科教頻道 (576p)
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdrCHgQxQOPAM7pZayn1wmr-MIdFEQB3u9TlKxPJMCvGRFpHa5xr-w57GIg&s",萬州科教頻道 (576p)
 #EXTVLCOPT:network-caching=1000
 http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8
-#EXTINF:0 group-title="CHINA",萬州科教頻道 (576p)
-#EXTVLCOPT:network-caching=1000
-http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8
-#EXTINF:0 group-title="CHINA",萬州綜合頻道 (576p)
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdrCHgQxQOPAM7pZayn1wmr-MIdFEQB3u9TlKxPJMCvGRFpHa5xr-w57GIg&s",萬州綜合頻道 (576p)
 #EXTVLCOPT:network-caching=1000
 http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
-#EXTINF:0 group-title="CHINA",萬州綜合頻道 (576p)
-#EXTVLCOPT:network-caching=1000
-http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
-#EXTINF:0 group-title="CHINA",积石山电视台 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://117.156.28.119/270000001111/1110000152/index.m3u8
-#EXTINF:0 group-title="CHINA",篮球资讯 (576p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://223.110.245.139/PLTV/4/224/3221227023/index.m3u8
-#EXTINF:0 group-title="CHINA",娄底 (720p)
-#EXTVLCOPT:network-caching=1000
-http://mms.ldntv.cn:1935/live/_definst_/zonghe/chunklist_w67585331.m3u8
-#EXTINF:0 group-title="CHINA",娄底综合 (720p)
-#EXTVLCOPT:network-caching=1000
-http://119.39.242.52:1935/live/zonghe/playlist.m3u8
-#EXTINF:0 group-title="CHINA",娄底综合 (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
-#EXTINF:0 group-title="CHINA",精品电影 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://183.207.248.71/cntv/live1/jdianying/jdianying
-#EXTINF:0 group-title="CHINA",红牛REDBULL TV (720p)
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSYXYyoxHJhcH4K0q_u6c_9WhnYRHY8Dqs_l3TJHBmTLRPEXa6FZkwaBFPSsI&s",红牛REDBULL TV (720p)
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:0 group-title="CHINA",纪实人文 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:0 group-title="CHINA",纯享4K (2160p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:0 group-title="CHINA",继续教育 (576p)
-#EXTVLCOPT:network-caching=1000
-http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
-#EXTINF:0 group-title="CHINA",罗山电视台 (1080p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN4XZNgpWmntBkxJiE29UTnl7ZNxzJwIk0ML2H5kbc-q5igmGSUQvqxQgeqQ&s",罗山电视台 (1080p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://live.dxhmt.cn:9081/tv/11521-1.m3u8
-#EXTINF:0 group-title="CHINA",置业 (576p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
-#EXTINF:0 group-title="CHINA",美国中文电视 (406p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://jpts.sinovision.net/livestream.m3u8
-#EXTINF:0 group-title="CHINA",美国亚美卫视 (480p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:0 group-title="CHINA",美国狗狗宠物 (1080p)
-#EXTVLCOPT:network-caching=1000
-https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
-#EXTINF:0 group-title="CHINA",翡翠台 (576p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=188&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:0 group-title="CHINA",耀才财经
-#EXTVLCOPT:network-caching=1000
-http://202.69.67.66/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:0 group-title="CHINA",耀才财经 (288p)
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZnOg5fNthNHJtqn1DXVLQlhN-3zFkSLY918PGiSL-IZnJt1TX00uVwUy6kcU&s",耀才财经 (288p)
 #EXTVLCOPT:network-caching=1000
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:0 group-title="CHINA",肃州电视台 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://117.156.28.119/270000001111/1110000123/index.m3u8
-#EXTINF:0 group-title="CHINA",肇庆综合 (480p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://dslive.grtn.cn/zqzh/playlist.m3u8
-#EXTINF:0 group-title="CHINA",舟山公共生活 (720p)
-#EXTVLCOPT:network-caching=1000
-http://live.wifizs.cn/ggsh/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",舟山新闻综合 (240p)
-#EXTVLCOPT:network-caching=1000
-http://live.wifizs.cn/xwzh/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",舟山新闻综合 (240p)
-#EXTVLCOPT:network-caching=1000
-http://stream.wifizs.cn/xwzh/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",舟山群岛旅游 (720p)
-#EXTVLCOPT:network-caching=1000
-http://live.wifizs.cn/qdly/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",芜湖公共 (576p)
-#EXTVLCOPT:network-caching=1000
-http://live1.wuhubtv.com/channel3/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",芜湖新闻综合 (576p)
-#EXTVLCOPT:network-caching=1000
-http://live1.wuhubtv.com/channel1/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",芜湖生活 (576p)
-#EXTVLCOPT:network-caching=1000
-http://live1.wuhubtv.com/channel2/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",茂名综合 (540p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://dslive.grtn.cn/mmzh/playlist.m3u8
-#EXTINF:0 group-title="CHINA",荣昌综合 (404p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOEYEe2iPh-EwLJa6YVPO5C60LJHiWB0KOVjKuaoAZ7rwjwkULwmUdzBBD8s&s",荣昌综合 (404p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://183.64.181.25:40023/rongchang01.m3u8
-#EXTINF:0 group-title="CHINA",莒縣圖文頻道 (720p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://61.162.225.122:8181/live/test3.m3u8
-#EXTINF:0 group-title="CHINA",莒縣電視一套 (576p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://61.162.225.122:8181/live/test1.m3u8
-#EXTINF:0 group-title="CHINA",莒縣電視二套 (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://61.162.225.122:8181/live/test2.m3u8
-#EXTINF:0 group-title="CHINA",萍鄉公共頻道 (1080p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv3stream.m3u8
-#EXTINF:0 group-title="CHINA",萍鄉教育頻道 (480p)
-#EXTVLCOPT:network-caching=1000
-http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv2stream.m3u8
-#EXTINF:0 group-title="CHINA",萍鄉新聞綜合 (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
-#EXTINF:0 group-title="CHINA",萧山新闻综合 (720p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8AhNxIgNseKWQRaQ7jwPRg2mJA6RmxZtCe1QgRuzggW-h0C4ichQ5601wVw&s",萧山新闻综合 (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:0 group-title="CHINA",蓝屏 432 (576p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=109&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:0 group-title="CHINA",蓬安新闻综合 (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://palive.patv123.com:8091/live/xwpd_800K.m3u8
-#EXTINF:0 group-title="CHINA",蕪湖教育頻道 (576p)
-#EXTVLCOPT:network-caching=1000
-http://live1.wuhubtv.com/channel4/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",蕭山生活頻道 (720p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBz1gCDgt3A3lnUHJ4ucpzQWf3KJkYAfLzaM987vAhhuyHqk0BfT7F545Sg&s",蕭山生活頻道 (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:0 group-title="CHINA",衡水影视娱乐 (480p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://hls.hsrtv.cn/hls/hstv2.m3u8
-#EXTINF:0 group-title="CHINA",衡水新闻综合 (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://hls.hsrtv.cn/hls/hstv1.m3u8
-#EXTINF:0 group-title="CHINA",袁州綜合頻道 (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://jxyz.chinashadt.com:8036/live/yz1.stream/playist.m3u8
-#EXTINF:0 group-title="CHINA",西安丝路 (404p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://stream2.xiancity.cn/xatv5/playlist.m3u8
-#EXTINF:0 group-title="CHINA",西安乐购购物 (180p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://stream2.xiancity.cn/xatv6/playlist.m3u8
-#EXTINF:0 group-title="CHINA",西安商务资讯 (180p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://stream2.xiancity.cn/xatv3/playlist.m3u8
-#EXTINF:0 group-title="CHINA",西安影视 (180p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://stream2.xiancity.cn/xatv4/playlist.m3u8
-#EXTINF:0 group-title="CHINA",西安新闻 (1080p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://stream2.xiancity.cn/xatv1/playlist.m3u8
-#EXTINF:0 group-title="CHINA",西安白鸽 (180p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://stream2.xiancity.cn/xatv2/playlist.m3u8
-#EXTINF:0 group-title="CHINA",西藏卫视 (576p)
-#EXTVLCOPT:network-caching=1000
-http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
-#EXTINF:0 group-title="CHINA",西藏卫视 (576p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
-#EXTINF:0 group-title="CHINA",西藏卫视 (576p)
-#EXTVLCOPT:network-caching=1000
-http://117.169.120.140:8080/live/xizangstv/.m3u8
-#EXTINF:0 group-title="CHINA",西藏卫视 (576p)
-#EXTVLCOPT:network-caching=1000
-http://183.207.249.16/PLTV/3/224/3221225523/index.m3u8
-#EXTINF:0 group-title="CHINA",西藏卫视 (576p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=208&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:0 group-title="CHINA",西藏藏語 (576p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
-#EXTINF:0 group-title="CHINA",西青新闻综合 (1080p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdrCHgQxQOPAM7pZayn1wmr-MIdFEQB3u9TlKxPJMCvGRFpHa5xr-w57GIg&s",西青新闻综合 (1080p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://221.238.209.44:81/hls/live1.m3u8
-#EXTINF:0 group-title="CHINA",贵州卫视 (360p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://125.210.152.18:9090/live/GZWSHD_H265.m3u8
-#EXTINF:0 group-title="CHINA",贵州卫视 (576p)
-#EXTVLCOPT:network-caching=1000
-http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225787/index.m3u8
-#EXTINF:0 group-title="CHINA",贵州卫视 (576p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.66.66/PLTV/88888888/224/3221225576/index.m3u8
-#EXTINF:0 group-title="CHINA",贵州卫视 (576p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
-#EXTINF:0 group-title="CHINA",贵州卫视 (576p)
-#EXTVLCOPT:network-caching=1000
-http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU
-#EXTINF:0 group-title="CHINA",赵县电视一套 (360p)
-#EXTVLCOPT:network-caching=1000
-http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream_360p/playlist.m3u8
-#EXTINF:0 group-title="CHINA",赵县电视一套 (576p)
-#EXTVLCOPT:network-caching=1000
-http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",赵县电视二套 (360p)
-#EXTVLCOPT:network-caching=1000
-http://hbzx.chinashadt.com:2036/zhibo/stream:zx2.stream_360p/playlist.m3u8
-#EXTINF:0 group-title="CHINA",赵县电视二套 (576p)
-#EXTVLCOPT:network-caching=1000
-http://hbzx.chinashadt.com:2036/zhibo/stream:zx2.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",辛集新聞頻道 (480p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://zsxj.chinashadt.com:1935/live/xjxw.stream_360p/playlist.m3u8
-#EXTINF:0 group-title="CHINA",辛集生活頻道 (480p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://zsxj.chinashadt.com:1935/live/xjsh.stream_360p/playlist.m3u8
-#EXTINF:0 group-title="CHINA",辽宁卫视 (576p)
-#EXTVLCOPT:network-caching=1000
-http://183.207.248.71/cntv/live1/liaoningstv/liaoningstv
-#EXTINF:0 group-title="CHINA",辽宁卫视 (576p)
-#EXTVLCOPT:network-caching=1000
-http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8
-#EXTINF:0 group-title="CHINA",辽宁卫视 (576p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.66.66/PLTV/88888888/224/3221225499/index.m3u8
-#EXTINF:0 group-title="CHINA",辽宁卫视 (576p)
-#EXTVLCOPT:network-caching=1000
-http://183.207.249.12/PLTV/4/224/3221225802/index.m3u8
-#EXTINF:0 group-title="CHINA",辽宁卫视 (720p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://125.210.152.18:9090/live/LNWSHD_H265.m3u8
-#EXTINF:0 group-title="CHINA",辽宁卫视 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
-#EXTINF:0 group-title="CHINA",辽宁卫视 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8
-#EXTINF:0 group-title="CHINA",辽宁卫视 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://112.25.48.68/live/program/live/lnwshd/4000000/mnf.m3u8
-#EXTINF:0 group-title="CHINA",辽宁卫视 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8
-#EXTINF:0 group-title="CHINA",辽宁卫视 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=38&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:0 group-title="CHINA",辽宁卫视 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8
-#EXTINF:0 group-title="CHINA",迪庆综合 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",迪庆藏语 (576p)
-#EXTVLCOPT:network-caching=1000
-http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",通州电视台 (720p)
-#EXTVLCOPT:network-caching=1000
-http://pull.dayuntongzhou.com/live/tztv.m3u8
-#EXTINF:0 group-title="CHINA",邗江资讯 (576p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://223.110.245.139/PLTV/4/224/3221227154/index.m3u8
-#EXTINF:0 group-title="CHINA",邵东综合 (576p)
-#EXTVLCOPT:network-caching=1000
-http://hnsd.chinashadt.com:2036/live/stream:shaodong.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",酒泉新闻综合 (576p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://117.156.28.119/270000001111/1110000001/index.m3u8
-#EXTINF:0 group-title="CHINA",重庆卫视 (432p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=10&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
-#EXTINF:0 group-title="CHINA",重庆卫视 (540p)
-#EXTVLCOPT:network-caching=1000
-http://112.25.48.68/live/program/live/cqws/1300000/mnf.m3u8
-#EXTINF:0 group-title="CHINA",重庆卫视 (576p)
-#EXTVLCOPT:network-caching=1000
-http://183.207.249.5/PLTV/4/224/3221225812/index.m3u8
-#EXTINF:0 group-title="CHINA",重庆卫视 (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://183.207.248.71/gitv/live1/G_CHONGQING/G_CHONGQING
-#EXTINF:0 group-title="CHINA",重庆卫视 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
-#EXTINF:0 group-title="CHINA",重庆卫视 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
-#EXTINF:0 group-title="CHINA",重庆卫视 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://117.169.120.132:8080/live/chongqingstv/playlist.m3u8
-#EXTINF:0 group-title="CHINA",重庆卫视 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://223.110.254.137:6610/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv/1.m3u8
-#EXTINF:0 group-title="CHINA",重庆忠县 (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://qxlmlive.cbg.cn:1935/app_2/ls_35.stream/chunklist.m3u8
-#EXTINF:0 group-title="CHINA",重庆移动 (480p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://qxlmlive.cbg.cn:1935/app_2/ls_57.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",重庆移动机场 (480p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://qxlmlive.cbg.cn:1935/app_2/ls_56.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",金昌公共頻道 (240p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",金昌綜合頻道 (720p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",金鹰卡通 (576p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
-#EXTINF:0 group-title="CHINA",金鹰卡通 (576p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
-#EXTINF:0 group-title="CHINA",金鹰卡通 (湖南) (540p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8
-#EXTINF:0 group-title="CHINA",银川公共 (360p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://stream.ycgbtv.com.cn/ycgg/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",银川生活 (360p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",長豐新聞綜合 (576p)
-#EXTVLCOPT:network-caching=1000
-http://218.23.114.19:1935/live/xinwen/playlist.m3u8
-#EXTINF:0 group-title="CHINA",长乐综合 [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-http://35908.hlsplay.aodianyun.com/guangdianyun_35908/tv_channel_327.m3u8
-#EXTINF:0 group-title="CHINA",长沙经贸 [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
-#EXTINF:0 group-title="CHINA",阜城综合 (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://hbfc.chinashadt.com:2036/live/2.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",陕西卫视 (540p)
-#EXTVLCOPT:network-caching=1000
-http://112.25.48.68/live/program/live/sxws/1300000/mnf.m3u8
-#EXTINF:0 group-title="CHINA",陕西卫视 (576p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.66.66/PLTV/88888888/224/3221225567/index.m3u8
-#EXTINF:0 group-title="CHINA",陕西卫视 (576p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
-#EXTINF:0 group-title="CHINA",陕西卫视 (576p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://223.110.245.139/PLTV/4/224/3221227022/index.m3u8
-#EXTINF:0 group-title="CHINA",隆化影视 (576p)
-#EXTVLCOPT:network-caching=1000
-http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",隆化综合 (576p)
-#EXTVLCOPT:network-caching=1000
-http://hblh.chinashadt.com:2036/live/stream:lh1.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",隨州綜合 (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8
-#EXTINF:0 group-title="CHINA",集安综合 [Geo-blocked]
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNJ-ALO4diS8w0szfpNmXL2Yo9xQ4D6BdUbVyrQEXw0bObGgi2HJ7H_lEGr00&s",集安综合 [Geo-blocked]
 #EXTVLCOPT:network-caching=1000
 http://stream2.jlntv.cn/ja/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",霍山综合 (576p)
-#EXTVLCOPT:network-caching=1000
-http://ahhs.chinashadt.com:1936/live/stream:hs1.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",霸州公共頻道 (576p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdrCHgQxQOPAM7pZayn1wmr-MIdFEQB3u9TlKxPJMCvGRFpHa5xr-w57GIg&s",霸州公共頻道 (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",霸州少兒頻道 (576p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdrCHgQxQOPAM7pZayn1wmr-MIdFEQB3u9TlKxPJMCvGRFpHa5xr-w57GIg&s",霸州少兒頻道 (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://hbbz.chinashadt.com:2036/live/stream:bzse.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",霸州文化頻道 (576p)
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS2lZhw-VReJNPdd7-RunoKXSkhCim3XATC8Ff8m1wb-R3uRS6qCam5BYekw&s",霸州文化頻道 (576p)
 #EXTVLCOPT:network-caching=1000
 http://hbbz.chinashadt.com:2036/live/stream:bzwh.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",霸州新聞頻道 (576p)
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZj8MBEilmMa8GMbbsk4Z3KAF8eWY1QhtBCbpULmKdzXsfuo3kdhQi4aMb9Vo&s",霸州新聞頻道 (576p)
 #EXTVLCOPT:network-caching=1000
 http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",青州文化旅游 (576p)
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtuGB78cOF4cu7OdBbtxg9VppT14nb7sm9o1x55UL7_7nhkOcK8bhP7SiIxaA&s",青州文化旅游 (576p)
 #EXTVLCOPT:network-caching=1000
 http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",青州生活 (576p)
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdrCHgQxQOPAM7pZayn1wmr-MIdFEQB3u9TlKxPJMCvGRFpHa5xr-w57GIg&s",青州生活 (576p)
 #EXTVLCOPT:network-caching=1000
 http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",青州综合 (576p)
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdrCHgQxQOPAM7pZayn1wmr-MIdFEQB3u9TlKxPJMCvGRFpHa5xr-w57GIg&s",青州综合 (576p)
 #EXTVLCOPT:network-caching=1000
 http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",青海卫视 (540p)
-#EXTVLCOPT:network-caching=1000
-http://112.25.48.68/live/program/live/qhws/1300000/mnf.m3u8
-#EXTINF:0 group-title="CHINA",青海卫视 (576p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.66.66/PLTV/88888888/224/3221225573/index.m3u8
-#EXTINF:0 group-title="CHINA",青海卫视 (576p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
-#EXTINF:0 group-title="CHINA",青海卫视 (576p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=206&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:0 group-title="CHINA",青海卫视 (576p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=206&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:0 group-title="CHINA",青海卫视 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://live.geermurmt.com/qhws/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",青海安多卫视 (576p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.66.66/PLTV/88888888/224/3221225531/index.m3u8
-#EXTINF:0 group-title="CHINA",靖江新闻綜合 (480p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdrCHgQxQOPAM7pZayn1wmr-MIdFEQB3u9TlKxPJMCvGRFpHa5xr-w57GIg&s",靖江新闻綜合 (480p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
-#EXTINF:0 group-title="CHINA",靖江新闻綜合 (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
-#EXTINF:0 group-title="CHINA",靖江新闻綜合 (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
-#EXTINF:0 group-title="CHINA",静宁综合 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://117.156.28.119/270000001111/1110000147/index.m3u8
-#EXTINF:0 group-title="CHINA",鞍山图文 (480p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
-#EXTINF:0 group-title="CHINA",风尚购物 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
-#EXTINF:0 group-title="CHINA",餘姚姚江文化 (576p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu1rlRvu3_mWuBeSoSJe6W2Ei_FYZtafNGfSNa67JXWDbzWwFQ6zwDXAXNJXw&s",餘姚姚江文化 (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
-#EXTINF:0 group-title="CHINA",马云对话 (480p)
-#EXTVLCOPT:network-caching=1000
-http://www.alibabapictures.com/movies/10/mayunduihua.mp4
-#EXTINF:0 group-title="CHINA",高台电视台 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://117.156.28.119/270000001111/1110000146/index.m3u8
-#EXTINF:0 group-title="CHINA",高清电影 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
-#EXTINF:0 group-title="CHINA",鹤壁新闻综合 (480p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
-#EXTINF:0 group-title="CHINA",鹤峰综合 [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv.m3u8
-#EXTINF:0 group-title="CHINA",鹿泉一套 (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://hblq.chinashadt.com:2036/live/stream:luquan1.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",鹿泉二套 (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://hblq.chinashadt.com:2036/live/stream:luquan2.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",黃驊影視 (576p)
-#EXTVLCOPT:network-caching=1000
-http://hbhh.chinashadt.com:2111/live/hhys.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",黃驊渤海新區 (576p)
-#EXTVLCOPT:network-caching=1000
-http://hbhh.chinashadt.com:2111/live/bhtv.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",黄骅一套 (576p)
-#EXTVLCOPT:network-caching=1000
-http://hbhh.chinashadt.com:2111/live/hhtv.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",黄骅二套 (576p)
-#EXTVLCOPT:network-caching=1000
-http://hbhh.chinashadt.com:2111/live/hhtv2.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",黑莓电竞 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
-#EXTINF:0 group-title="CHINA",黑龙卫视 (720p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://125.210.152.18:9090/live/HLJWSHD_H265.m3u8
-#EXTINF:0 group-title="CHINA",黑龙卫视 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8
-#EXTINF:0 group-title="CHINA",黑龙卫视 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://223.110.245.139/PLTV/4/224/3221227492/index.m3u8
-#EXTINF:0 group-title="CHINA",黑龙卫视 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://223.110.245.170/PLTV/3/224/3221227252/index.m3u8
-#EXTINF:0 group-title="CHINA",黑龙江 (576p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://183.207.248.71/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG
-#EXTINF:0 group-title="CHINA",黑龙江 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
-#EXTINF:0 group-title="CHINA",黑龙江 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://ott.js.chinamobile.com/PLTV/3/224/3221227252/index.m3u8
-#EXTINF:0 group-title="CHINA",黑龙江卫 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
-#EXTINF:0 group-title="CHINA",黑龙江卫视 (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=27&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:0 group-title="CHINA",黑龙江卫视 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
-#EXTINF:0 group-title="CHINA",黑龙江卫视 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
-#EXTINF:0 group-title="CHINA",黑龙江卫视 (1080p)
-#EXTVLCOPT:network-caching=1000
-http://183.207.249.36/PLTV/4/224/3221227323/index.m3u8
-#EXTINF:0 group-title="CHINA",黑龙江卫视 (1080p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://223.110.254.143:6610/cntv/live1/HD-8000k-1080P-heilongjiangstv/HD-8000k-1080P-heilongjiangstv/1.m3u8
-#EXTINF:0 group-title="CHINA",黑龙江影视 [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://stream3.hljtv.com/hljys2/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",黑龙江新闻法治 [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://stream3.hljtv.com/hljxw2/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",黑龙江都市 [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://stream3.hljtv.com/hljdd2/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",黔西南公共 (288p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-http://live.qxndt.com/channel3/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",黔西南综合 (288p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-http://live.qxndt.com/channel2/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",點掌財經 (712p)
-#EXTVLCOPT:network-caching=1000
-http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:0 group-title="CHINA",龙口图文 (576p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://yslk.chinashadt.com:1635/live/stream:di4.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",龙口新闻综合 (576p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",龙口生活 (576p) [Timeout]
-#EXTVLCOPT:network-caching=1000
-http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8
-#EXTINF:0 group-title="CHINA",龙岩公共 (540p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://stream.lytv.net.cn/1/sd/live.m3u8
-#EXTINF:0 group-title="CHINA",龙岩综合 (540p)
-#EXTVLCOPT:network-caching=1000
-http://stream.lytv.net.cn/2/sd/live.m3u8
