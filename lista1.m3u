@@ -42,7 +42,20 @@ https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://i.imgur.com/2CimAAN.png" group-title="Reality Show's Live",RTL-TVI (1080p) [Not 24/7]
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://od.lk/s/M18yOTI2NjczMTZf/france2.png",FRANCE 2
+http://69.64.57.208/france2/playlist.m3u8
 
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://od.lk/s/M18yOTI2NjczMTRf/france5.jpeg", FRANCE 5
+http://69.64.57.208/france5/playlist.m3u8
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="FRANCE 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmrbOqjG8PomXE86TM5SAMP5_Z30xG2nW1kot6nym9nU63PCzUdpHMrAYwA&s",FRANCE 2 FHD
+http://cord-cutter.net:8080/live/j3McKd/673709/160297.m3u8
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="FRANCE 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQONO80OTwp8oIc8fzLkInbb6ZJ8xondzxrzyVhvYg1hZZOSi99MbV3ifz0Ipg&s",FRANCE 3 FHD
+http://cord-cutter.net:8080/live/j3McKd/673709/160298.m3u8
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="FRANCE 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRrR9BsBZw4zTAzFAAxFQuDp1lm06mXAEU-PnGfC7FTLZEyqnuRWDE-P9C4w&s",FRANCE 4 FHD
+http://cord-cutter.net:8080/live/j3McKd/673709/160299.m3u8
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="FRANCE 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu32fM_Xm6U-85aB1LCxFXx6tYjCCu1SdpmlXj5xLUwdm5dCbriIctZf2QHbk&s",FRANCE 5 FHD
+http://cord-cutter.net:8080/live/j3McKd/673709/160300.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ESCUTA FREQUENCIA COORDENAÇÃO HELICOPTEROS - SP
 https://ssl1.transmissaodigital.com:20101/HELI127.35RCB
