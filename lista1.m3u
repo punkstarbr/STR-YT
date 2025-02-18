@@ -78,7 +78,7 @@ http://80.61.63.103:81/cam_1.cgi
 #EXTINF:-1 group-title="🇧🇷 | BRAZIL" tvg-id="NovaEraTV.br" tvg-logo="https://i.imgur.com/IK3F9Uq.png",Nova Era TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nknews.png",DITADURA COREIA
-https://tv.nknews.org/tvdash/stream.mpd
+https://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="CanalMetropolitanodeNoticias.br" tvg-logo="https://i.imgur.com/G0x4xqa.png",Canal Metropolitano de Noticia (720p)
 https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="TVCidadedePetropolis.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/00bb19faeb0ea5b2ca8adcfcbaa1249c.webp",TV Cidade de Petrópolis
