@@ -83,10 +83,10 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TVAratu.br",TV Aratu
+#EXTINF:-1 group-title="CANAIS ABERTOS" tvg-id="TVAratu.br" tvg-logo="https://futebolbaiano.com.br/wp-content/uploads/2024/02/tv-aratu-logo.jpg",TV Aratu
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeMassa.br" status="online",SBT Rede Massa
+#EXTINF:-1 tvg-id="RedeMassa.br" group-title="CANAIS ABERTOS",SBT Rede Massa
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="CANAIS ABERTOS" tvg-logo="N/A",TV Brasil Central
