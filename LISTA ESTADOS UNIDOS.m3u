@@ -6,15 +6,15 @@
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/epg.xml.gz"
 
-
+#EXTM3U url-tvg="https://tinyurl.com/merged2423-epg"
 
 
 #EXTINF:-1 group-title="USA" tvg-id="WABCDT1.us" tvg-name="ABC_EAST" tvg-logo="https://iili.io/JmoUd6g.png",ABC East
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBSEAST" tvg-logo="https://iili.io/JmoUFcJ.png" group-title="USA",CBS East
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="WCBS (New York) CBS East" tvg-logo="https://iili.io/JmoUFcJ.png" group-title="USA",CBS East
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1 tvg-id="NEW YORK NY WCBS" tvg-name="CBS: NY NEW YORK WCBS" tvg-logo="https://iili.io/JmoUFcJ.png" group-title="USA", CBS: NY NEW YORK WCBS
+#EXTINF:-1 tvg-name="CBS" tvg-id="WSBK.(TV-38).Boston.us" tvg-logo="https://iili.io/JmoUFcJ.png" group-title="USA", CBS: NY NEW YORK WCBS
 http://cord-cutter.net:8080/live/j3McKd/673709/120681.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="ALBANY NY WRGB" tvg-name="CBS: NY ALBANY WRGB" tvg-logo="",CBS: NY ALBANY WRGB
 http://cord-cutter.net:8080/live/j3McKd/673709/120676.m3u8
@@ -417,8 +417,7 @@ http://cord-cutter.net:8080/live/j3McKd/673709/135291.m3u8
 http://cord-cutter.net:8080/live/j3McKd/673709/135292.m3u8
 #EXTINF:-1 group-title="Local" tvg-id="JACKSON MS WAPT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDadH9mHkb-c9POtNNGf7FLzLjEl-7Gq31Kijo-lCfAGZ53PhERN9JiM6CQ&s",ABC 16: MS JACKSON WAPT
 http://cord-cutter.net:8080/live/j3McKd/673709/135293.m3u8
-#EXTINF:-1 group-title="News" tvg-id="FOXNEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIEc4MyZIWvx3nNPOVwlUwvivpu_VLsknHjgtCwEvUVl4sJKazM0LiHDbNRSE&s",Fox News
-http://cord-cutter.net:8080/live/j3McKd/673709/135794.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-id="CA ONE SOCCER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWdVr6JmNDpBDk3hyJpMw1WH-vgcjtt_PgRq9DyLYyFVl2dQBQg_H-ji1dPQ&s",One Soccer
 http://cord-cutter.net:8080/live/j3McKd/673709/135810.m3u8
 #EXTINF:-1 group-title="Local" tvg-id="ABC WBAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zfUpUT4THfTxAtufYKGHfrQHtT2nLnZzMOkkDDmm68feZLh13Y_S9Z8PNxM&s",ABC (WBAY) HD
