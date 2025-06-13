@@ -47,12 +47,35 @@ https://5a3c48d69cf69.streamlock.net/tvconnect/tvconnect.sdp/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-id="ext" tvg-logo="http://i64.tinypic.com/2gy8t5h.jpg" group-title="USA",UNIVISION
-http://45.171.64.180:8000/play/a05c/index.m3u8
-#EXTINF:0 tvg-id="TelemundoEast.us" player-buffer="30" tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" group-title="USA" user-agent="iPhone",TELEMUNDO
+#EXTINF:0 tvg-id="ext" tvg-logo="http://i64.tinypic.com/2gy8t5h.jpg" group-title="USA",UNIVISION HOUSTON
+http://tv.nstvlatino.com:8080/UY1108/@373839/1176174
+#EXTINF:0 tvg-id="TelemundoEast.us" player-buffer="30" tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" group-title="USA" user-agent="iPhone",TELEMUNDO HOUSTON
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+http://tv.nstvlatino.com:8080/UY1108/@373839/18776
+
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO PHILADELPHIA " tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT - TELEMUNDO PHILADELPHIA 
+http://tv.nstvlatino.com:8080/UY1108/@373839/43289
+#EXTINF:-1 tvg-id="" tvg-name="LAT- TELEMUNDO TAMPA" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT- TELEMUNDO TAMPA
+http://tv.nstvlatino.com:8080/UY1108/@373839/1070040
+#EXTINF:-1 tvg-id="" tvg-name="LAT- TELEMUNDO ORLANDO" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT- TELEMUNDO ORLANDO
+http://tv.nstvlatino.com:8080/UY1108/@373839/1118963
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO MIAMI" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT - TELEMUNDO MIAMI
+http://tv.nstvlatino.com:8080/UY1108/@373839/1156210
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 39 DALLAS" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT - TELEMUNDO 39 DALLAS
+http://tv.nstvlatino.com:8080/UY1108/@373839/30216
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 44 CHICAGO" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT - TELEMUNDO 44 CHICAGO
+http://tv.nstvlatino.com:8080/UY1108/@373839/30215
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 47 NEW YORK" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT - TELEMUNDO 47 NEW YORK
+http://tv.nstvlatino.com:8080/UY1108/@373839/30213
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 48 SAN FRANCISCO" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]",LAT - TELEMUNDO 48 SAN FRANCISCO
+http://tv.nstvlatino.com:8080/UY1108/@373839/18780
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 60 SAN ANTONIO" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT - TELEMUNDO 60 SAN ANTONIO
+http://tv.nstvlatino.com:8080/UY1108/@373839/18777
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 51 MIAMI" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT - TELEMUNDO 51 MIAMI
+http://tv.nstvlatino.com:8080/UY1108/@373839/18779
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 52 LOS ANGELES" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT - TELEMUNDO 52 LOS ANGELES
+http://tv.nstvlatino.com:8080/UY1108/@373839/18778
 
 #EXTINF:-1 tvg-id="Univision" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="USA",Univision
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
