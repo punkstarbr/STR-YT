@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 group-title="NEWS WORLD",IRAN TV 1
+https://live-bshto1203.telewebion.com/ek/tv1/live/1080p/index.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD",IRAN TV 2
+https://live-bshto1203.telewebion.com/ek/tv2/live/1080p/index.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD",IRAN TV 3
+https://live-bshto1203.telewebion.com/ek/tv3/live/1080p/index.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCxYLOU8hIbQdrJDimy3v9R09ZnjRNnTma3b9QnTqqV1t4aIIqqeeSoH69QQ&s",CAM CAPITOLIO EEUU
 https://www-senate-gov-media-srs.akamaized.net/hls/live/2036784/capcam/capcam/master.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIX6OH6VIrM0t-NWWFOC5fxIe2SQr6YKlrJlIv91LJin5WltdNH2rKvEGjcBA&s",CCTV+1
