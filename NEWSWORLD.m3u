@@ -1,12 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="NEWS WORLD",IRAN TV 1
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/IRIBTV1.svg",IRIB TV1
 https://live-bshto1203.telewebion.com/ek/tv1/live/1080p/index.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",IRAN TV 2
+#EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/IRIB_TV2_logo.svg",IRIB TV2
 https://live-bshto1203.telewebion.com/ek/tv2/live/1080p/index.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",IRAN TV 3
+#EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/IRIB_TV3_LOGO.svg",IRIB TV3
 https://live-bshto1203.telewebion.com/ek/tv3/live/1080p/index.m3u8
+
+
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/Wu4ykxo.png",Globo News HD
 http://tv.nstvlatino.com:8080/UY1108/@373839/7771
