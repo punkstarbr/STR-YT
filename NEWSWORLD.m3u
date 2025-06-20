@@ -25,6 +25,8 @@ http://tv.nstvlatino.com:8080/UY1108/@373839/29329
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="NEWS WORLD",Band News HD
 http://tv.nstvlatino.com:8080/UY1108/@373839/29331
+#EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://imgur.com/tyW3Ppf.png",BM&C NEWS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png" group-title="NEWS WORLD", TIMES BRASIL SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/295479.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png" group-title="NEWS WORLD", TIMES BRASIL HD
