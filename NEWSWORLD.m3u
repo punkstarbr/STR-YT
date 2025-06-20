@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml,https://www.open-epg.com/files/brazil1.xml,http://m3u4u.com/xml/68m7n44xk6bj319pn1ge,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/IRIBTV1.svg",IRIB TV1
 https://live-bshto1203.telewebion.com/ek/tv1/live/1080p/index.m3u8
@@ -15,7 +16,7 @@ https://live-bshto1203.telewebion.com/ek/tv3/live/1080p/index.m3u8
 http://tv.nstvlatino.com:8080/UY1108/@373839/7771
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/Wu4ykxo.png",Globo News HD
 http://tv.nstvlatino.com:8080/UY1108/@373839/7774
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="JovemPanNews.br" tvg-logo="https://i.imgur.com/QWazNSS.png",Jovem Pan News
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="JovemPanNews.br" tvg-logo="https://i.imgur.com/aqgaka0.jpeg",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="NEWS WORLD",Band News SD
 http://tv.nstvlatino.com:8080/UY1108/@373839/29329
