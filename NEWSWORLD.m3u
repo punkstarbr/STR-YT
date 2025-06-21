@@ -364,6 +364,8 @@ https://stream.skynewsarabia.com/hls/sna_720.m3u8
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://i.imgur.com/jHJR3LN.png",Africanews
 https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="al-jazeera-int" tvg-logo="https://iptvx.one/picons/al-jazeera-int.png",Al Jazeera (HD)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png",Aljazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="AlJazeeraChannel.qa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_D9WOAaoPC8yyCvYzHJpvW8L72lbzeA_1Rk2-f3J4P3pczmQXR1UyFtSehA&s",Aljazeera Channel
