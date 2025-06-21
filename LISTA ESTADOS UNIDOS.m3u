@@ -161,8 +161,7 @@ http://38.22.17.37:6969/stream/asd/250/master.m3u8
 
 #EXTINF:-1 tvg-id="abc-news-live-us" tvg-logo="https://epg.iptvx.one/picons/abc-news-live-us.png" group-title="USA",ABC News Live (HD ready)
 https://livetv-fa.tubi.video/abc-news/index.m3u8
-#EXTINF:-1 tvg-id="al-jazeera-int" tvg-logo="https://iptvx.one/picons/al-jazeera-int.png" group-title="Информационные",Al Jazeera (HD)
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="USA",AMC (HD ready)
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="USA",CBS News (HD ready)
