@@ -40,7 +40,7 @@ http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="C-SPAN.us" tvg-name="C-SPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/C-SPAN_Logo_%282019%29.svg" group-title="USA", C-SPAN
 https://fl3.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1 tvg-id="fox-business-us" tvg-logo="https://epg.iptvx.one/picons/fox-business-us.png" group-title="США",Fox Business (HD ready)
+#EXTINF:-1 tvg-id="fox-business-us" tvg-logo="https://epg.iptvx.one/picons/fox-business-us.png" group-title="USA",Fox Business (HD ready)
 http://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://tvconnect.us/wp-content/uploads/2022/05/logotipo-tvc.webp", CONNECT USA
 https://5a3c48d69cf69.streamlock.net/tvconnect/tvconnect.sdp/playlist.m3u8
@@ -159,6 +159,110 @@ http://fl3.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="CNBC World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="USA",CNBC World
 http://38.22.17.37:6969/stream/asd/250/master.m3u8
 
+#EXTINF:-1 tvg-id="abc-news-live-us" tvg-logo="https://epg.iptvx.one/picons/abc-news-live-us.png" group-title="USA",ABC News Live (HD ready)
+https://livetv-fa.tubi.video/abc-news/index.m3u8
+#EXTINF:-1 tvg-id="al-jazeera-int" tvg-logo="https://iptvx.one/picons/al-jazeera-int.png" group-title="Информационные",Al Jazeera (HD)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="USA",AMC (HD ready)
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="USA",CBS News (HD ready)
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-id="cbs-sports-network-us" tvg-logo="https://epg.iptvx.one/picons/cbs-sports-network-us.png" group-title="USA",CBS SPORTS NETWORK (HD ready)
+http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="cnbc-us" tvg-logo="https://epg.iptvx.one/picons/cnbc-us.png" group-title="USA",CNBC (HD ready)
+http://fl3.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://iptvx.one/picons/cnn.png" group-title="USA",CNN (HD ready)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="cnn" tvg-logo="https://iptvx.one/picons/cnn.png" group-title="USA",CNN INTERNATIONAL (HD ready)
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="bbc" tvg-logo="https://iptvx.one/picons/bbc.png" group-title="USA",BBC World News North America (HD)
+http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="bein-sport-us" tvg-logo="https://iptvx.one/picons/bein-sport-us.png" group-title="USA",BEIN SPORTS (HD ready)
+http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="bet-jams-us" tvg-logo="https://iptvx.one/picons/bet-jams-us.png" group-title="USA",BET Jams (EDTV)
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-id="bet-her-us" tvg-logo="https://iptvx.one/picons/bet-her-us.png" group-title="USA",BET Her (HD ready)
+http://fl3.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="bet-soul-us" tvg-logo="https://iptvx.one/picons/bet-soul-us.png" group-title="USA",BET Soul (HVGA)
+http://fl3.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="bet-gospel-us" tvg-logo="https://iptvx.one/picons/bet-gospel-us.png" group-title="USA",BET Gospel (HD ready)
+http://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://iptvx.one/picons/bloomberg.png" group-title="USA",Bloomberg (EU) (HD ready)
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="USA",CINEMAX EAST (HD ready)
+http://fl3.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="espn-us" tvg-logo="https://epg.iptvx.one/picons/espn-us.png" group-title="USA",ESPN 1 (HD ready)
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="espn2-us" tvg-logo="https://epg.iptvx.one/picons/espn2-us.png" group-title="USA",ESPN 2 (HD ready)
+http://fl1.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-id="espn-news-us" tvg-logo="https://epg.iptvx.one/picons/espn-news-us.png" group-title="USA",ESPN NEWS (HD ready)
+http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="espn-u-us" tvg-logo="https://epg.iptvx.one/picons/espn-u-us.png" group-title="USA",ESPN U (HD ready)
+http://fl3.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="Информационные",Euronews (HD)
+https://www.youtube.com/euronewsru/live
+#EXTINF:-1 tvg-id="fox-news-us" tvg-logo="https://iptvx.one/picons/fox-news-us.png" group-title="USA",Fox News (HD ready)
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#EXTINF:-1 tvg-id="fox-business-us" tvg-logo="https://epg.iptvx.one/picons/fox-business-us.png" group-title="USA",Fox Business (HD ready)
+http://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 tvg-id="france24-en" tvg-logo="https://iptvx.one/picons/france24.png" group-title="Информационные",France 24 English (HD ready)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="fx-sports-1-us" tvg-logo="https://epg.iptvx.one/picons/fx-sports-1-us.png" group-title="USA",Fox Sports 1 (HD ready)
+http://fl6.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="fx-sports-2-us" tvg-logo="https://epg.iptvx.one/picons/fx-sports-2-us.png" group-title="USA",Fox Sports 2 (360p)
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="USA",HBO (HD ready)
+http://fl3.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="USA",HBO Family (HD ready)
+http://fl3.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="msnbc-us" tvg-logo="https://epg.iptvx.one/picons/msnbc-us.png" group-title="USA",MSNBC (HD ready)
+http://fl6.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="mlb-network-us" tvg-logo="https://epg.iptvx.one/picons/mlb-network-us.png" group-title="USA",MLB Network (HD ready)
+http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="mtv-us" tvg-logo="https://epg.iptvx.one/picons/mtv-us.png" group-title="USA",MTV (HD ready)
+http://fl6.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="mtv-2-us" tvg-logo="https://epg.iptvx.one/picons/mtv-2-us.png" group-title="USA",MTV 2 (HD ready)
+https://fl5.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="nba-tv-us" tvg-logo="https://epg.iptvx.one/picons/nba-tv-us.png" group-title="USA",NBA TV (HD ready)
+http://fl6.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1039.png" group-title="USA",NBC News NOW (HD)
+https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+#EXTINF:-1 tvg-id="nfl-network-us" tvg-logo="https://epg.iptvx.one/picons/nfl-network-us.png" group-title="USA",NFL Network (HD ready)
+http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="nhl-network-us" tvg-logo="https://epg.iptvx.one/picons/nhl-network-us.png" group-title="USA",NHL Network (HD ready)
+http://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="newsmax-us" tvg-logo="https://epg.iptvx.one/picons/newsmax-us.png" group-title="USA",Newsmax TV (HD)
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="newsnation-us" tvg-logo="https://iptvx.one/picons/newsnation-us.png" group-title="USA",NewsNation (HD ready)
+http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-id="revolt-tv-us" tvg-logo="https://iptvx.one/picons/revolt-tv-us.png" group-title="USA",Revolt (HD)
+http://fl3.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W0Jvi5o.png" group-title="USA",Scripps News (HD ready)
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="USA",Showtime (HD)
+http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="USA",Showtime Next (HD ready)
+http://fl5.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="USA",Showtime Women (HD)
+http://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="USA",TBS (HD ready)
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://iptvx.one/picons/tennis-cnl-us.png" group-title="USA",The Tennis Channel (HD ready)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="USA",USA TODAY (HD ready)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="sky-news-uk" tvg-logo="https://epg.iptvx.one/picons/sky-news-uk.png" group-title="Информационные",Sky News (HD)
+https://jmp2.uk/sam-USBB52000022Q.m3u8
+#EXTINF:-1 tvg-id="rt-news" tvg-logo="https://iptvx.one/picons/rt-news.png" group-title="Информационные",Russia Today (HD)
+http://cdn-01.bonus-tv.ru:80/RussiaToday/index.m3u8
+#EXTINF:-1 tvg-id="baby-tv" tvg-logo="https://iptvx.one/picons/baby-tv.png" group-title="Детские",Baby TV (EDTV)
+http://178.219.128.68:64889/BABYTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.one/img2/423.png" group-title="USA",Nickelodeon East (HD ready)
+http://fl6.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.one/img2/917.png" group-title="USA",Nick Jr. East (HD ready)
+http://fl6.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="nick-music" tvg-logo="https://iptvx.one/picons/nick-music.png" group-title="USA",NickMusic (WSVGA)
+http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="NBC Golf" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/07/golf_render_-rgb.png" group-title="USA",NBC Golf
 http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
