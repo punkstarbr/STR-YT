@@ -12,7 +12,8 @@ https://live-bshto1203.telewebion.com/ek/tv2/live/1080p/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/IRIB_TV3_LOGO.svg",IRIB TV3
 https://live-bshto1203.telewebion.com/ek/tv3/live/1080p/index.m3u8
 
-
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="FoxNewsChannel.us" tvg-logo=https://a57.foxnews.com/static.foxnews.com/static/orion/styles/img/fox-business/og/360/203/og-fox-business.png?ve=1&tl=1",Fox Business
+https://247.foxbusiness.com/hls/live/2003756/FBNHLSv3/master.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/Wu4ykxo.png",Globo News HD
 http://tv.nstvlatino.com:8080/UY1108/@373839/7771
