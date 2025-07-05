@@ -1123,10 +1123,7 @@ http://xlpore-samsungus.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1  group-title="N/A", Link para Lista de Canais (Gist) - Repete
 https://gist.githubusercontent.com/guiworldtv/f8fc64c7e2ab27d1267ef4ce308d1214/raw/5cb5583f79b4842a22a4a84d65f76e96f3fb7fae/==============
 
-#EXTINF:-1  group-title="N/A", Sky News (Pluto)
-https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
-#EXTINF:-1  group-title="N/A", BBC Live
-http://84.22.33.214/bbc/index.m3u8
+
 #EXTINF:-1  group-title="N/A", FilmOn VR Streams
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 #EXTINF:-1  group-title="N/A", France 24
@@ -2059,14 +2056,12 @@ https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
 http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
 #EXTINF:-1  group-title="N/A",Al Sabah (360p) [Not 24/7]
 https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Al Sharqiya News (1080p)
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+
 #EXTINF:-1  group-title="N/A",Al Yaum TV (720p)
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 #EXTINF:-1  group-title="N/A",Alaraby TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1  group-title="N/A",Aleph News (720p)
-https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+
 #EXTINF:-1  group-title="N/A",Alghad Almushreq (576p)
 http://82.212.74.3:8000/live/7512.m3u8
 #EXTINF:-1  group-title="N/A",Amar Ujala (360p) [Not 24/7]
