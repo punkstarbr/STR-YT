@@ -3,6 +3,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/80345b77e4dbf1d74a7a658521b8a01ce151ebd5/PlutoTV/all.xml,https://epg.pw/xmltv/epg_BR.xml,https://epg.pw/xmltv/epg_lite.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/80345b77e4dbf1d74a7a658521b8a01ce151ebd5/nz/epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/80345b77e4dbf1d74a7a658521b8a01ce151ebd5/SamsungTVPlus/all.xml,https://www.bevy.be/bevyfiles/brazilpremium.xml.gz,https://www.bevy.be/bevyfiles/brazil.xml.gz,https://www.bevy.be/bevyfiles/argentinapremium2.xml.gz,https://www.bevy.be/bevyfiles/argentina.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/df76ad7a393ae465e86c969a0f0a0d4a3ed84035/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz"
 
 
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://ucvtv.cl/imagenes/logo-ucv-200.png",UNIVERSIDAD CHILE 1
+https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://ucvtv.cl/imagenes/logo-ucv-200.png",UNIVERSIDAD CHILE 2
+https://unlimited2-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8
 #EXTINF:-1  group-title="NEWS WORLD",Al Sharqiya News (1080p)
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1  group-title="NEWS WORLD", Sky News (Pluto)
@@ -242,8 +246,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?DVR
 https://unlimited1-cl-isp.dps.live/emoltv/emoltv.smil/playlist.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-X1Kh6H1Nqk_XpDR66Fyib432arS_LEYAsV9jxs2zwhnx269ijdUCa1GuWA&s",Emol TV 2
 https://unlimited1-cl-isp.dps.live/emoltv2/emoltv2.smil/playlist.m3u8?DVR
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLHuZ2RyYZ4aAhoV3gD7ykf4JDV2I6s1kV0tYjFU6P9Vy7kOV6H6V3HGhTQ&s",EURONEWS EN ITALIANO
-https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8?DVR
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-gbmlqWNJhNxyID2ZA7SQhpYE_rFJ6cIEp-LnqtYeOzXF1yIzR8XvwketBw&s",IRAN INTERNACIONAL
 https://live.playstop.me/1816184091/index.m3u8?DVR
@@ -537,8 +539,13 @@ https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQgUdCTlQNlFIuILolibTDGGltOyJpXfG2vMSb5SH0m74yUXa9L6v-fX3-qY&s",Al Iraqiya News (720p) [Not 24/7]
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1  group-title="NEWS WORLD",Euronews Espa�ol
+http://clubtv.link/iptv/p13/distro.php?c=euronews-spa&f=.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Euronews" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/euronews.png",Euronews | Union Europea
 https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLHuZ2RyYZ4aAhoV3gD7ykf4JDV2I6s1kV0tYjFU6P9Vy7kOV6H6V3HGhTQ&s",EURONEWS EN ITALIANO
+https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8?DVR
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="France24Espanol(English).mx" tvg-logo="http://i.imgur.com/BFMMPwP.png",France 24 Espanol | Francia
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="France 24" tvg-logo="http://i.imgur.com/BFMMPwP.png",France 24 | Francia
@@ -703,10 +710,7 @@ https://content.uplynk.com/channel/8e7504962da04956953c874a7ad11c6b.m3u8
 https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="N/A" tvg-logo="https://creativecloud.adobe.com/content/dam/2017/8/evolution-of-nbc-logo/article-marquee.jpg",NBC 5 West Palm Beach FL (WPTV)
 https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://ucvtv.cl/imagenes/logo-ucv-200.png",UNIVERSIDAD CHILE 1
-https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://ucvtv.cl/imagenes/logo-ucv-200.png",UNIVERSIDAD CHILE 2
-https://unlimited2-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Aajtak.in" tvg-logo="https://i.imgur.com/o3rBa0e.png",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1920px-News_24_%28Albania%29.svg.png",News 24 - ALBANIA
