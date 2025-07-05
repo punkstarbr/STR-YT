@@ -80,6 +80,43 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 https://live.cnnindonesia.com/livecnn/cnntv.smil/chunklist_w1719934476_b384000_sleng.m3u8
 #EXTINF:-1 group-title="CNN's" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIFOiTu3AdvEbMU59ITXCkJbPTkymY1zAqt9JQlb87Cb8wliVDDnbY9ITMVrpAex3gOUk&usqp=CAU",CNN INDONESIA 2
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="FoxNewsChannel.us" tvg-logo=https://a57.foxnews.com/static.foxnews.com/static/orion/styles/img/fox-business/og/360/203/og-fox-business.png?ve=1&tl=1",Fox Business
+https://247.foxbusiness.com/hls/live/2003756/FBNHLSv3/master.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Fox.News.us" tvg-name="" tvg-logo="https://a57.foxnews.com/static.foxnews.com/static/orion/styles/img/fox-news/og/360/203/og-fox-news.png?ve=1&tl=1",FOX News
+https://247.foxnews.com/hls/live/2003586/FNCHLSv3/master.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",Fox News
+http://cord-cutter.net:8080/k4Svp2/645504/1818#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="FOXNEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIEc4MyZIWvx3nNPOVwlUwvivpu_VLsknHjgtCwEvUVl4sJKazM0LiHDbNRSE&s",Fox News
+http://cord-cutter.net:8080/live/j3McKd/673709/135794.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Fox.News.us" tvg-logo="https://i.imgur.com/m22eA9B.png" radio="false",Fox News
+https://a1xs.vip/300011
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="tvg-id="FoxNewsChannel.us"" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIEc4MyZIWvx3nNPOVwlUwvivpu_VLsknHjgtCwEvUVl4sJKazM0LiHDbNRSE&s",FOX NEWS USA
+http://tv.nstvlatino.com:8080/UY1108/@373839/8255
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="tvg-id="FoxNewsChannel.us"" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIEc4MyZIWvx3nNPOVwlUwvivpu_VLsknHjgtCwEvUVl4sJKazM0LiHDbNRSE&s",FOX NEWS USA
+https://ft.fbcdntv247.cfd/memfs/f03819b3-64bd-4730-ab94-2469c3d30d81_output_0.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="tvg-id="FoxNewsChannel.us"" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIEc4MyZIWvx3nNPOVwlUwvivpu_VLsknHjgtCwEvUVl4sJKazM0LiHDbNRSE&s",FOX NEWS USA 1 SEG
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-name="Fox News" tvg-logo="https://i.imgur.com/GRfQZMK.png",LiveNow Fox
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200",Int. América: FOX Live Now USA EN
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzoYtpgWk9Gbkxrt7YwMv4zFKk-tTyWvwd3Gsxs7qgo5Wizm086TNjgfFzzw&s",FOX NEWS NOW
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?DVR
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFe6qTjABj7RYZE4WqxKgtbHtJtIoh_OFWXTxgFgAyIR_bIbkKxRShNvIoIg&s",FOX WEATHER
+https://247wlive.foxweather.com/stream/index.m3u8?DVR
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFe6qTjABj7RYZE4WqxKgtbHtJtIoh_OFWXTxgFgAyIR_bIbkKxRShNvIoIg&s",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ylJURvhqAYqRvBIUuqW_iHDFGeuReVeXjDxFIj0K-B85vGUK0xgfgL-gIAQ&s",Xumo - Redbox Weather
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFe6qTjABj7RYZE4WqxKgtbHtJtIoh_OFWXTxgFgAyIR_bIbkKxRShNvIoIg&s",FOX WEATHER
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmbc-indonesia-us-id.png",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIEc4MyZIWvx3nNPOVwlUwvivpu_VLsknHjgtCwEvUVl4sJKazM0LiHDbNRSE&s",FOX NEWS USA
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="MSNBC.us" tvg-logo="https://iili.io/JmKvove.png",MSNBC
+http://41.205.93.154:80/MSNBC/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="N/A" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/shows/default-show-image-large-169.jpg",CNN SERVIÇO
 https://newsource-live.warnermediacdn.com/hls/live/2005450/intl01/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="N/A" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/shows/default-show-image-large-169.jpg",CNN SERVIÇO 2
@@ -129,6 +166,14 @@ https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8?DVR
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-gbmlqWNJhNxyID2ZA7SQhpYE_rFJ6cIEp-LnqtYeOzXF1yIzR8XvwketBw&s",IRAN INTERNACIONAL
 https://live.playstop.me/1816184091/index.m3u8?DVR
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yB6IKighgeiOzJDgn4N59HxeW8vYJ-yZvnJ09beDbczjKzF89ObFvcNIgQ&s",IRAN TV INTERNACIONAL
+https://live.playstop.me/1816184091/index.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yB6IKighgeiOzJDgn4N59HxeW8vYJ-yZvnJ09beDbczjKzF89ObFvcNIgQ&s",Iran International (1080p) 
+https://live.playstop.me/1816184091/index.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yB6IKighgeiOzJDgn4N59HxeW8vYJ-yZvnJ09beDbczjKzF89ObFvcNIgQ&s",Iran International (1080p) 2
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png",Iran International
+https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6EBO9hJLcDaZT6AK1dk9TyA--QTe-j0wlrWoBSNhm_WdaZEHZlPON4_jag&s",24H 4
 https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgmic3KYd5ptcmEdaoM0gCjM-efhGLlhLaskDXAk2SY3lorQ6oPXaLQFSAA&s",MEGANOTICIAS 2
@@ -280,8 +325,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="MSNBC.us" tvg-logo="https://iili.io/JmKvove.png",MSNBC
-http://41.205.93.154:80/MSNBC/index.m3u8
+
 
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9QzyI-bCW4uHTCx0-PEAxBlyKKx36upBu8aLu9XYeNnSQ2jCOUJuI0N-BNQ&s",ABC News
@@ -447,30 +491,7 @@ https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 http://78.129.193.20/tsstreamer/TVP_SD.ts
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="W14DKD2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",W14DK-D 14.2 NEWSNET
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="FoxNewsChannel.us" tvg-logo=https://a57.foxnews.com/static.foxnews.com/static/orion/styles/img/fox-business/og/360/203/og-fox-business.png?ve=1&tl=1",Fox Business
-https://247.foxbusiness.com/hls/live/2003756/FBNHLSv3/master.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Fox.News.us" tvg-name="" tvg-logo="https://a57.foxnews.com/static.foxnews.com/static/orion/styles/img/fox-news/og/360/203/og-fox-news.png?ve=1&tl=1",FOX News
-https://247.foxnews.com/hls/live/2003586/FNCHLSv3/master.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",Fox News
-http://cord-cutter.net:8080/k4Svp2/645504/1818#checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="FOXNEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIEc4MyZIWvx3nNPOVwlUwvivpu_VLsknHjgtCwEvUVl4sJKazM0LiHDbNRSE&s",Fox News
-http://cord-cutter.net:8080/live/j3McKd/673709/135794.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Fox.News.us" tvg-logo="https://i.imgur.com/m22eA9B.png" radio="false",Fox News
-https://a1xs.vip/300011
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="tvg-id="FoxNewsChannel.us"" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIEc4MyZIWvx3nNPOVwlUwvivpu_VLsknHjgtCwEvUVl4sJKazM0LiHDbNRSE&s",FOX NEWS USA
-http://tv.nstvlatino.com:8080/UY1108/@373839/8255
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="tvg-id="FoxNewsChannel.us"" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIEc4MyZIWvx3nNPOVwlUwvivpu_VLsknHjgtCwEvUVl4sJKazM0LiHDbNRSE&s",FOX NEWS USA
-https://ft.fbcdntv247.cfd/memfs/f03819b3-64bd-4730-ab94-2469c3d30d81_output_0.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="tvg-id="FoxNewsChannel.us"" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIEc4MyZIWvx3nNPOVwlUwvivpu_VLsknHjgtCwEvUVl4sJKazM0LiHDbNRSE&s",FOX NEWS USA 1 SEG
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-name="Fox News" tvg-logo="https://i.imgur.com/GRfQZMK.png",LiveNow Fox
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200",Int. América: FOX Live Now USA EN
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzoYtpgWk9Gbkxrt7YwMv4zFKk-tTyWvwd3Gsxs7qgo5Wizm086TNjgfFzzw&s",FOX NEWS NOW
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?DVR
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFe6qTjABj7RYZE4WqxKgtbHtJtIoh_OFWXTxgFgAyIR_bIbkKxRShNvIoIg&s",FOX WEATHER
-https://247wlive.foxweather.com/stream/index.m3u8?DVR
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/lPyJhBN.png",UN Web TV 2
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Undefined" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png",Eventuales: +24 - 1
@@ -647,12 +668,6 @@ https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5f
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Y7Fa2eUglqqWnMcDRBzIfLYuP7QpPe9qHkoq7zEzmoxxwUPYSdqFTzuYm3s&s",India Today (720p) [Not 24/7]
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yB6IKighgeiOzJDgn4N59HxeW8vYJ-yZvnJ09beDbczjKzF89ObFvcNIgQ&s",Iran International (1080p)
-https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yB6IKighgeiOzJDgn4N59HxeW8vYJ-yZvnJ09beDbczjKzF89ObFvcNIgQ&s",Iran International (1080p) 2
-https://live.playstop.me/1816184091/index.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png",Iran International
-https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="TRTHaber.tr" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="AstroAwani.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png",Astro Awani
@@ -719,15 +734,4 @@ https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_oIltQpXICh1WhBl8QAEwcEoMUkjT0DJb9shOLhFV0s7XVsP6R9pB_KKyVQ&s",CloudFront Stream
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFe6qTjABj7RYZE4WqxKgtbHtJtIoh_OFWXTxgFgAyIR_bIbkKxRShNvIoIg&s",Fox Weather
-https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ylJURvhqAYqRvBIUuqW_iHDFGeuReVeXjDxFIj0K-B85vGUK0xgfgL-gIAQ&s",Xumo - Redbox Weather
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFe6qTjABj7RYZE4WqxKgtbHtJtIoh_OFWXTxgFgAyIR_bIbkKxRShNvIoIg&s",FOX WEATHER
-https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmbc-indonesia-us-id.png",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yB6IKighgeiOzJDgn4N59HxeW8vYJ-yZvnJ09beDbczjKzF89ObFvcNIgQ&s",IRAN TV INTERNACIONAL
-https://live.playstop.me/1816184091/index.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIEc4MyZIWvx3nNPOVwlUwvivpu_VLsknHjgtCwEvUVl4sJKazM0LiHDbNRSE&s",FOX NEWS USA
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+
