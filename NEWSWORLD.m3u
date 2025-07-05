@@ -230,6 +230,8 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL3.smil/playlist.m3u8?D
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJhXhFmRBYRBTDPq-G78OFQijoOCErVFoQbrz_d8_w511wKF1H5bETvrX9D0&s",CCTV+ 4
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL4.smil/playlist.m3u8?DVR
 
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkd7T-OlHmp7wQcVTFM-M7yY4J8vMg7xRtUgoOFCEgzHK6k-X2tAN2OTLves&s",DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_re8QGDlHCeaBdRUF_ndrmkJPs_EM15Q8qw3QrTOgiOHKduxtcH6oMvstg&s",DW ARABIC
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBAf7iwr2D0X6V5E0ICZRYzObpWE-mZUSloRrbR0UFCNpxdXXH340AAmaLZ9I&s",DW
@@ -238,8 +240,17 @@ https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8?DVR
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6TpFkYQf7RHtp_DRZyjF6vDqTBFTxaUENiJyaVxHC9AmvNuk5a0_G9MbwlQ&s",DW ENG
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?DVR
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkd7T-OlHmp7wQcVTFM-M7yY4J8vMg7xRtUgoOFCEgzHK6k-X2tAN2OTLves&s",DW ESPAÑOL
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?DVR
+#EXTINF:-1  group-title="NEWS WORLD",Euronews Espa�ol
+http://clubtv.link/iptv/p13/distro.php?c=euronews-spa&f=.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Euronews" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/euronews.png",Euronews | Union Europea
+https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLHuZ2RyYZ4aAhoV3gD7ykf4JDV2I6s1kV0tYjFU6P9Vy7kOV6H6V3HGhTQ&s",EURONEWS EN ITALIANO
+https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8?DVR
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="France24Espanol(English).mx" tvg-logo="http://i.imgur.com/BFMMPwP.png",France 24 Espanol | Francia
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="France 24" tvg-logo="http://i.imgur.com/BFMMPwP.png",France 24 | Francia
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKv-RqHTbD1T3RQF4giOyKeCjglfnFGmh66--GL-FRqlVkncDKXLuFLmFhDA&s",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-X1Kh6H1Nqk_XpDR66Fyib432arS_LEYAsV9jxs2zwhnx269ijdUCa1GuWA&s",Emol TV 1
@@ -539,17 +550,8 @@ https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQgUdCTlQNlFIuILolibTDGGltOyJpXfG2vMSb5SH0m74yUXa9L6v-fX3-qY&s",Al Iraqiya News (720p) [Not 24/7]
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",Euronews Espa�ol
-http://clubtv.link/iptv/p13/distro.php?c=euronews-spa&f=.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Euronews" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/euronews.png",Euronews | Union Europea
-https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLHuZ2RyYZ4aAhoV3gD7ykf4JDV2I6s1kV0tYjFU6P9Vy7kOV6H6V3HGhTQ&s",EURONEWS EN ITALIANO
-https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8?DVR
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="France24Espanol(English).mx" tvg-logo="http://i.imgur.com/BFMMPwP.png",France 24 Espanol | Francia
-https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="France 24" tvg-logo="http://i.imgur.com/BFMMPwP.png",France 24 | Francia
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="GBNews.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwq8_L8He_4u7BiMaFJdwC6pzevV92u00EymzOWzdmX8O5HtKEG4LXRvnqg&s",GBNews (alternative stream)
 https://list.iptvcat.com/my_list/s/f4111eb523f441da59566bd3a5592750.m3u8
 
