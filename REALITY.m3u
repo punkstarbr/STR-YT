@@ -2,7 +2,62 @@
 https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
 
 
-#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="Reality Show's Live",POWER COUPLE (BRASIL) CAM 01
+http://pfsv.io:80/alexandre01/123456789/303183.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="Reality Show's Live",POWER COUPLE (BRASIL) CAM 02
+http://pfsv.io:80/alexandre01/123456789/303184.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="Reality Show's Live",POWER COUPLE (BRASIL) CAM 03 
+http://pfsv.io:80/alexandre01/123456789/303185.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="Reality Show's Live",POWER COUPLE (BRASIL) CAM 04
+http://pfsv.io:80/alexandre01/123456789/303186.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="Reality Show's Live",POWER COUPLE (BRASIL) CAM 05
+http://pfsv.io:80/alexandre01/123456789/303182.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="OFFICE - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 01
+http://pfsv.io:80/ana1002/ana1002/303183.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="OFFICE - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 02
+http://pfsv.io:80/ana1002/ana1002/303184.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="OFFICE - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 03 
+http://pfsv.io:80/ana1002/ana1002/303185.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="OFFICE - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 04
+http://pfsv.io:80/ana1002/ana1002/303186.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="OFFICE - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 05
+http://pfsv.io:80/ana1002/ana1002/303182.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="APPCLIENTE - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 01
+http://pfsv.io:80/ronaldo47/4796146727/303183.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="APPCLIENTE - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 02
+http://pfsv.io:80/ronaldo47/4796146727/303184.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="APPCLIENTE - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 03 
+http://pfsv.io:80/ronaldo47/4796146727/303185.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="APPCLIENTE - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 04
+http://pfsv.io:80/ronaldo47/4796146727/303186.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="APPCLIENTE - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 05
+http://pfsv.io:80/ronaldo47/4796146727/303182.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="STAK - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 01
+http://pfsv.io:80/edufelix/glorinha/303183.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="STAK - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 02
+http://pfsv.io:80/edufelix/glorinha/303184.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="STAK - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 03 
+http://pfsv.io:80/edufelix/glorinha/303185.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="STAK - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 04
+http://pfsv.io:80/edufelix/glorinha/303186.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="STAK - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 05
+http://pfsv.io:80/edufelix/glorinha/303182.ts
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="TNT - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 01
+http://pfsv.io:80/Maxtorresps/101280/303183.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="TNT - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 02
+http://pfsv.io:80/Maxtorresps/101280/303184.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="TNT - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 03 
+http://pfsv.io:80/Maxtorresps/101280/303185.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="TNT - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 04
+http://pfsv.io:80/Maxtorresps/101280/303186.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="TNT - POWER COUPLE (BRASIL)",POWER COUPLE (BRASIL) CAM 05
+http://pfsv.io:80/Maxtorresps/101280/303182.ts
+
 #EXTINF:-1 group-title="Reality Show's Live" tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/jJ6v5ea.png",CANAL 5
 http://181.78.106.127:9000/play/ca012/index.m3u8
 #EXTINF:-1 group-title="Reality Show's Live" tvg-id="Undefined" tvg-logo="https://i.imgur.com/uZdVSoW.png",Canal 5  - 2
