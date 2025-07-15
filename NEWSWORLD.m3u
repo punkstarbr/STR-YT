@@ -7,12 +7,10 @@
 https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://ucvtv.cl/imagenes/logo-ucv-200.png",UNIVERSIDAD CHILE 2
 https://unlimited2-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8
-#EXTINF:-1  group-title="NEWS WORLD",Al Sharqiya News (1080p)
+#EXTINF:-1  group-title="NEWS WORLD" tvg-id="AlSharqiyaNews.iq" vg-logo="https://i.imgur.com/qNi4rwG.jpg",Al Sharqiya News (1080p)
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1  group-title="NEWS WORLD", Sky News (Pluto)
 https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
-#EXTINF:-1  group-title="NEWS WORLD", BBC Live
-http://84.22.33.214/bbc/index.m3u8
 #EXTINF:-1  group-title="NEWS WORLD",Aleph News (720p)
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM8mDa-OJxF23I-zmAztj-GYCvc_ysIqBXXI-IGSFv2f71VN58E5rOJ4k1Pw&s",Palitra News (480p) [Not 24/7]
