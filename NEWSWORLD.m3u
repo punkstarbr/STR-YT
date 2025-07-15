@@ -29,7 +29,40 @@ https://live-bshto1203.telewebion.com/ek/tv2/live/1080p/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/IRIB_TV3_LOGO.svg",IRIB TV3
 https://live-bshto1203.telewebion.com/ek/tv3/live/1080p/index.m3u8
 
-
+#EXTINF:-1 group-title="NEWS WORLD",IRIB 4
+https://ncdn.telewebion.com/tv4/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",IRIB 5 TEHRAN
+https://ncdn.telewebion.com/tehran/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",IRIB AMOOZESH
+https://ncdn.telewebion.com/amouzesh/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",IRIB MOSTANAD
+https://ncdn.telewebion.com/mostanad/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",IRIB NAMAYESH
+https://ncdn.telewebion.com/namayesh/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",IRIB NASIM
+https://ncdn.telewebion.com/nasim/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",IRIB POOYA
+https://ncdn.telewebion.com/pooya/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",IRIB SALAMAT
+https://ncdn.telewebion.com/salamat/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",IRIB TAMASHA
+https://ncdn.telewebion.com/hdtest/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",IRIB VARZESH
+https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",IRIB ESHAREH
+https://ncdn.telewebion.com/eshragh/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",IRIB IRINN
+https://ncdn.telewebion.com/irinn/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",IRIB IRINN 2
+https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",IFILM IR
+https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",IRIB TWSPORT
+https://ncdn.telewebion.com/twsport/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",IRIB TWSPORT 2
+https://ncdn.telewebion.com/twsport2/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",IRIB TWSPORT 3
+https://ncdn.telewebion.com/twsport3/live/playlist.m3u8
 
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/Wu4ykxo.png",Globo News HD
@@ -240,7 +273,7 @@ https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8?DVR
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6TpFkYQf7RHtp_DRZyjF6vDqTBFTxaUENiJyaVxHC9AmvNuk5a0_G9MbwlQ&s",DW ENG
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?DVR
-#EXTINF:-1  group-title="NEWS WORLD",Euronews Espa�ol
+#EXTINF:-1  group-title="NEWS WORLD",Euronews Espa ol
 http://clubtv.link/iptv/p13/distro.php?c=euronews-spa&f=.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Euronews" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/euronews.png",Euronews | Union Europea
 https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
