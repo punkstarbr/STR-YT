@@ -20,6 +20,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1efad04
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="RealNewsKerala.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDKgJD6xeiHQHlJcy9tbppBmPWixDvci3pJMUyusljR0v_oBnQXbczGNnixjM&s",Real News Kerala (1080p) [Not 24/7]
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
 
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="SyriaTV.sy" tvg-logo="https://www.syria.tv/themes/syriatv/img/logo.svg",Syria TV
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/IRIBTV1.svg",IRIB TV1
 https://live-bshto1203.telewebion.com/ek/tv1/live/1080p/index.m3u8
 
