@@ -286,16 +286,21 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL3.smil/playlist.m3u8?D
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJhXhFmRBYRBTDPq-G78OFQijoOCErVFoQbrz_d8_w511wKF1H5bETvrX9D0&s",CCTV+ 4
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL4.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkd7T-OlHmp7wQcVTFM-M7yY4J8vMg7xRtUgoOFCEgzHK6k-X2tAN2OTLves&s",DW ESPAÑOL
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?DVR
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_re8QGDlHCeaBdRUF_ndrmkJPs_EM15Q8qw3QrTOgiOHKduxtcH6oMvstg&s",DW ARABIC
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8?DVR
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBAf7iwr2D0X6V5E0ICZRYzObpWE-mZUSloRrbR0UFCNpxdXXH340AAmaLZ9I&s",DW
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8?DVR
+#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="NEWS WORLD",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="NEWS WORLD",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="DW.de@Arabic" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="NEWS WORLD",DW Arabic (1080p)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBAf7iwr2D0X6V5E0ICZRYzObpWE-mZUSloRrbR0UFCNpxdXXH340AAmaLZ9I&s",DW+
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8?DVR
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6TpFkYQf7RHtp_DRZyjF6vDqTBFTxaUENiJyaVxHC9AmvNuk5a0_G9MbwlQ&s",DW ENG
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?DVR
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBAf7iwr2D0X6V5E0ICZRYzObpWE-mZUSloRrbR0UFCNpxdXXH340AAmaLZ9I&s",DW
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8?DVR
+
 #EXTINF:-1  group-title="NEWS WORLD",Euronews Espa ol
 http://clubtv.link/iptv/p13/distro.php?c=euronews-spa&f=.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Euronews" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/euronews.png",Euronews | Union Europea
@@ -1374,15 +1379,6 @@ https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DunyaNewsUK.uk" tvg-logo="https://i.imgur.com/dtrTfZC.png" group-title="NEWS WORLD",Dunya News (UK Feed) (720p) [Not 24/7]
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DW.de@Arabic" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="NEWS WORLD",DW Arabic (1080p)
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-
-#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="NEWS WORLD",DW English (1080p)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="NEWS WORLD",DW Español (1080p)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="DY365.in" tvg-logo="https://i.imgur.com/8LZS3z6.png" group-title="NEWS WORLD",DY 365 (360p)
 https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
