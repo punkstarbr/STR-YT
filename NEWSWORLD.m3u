@@ -218,6 +218,8 @@ https://newsource-live.warnermediacdn.com/hls/live/2005451/intl02/master.m3u8
 https://newsource-live.warnermediacdn.com/hls/live/2005452/intl03/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="N/A" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/shows/default-show-image-large-169.jpg",CNN SERVIÇO 4
 https://newsource-live.warnermediacdn.com/hls/live/2005453/intl04/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="Undefined" tvg-logo="https://i.imgur.com/81NqdwB.png",Arkansas - KNOE SERVIÇO
+https://playlistserver.aws.syncbak.com/playlist/13353644/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTA1NDQ4MDgsImlzcyI6IldMUyIsIm1kNSI6ImRiYjE0OGQwMDQxNmE1YzBmMjQyZmY4MTVjNTBiYTlhIiwibWlkIjoiMTMzNTM2NDQifQ.ifqK3SjqEA9zxIzehzOADwGU3hh7l-T-kXpUQSs10sU
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="FoxNewsChannel.us" tvg-logo=https://a57.foxnews.com/static.foxnews.com/static/orion/styles/img/fox-business/og/360/203/og-fox-business.png?ve=1&tl=1",Fox Business
 https://247.foxbusiness.com/hls/live/2003756/FBNHLSv3/master.m3u8
 #EXTINF:-1 tvg-id="fox-business-us" tvg-logo="https://epg.iptvx.one/picons/fox-business-us.png" group-title="NEWS WORLD",Fox Business (HD ready)
