@@ -8,7 +8,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml"
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
 
 #EXTINF:-1 group-title="USA" tvg-id="WABCDT1.us" tvg-name="ABC_EAST" tvg-logo="https://iili.io/JmoUd6g.png",ABC East
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
