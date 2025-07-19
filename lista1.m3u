@@ -78,18 +78,23 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
 
-#EXTINF:-1 group-title="CANAIS ABERTOS" tvg-id="TVAratu.br" tvg-logo="https://futebolbaiano.com.br/wp-content/uploads/2024/02/tv-aratu-logo.jpg",TV Aratu
+#EXTM3U
+
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVAratu.br" tvg-logo="https://futebolbaiano.com.br/wp-content/uploads/2024/02/tv-aratu-logo.jpg",TV Aratu (SBT Bahia)
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeMassa.br" group-title="CANAIS ABERTOS",SBT Rede Massa
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeMassa.br" tvg-logo="https://static.tvgazeta.com.br/uploads/2020/03/rede-massa-logo.png",SBT Rede Massa (PR)
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
-#EXTINF:-1  tvg-id="N/A" group-title="CANAIS ABERTOS" tvg-logo="N/A",TV Brasil Central
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVBrasilCentral.br" tvg-logo="https://www.tvbrasilcentral.com.br/wp-content/uploads/2022/07/logo-tbc-azul.png",TV Brasil Central (GO)
 https://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8
-#EXTINF:-1  tvg-id="RedeMeioNorte.br" group-title="CANAIS ABERTOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyxMkERnpmNOn07MVanJLvtOeYRrpgh1bpaQ&usqp=CAU",Rede Meio Norte HD
+
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeMeioNorte.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyxMkERnpmNOn07MVanJLvtOeYRrpgh1bpaQ&usqp=CAU",Rede Meio Norte (PI)
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
-#EXTINF:-1  tvg-id="RBATV.br" group-title="CANAIS ABERTOS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/df0c35517ab2f2e9e6e63c1808730694.webp",Band Belém
+
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RBATV.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/df0c35517ab2f2e9e6e63c1808730694.webp",Band Belém (RBA TV)
 https://streaming.gruporba.com.br/rba.m3u8
+
 
 
 
