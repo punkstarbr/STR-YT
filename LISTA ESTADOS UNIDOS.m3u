@@ -1,3 +1,13 @@
+#EXTM3U url-tvg="http://fortv.cc:8080/xmltv.php?username=q8KuDU&password=354945"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
 
 #EXTINF:-1 group-title="USA" tvg-id="ABC.us" tvg-name="ABC_EAST" tvg-logo="https://iili.io/JmoUd6g.png",ABC East
@@ -12,4 +22,1185 @@ https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="KCTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/CBS_logo.svg",CBS 5
 https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
 
+#EXTINF:-1 group-title="USA" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CBS_New_York_logo.svg/2560px-CBS_New_York_logo.svg.png",CBS (WCBS)
+https://ft.fbcdntv247.cfd/memfs/f52160c3-ffe2-4eea-9315-b47c57c06dad_output_0.m3u8
 
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="WCBS (New York) CBS East" tvg-logo="https://iili.io/JmoUFcJ.png" group-title="USA",CBS East
+http://fl3.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-name="CBS" tvg-id="WSBK.(TV-38).Boston.us" tvg-logo="https://iili.io/JmoUFcJ.png" group-title="USA", CBS: NY NEW YORK WCBS
+http://cord-cutter.net:8080/live/j3McKd/673709/120681.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="ALBANY NY WRGB" tvg-name="CBS: NY ALBANY WRGB" tvg-logo="",CBS: NY ALBANY WRGB
+http://cord-cutter.net:8080/live/j3McKd/673709/120676.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="TROY NY WRGB" tvg-name="CBS: NY TROY WRGB" tvg-logo="",CBS: NY TROY WRGB
+http://cord-cutter.net:8080/live/j3McKd/673709/120679.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="FoxEast.us" tvg-logo="https://iili.io/JmoUJMF.png",Fox East
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="NBCEast.us" tvg-logo="https://iili.io/JmoU3Fa.png",NBC East
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="C-SPAN.us" tvg-name="C-SPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/C-SPAN_Logo_%282019%29.svg" group-title="USA", C-SPAN
+https://fl3.moveonjoy.com/C-SPAN/index.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://tvconnect.us/wp-content/uploads/2022/05/logotipo-tvc.webp", CONNECT USA
+https://5a3c48d69cf69.streamlock.net/tvconnect/tvconnect.sdp/playlist.m3u8
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" tvg-logo="http://i64.tinypic.com/2gy8t5h.jpg" group-title="USA",UNIVISION HOUSTON
+http://tv.nstvlatino.com:8080/UY1108/@373839/1176174
+#EXTINF:0 tvg-id="TelemundoEast.us" player-buffer="30" tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" group-title="USA" user-agent="iPhone",TELEMUNDO HOUSTON
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://tv.nstvlatino.com:8080/UY1108/@373839/18776
+
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO PHILADELPHIA " tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT - TELEMUNDO PHILADELPHIA 
+http://tv.nstvlatino.com:8080/UY1108/@373839/43289
+#EXTINF:-1 tvg-id="" tvg-name="LAT- TELEMUNDO TAMPA" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT- TELEMUNDO TAMPA
+http://tv.nstvlatino.com:8080/UY1108/@373839/1070040
+#EXTINF:-1 tvg-id="" tvg-name="LAT- TELEMUNDO ORLANDO" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT- TELEMUNDO ORLANDO
+http://tv.nstvlatino.com:8080/UY1108/@373839/1118963
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO MIAMI" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT - TELEMUNDO MIAMI
+http://tv.nstvlatino.com:8080/UY1108/@373839/1156210
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 39 DALLAS" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT - TELEMUNDO 39 DALLAS
+http://tv.nstvlatino.com:8080/UY1108/@373839/30216
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 44 CHICAGO" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT - TELEMUNDO 44 CHICAGO
+http://tv.nstvlatino.com:8080/UY1108/@373839/30215
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 47 NEW YORK" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT - TELEMUNDO 47 NEW YORK
+http://tv.nstvlatino.com:8080/UY1108/@373839/30213
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 48 SAN FRANCISCO" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]",LAT - TELEMUNDO 48 SAN FRANCISCO
+http://tv.nstvlatino.com:8080/UY1108/@373839/18780
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 60 SAN ANTONIO" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT - TELEMUNDO 60 SAN ANTONIO
+http://tv.nstvlatino.com:8080/UY1108/@373839/18777
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 51 MIAMI" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT - TELEMUNDO 51 MIAMI
+http://tv.nstvlatino.com:8080/UY1108/@373839/18779
+#EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 52 LOS ANGELES" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="USA",LAT - TELEMUNDO 52 LOS ANGELES
+http://tv.nstvlatino.com:8080/UY1108/@373839/18778
+
+#EXTINF:-1 tvg-id="Univision" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="USA",Univision
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
+
+#EXTINF:-1 group-title="USA",Telemundo 
+http://181.78.105.146:2000/play/a093/index.m3u8
+
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univision" tvg-logo=""  group-title="USA", Univision
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
+##EXTVLCOPT:network-caching=2000
+#EXTVLCOPT--http-reconnect=true
+
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univision Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019.png"  group-title="USA", Univision Miami
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+
+#EXTINF:-1 group-title="USA" tvg-id="" tvg-name="" tvg-logo="", UNIVISION 
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u8
+#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="Unimas USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/2669px-Logo_UniM%C3%A1s_2021.svg.png"  group-title="USA", Unimas USA
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+
+#EXTINF:-1  tvg-id="NBCWest.us" group-title="NEWS WORLD" tvg-logo="https://creativecloud.adobe.com/content/dam/2017/8/evolution-of-nbc-logo/article-marquee.jpg",NBC 7 San Diego
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+
+
+
+
+
+ 
+#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="USA",ABC East (Columba)
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="NBCWMAQ.us" tvg-name="NBC East (Chicago)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="USA",NBC East (Chicago)
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="NBCKNBC.us" tvg-name="NBC West (Los Angeles)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="USA",NBC West (Los Angeles)
+http://thevdm.xyz:25461/Jennifer/Year!/39811
+
+#EXTINF:-1 tvg-id="KNBCDT1.us" tvg-logo="https://iili.io/JmoU3Fa.png" group-title="USA",NBC West
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+
+ 
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://iili.io/d9H1TQV.png" group-title="USA",Telemundo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1f756cffcc838e28a3da6541c00ee8b:1444b1c17a5c1f78435de12dcff47c8e
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WNJU)/master.mpd
+ 
+
+#EXTINF:-1 tvg-id="TelemundoKVEA.us" tvg-name="Telemundo West (Los Angeles)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="USA",Telemundo West
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
+#EXTINF:-1 tvg-id="TelemundoWKAQ.pr" tvg-name="Telemundo Puerto Rico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="USA",Telemundo Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1  tvg-id="WKAQDT1.us" group-title="NEWS WORLD" tvg-logo="https://media.telemundopr.com/2020/12/Telemundo-Puerto-Rico-Julio-2020.png?resize=850%2C478&quality=85&strip=all",Telemundo Puerto Rico (WKAQ)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS WORLD" tvg-logo="data:image/jpeg;base64,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",Telemundo Puerto Rico (WKAQ) 2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+#EXTINF:-1 tvg-id="Univision Network HDTV" tvg-logo="https://iili.io/JysWTYB.png" group-title="USA",Univisión
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u8
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA",Univision East
+https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=test_token
+#EXTINF:-1 tvg-id="UnivisionKMEX.us" tvg-name="Univision West (Los Angeles)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA",Univision West (Los Angeles)
+
+#EXTINF:-1 tvg-id="UnivisionWUVG.us" tvg-name="Univision 34 Atlanta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA",Univision 34 Atlanta
+https://unidfp-nlds161.global.ssl.fastly.net/nlds/univisionnow/univision_atl2/as/live/univision_atl2_hd_pc.m3u8?t1=test_token
+#EXTINF:-1 tvg-id="UnivisionKXLN.us" tvg-name="Univision 45 Houston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA",Univision 45 Houston
+https://unidfp-nlds145.global.ssl.fastly.net/nlds/univisionnow/univision_hou2/as/live/univision_hou2_hd_pc.m3u8?t1=test_token
+
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/CNBC_2023.svg" group-title="USA",CNBC
+http://fl3.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="CNBC World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="USA",CNBC World
+http://38.22.17.37:6969/stream/asd/250/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="USA",AMC (HD ready)
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="cbs-sports-network-us" tvg-logo="https://epg.iptvx.one/picons/cbs-sports-network-us.png" group-title="USA",CBS SPORTS NETWORK (HD ready)
+http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="bein-sport-us" tvg-logo="https://iptvx.one/picons/bein-sport-us.png" group-title="USA",BEIN SPORTS (HD ready)
+http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="bet-jams-us" tvg-logo="https://iptvx.one/picons/bet-jams-us.png" group-title="USA",BET Jams (EDTV)
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-id="bet-her-us" tvg-logo="https://iptvx.one/picons/bet-her-us.png" group-title="USA",BET Her (HD ready)
+http://fl3.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="bet-soul-us" tvg-logo="https://iptvx.one/picons/bet-soul-us.png" group-title="USA",BET Soul (HVGA)
+http://fl3.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="bet-gospel-us" tvg-logo="https://iptvx.one/picons/bet-gospel-us.png" group-title="USA",BET Gospel (HD ready)
+http://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://iptvx.one/picons/bloomberg.png" group-title="USA",Bloomberg (EU) (HD ready)
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="bloomberg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1kltagitQcwkA-Swoye2NcTBiLqKUTQfaAMEkhrjDCZKAQtA5B7jTRXgUAQ&s",Bloomberg TV US Live Event (720p)
+#EXTVLCOPT:network-caching=1000
+https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="bloomberg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzy1jzUXJ0oMTPEddnPwD3Jp8wG8pu9Cp_q1Po9j2gwMo3a-Y61OxGb0KIMw&s",Bloomberg TV US Politics Live Event (720p)
+#EXTVLCOPT:network-caching=1000
+https://www.bloomberg.com/media-manifest/streams/politics.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="USA",CINEMAX EAST (HD ready)
+http://fl3.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="espn-us" tvg-logo="https://epg.iptvx.one/picons/espn-us.png" group-title="USA",ESPN 1 (HD ready)
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="espn2-us" tvg-logo="https://epg.iptvx.one/picons/espn2-us.png" group-title="USA",ESPN 2 (HD ready)
+http://fl1.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-id="espn-news-us" tvg-logo="https://epg.iptvx.one/picons/espn-news-us.png" group-title="USA",ESPN NEWS (HD ready)
+http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="espn-u-us" tvg-logo="https://epg.iptvx.one/picons/espn-u-us.png" group-title="USA",ESPN U (HD ready)
+http://fl3.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="Информационные",Euronews (HD)
+https://www.youtube.com/euronewsru/live
+#EXTINF:-1 tvg-id="fox-news-us" tvg-logo="https://iptvx.one/picons/fox-news-us.png" group-title="USA",Fox News (HD ready)
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#EXTINF:-1 tvg-id="fox-business-us" tvg-logo="https://epg.iptvx.one/picons/fox-business-us.png" group-title="USA",Fox Business (HD ready)
+http://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 tvg-id="france24-en" tvg-logo="https://iptvx.one/picons/france24.png" group-title="Информационные",France 24 English (HD ready)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="fx-sports-1-us" tvg-logo="https://epg.iptvx.one/picons/fx-sports-1-us.png" group-title="USA",Fox Sports 1 (HD ready)
+http://fl6.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="fx-sports-2-us" tvg-logo="https://epg.iptvx.one/picons/fx-sports-2-us.png" group-title="USA",Fox Sports 2 (360p)
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="USA",HBO (HD ready)
+http://fl3.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="USA",HBO Family (HD ready)
+http://fl3.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="msnbc-us" tvg-logo="https://epg.iptvx.one/picons/msnbc-us.png" group-title="USA",MSNBC (HD ready)
+http://fl6.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="mlb-network-us" tvg-logo="https://epg.iptvx.one/picons/mlb-network-us.png" group-title="USA",MLB Network (HD ready)
+http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="mtv-us" tvg-logo="https://epg.iptvx.one/picons/mtv-us.png" group-title="USA",MTV (HD ready)
+http://fl6.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="mtv-2-us" tvg-logo="https://epg.iptvx.one/picons/mtv-2-us.png" group-title="USA",MTV 2 (HD ready)
+https://fl5.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="nba-tv-us" tvg-logo="https://epg.iptvx.one/picons/nba-tv-us.png" group-title="USA",NBA TV (HD ready)
+http://fl6.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1039.png" group-title="USA",NBC News NOW (HD)
+https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+#EXTINF:-1 tvg-id="nfl-network-us" tvg-logo="https://epg.iptvx.one/picons/nfl-network-us.png" group-title="USA",NFL Network (HD ready)
+http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="nhl-network-us" tvg-logo="https://epg.iptvx.one/picons/nhl-network-us.png" group-title="USA",NHL Network (HD ready)
+http://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="newsmax-us" tvg-logo="https://epg.iptvx.one/picons/newsmax-us.png" group-title="USA",Newsmax TV (HD)
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="newsnation-us" tvg-logo="https://iptvx.one/picons/newsnation-us.png" group-title="USA",NewsNation (HD ready)
+http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-id="revolt-tv-us" tvg-logo="https://iptvx.one/picons/revolt-tv-us.png" group-title="USA",Revolt (HD)
+http://fl3.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W0Jvi5o.png" group-title="USA",Scripps News (HD ready)
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="USA",Showtime (HD)
+http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="USA",Showtime Next (HD ready)
+http://fl5.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="USA",Showtime Women (HD)
+http://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="USA",TBS (HD ready)
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://iptvx.one/picons/tennis-cnl-us.png" group-title="USA",The Tennis Channel (HD ready)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="USA",USA TODAY (HD ready)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="rt-news" tvg-logo="https://iptvx.one/picons/rt-news.png" group-title="Информационные",Russia Today (HD)
+http://cdn-01.bonus-tv.ru:80/RussiaToday/index.m3u8
+#EXTINF:-1 tvg-id="baby-tv" tvg-logo="https://iptvx.one/picons/baby-tv.png" group-title="Детские",Baby TV (EDTV)
+http://178.219.128.68:64889/BABYTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.one/img2/423.png" group-title="USA",Nickelodeon East (HD ready)
+http://fl6.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.one/img2/917.png" group-title="USA",Nick Jr. East (HD ready)
+http://fl6.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="nick-music" tvg-logo="https://iptvx.one/picons/nick-music.png" group-title="USA",NickMusic (WSVGA)
+http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="NBC Golf" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/07/golf_render_-rgb.png" group-title="USA",NBC Golf
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="Universo.us" tvg-name="NBC Universo East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" group-title="USA",NBC Universo East
+http://supersonictv.live:8080/242306/210404/22170
+#EXTINF:-1 tvg-id="UniversoPacific.us" tvg-name="NBC Universo West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" group-title="USA",NBC Universo West
+http://supersonictv.live:8080/242306/210404/22171
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="USA",MTV East
+https://fl3.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTVPacific.us" tvg-name="MTV West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="USA",MTV West
+http://ufospeeds.com:2095/73622931496/7122224796/138
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/MTV2_logo_2013.svg" group-title="USA",MTV2 East
+https://fl3.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="MTV2Pacific.us" tvg-name="MTV2 West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/MTV2_logo_2013.svg" group-title="USA",MTV2 West
+http://thevdm.xyz:25461/Jennifer/Year!/39805
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/MTV_Classic_US.svg" group-title="USA",MTV Classic
+https://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
+
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/5RZ3WWK/univision.png" group-title="Entretenimiento" user-agent="iPhone", Univision La
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/5RZ3WWK/univision.png" group-title="Entretenimiento" user-agent="iPhone", Univision Chicago
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://animalstream.pro:8080/3@5shark@5@4/SanaleFM45@/18822
+#EXTINF:-1 tvg-id="UnivisionWGBO.us" tvg-name="Univision 66 Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA",Univision 66 Chicago
+https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=test_token
+
+
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/bmRb65v/T47.jpg" group-title="Noticieros" user-agent="iPhone", Telemundo Noticias 47
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/aad665e7-150e-4428-acb7-3176d5b60cc8/playlist.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" group-title="Entretenimiento" user-agent="iPhone", Telemundo East
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" group-title="Entretenimiento" user-agent="iPhone", Telemundo Atlanta
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+http://animalstream.pro:8080/3@5shark@5@4/SanaleFM45@/18615
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" group-title="Entretenimiento" user-agent="iPhone", Telemundo California
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" group-title="Entretenimiento" user-agent="iPhone", Telemundo Florida
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist720.m3u8
+
+#EXTINF:0 player-buffer="30" tvg-logo="https://image.roku.com/developer_channels/prod/02a36bdaed8d449bae35208a64241ab8a81fb5064c9d1d1c7cf8b14bfdf76355.png" group-title="Entretenimiento" user-agent="iPhone", Telemundo Puerto Rico
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT--http-reconnect=true
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="USA" tvg-id="Undefined" tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png",ABC 7 Los Angeles 24/7
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkwQal-Q9TVyOhcpIL-Z_kbVdBq2yog2rnB6j4T5iICvrau4aHxbyCtqRfSc&s",24/7 UFC
+http://cord-cutter.net:8080/live/j3McKd/673709/146291.m3u8
+#EXTINF:-1 group-title="Classic" tvg-id="GUNSMOKE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkqrl58NA4V-rc-IyNJc41JrZ6_X4Ei5hpOs-xWPSFBVKsGHCi_Y02J31vgKA&s",24/7 GUNSMOKE
+http://cord-cutter.net:8080/live/j3McKd/673709/140069.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="NEW YORK NY WABC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIfWlL3wzPIwO0dpkbigRVBz9XJN2kF67wlmTVVEvebNoHt9I8q-l1B7WMmQ&s",ABC: NY NEW YORK WABC
+http://cord-cutter.net:8080/live/j3McKd/673709/120680.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="NEW YORK NY WNBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29kW7kTkQCrJPWNgKAqyFmKAiOoA3t0HBNkhMLdH3UdAoc_TQjuh3pNPC2g&s",NBC: NY NEW YORK WNBC
+http://cord-cutter.net:8080/live/j3McKd/673709/120682.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="NEW YORK NY WPIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPmNxZ5XUMr2_dCgBCdMsxOzPoqdQZqebh5LuY2XpK_bZ5OauvPJPDFduqQ&s",CW: NY NEW YORK WPIX
+http://cord-cutter.net:8080/live/j3McKd/673709/120683.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="NEW YORK NY WOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZsyqPyjJiprM1rQ2MvliYRpqhOkke1oLXf8D1PTeK1Fg4jGMfL3Vy6bSGoeA&s",MyNetwork: NY NEW YORK WOR
+http://cord-cutter.net:8080/live/j3McKd/673709/120684.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="NEW YORK NY WNET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD1eVT6itszGzNpWEYdBzyBIAc6uspup8O5qtglPFlZIpUHKRS_Ps3Kt-p7Q&s",PBS: NY NEW YORK WNET
+http://cord-cutter.net:8080/live/j3McKd/673709/120685.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="NEW YORK NY WLIW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4HfHEAlDtXWUcgX25YQCW6eXIqwDMeBgFqf9odDj8VIUmTHyYNcvp6EYnNQ&s",PBS: NY NEW YORK WLIW
+http://cord-cutter.net:8080/live/j3McKd/673709/120686.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="MIDDLETOWN CT WTNH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeNU1seNlN7LL0IjKnflt5aHMRvAn54wrPZYCYhKdQr5Zo8TRUW4U-mfimPQ&s",ABC: CT MIDDLETOWN WTNH
+http://cord-cutter.net:8080/live/j3McKd/673709/120673.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="ALBANY NY WTEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRSjmvODd_vM_D4x7LkZh2uk5D_ch9c2y6XTrPv-HfdQRjld-W2MqIMtL3iQ&s",ABC: NY ALBANY WTEN
+http://cord-cutter.net:8080/live/j3McKd/673709/120674.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="ALBANY NY WNYT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQMwsoPtd0AkWvVTwSdwk60A10NoIWEEXDSfZhf9HZTXYbkeuSdTTs0DavKQ&s",NBC: NY ALBANY WNYT
+http://cord-cutter.net:8080/live/j3McKd/673709/120675.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="ALBANY NY WXXA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7fHAwLDJU0eoMHp9QbVre52aGhsVjDs32usFmEVYnFrS_cs7UWnRVFk2qw&s",FOX: NY ALBANY WXXA
+http://cord-cutter.net:8080/live/j3McKd/673709/120677.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="SARATOGA NY WNYT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQMwsoPtd0AkWvVTwSdwk60A10NoIWEEXDSfZhf9HZTXYbkeuSdTTs0DavKQ&s",NBC: NY SARATOGA WNYT
+http://cord-cutter.net:8080/live/j3McKd/673709/120678.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="COLORADO SPRINGS CO KXRM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPoYZPXOt10or0Rl7qY5rtcIrFSuPR4WiuZFQsCVzX75z7Y_UHCh-ZFIfUmOA&s",FOX: COLORADO SPRINGS CO KXRM
+http://cord-cutter.net:8080/live/j3McKd/673709/120660.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="COLORADO SPRINGS CO KRDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX1l5dEVM0-bI4zDfZIN_3hlEJB5-ONoACkRbUj-L1gx-PhhkgZyHEZ2SNXg&s",ABC: COLORADO SPRINGS KRDO
+http://cord-cutter.net:8080/live/j3McKd/673709/120661.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="DENVER CO KCNC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_dlvPkhC5FyQNgl77HVP4g1b4uwHyALrkKak92AvI14-XnrTY_6lFMQkr4e0&s",US CBS (KCNC) Denver
+http://cord-cutter.net:8080/live/j3McKd/673709/120662.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="DENVER CO KDVR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyPxUYQBz8j0cnV32euxOaN7CNS8gDfkov0jxuz-hLLi0esjxtEldcgV9fg&s",US FOX (KDVR) Denver
+http://cord-cutter.net:8080/live/j3McKd/673709/120663.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="DENVER CO KUSA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5rIJ1O6Q-Qe9szcqQZacAnQq8IZ__vzcGox2yjvGii7cUxfnBC0U0fnG2UM&s",US NBC (KUSA) Denver (F)
+http://cord-cutter.net:8080/live/j3McKd/673709/120664.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="PUEBLO CO KOAA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfopDttqI0htwFN_KwpI91GUEACdFU8hd-TMmoagw1B4cMGBbwda5OxlWVyvM&s",NBC: CO PUEBLO KOAA
+http://cord-cutter.net:8080/live/j3McKd/673709/120666.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="HARTFORD CT WFSB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4eYHj1mcoBjk3nlIn4_cQsVd2DuOeRBdUQ82gaT1D_-QAwxCDx5uT_pOkU-c&s",CBS: CT HARTFORD WFSB
+http://cord-cutter.net:8080/live/j3McKd/673709/120667.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="HARTFORD CT WVIT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoeXCiPCnWXT8W4eZpZZNibKTDShL-yLlydjhpIfPe25R3d5MhT7MeYWPeuA&s",NBC: CT HARTFORD WVIT
+http://cord-cutter.net:8080/live/j3McKd/673709/120668.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="HARTFORD CT WTIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi0r_jgmj1cuun8Mz3RCZ35c5CAzZumTIuwcLLwhR3Z5uAedE6E4A18oNEuw&s",FOX: CT HARTFORD WTIC
+http://cord-cutter.net:8080/live/j3McKd/673709/120669.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="HARTFORD CT WTNH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeNU1seNlN7LL0IjKnflt5aHMRvAn54wrPZYCYhKdQr5Zo8TRUW4U-mfimPQ&s",ABC: CT HARTFORD WTNH
+http://cord-cutter.net:8080/live/j3McKd/673709/120670.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="NEW HAVEN CT WTNH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeNU1seNlN7LL0IjKnflt5aHMRvAn54wrPZYCYhKdQr5Zo8TRUW4U-mfimPQ&s",ABC: CT NEW HAVEN WTNH
+http://cord-cutter.net:8080/live/j3McKd/673709/120671.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="NEW LONDON CT WFSB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLkDaW2HQOiSvb-Cjt0OJj6jY7EvF3diM0yOzaVgtNVu3RqulocHBKTgqkgsw&s",CBS: CT NEW LONDON WFSB
+http://cord-cutter.net:8080/live/j3McKd/673709/120672.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="PORTLAND ME WMTW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnMkPFhh-TFyJIN3-iOAv4BZ0xhMDnYPCE6hUAzHuXys-kHpuUwQB9fkH3Oxg&s",ABC 8: ME PORTLAND WMTW
+http://cord-cutter.net:8080/live/j3McKd/673709/122276.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="PORTLAND ME WGME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcPZC0D2NRCuWVp1pQmTTDFEUDrcNAPl1Jo3Rd0L5DEkjJx3V18c4WVQGNoA&s",CBS: ME PORTLAND WGME
+http://cord-cutter.net:8080/live/j3McKd/673709/122277.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="BIRMINGHAM AL WIAT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFhouv1A7yvWVH71ppETZ6i8qHU2tybjESmScrHtwm7F9MxxrSuQX1X-CmEOY&s",CBS: AL BIRMINGHAM WIAT
+http://cord-cutter.net:8080/live/j3McKd/673709/120637.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="BIRMINGHAM AL WBRC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RARFfwFAlVpSx5tkd6kKdSBSyDmq3is9SZJqDtStuAPaVO7Ysp43JV2Wmw&s",FOX: BIRMINGHAM AL WBRC
+http://cord-cutter.net:8080/live/j3McKd/673709/120638.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="BIRMINGHAM AL WVTM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPGcxiIL_oJlpOA3ZVMwRVNtEYM_sfkHDM472fv_sYfT79yf-0UzybFQhbw&s",US NBC 13 (WVTM) Birmingham
+http://cord-cutter.net:8080/live/j3McKd/673709/120639.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="HUNTSVILLE AL WAFF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtcjjBcrE_CgxlO7bP0fp8YTHAH08A0GOGpzvevQirFKncX--GiKsZpfM0HFk&s",AL | Huntsville | NBC WAFF
+http://cord-cutter.net:8080/live/j3McKd/673709/120640.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="MOBILE AL WKRG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCPgKejtkjc4yJmLVf0fLaUNeakIEBkQyz8YpQEpzYCpQcQCRHHY2oXzJC1U&s",CBS: AL MOBILE WKRG
+http://cord-cutter.net:8080/live/j3McKd/673709/120641.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="MOBILE AL WALA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5IYS06FjsqP_rML-ElN4py2b0ZfHlJc4NmPKJ9IfgG-2w-fQo4J4yWXHveVY&s",AL | Mobile | FOX WALA
+http://cord-cutter.net:8080/live/j3McKd/673709/120642.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="MOBILE AL WPMI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4v3j6WcZIcV9skS7SmTg9DDPz7ASid7yB2qT3rPpv_xiQ4VibRDSoW9bpas&s",NBC: AL MOBILE WPMI
+http://cord-cutter.net:8080/live/j3McKd/673709/120643.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="MONTGOMERY AL WSFA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpzb45kDosdZvK7HhWyPvHj4L_urqE-YUI9beB4LLeXJTz11XePVunNRB2ASE&s",NBC: MONTGOMERY AL WSFA
+http://cord-cutter.net:8080/live/j3McKd/673709/120644.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="LITTLE ROCK AR KLRT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLaU_pQS0GetkfsJjzC-yezq1fmS3Z2CVfkk4JBCMyrj-cHgaWbKviAFb0DA&s",FOX: LITTLE ROCK AR KLRT
+http://cord-cutter.net:8080/live/j3McKd/673709/120645.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="LITTLE ROCK AR KARK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREkaWhE0pr5G-AsBLdqHPZbwUIf1SLNhYfU2w8g23ptAfC7vnuMFTkFhCozA&s",NBC: AR LITTLE ROCK KARK
+http://cord-cutter.net:8080/live/j3McKd/673709/120646.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="PHOENIX AZ KPHO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHxWB5bY9LCz2MiLsZIyyAh_wD2DbVPeYSf7O2dDp5l0yYpLSaREVQX8Zu8A&s",AZ | Phoenix | CBS KPHO
+http://cord-cutter.net:8080/live/j3McKd/673709/120648.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="PHOENIX AZ KSAZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9p5_CU8aBuNbOmnKU9-Taz8PuRHCZbAxhjmQhdOPQNkXoyXvv7W5F8kH5zmY&s",US FOX 10 (KSAZ) Phoenix
+http://cord-cutter.net:8080/live/j3McKd/673709/120649.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="TUCSON AZ KMSB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhwYQ_931Hb7Z8KHYPuMESLL779In9ZUEWKXcGmOjBSmg3tL5vldSoI2KAfg&s",US FOX 11 (KMSB) Tucson (H)
+http://cord-cutter.net:8080/live/j3McKd/673709/120651.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="TUCSON AZ KVOA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkrSCVOEw-4lCCKXf-S1BSfMnH7N_dNH6wYY-ejR6iNUheZe8DDE-gLvdpQuY&s",US NBC 4 (KVOA) Tucson (H)
+http://cord-cutter.net:8080/live/j3McKd/673709/120652.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="FRESNO CA KSEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsMX4czgQ6V5L2eNI0WsTUL7fw7e8OkX_1zuHcQ6iMSkZxX24rlHVQ04PCa5c&s",NBC: CA FRESNO KSEE
+http://cord-cutter.net:8080/live/j3McKd/673709/120653.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="LOS ANGELES CA KCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC_oAVXJH2_uxuGpIVnNdJaDk8FetFQEM-bnM7I6blwM4cEPCi9AwZ1tdoMw&s",US CBS (KCAL) Los Angeles (F)
+http://cord-cutter.net:8080/live/j3McKd/673709/120654.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="LOS ANGELES CA KTTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVR2UWFQSH3RPY4ldAx4UDqGLTgt7F7L5WwlnzZmq9nIMd4B-VwJokA2iBbSU&s",US FOX 11 (KTTV) Los Angeles
+http://cord-cutter.net:8080/live/j3McKd/673709/120655.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="LOS ANGELES CA KNBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFJ-KSyYwySGmzHJFodSPRiaJRAEnljuT65ZSAxrBXS3EG7dSS0mvjRMXXqw&s",US NBC (KNBC) Los Angeles (F)
+http://cord-cutter.net:8080/live/j3McKd/673709/120656.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="SAN FRANCISCO CA KPIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfEmI7knbMNn2IfHxJPZCmJL3KKKATUNgnSWmSvPs98KiVjHRpfiw6XQju0w&s",CBS: CA SAN FRANCISCO KPIX
+http://cord-cutter.net:8080/live/j3McKd/673709/120657.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="SAN FRANCISCO CA KDTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1LhaaZRo68VPx1qqXsqriwh8CZfNASVFO-P_Q7RePP3VJusTCg75-7plg7g&s",US Univision14 (KDTV) San Francisco
+http://cord-cutter.net:8080/live/j3McKd/673709/120658.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="SAN JOSE CA KNTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf5eQSXbZzSucnUcI0jwjztb8Oy65WKajbInZ_w1mDozooleKt7YQZ4wloSbM&s",NBC: CA SAN JOSE KNTV
+http://cord-cutter.net:8080/live/j3McKd/673709/120659.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="ABC: NC RALEIGH WTVD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7XN08HJmmMdqPcD-HaVj0OZxmvXivo5Q59A5qR9r0_TT-M1KSZnBu6n5JOQ&s",ABC: NC RALEIGH WTVD
+http://cord-cutter.net:8080/live/j3McKd/673709/122064.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="AUGUSTA GA WJBF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqtew54-USAdcLal7e8hYpxKHFDFwOiWUB5V0orV5-1KbbUC-hpDqYgx4AuE&s",ABC 6: GA AUGUSTA WJBF
+http://cord-cutter.net:8080/live/j3McKd/673709/122270.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="AUGUSTA GA WAGT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL1QjqC8dEYziu7NUMQRZD9Q32y78w0hINlhbNKZo_9b-DSNBAfjrQHjVX9Q&s",NBC: GA AUGUSTA WAGT
+http://cord-cutter.net:8080/live/j3McKd/673709/122271.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="AUGUSTA GA WFXG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlmnh9JIeAtxPL4RLi1CkwlBLiVGNxJ9saN_KCp002zBZMMG8gKbxnA-GS0z8&s",FOX: GA AUGUSTA WFXG
+http://cord-cutter.net:8080/live/j3McKd/673709/122272.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="AUGUSTA GA WRDW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNYC8CBwagPQo4jtz-384NzyTdULqJAh5I4RgNW29_ckSHR_UCgw2y8Rb_FVk&s",CBS: GA AUGUSTA WRDW
+http://cord-cutter.net:8080/live/j3McKd/673709/122273.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="CHICAGO IL WGNDT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR09Y4zAcD8Xog_WouuZzqDyyfKlaZbgFyzWPYyA46ehuvqaoGD29POa_vpFqA&s",WGN 9: IL CHICAGO WGNDT
+http://cord-cutter.net:8080/live/j3McKd/673709/122274.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="DOTHAN AL WTVY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn8OedsEK_-79kdT_C2IJ9kgbaoLRUr7oUXAPMA5rvAqlzdf7kJWfRnw_AOYg&s",CBS 4: AL DOTHAN WTVY
+http://cord-cutter.net:8080/live/j3McKd/673709/122275.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="DEJAVIEW HD B" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcxo1i619o020LA39TPXlNqSElg6P4MqrsV627BVAyJfAx9Y7oRh10gSXWw&s",CA DEJAVIEW HD
+http://cord-cutter.net:8080/live/j3McKd/673709/122001.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="SYRACUSE NY WSYR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_-dhujUv7RgNkwHdhqaHx9FKtm0ZBK0ekgPZ5sWyrvi0Ru_nn55dce5m9HQ&s",ABC 9: NY SYRACUSE WSYR
+http://cord-cutter.net:8080/live/j3McKd/673709/122002.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="SYRACUSE NY WSYT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeixZNYH3jNwi8kHfXt3FIEbwcQYf1yckywI2BVzgZrsrWIz2gaM6rqNGbA_s&s",FOX: NY SYRACUSE WSYT
+http://cord-cutter.net:8080/live/j3McKd/673709/122003.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="SYRACUSE NY WTVH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp6CNlzP5RtqaHeC00Otd582dKVUYu6G77F1CiEOJl0yL09S00X1fyM_Vm7zc&s",CBS: NY SYRACUSE WTVH
+http://cord-cutter.net:8080/live/j3McKd/673709/122004.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="SYRACUSE NY WSTM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH_gqF05TYqUbrAJ4PG75x2swR4NDrPzYMNWhw3ajhs_ZSRV00_lfn_4vaTPw&s",NBC 3: NY SYRACUSE WSTM
+http://cord-cutter.net:8080/live/j3McKd/673709/122005.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="HAZARD KY WYMT-DT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzy1rpI2pFQ3SKnYIwDvMF9bQe_LwuT1oZIYi_C4twhLBkRMQ87KoKsESD5c4&s",CBS 57: KY HAZARD WYMT-DT
+http://cord-cutter.net:8080/live/j3McKd/673709/122006.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="LEXINGTON KY WKYT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSri5a6Y3qq0FZSYTSxryLSlSdz_zjATKcXBdz9CzWqfyl3oRA5XVvnPswjHA&s",CBS: KY LEXINGTON WKYT
+http://cord-cutter.net:8080/live/j3McKd/673709/122007.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="MANCHESTER NH WMUR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAxHYXUphEKY3dbIhmQyam8ZkWd9ec7sTF6Nm-W0zg8o0OHaPhoAgUNesQYQ&s",ABC: NH MANCHESTER WMUR
+http://cord-cutter.net:8080/live/j3McKd/673709/122057.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="CHARLESTON SC WCSC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVSPvA1WBtpfrHViSiuHwMQtW5LN7jDMXS1ydCeJ8qQT3rSh6UaLj1ueZG3Q&s",CBS 5: SC CHARLESTON WCSC
+http://cord-cutter.net:8080/live/j3McKd/673709/122058.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="BOSTON MA WBTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcL7fQ5VLnPZnpuZgm-YgApSojc8z4BXG-BeKY93ToW6Klx4dalQ0Tj1I6RQ&s",NBC: MA BOSTON WBTS
+http://cord-cutter.net:8080/live/j3McKd/673709/121746.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="CHARLESTON SC WCIV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVXAwIMSfqWLN2tV30rRYJ17kk8gcDqW4Uon9KywfAb_DNdWW2bF6npeMIIMk&s",ABC 4: SC CHARLESTON WCIV
+http://cord-cutter.net:8080/live/j3McKd/673709/121759.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="FORT MYERS FL WINK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUvN4VBglwMKvhfLXZ7rPtsSA7LN8rZbuAaiYFnTQ5oCRDQ-eRx2SUZWebPUY&s",CBS: FL FORT MYERS WINK
+http://cord-cutter.net:8080/live/j3McKd/673709/121761.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="PHILADELPHIA PA WPVI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_cV8S4QI74fGtDojKW1ARQsIVgd4WQ8FbmxZQJQPKO_tjk15yEzlP_4wLwQ&s",ABC: PA PHILADELPHIA WPVI
+http://cord-cutter.net:8080/live/j3McKd/673709/121149.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="PHILADELPHIA PA KYW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFOZKPgOZweIapzOlyq3i8PaWyg96CiSQtWJu__jkhcHaWXF4HqcoIdJNdI-0&s",CBS: PA PHILADELPHIA KYW
+http://cord-cutter.net:8080/live/j3McKd/673709/121150.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="CLEVELAND OH WOIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZE3iw9j74u8_SBhXsi2TNO1QPdtUPjpZN_Wb-2J9dkqExu-1voAJF6nyFQ&s",CBS 19: OH CLEVELAND WOIO
+http://cord-cutter.net:8080/live/j3McKd/673709/121152.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="FLORIDA ALABAMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZV2-XJNiqo4bwd_cBIB1xft_ZvKHsa3CNWiqnqSNzPliIyQjA0b8EintSdQ&s",Florida - Alabama
+http://cord-cutter.net:8080/live/j3McKd/673709/121154.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="ALABAMA WPMI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4v3j6WcZIcV9skS7SmTg9DDPz7ASid7yB2qT3rPpv_xiQ4VibRDSoW9bpas&s",NBC 15: ALABAMA WPMI
+http://cord-cutter.net:8080/live/j3McKd/673709/121155.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="SAN ANTONIO TX KSAT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbG4DyIrXwgXduNjsOQ7vWe4Hr2VVF19_zsgw9C4AnMN1o9E6rbxda4aUSw&s",ABC 12: TX SAN ANTONIO KSAT
+http://cord-cutter.net:8080/live/j3McKd/673709/121156.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="SAN ANTONIO TX WOAI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLl4EBjP3VJSjPTLQlsM-w46g_IxY34-8G13tFIOUN6yj3UmNO_uX7SKABTw&s",NBC 4: TX SAN ANTONIO WOAI
+http://cord-cutter.net:8080/live/j3McKd/673709/121157.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="SAN ANTONIO TX KMYS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRguRbv0D8hOjhEYavZ76koI05gVDPmF9Y0Ps8goM1C8SQZRPPayXdRIjBc8DY&s",CW 35: TX SAN ANTONIO KMYS
+http://cord-cutter.net:8080/live/j3McKd/673709/121158.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="NEW ORLEANS LA WGNO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3_HTZnDBxoOSerNs6vw3l4lFudtrK8nYanXzR2xdcdRT1kUEEHBSq5Cvr04&s",ABC 26: LA NEW ORLEANS WGNO
+http://cord-cutter.net:8080/live/j3McKd/673709/121159.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="LOUISVILLE KY WLKY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHWMe65qlWv_mvxbS09FLSNNQv9YJ-u0z3eNtwPSssuSDlRalP7LmIQ-fGhA&s",CBS 32: KY LOUISVILLE WLKY
+http://cord-cutter.net:8080/live/j3McKd/673709/121160.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="MEMPHIS TN WATN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRYhLPhCsxLfZBi_jvG2PKwTO18Ktju_hYJJnShUX0TTdpr1zlUicjDX40zQ&s",ABC 24: TN MEMPHIS WATN
+http://cord-cutter.net:8080/live/j3McKd/673709/121161.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="MEMPHIS TN WREG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiSgldHM8Y-5gT3Y1i0l6hg5qZ3v50V-EDkIRKYDO7k9Y9vnQtxnFgocw3LQ&s",CBS: TN MEMPHIS WREG
+http://cord-cutter.net:8080/live/j3McKd/673709/121162.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="MISSOULA MT KPAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiRDo_5cBZVf4Xp1NVcbFOfycGPIdsQfHvdNqvSMsPfsSq_oN5dhoibvgIjw&s",CW 8: MT MISSOULA KPAX
+http://cord-cutter.net:8080/live/j3McKd/673709/121163.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="NASHVILLE TN WZTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTouNb_f45XRNLnyIuhXTsJNGy8KBV1qlTnCY5TVY8J1OVvj62iFRV2_uNxKg&s",FOX: TN NASHVILLE WZTV
+http://cord-cutter.net:8080/live/j3McKd/673709/121164.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="INDIANAPOLIS IN WRTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFv_DkaAegWngqSi5SPElSzNeOwemuR2K1vTSJ2rsVHxSINUsrkyONaudYD1g&s",ABC: IN INDIANAPOLIS WRTV
+http://cord-cutter.net:8080/live/j3McKd/673709/121165.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="INDIANAPOLIS IN WTTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtgVoDA2nG9pXZI2wXsmZ421dsB1s16gZ3JBkftqfs47i0NOem5WaGqYTnUg&s",CBS 4: IN INDIANAPOLIS WTTV
+http://cord-cutter.net:8080/live/j3McKd/673709/121166.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="CHARLOTTE NC WBTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI2WeFC9yLeu55l3H4s2J4uHoJEu6kLZsdmadPSwSFOimCQj_X3WZJP4vyxxg&s",CBS 3: NC CHARLOTTE WBTV
+http://cord-cutter.net:8080/live/j3McKd/673709/121168.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="PITTSBURGH PA WTAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnKW_VBgMnjXohED7tkY4PQ3l-IrfpY5sN4350B3SFsYaA-T4Wtyk1Sj4WMA&s",ABC 4: PA PITTSBURGH WTAE
+http://cord-cutter.net:8080/live/j3McKd/673709/121169.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="PITTSBURGH PA WPCW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEEpZ9d-aEBibSoi9jQzclyvLsdztNVayNIp5NOd3Z2yXQvK7P4epZXAyY9EQ&s",CW 19: PA PITTSBURGH WPCW
+http://cord-cutter.net:8080/live/j3McKd/673709/121170.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="PORTLAND OR KATU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1CTc0hxdMKJqFEnY9G9tksZgG82rFSZ1WpU6WoamLjs9vkLVMCYk2zqMhTg&s",ABC 2: OR PORTLAND KATU
+http://cord-cutter.net:8080/live/j3McKd/673709/121171.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="PHOENIX AZ KPNX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtnLvyZ-AhkK116jIVOgfYJRCxIe010QoTQ0jnt0NKlOCOQt0umz8rUthoNA&s",NBC 12: AZ PHOENIX KPNX
+http://cord-cutter.net:8080/live/j3McKd/673709/121172.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="SAN DIEGO CA KNSD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQq2YQxT82t-JZ_2pvrrnJ1gXAF3zBxEfNAu_2iTOKvzrwnAK0A6QDuN_cYg&s",NBC: CA SAN DIEGO KNSD
+http://cord-cutter.net:8080/live/j3McKd/673709/121173.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="SAN DIEGO CA KSWB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRryOd5mth3x4rnmhw6s1D7gibci3LvGCQXhmNL42N69QJP939MZZJnwdDQ_Q0&s",FOX: CA SAN DIEGO KSWB
+http://cord-cutter.net:8080/live/j3McKd/673709/121174.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="SAN DIEGO CA KFMB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LFP6rFJI4v2gOPgoKv4CBw4ujsFMmxFmGQ8R1JOysrAqTs39sJ0NVUq8yA&s",CBS: CA SAN DIEGO KFMB
+http://cord-cutter.net:8080/live/j3McKd/673709/121175.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="SAN DIEGO CA KGTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo2zOaFN1mTzH5v_x4BEz8UT2_RJLr5Bzj1FV0Bjwsdaw8o-MawwCn6tZYOw&s",ABC 10: CA SAN DIEGO KGTV
+http://cord-cutter.net:8080/live/j3McKd/673709/121176.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="FORT WORTH TX KTXA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT04NuaJa1yVPzerGaVXsaPm8smCOhDN7VBmwDfTlUH5PtKKV4BlvmB21FqIf8&s",CBS: TX FORT WORTH KTXA
+http://cord-cutter.net:8080/live/j3McKd/673709/121238.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="DALLAS TX KTXA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-HzSX8d9dosxw9mkTnGZD9URIYBnr3IP14B56QKxnQI6zNT88Yv_t5dFCw&s",TXA21: TX DALLAS KTXA
+http://cord-cutter.net:8080/live/j3McKd/673709/121239.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="DALLAS TX KDFI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZSQ0p9nFYuKQtZCSdXxYGzsMHcFPSnRuy4Mi9PuhcybsNrEn-oczITu3dyQ&s",MyTV: TX DALLAS KDFI
+http://cord-cutter.net:8080/live/j3McKd/673709/121240.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="MIAMI FL WTVJ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ24ToGJZyEldI35XDcMKbKPrHmFMp8hOb6b4IhH2_E3_j5Silgg3U5PMQx5w&s",NBC: FL MIAMI WTVJ
+http://cord-cutter.net:8080/live/j3McKd/673709/121241.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="MIAMI FL WSVN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX9rxl_HuBLxHxh2S5KZ889oaeBwCpjfXji_KZPB3SLhOAhfY3P9i_fPrYMEY&s",FOX: FL MIAMI WSVN
+http://cord-cutter.net:8080/live/j3McKd/673709/121242.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="MIAMI FL WFOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaIrWYMViPoK9xEaUGRqryEDP5SUT4OwJcLH2jz6Ed8AHQDXQGFhLSqNIxuQ&s",CBS: FL MIAMI WFOR
+http://cord-cutter.net:8080/live/j3McKd/673709/121243.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="MIAMI FL WPLG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnx0130L65jt8rIzItH24PFkqQiBV641zr049ohN037rZeW6h9t-KZZivmqA&s",ABC 10: FL MIAMI WPLG
+http://cord-cutter.net:8080/live/j3McKd/673709/121245.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="MIAMI FL WBFS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5w25hEv708WNRDkoHFBIoyANYAD0ogjf43Dhk8xyC6a0rxuVn1i3-vVN-qD8&s",MY 33: FL MIAMI WBFS
+http://cord-cutter.net:8080/live/j3McKd/673709/121246.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="DOTHAN AL WRGX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsPCB5Quqx6-133ZHTWXS8PnyzarvAYvIjeMbsSUBZN8SWsIyNad9wD3IaJw&s",NBC: AL DOTHAN WRGX
+http://cord-cutter.net:8080/live/j3McKd/673709/121591.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="DOTHAN AL WDFX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bNTYVBUqFC9gT5c0sii_SNaF-ftAH6McrxDMmEmcjjPcpH0F6PNTuszc_g&s",FOX: AL DOTHAN WDFX
+http://cord-cutter.net:8080/live/j3McKd/673709/121592.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="DOTHAN AL WDHN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfnrI9L_qDha36u_jNDMifarTFLM20MmEB_m25go2KlyiJl1Pvd0doxMJMZQ&s",ABC 18: AL DOTHAN WDHN
+http://cord-cutter.net:8080/live/j3McKd/673709/121593.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="WEST PALM BEACH FL WFLX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHBkurPb5VkuYc3q0Vpz9IAIPA9BiNILh52r6eWKq7XNndu4s5LWNGovw6S8&s",FOX: FL WEST PALM BEACH WFLX
+http://cord-cutter.net:8080/live/j3McKd/673709/121595.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="WEST PALM BEACH FL WPEC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ358s3mCPekz3Wr50hRikkqVd2brW_j0gXbEIqcX0xg-vTD86621XKBKIQBA&s",CBS 12: FL WEST PALM BEACH WPEC
+http://cord-cutter.net:8080/live/j3McKd/673709/121596.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="WEST PALM BEACH FL WPBF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtaKFu1oskO_XKV5lOy18fScxW_BW_SvbAlUjCnIhfOLi2E2VfYck6uvR4SuY&s",ABC 25: FL WEST PALM BEACH WPBF
+http://cord-cutter.net:8080/live/j3McKd/673709/121597.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="JOHNSTOWN PA WJAC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvsA05RhWV6ms4INyHe_HDbqLSfHeE7A1AT5HRioJ536xfrsDQlyorgAp3yv4&s",NBC 6: PA JOHNSTOWN WJAC
+http://cord-cutter.net:8080/live/j3McKd/673709/121664.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="CHICAGO IL WLS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHJHVEW6imGK6JKhrrQvk8QODFxf13Tx7HYLCvmpotL8qRuATEIDxmcB4pOg&s",ABC 7: IL CHICAGO WLS
+http://cord-cutter.net:8080/live/j3McKd/673709/121665.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="BOSTON MA WCVB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqp7ZoAbTsxCIBmnQIjopLx_905sfR9NXvKBeYTng-erb7Pv7J481oIAf1ZZs&s",ABC 5: MA BOSTON WCVB
+http://cord-cutter.net:8080/live/j3McKd/673709/121745.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="JACKSON MS WJTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMaPjoD6DFGwdhuoRQeYS2lNhLWkkCtF50UBcdZpsrjpfA7lqaroWzaXFq_g&s",CBS: MS JACKSON WJTV
+http://cord-cutter.net:8080/live/j3McKd/673709/135291.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="JACKSON MS WDBD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToNcTdjXCy3p95U-i5YWn6zvEEf0n6a3lkKNdlwgJRujxIAz-9H1Irz7R0Og&s",FOX 40: MS JACKSON WDBD
+http://cord-cutter.net:8080/live/j3McKd/673709/135292.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="JACKSON MS WAPT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDadH9mHkb-c9POtNNGf7FLzLjEl-7Gq31Kijo-lCfAGZ53PhERN9JiM6CQ&s",ABC 16: MS JACKSON WAPT
+http://cord-cutter.net:8080/live/j3McKd/673709/135293.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="CA ONE SOCCER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWdVr6JmNDpBDk3hyJpMw1WH-vgcjtt_PgRq9DyLYyFVl2dQBQg_H-ji1dPQ&s",One Soccer
+http://cord-cutter.net:8080/live/j3McKd/673709/135810.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="ABC WBAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zfUpUT4THfTxAtufYKGHfrQHtT2nLnZzMOkkDDmm68feZLh13Y_S9Z8PNxM&s",ABC (WBAY) HD
+http://cord-cutter.net:8080/live/j3McKd/673709/135811.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="WI FOX WLUK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkShIw7zso3ff7Vcllw1ofvO5IHywXQZdP0G1iMCohfUexdzhVZJBDOCknku0&s",FOX: WI GREEN BAY WLUK
+http://cord-cutter.net:8080/live/j3McKd/673709/135812.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="WI CBS WFRV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEkJyLuzZLn4BN1ofWG_tVQmmDHkBjpTF6adq42nTAfmJ2IiVvsHXT5W5bOg&s",CBS: WI GREEN BAY WFRV
+http://cord-cutter.net:8080/live/j3McKd/673709/135813.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="ROCHESTER NY WUHF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3xjclIHC7UJV2FVItmUlTB4A6jlv1JkkRorqfFlCr1Z0yrIGRqx5oyOoivz4&s",FOX: NY ROCHESTER WUHF
+http://cord-cutter.net:8080/live/j3McKd/673709/135877.m3u8
+#EXTINF:-1 group-title="News" tvg-id="CSPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbkSFNg2Z3cHvtzdoGX713Ms_pckOPHNRu-UBg2wcH7SH_-XsQdFGXW5-uXg&s",CSPAN FHD
+http://cord-cutter.net:8080/live/j3McKd/673709/136589.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="CA CTV2 VANCOUVER ISLAND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi6xgk_G8L_-ZUnf2RiTagBg3DH64bXuA2kwr0LkgxvnvUr61Wlwis6H3fg2k&s",CTV2 VANCOUVER ISLAND (E)
+http://cord-cutter.net:8080/live/j3McKd/673709/136612.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="FOX WTTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHlZEPjMRMtU6Rq6oQpOu_BuEKwhAB_bD4Mr6M0DQA0shjFmfBSaUC-TeiLQ&s",FOX: OH COLUMBUS WTTE
+http://cord-cutter.net:8080/live/j3McKd/673709/136613.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="CA Global Montreal HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH5osCxp9xVeXg3HxJRkTbLAVxbrjcVEXMqWtupHcbD3jJZ9iEtBFvkWAn1A&s",Global Montreal HD (B)
+http://cord-cutter.net:8080/live/j3McKd/673709/136640.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="CA Global Monterial News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS19ztpvT3Z2jFNJqqQ-HgS4oH19laxpBm4hYz6S4PMZMNnnvnJou0DjCmUsw&s",Global Monterial News (E)
+http://cord-cutter.net:8080/live/j3McKd/673709/136641.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="PT BENFICA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSehaDTmpuffTTXHC8CXzMfSl4VM5LDUdltZYX-VVVd4EqLhh5h00I963N0oQ&s",BENFICA TV HD (P)
+http://cord-cutter.net:8080/live/j3McKd/673709/136726.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="CHATTANOOGA TN WDEF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0DGl7jyUILMG5eWKLeDEif-y1SlB4SsGGBxS2yxYCFghriJ4g33npGiL-ag&s",CBS: TN CHATTANOOGA WDEF
+http://cord-cutter.net:8080/live/j3McKd/673709/136739.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="CHATTANOOGA TN WTVC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdPIcdreP67hRiTDjhqHu4f6tjY5iR-cXZfXrnOhxMFY9oxRTiILSauoAadDk&s",FOX: TN CHATTANOOGA WTVC
+http://cord-cutter.net:8080/live/j3McKd/673709/136740.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="CHATTANOOGA TN WTVC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTouUGFWqrS_IWGjnYPDn4oPYdJWNYtXoTkB-iC4pfqMRIZfjzrJdeW1b_6PCM&s",ABC: TN CHATTANOOGA WTVC
+http://cord-cutter.net:8080/live/j3McKd/673709/136741.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="KFVS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmezX1i9cv42Wc003wkRp2xrIVg1TLTVh39NkSr1Z8b9ztucAcxllxULDIfA&s",CBS (KFVS) Cape Girardeau
+http://cord-cutter.net:8080/live/j3McKd/673709/136883.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="KBSI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHgtvtfPJSNyE3NewKRkzLTBRE0A2efRjMb78i55l5BmeLcOlI1oTtvZlzcw&s",FOX (KBSI) Paducah
+http://cord-cutter.net:8080/live/j3McKd/673709/136884.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="AT&T SportsNet Southwest" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0PnyGUow-vzh5k-Oj8byBKltaZpejkEwg9OUiSpbJeF6vm58SOp-E5ZPUw&s",AT&T SportsNet Southwest (F)
+http://cord-cutter.net:8080/live/j3McKd/673709/136909.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="WLOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLr-ILZg3nC7Tj0Z6oOkptLrzl6kdceycEsZFzPqTm2_CwLE7Sr1Mm4wxktQ&s",ABC (WLOS) HD (SP)
+http://cord-cutter.net:8080/live/j3McKd/673709/137047.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="WSPA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN3Vlzi6vGYpGPFIfVTfuPxKmIsRZiRCL74xj5gYWI9GtiNN0yqzJFtxa0xLc&s",CBS (WSPA) HD (SP)
+http://cord-cutter.net:8080/live/j3McKd/673709/137048.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="WYCW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4H5MhWse0EcQ5i3dN8aGx_nH4EnM6ZJxFneLmHbjOGyzuYRWQKmTMPj5NxQ&s",CW (WYCW) HD (SP)
+http://cord-cutter.net:8080/live/j3McKd/673709/137049.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="WQAD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ68K3PGAWZ3k-DTcJzjz0DOyFWRvqOsMGgBj_7KX088oI_h0o0g_zrvCo_n-M&s",ABC (WQAD) Moline
+http://cord-cutter.net:8080/live/j3McKd/673709/137242.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="KSAZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9p5_CU8aBuNbOmnKU9-Taz8PuRHCZbAxhjmQhdOPQNkXoyXvv7W5F8kH5zmY&s",FOX (KSAZ) Phoenix
+http://cord-cutter.net:8080/live/j3McKd/673709/137505.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="Start TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxGbO_jDugGHXJ7wV71SkpYchBMDTkWeN0qfpjOx8hFlpXvn9OgKfs8Z9MpT8&s",Start TV
+http://cord-cutter.net:8080/live/j3McKd/673709/137680.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="CA Global Peterborough News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfdVrqQJgXiTDFdMO6cOJ23moFuDnRfpDEQFVk3F8gv-NXfinOxGcDl62bgPY&s",Global Peterborough News (E)
+http://cord-cutter.net:8080/live/j3McKd/673709/137681.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="KGPE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeSlRiDMGhX-ikRTTkN3yUQAbObB8AlZ7abm3-s8ziP4oIlWG2N57w4ieahRM&s",CBS (KGPE) Fresno (F)
+http://cord-cutter.net:8080/live/j3McKd/673709/137682.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="WTNH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeNU1seNlN7LL0IjKnflt5aHMRvAn54wrPZYCYhKdQr5Zo8TRUW4U-mfimPQ&s",ABC (WTNH) (SP)
+http://cord-cutter.net:8080/live/j3McKd/673709/137697.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SKY SPORTS ARENA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo7p0x0LrNn_jmOb67Ir4FnxDUlkG6zfNcYC0VX-1xAesvOH24JIsL3E7mKg&s",SKY SPORTS ARENA FHD
+http://cord-cutter.net:8080/live/j3McKd/673709/137719.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SKY SPORTS MAIN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8EOzf2AJe_w6GVfIjUlVyga4EKiYneaIxgJ2dNVhbMEPsT5y4cTvBo-1MYcI&s",SKY SPORTS MAIN EVENT HD
+http://cord-cutter.net:8080/live/j3McKd/673709/137720.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="MLB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWVV_hbMxbiYxXp8sjfF_XQDh3kUM8u2ma_jhDxuuRMrv-WJOGLGQnltS11g&s",MLB 00
+http://cord-cutter.net:8080/live/j3McKd/673709/137764.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="BET Her" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5wKpbbrOzzQ4lWRiMZMAZ07y4g1bvYDO-T2rCDrDs9P9xh3rQXOD9MuxCmA&s",BET Her
+http://cord-cutter.net:8080/live/j3McKd/673709/137790.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="LN The Country Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwiG-v6aqLMJroXrrJ7LT51b61jXLMsAT7s0TSVKp6DQe2lIbDnOd9koTLQ&s",The Country Network
+http://cord-cutter.net:8080/live/j3McKd/673709/137791.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="KCRA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAOCkHk1xEWWDp0IJlrQqc_z-EIxsqx-w3bYN8q98ydU7eX7VpOrIfAP6lA&s",NBC (KCRA) Sacramento
+http://cord-cutter.net:8080/live/j3McKd/673709/137953.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="CBS Sacramento" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUyZwTNANUhHMzBOoKCI3YVbYEDm7hzxnZspk6eQDd8byL2FJldNiz1BiagDY&s",CBS Sacramento
+http://cord-cutter.net:8080/live/j3McKd/673709/137954.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="WTMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvOl-r-F9bxVkot48cvrmReSu5FfRXsEmYEIZ_ifYjOuACpE7knKQqA_RYSnk&s",Telemundo 31 (WTMO) Orlando
+http://cord-cutter.net:8080/live/j3McKd/673709/139149.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Bally Sports Great Lake" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9v6UJyT9z5Id5FLIRF7CZvfZ2QNYEPos7huDIj7Z--myVa5eHa-WLLC--8aw&s",Bally Sports Great Lake
+http://cord-cutter.net:8080/live/j3McKd/673709/139272.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="WUPA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem5EDKUKyk2DGNsCcVQFWwm5goXvVYbiE8Mdi1eUOJCXNa84woXlJlfoYIr0&s",CW (WUPA) Atlanta
+http://cord-cutter.net:8080/live/j3McKd/673709/139462.m3u8
+#EXTINF:-1 group-title="News" tvg-id="BBC World News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUESFYcXMu7Q7XJifTbuq_W4oICEb5WJslMxNf2zwHSUWFGu-XiPu8AJ4a0TQ&s",BBC World News
+http://cord-cutter.net:8080/live/j3McKd/673709/139752.m3u8
+#EXTINF:-1 group-title="Culture" tvg-id="First Nations Experience" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxjdykfelTyIicl_rHJlbl3BwfIcmwgzj-1Z--07DRjI_QtII1MlQFNFZqzio&s",First Nations Experience (WNEO) (SP)
+http://cord-cutter.net:8080/live/j3McKd/673709/139753.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="Create" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ66gCdCSMWr9FeLh0ebg3pGOX0HVpn0sFTXl6GnFW_viBUqBLNXjScR_O0JQ&s",Create (WEDU)
+http://cord-cutter.net:8080/live/j3McKd/673709/139754.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="Twist TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFpluI1vMy-FXeCT4QuUdZSIA0DC9TkksuUfyPxSMU05PzKuYYQarA28vDWg&s",Twist TV (WTSP)
+http://cord-cutter.net:8080/live/j3McKd/673709/139755.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="PBS WNED" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTozJZ96uBk4RUK9eJL9JHCH3ZDGT5JVgxsaZFsVniQbh5dXfokzkx7zk9NQ5o&s",PBS (WNED) HD (SP)
+http://cord-cutter.net:8080/live/j3McKd/673709/139756.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="Latin Hola TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuNOfFz4JmQWrqxSebR7UcceOrfHGZbja2aOIQv44bZKIxRrcpR3KSzDYgjCw&s",Latin Hola TV (A)
+http://cord-cutter.net:8080/live/j3McKd/673709/139757.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="TeenNick" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcbRYl5D-0bH2YFya7IGupOzV6yffrkcaHCkFkIz2v-qSHTI3X153u5eWTDgA&s",TeenNick
+http://cord-cutter.net:8080/live/j3McKd/673709/140004.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="WDAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTetYVAFbcWzuw69jSv4zITPeTo3nC32ZCRBnUQ0n0G8_rgpWJi5Q7nwHLSuQ&s",NBC (WDAM) Laurel (F)
+http://cord-cutter.net:8080/live/j3McKd/673709/140399.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Poker Go" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoNRA_1UbrVJBxv7IaoeegkwFc3izMZxZTgfROFr6WLFWeDKABxXleiQ-BBi0&s",Poker Go
+http://cord-cutter.net:8080/live/j3McKd/673709/140814.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="World Poker Tour" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDHnZoT6GC_ZFSKuFtdVjiJhwmm_yqDqJ0wFFnVsL4mbJHiSWy3Ei9YAyG_M&s",World Poker Tour
+http://cord-cutter.net:8080/live/j3McKd/673709/140815.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="WNCN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLUr2m5r7ZRwfi5EBsFbDHmkG-pu9E7HlL8ejT5xrJo6fgGitDmuxwuOiH_xc&s",CBS 7 (WNCN) Raleigh/Durham
+http://cord-cutter.net:8080/live/j3McKd/673709/140820.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="KWWL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT52oxKIoXez1vCfGuDJCPyAqvG3d15sSkvJ_dKYQcowVJ6T0kDSIvDG_mtg&s",NBC (KWWL) WATERLOO-IOWA
+http://cord-cutter.net:8080/live/j3McKd/673709/140899.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="KGAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjxiDtLoyVhhNDNz2mRJtfpo5WYQJ-IBzYTCrlUnpOWVo_4ID88a7uC2a1w&s",CBS (KGAN) WATERLOO-IOWA
+http://cord-cutter.net:8080/live/j3McKd/673709/140900.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="KCRG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA2lyMttcnSqI_ruWgwjjCb9JZdV4e5D0Beu4FD0P2hX2UtjGa6rk9VQ9tNOY&s",ABC (KCRG) WATERLOO-IOWA CITY
+http://cord-cutter.net:8080/live/j3McKd/673709/140901.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="UFC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDkj3OCQLOnNh9wcd7L92stL2ZuEK-OuSKPUOFf8Eo6IPgIPwWFVuPvpO0Kcw&s",UFC (HD)
+http://cord-cutter.net:8080/live/j3McKd/673709/146293.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="WWE Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiDBDQbkcjemTq4eq_MMDubj7SVfVMNYUEc2fcfDgsrS8cSTACqodFqRto2w&s",WWE Network
+http://cord-cutter.net:8080/live/j3McKd/673709/146294.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="MI DETROIT WWJ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtdAJCrbCbQD0MGtN1BzFSUg5ZYou8oMfRbCokTTwaVcBb_lYePk8hhWhawQ&s",CBS: MI DETROIT WWJ
+http://cord-cutter.net:8080/live/j3McKd/673709/147201.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="MI DETROIT CW WKBD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOg2pI0Vm0_Ad0KW7uZJDPZB4GLjuGb8HnOLLxbpVdUeNZGAHoH9p-VdQfkw&s",CW: MI DETROIT WKBD
+http://cord-cutter.net:8080/live/j3McKd/673709/147202.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="ABC WBBJ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLNAJ5UDky6wsGCqEF4dBU7wB_Da7C-joW47Xyi7vB58SXm6ilxmb3mNdhAKY&s",ABC 7 (WBBJ) Jackson (H)
+http://cord-cutter.net:8080/live/j3McKd/673709/147203.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="documentary HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSho729RNxVKOggZVBa4WS_pnz6Hiz6yFOdMXUPqGHY0w6LIE_WVk7-g1vS_Mk&s",documentary HD (B)
+http://cord-cutter.net:8080/live/j3McKd/673709/148610.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="PBS WNED" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQTL_F6U275Ie3VFhN4meuzPU0nhdpep61Mkk8RiSVRhzC-Zi2opeqxOZoA&s",PBS (WNED)
+http://cord-cutter.net:8080/live/j3McKd/673709/149593.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="PBS WGBH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNGi80Ya9EFkTHokCJ81XttGhVI3GXA3DuAh_0LsBFDNRZW-sufikMfhFcWA&s",PBS (WGBH) MA | Boston
+http://cord-cutter.net:8080/live/j3McKd/673709/149621.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="PBS WNET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD1eVT6itszGzNpWEYdBzyBIAc6uspup8O5qtglPFlZIpUHKRS_Ps3Kt-p7Q&s",PBS (WNET) NY | New York (D)
+http://cord-cutter.net:8080/live/j3McKd/673709/149622.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="abc7 WZVN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8TaBciDpBCCMgtfDRXsg88Wns6uk4vdVvZGC96fLhwC7RISrJ3FpkmIYmJIc&s",abc7 (WZVN) Fort Myers
+http://cord-cutter.net:8080/live/j3McKd/673709/149745.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="KOCO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8xtE-YTvG7pR3HlJwFJOzm4J9K6lebYDU7vHoPsSZRICqX9QvWFHjd1CDzXk&s",ABC: OKLAHOMA CITY KOCO
+http://cord-cutter.net:8080/live/j3McKd/673709/154792.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="Fox WVNS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBqyHeKhxcY-9QgDJ-sOsYhmUtM4gN9GxeqV3Hs0Jqz9lo83eT4utZabUyGvs&s",Fox (WVNS)
+http://cord-cutter.net:8080/live/j3McKd/673709/158057.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="CBS LA LAFAYETTE KLFY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC1ZcswYyH_duPdLyohrUKVryD4mGac4w7g42HyIvouJLZiy8pPLKzke1XZVQ&s",CBS: LA LAFAYETTE KLFY
+http://cord-cutter.net:8080/live/j3McKd/673709/158058.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="CBS KFDM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9eWZlbrywEUvZQaQrXfw3cBfxjeUpo31OgRDbNLsFGwdRIrtNBpPRhrYPcbs&s",CBS KFDM
+http://cord-cutter.net:8080/live/j3McKd/673709/158059.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="ABC KBMT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLX7K2lkvgIgcJcqmTixBuans_HYZv8toDojnw-pIqC5zASQaWTeoI6oorNfU&s",ABC 12 (KBMT) Port Arthur (H)
+http://cord-cutter.net:8080/live/j3McKd/673709/158060.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="ABC KSTP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShTcSZ31AE9YOC_vK-grokcpFboXwEFGS8fccicFK4CL6DFbEVEOkijbAOeg&s",ABC (KSTP) Minneapolis/St. paul
+http://cord-cutter.net:8080/live/j3McKd/673709/158481.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NFL NETWORK 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC1k5aZFyAkJtB2mlW8v4FQf1ppquat_UH3KkAqY6hItqErQTpI_z3kaduNWg&s",NFL NETWORK (1)
+http://cord-cutter.net:8080/live/j3McKd/673709/159091.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NFL NETWORK 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC1k5aZFyAkJtB2mlW8v4FQf1ppquat_UH3KkAqY6hItqErQTpI_z3kaduNWg&s",NFL NETWORK (2)
+http://cord-cutter.net:8080/live/j3McKd/673709/159117.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NFL REDZONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR70rqa0xm1gOCkNzGZJCoBmDf3_e6-xrfctIX5hFDR1-4Aot5JRpMlqoGiyg&s",NFL REDZONE
+http://cord-cutter.net:8080/live/j3McKd/673709/159118.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NFL REDZONE 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV5WTdXxw0v9uG2n0kWSuQqfl1tYQ7XyKt2m2D5VU4AfOXAIcSSIkF98UJ3XY&s",NFL REDZONE (2)
+http://cord-cutter.net:8080/live/j3McKd/673709/159119.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NFL REDZONE US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR70rqa0xm1gOCkNzGZJCoBmDf3_e6-xrfctIX5hFDR1-4Aot5JRpMlqoGiyg&s",NFL REDZONE (US)
+http://cord-cutter.net:8080/live/j3McKd/673709/159120.m3u8
+#EXTINF:-1 group-title="News" tvg-id="NEWS 12 CONNECTICUT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSjJkxU_PghyFABJRsj_QLySQ2Vlujbw3lyE9Chy_6yY9ruvQCjiIOjw_7Ow&s",NEWS 12 CONNECTICUT HD
+http://cord-cutter.net:8080/live/j3McKd/673709/159246.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="Real America's Voice" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4BwMQMrSC3QllOLEW5TUFNfkki2sC0A9G-lvZRDISy6XKA3mpuf7wrp_xZw&s",Real America's Voice (STV)
+http://cord-cutter.net:8080/live/j3McKd/673709/160581.m3u8
+#EXTINF:-1 group-title="News" tvg-id="Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_D9WOAaoPC8yyCvYzHJpvW8L72lbzeA_1Rk2-f3J4P3pczmQXR1UyFtSehA&s",Al Jazeera
+http://cord-cutter.net:8080/live/j3McKd/673709/160711.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="WGCL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH0YNFMb0Keqyl74jOKS3WnVhqGp5EKmONrlPfFB1sgGXgZNS85GgnNfSTqg&s",CBS (WGCL) Atlanta
+http://cord-cutter.net:8080/live/j3McKd/673709/160716.m3u8
+#EXTINF:-1 group-title="News" tvg-id="Sky News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6CvgULDwJL4mfqsIr-zYOAjrumulaIffskIRNhftrWJOQfN4XS2pQw0S8Aw&s",Sky News
+http://cord-cutter.net:8080/live/j3McKd/673709/160719.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="GREENSBORO NC WFMY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_yD1E-IB9MsLWRhwwagPDgLtydpSURV2fkL49zJVJZmmpro6PsguUFe2bKQ&s",CBS: NC GREENSBORO WFMY
+http://cord-cutter.net:8080/live/j3McKd/673709/121131.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="HIGH POINT NC WGHP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgDlkuTPo52VsmTy0py4INhIlMOwnqfSitx0_oqNBf9n91T2i1DuQGqh2dH8&s",FOX: NC HIGH POINT WGHP
+http://cord-cutter.net:8080/live/j3McKd/673709/121132.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="WINSTON-SALEM NC WXII" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuKg9qMOef4v7SGk8VRFbKJs1lB7iW1m1SEUSzljpFMZJ90DpXHAeRnw2F6w&s",NBC: NC WINSTON-SALEM WXII
+http://cord-cutter.net:8080/live/j3McKd/673709/121133.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="ATLANTA GA WAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9U-San_aa1RNU4ESZD_7EFuMdi8wNzk1mYxWtw4s-sOHyXhX3SejTOUYCtsY&s",FOX 5: GA ATLANTA WAGA
+http://cord-cutter.net:8080/live/j3McKd/673709/121135.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="ATLANTA GA WXIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnIlfJo4q2yKciTHtOiy83sb8coAuUC_lhUl3hDgHOgXM5lFkvtbqJoxYcNEw&s",NBC: GA ATLANTA WXIA
+http://cord-cutter.net:8080/live/j3McKd/673709/121136.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="DALLAS TX WFAA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-z2gKvp3GLxI87U7ZSUdZYJOuCdjg7Y-qOti9S-edTtxlU_I3uP-1rOReBg&s",ABC 8: TX DALLAS WFAA
+http://cord-cutter.net:8080/live/j3McKd/673709/121138.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="NEW YORK NY WABC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSckgc7YH1jSSG71y0-BzndATB4c3LqFki_vKad3LbsFgtiZleXO_DntDp7qw&s",ABC 7: NY NEW YORK WABC
+http://cord-cutter.net:8080/live/j3McKd/673709/121139.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="FORT WORTH TX KTVT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLu-nXsUbConwxaQKGRpjQdwNWw0bQBRgHFJH4xfmmnFEWeDt2HUUhlBeu9fg&s",CBS: TX FORT WORTH KTVT
+http://cord-cutter.net:8080/live/j3McKd/673709/121140.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="HOUSTON TX KTRK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUhWsC-nAgz0cridJ2p-zuxZkA9K_TlqMqkx4H3nG5OKW04Cs89cR0wmSQUg&s",ABC 13: TX HOUSTON KTRK
+http://cord-cutter.net:8080/live/j3McKd/673709/121141.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="SOUTH FLORIDA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv2U5C0shbD4ZN_U9o3J_MpNrjQYb3PUdcLiLECyR7fkTdWlMvadtQelvB4A&s",NBC South Florida News
+http://cord-cutter.net:8080/live/j3McKd/673709/121142.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="WKMG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8pHDl1dYt-_zWJIIrwxtK8ykIVnYZ6rycN9zyFLJclvjVWD8bKoUoiwuOrw&s",CBS: FL WKMG
+http://cord-cutter.net:8080/live/j3McKd/673709/121144.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="ORLANDO FL WFTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGr3BtMtsbxSS8dcJLMV8JQ-he2yWH7vSqWzqKmmvbn_pL2-FeVIqanb0lwA&s",ABC 9: FL ORLANDO WFTV
+http://cord-cutter.net:8080/live/j3McKd/673709/121145.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="ORLANDO FL WESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2sR8X4xh9XqYD3PMtN_2dkfa_IraaqHzBaDeyaMUCTJTIzEWXj-zB762-1KA&s",NBC 2: FL ORLANDO WESH
+http://cord-cutter.net:8080/live/j3McKd/673709/121147.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="SAVANNAH GA WTGS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOubWexlLmzfOY4d-TDrFzyZdJqwoLFW15HO-yuPj3s4oAdV9RKk_yRid-EQ&s",FOX 28: GA SAVANNAH WTGS
+http://cord-cutter.net:8080/live/j3McKd/673709/121148.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5U6z17XJ-PbPAlZzmybboh2Q2HAShGXs5g_Qet9RGLuUQzD0u-y-6br2Znw&s",ABC 7 Denver CO (KMGH) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO5iv5EwCyK7r6ASjP92iiiZtJBA8K2wKo2BNnktvNgm1MNAAh5AvAkZJF1us&s",ABC 7 Los Angeles CA (KABC-TV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTecBLaLqZETn44L9fZ1JhHgUWfxMxy8ANPBsIWzsyFh_QIfPdyBLnuBtStNUI&s",ABC 7 Washington DC (WJLA) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ohTNelk6gDTiPpX8JCF8qmrZ3nNvSvkK_VH6HANto5h1fpqq_UtFIGJGZSY&s",ABC 13 Las Vegas NV (KTNV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH069iJmqeZOJT2Qhj02Pr7NnSAHSymBA4yQP2DOaBiOVqUrwKSYcGTZs6XFI&s",ABC 15 Phoenix AZ (KNXV-TV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc2X7zQdKfMC7Mn9oHYLHiUBMOOntKM8qX4Awl2vOi2N8M9pnXN_txlk2T0g&s",Ace TV (KCKS-LD3) (480p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoTy_Er9DujHJ-s8TF0P9qthnjssw7VCZyy3EElxnP1rPsrn2_MV0LNNDJg&s",Action (KCKS-LD4) (480p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRIzq4nMbSAN_nhLRh2DEKhgu6bL0SMu3qogxBaBsUtl9CUcF-xtRaw-VBdnI&s",Adult Swim Dream Corp LLC (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWMlliFO_bULOAyFcJ1glyl0nEeqs0beVutsK4FlNmwYbzKDAnXza6A0-mKQ&s",Adult Swim Rick and Morty (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1r1Hgryn70kkwtxoNO5utFJ4jEaSf1JnBp7oVYBGBUOk2K-YELb2AFzTlnns&s",Adult Swim Robot Chicken (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34FvSGEkwFxQyHdv9-06zr5f6v98hh_rZQA8VEu60v2XW9bUynwHqxDkhb6M&s",AKC TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT59-cOUMCQyuIl2sqrYaYpaC1v13jcQPIZf_UDIXavD-uBM_m0CTM-A8yXKQ&s",Al Horreya TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ZqQT5cCOCt2CNEjUqAMKJD0M4Cm8nOXllUCRV3o4Zuo82shcjS00jxZMQHo&s",Aliento Vision (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYvBkCygiosPIcZ61OO2R3IdRE_5avnkEz4u-zx8I_a4xZiHjQZhRgwaRC9J4&s",Alkarma TV Australia (1080p)
+#EXTVLCOPT:network-caching=1000
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYvBkCygiosPIcZ61OO2R3IdRE_5avnkEz4u-zx8I_a4xZiHjQZhRgwaRC9J4&s",Alkarma TV Family (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYvBkCygiosPIcZ61OO2R3IdRE_5avnkEz4u-zx8I_a4xZiHjQZhRgwaRC9J4&s",Alkarma TV Middle East (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkg-_DQt30VSdf1C7uGyiNPCt7FPSV5LU7zy6iWw6XbOfgbq-n9EVBw46ncc&s",Alkarma TV Praise (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYvBkCygiosPIcZ61OO2R3IdRE_5avnkEz4u-zx8I_a4xZiHjQZhRgwaRC9J4&s",Alkarma TV Talmaza (Discipleship) (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLiSplFXgq79qt4LlusDfbDJ8bee225qsQ3Na9rqWsVI1aMfl6mvCu_R-kVyk&s",America's Voice (KCKS-LD5) (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIDxp6YfMU1aY4w4A762G409B46DIDuqNRkRf6w4J79K4aaZMsVbu8gmx&s",American Classics (432p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAh3ehMuChk_LelHDhsoAVvWJPYJ2-XiFK5ZTkiLLbKi_zzKOIF9-b4Q5zsQ&s",AMG TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSypoI77HTW9Rh8AYrwj0sdgP44IQjL8FGewlkPc2JXytj8tXOsMFZWMYFQ4w&s",Architectural Digest (720p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTExagI6_ju90tRTFvwAiJMaCgiIppIY7HcibKFjT86H1qMPkGYDaCMBlx0xg&s",Atlanta Channel (720p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDEFiUS5V9AmOpDlYG371nfgAhvj2rY8XDSvMpKxjGCZBGcyBYMNma22ltfYM&s",AWE Encore (720p)
+#EXTVLCOPT:network-caching=1000
+https://aweencore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5cDxQWd0IRJlPBVvPrKEprsiinYWxAWMlx1B3-2G3ynJmGzJHhD1tK4Tr8bk&s",AXS TV Now (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSREelyBdE709otDD-UkbbRMP-Or2ivStH1ZGlb5mTCZ7UcqDyQ9yrYFem8MA&s",Beach TV CSULB (160p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd3eXf1XlwNs7vcQGXKWSqj2seST63T4tAcQeqcfnjxVJ_yNq6UwTjGozHvA&s",Beach TV Florida & Alabama (720p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZegPT5xlyxvYI7EG0fckc_5jABug7NmYHgReUBWfhJxzlqs2C4ZIJW0Q6hw&s",Beach TV Myrtle Beach & The Grand Strand (720p)
+#EXTVLCOPT:network-caching=1000
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9nR1nr-p9rUQwU_NsL3G9ez0BJ4ePrtOk0ngQnzx1gjC3ZZcXlUymR6ychw&s",Beach TV Panama City (720p) [Offline]
+#EXTVLCOPT:network-caching=1000
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIZeGnVrst7aFHyp38Jup9VVU294NOtQSAlVzM5WhX6Eu-TU3PL-sY2uLlBg&s",Biz TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsGMWWRr6T_UojeKimXg6T4ewdTgsJ-j-GvpixZKZeFLiE__n1QLadkpt6JAE&s",Black News Channel (1080p)
+#EXTVLCOPT:network-caching=1000
+http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfwNanDw_sovsmRSs-d2fIbhK66uknWz9JQopyryKYrm4ZjuS8LxZMOYvLCg&s",bon appétit (1080p)
+#EXTVLCOPT:network-caching=1000
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrLfiD0wrw6zdq5CLCLWLpev2DRouemPIED8qcdAdYt1waXVrNN6A6jtDr9bQ&s",Buzzr (KCKS-LD1) (480p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKaEf54dQB6R9y4PC-ZoIAt9CIepmMPGO9xMxxsITk0wqPbsfVGN1FpZ5K7g&s",CBC News (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxFwYQA-gSFfeDVAeJ1puslUTXLxveiNEwWalfeqSEK-VucfOA4EG_p1N0bNg&s",CBS 3 Omaha NE (KMTV-TV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
+
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXGS7qbCWWe8_bxTGIs-7n6clSODizHJYhU1YJbbDomG7XjN7CcE1WxTsAFn4&s",Charge! (720p)
+#EXTVLCOPT:network-caching=1000
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeYBxySFmrA94IpI60Atv4QaC80lHZU0e6VjHqK5wzL1cE5JxVItx04HfA3RM&s",Chive TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRduzcHEB63RLSD-BUfoZL74ZqE-0EY2Kz5_OKj8aS7z6tKnavk0fkDNJwQpQ&s",Christian Youth Channel (CYC) (1080p)
+#EXTVLCOPT:network-caching=1000
+http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD-nHvddxJfm-Lxt8Gxb-UIqe64mZH8awPacVExsrPxdLckkX2ohlCebAhWA&s",Circle (1080p)
+#EXTVLCOPT:network-caching=1000
+https://circle-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx4_SXOLbm1jKj4_WIAJJZ-Cyr4di4Az71P5gXUYqrTU_i5NdfMHxWcUig1H4&s",Cloudflare TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://cloudflare.tv/hls/live.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqMeLoWJNm--G_qrog_ecLauFo0yyBOOd9sXEAmBglH8CEh5iq2fGiGmwqN8M&s",Comet (720p)
+#EXTVLCOPT:network-caching=1000
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7gZjQSdRZxl4fVY_Roi-G51Iws1VBJJRB5Gop6I2YV9bEltG7QaRpRiKQ7u4&s",Cooking Panda (576p)
+#EXTVLCOPT:network-caching=1000
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN4XZNgpWmntBkxJiE29UTnl7ZNxzJwIk0ML2H5kbc-q5igmGSUQvqxQgeqQ&s",CSat TV (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlO-uHbcQ5xsL8XOfUT2QgJZahZB36lfk-cEhsmkeBW4gCPeiyI8ILucKcpEc&s",CT-N Live Stream 2 (360p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://video.ct-n.com/live/web2stream/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvGuym2xCQFSgp41fc_6R0K9wrFjJ87Qg8y0aD6zNov91SJhSRlAUUOg49XA&s",CT-N TV Conneticut (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN4XZNgpWmntBkxJiE29UTnl7ZNxzJwIk0ML2H5kbc-q5igmGSUQvqxQgeqQ&s",Elbeshara GTV (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXmxdbSUbGAZkmJyFqHUW5bvR6J2_FfiqgbclOyNTyPIVMNhOR5hgrr_TMw&s",Electric Now (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxWdPT1BBi6gRqKpJRozEAYXPw3UAGz6U6dBDhrLC-Q2RQEyNQ0KbbjA9WyEk&s",Estrella News (1080p)
+#EXTVLCOPT:network-caching=1000
+https://estrellanews-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZqCoC-Nl9YI7MYBtKR8aQ1ANoOwiQh3B6LLO7cyXb5Xxg4gxlz0O3uHe_rQ&s",EWTN Asia-Pacific (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSccvkCgUJcfh_z9iCGzh313GRVo6Bagk-JjFotr3qbDf_o6o2GfyRb0oRxLw&s",EWTN Europe (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmuIAB9YH2IPVD1PgTj44tuqT5TQVL83wiE0pHeQ3MCce6mlnOjGFNtmtboA&s",Extrema TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnjpZrmGChOMNmkBecDFeJCos6wUrUN35FR6swEGF7LOViIb3lTlp5RF3zuQ&s",FailArmy International (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKiturci0EBrqxQCNjxeaiaiDXxrr7JTPrJDH94ju5BkpVBtFHnZDQqgrcMZs&s",FilmRise Family (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsb7H_uFrqxwaVVSMIlZqrQJHs6rWCnAiIWSmuX3RrZ9Yd3gaxvbcCFqmEWQ&s",FOX News Now (720p)
+#EXTVLCOPT:network-caching=1000
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQatOvN-zY0yG_W6XV0qUPnQL8qsWROZmR96DoDA-brKyCUYd7ohvkvQO7cIA&s",Fox Weather (720p)
+#EXTVLCOPT:network-caching=1000
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmD7MpTJdfPIy8YEX0LGqsYPzTHzS-M0HHWcrcPjRGp3k0QgEqL4Dx-20wxA&s",fubo Sports Network (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQevmXdRfwB3EiD-TY7LOgqi6EwHBDyW9VjZmehInfy_DJiiVCMMdyqORRzUs&s",Fun Roads (404p)
+#EXTVLCOPT:network-caching=1000
+http://104.143.4.5:2080/funroads.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnBeu41wgz1-hQYvkAuSB5jmYjXGB4PWuoidywgtTWGAXg-OfOodBxSK3SKKI&s",Funny or Die (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_cN9Du2_7p-ORCIA79beRv6HZuk7W0dXIFe7dt-1G98gbvqrpbDj2-oh-0Qs&s",Glamour (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiiL6V8JERx5ylM1eD7RO9FoJ1etzP0oisneMHg2QewIDWCiQhCfgCZ264vw&s",Go Traveler (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNyXBtEagEaJGMTu6lJdbYTdFp2UYoTCk3iIdgKBbTzlIgWO9dYf20SDH5Avk&s",GQ (720p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYtHHd7ryvh5RMR2ka-9MG0rrFQmn1sZJET3KMiWeuJ4S6njLzLUcI9QqylA&s",HTV 1 Houston Television (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQp3nXDLQfFvlRvGa_g2yx-xYfesZmU9P6VvL2fPWReFGAa3vLWgQRZplGTg&s",HTV 2 Houston Television (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ26rxJxoQCtlWXM-F1Fi3u4DP3SsDyuGWK5YcQi14lgAiqkAIhrCb4ZivXX9A&s",Hunt Channel (1080p)
+#EXTVLCOPT:network-caching=1000
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDFc__z3BpkC9hTua-lcro0wEG9v75xpnfkEd7Fg5NzUNNzmIUZYl2PSI3Q&s",IMPACT! Wrestling (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRklfGW4O-8JbU3GdZ-ej9hS4PRUULZ6h6tVT8dj2uPb75M_4Wk62_203PGmXY&s",InfoWars (720p)
+#EXTVLCOPT:network-caching=1000
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GXmbdbB1zb6YLdDTUeT7AJ2yd8aTm_KReX1dpHt8mOCuF_qJyDcJfdtr-g&s",KBSV/AssyriaSat (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://66.242.170.53/hls/live/temp/index.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO5iv5EwCyK7r6ASjP92iiiZtJBA8K2wKo2BNnktvNgm1MNAAh5AvAkZJF1us&s",KGO-TV News (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkpxzr56zclAbuPtJO46PvNYrf_-Wc3rGhbRr8ODVVqsBquVB5e9J5xGFV-Vw&s",KidsFlix (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0PCN6j1tcEHKyTfKXgMBJKEIBVFHuVwZfGCe48noyQLs0Ke6AKG483EhmoY&s",KSBY News San Louis Obispo CA (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxJg6XAH2aJv3PNC1WMx5Ze0ZUCcb2a5lny2UOH9b9TC7XQyNdbVppjFQGYQ&s",KTRK TV News (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgMhnuiQWsSVpWAA_t39UZeUlWJpYiFZgcM6MekAc09wBVcBcb6sKJHulbqA&s",KVVB-TV 33 Victor Valley (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgldNhy6Kyfy0S8TbAUViGMdck-i8yB4rNV-S4XXv5MBy-Osjsb_9VdvrD3yE&s",Law & Crime (XUMO) (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_CUMNDVbEjqYR6ro6A-z_GvDH4XesPkXlYvjSrZyBciYHc8qK7wrLGGRE-Lo&s",Lax Sports Network TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_GrmGvLd1D4Ne60_hEIgNRCCfL1Nwavkhx5bEj1DXy2ohoF3RIBoGlrJekaY&s",Lone Star (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lonestar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwJ4mapi2xfskbLvSDaXqVkiTMdGZ7JhL9RRM-cyMum7cJuL5Co4lmfjnoF3U&s",Love and Hip Hop (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyb_p1t5q5yd5N8mH8gFjJxgA4RSTw6HW-pzT4HeouRuKkygdvw5Pv3Uo9UqI&s",Maverick Black Cinema (432p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN4XZNgpWmntBkxJiE29UTnl7ZNxzJwIk0ML2H5kbc-q5igmGSUQvqxQgeqQ&s",MCN6 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0gf9f9fYoXuJytGrFvH8eMcMhOxneSdzs1YffK9_T2KSqxDycT6pJY2GvZA&s",MCN6 Arts Channel (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0gf9f9fYoXuJytGrFvH8eMcMhOxneSdzs1YffK9_T2KSqxDycT6pJY2GvZA&s",MCN6 Music Channel (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPUpSoYpaSHvb1Yxb2oGaAKN_LTXdRTX11dVZ1CbGIVfxX7TS2iLnWkM83gQ&s",MGM HD USA (576p)
+#EXTVLCOPT:network-caching=1000
+http://c0.cdn.trinity-tv.net/stream/uq2t763988wmx82xs37vrzrtrvaz686y22jd9gcgvgbhu88g6dntdb82kggx9zgvpvwj5wisyi5mgwwgdqzm7d6xbf7yvctwzvhsu3t57ms3wa4qxwyeuqk3ayrdwx3k2b6cdtnrydx9qa3ezqzea===.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGSSdGEoDC0ZcrY0FhtyFz6lix-mNYAHT0snHihagFjEvnelxrb1a26Gs3Vo&s",Minecraftv (360p)
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSn0EH88g-f94KdznfBLYiE9XZudBFnrvhGt9_7RXUSdBfUeHhehqoqj_GNPQ&s",Mission TV (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVS6RehvGuGgZrqiQMRktL4YJS2RwYo76RR_TGUYB8D0XIqL4K7aKSWLlAtg&s",Mohabat TV (540p)
+#EXTVLCOPT:network-caching=1000
+http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxBxA6RBzNlu0M6bUGMfkxRPvW1fxf_LTlnnpbIo6Zq6HmmwIJ5v2q9kxAYQE&s",MyTime movie network Mexico (720p)
+#EXTVLCOPT:network-caching=1000
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5n0pAtKezRotG6W6psfxtJTGZecd7b-a5iaHrdIOp_e0Nl7mZan5iJQ5SeHk&s",MyTime movie network Spain (1080p)
+#EXTVLCOPT:network-caching=1000
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQav5MEu4_dLmEFU4VbUieVH6GyawRhbDWyMdvW3h4pOA0mtcjBgul5Gy26lQ&s",myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Se5XijkgvDHbp9xOiGHL8OLhXVFJHR4riypuBfWydZecs00v-V-DRrm-Rg&s",NASA TV Media (720p)
+#EXTVLCOPT:network-caching=1000
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRndwBeJLj77yfdxO58c81SLbN50NS6D5lrCIfQB0x1ZPXzTSlhxZ-7EKg3ezY&s",NASA TV Public (720p)
+#EXTVLCOPT:network-caching=1000
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUxBocNkciQcQ3QmxOycx2EAuIG_2K9Qcu9zCM309ZmzN6XAu9pn4iO2Wp8A&s",NBC 15 Madison WI (WMTV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJwLucd8HhTk8RhJ-XHdXRLMcs5CJfOhMeUeVz9j6pDteyFKRepipu0XH0GS4&s",New Orleans Television (NOTV) (720p)
+#EXTVLCOPT:network-caching=1000
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS-Dya3snfqyb3LPParzS1SPbvniP3FKPxvKuC1ssnFKj4FMvu7xypqTTUTA&s",NewsNet (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGA0qenuIPSHy0ZA-EVXuosru5hgqShnF5fW93XdE1BBOhQXWP07R4C2xbbw&s",NewsNet (KCKS-LD2) (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn.igocast.com/channel2_hls/channel2_master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNwYOCRNyVgrsGuQvTuR2rY6CCCinWOxjUJ1HdvBXWU3jaaerDvXP9P7VhOg&s",Nickelodeon Australia (576p)
+#EXTVLCOPT:network-caching=1000
+http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmqpAXGXn-A1kLZGfvQzScRLi7bHi9WWvsX6l-KdUa--IdY2DmXs07dk9qlQ&s",Nosey (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsb0AosDmF6rVwGYffkKTgOjrdaVx6owGuu_PsCwgZiokxrHU6WfZjKgMonIE&s",Now This (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThvBwELU8j2v_08fx6iMCZ9rVJTcpQZ_ztddT8gTeSnJauXj8TVSWcb4st2A&s",NRB TV (480p)
+#EXTVLCOPT:network-caching=1000
+https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZwnmssDCOQFeXZWGrdk_KEcNg31WD5O8saIhaOOaAA6g4dMIGFoFqiFwdYA&s",OAN (1080p)
+#EXTVLCOPT:network-caching=1000
+http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2wkV-6xj-0_Y-coZnrDpfTED5AeDjgO356H257u_5bubOPPCtV9NoJ2y8ZWY&s",Omid Javedan (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp05TEEoAjjQcUokMxH0R1KNCEhNXdVhAsuSGz34flmFG14mk7ZFGgwU0CsQ&s",Orange TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTsvcrEjrvU7tj0feznLGDoZFdLo30vMFvwmNz_MJ-GBgsqJ38BTkNjmMWg&s",Paramount Movie Channel (720p)
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1d7BW5_5EvlefHVT_R45_E6VxuLpzIuH5z0EB4L1yELfSUFIa71OQo6oP4Fw&s",Party Tyme Karaoke (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-He4jbOjuVmpItzvEPtEHrwRs-ZjqLemJMWHcbVlX4NQPoi-GLowTS88cQA&s",PBS Create Los Angeles CA (KLCS-DT3) (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://d1mxoeplf1ak5a.cloudfront.net/index.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSicYp-0OwmcbK54X_Wa73JyDWltlrJl3wo-wNy8RGY0lbwzuxmCJv7-1IfQ_s&s",PBS KET Louisville KY (WKMJ-TV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhsN151m0JJJ6dZfL8MaVYOYnuTDs-C6n2mamvFxnHSoXow3drD9T_ok2Qg&s",PBS Kids Eastern/Central (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-uktGPIKh5DNXbqAQiRQeF9x_he3nE_YB2D1ZAp81cMbBU8qKCCOO300E74o&s",PBS MPT Baltimore MD (WMPB) (1088p)
+#EXTVLCOPT:network-caching=1000
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWhsBRr_kP3iBZRZHgeTudhHGfTCWng33W2L264WihPY4fX-vF_zDTC1ZsMV4&s",PBS National East (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDFR9aUkpEZAovxg3T62zWjI64152bPR5zr2pPs89qt-yeDufV90Yvz9XpJ0&s",PBS National West (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://pbs.lls.cdn.pbs.org/pst/index.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7MO6x9eT0N3q6GBTTY-yOj9CJVfjh0xO79A7laFFGtAuIPg8PibW-d079E30&s",PBS New Jersey NJ (WNJT) (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66BF8OZ3Yub7V2nomSd8KaySbeKIhLs0OlkpLjPtDHJ8vCZdjCApLlPqP8Jw&s",Real Families (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lds-realfamilies-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShP3FCYdVvRaH-oYxqlcUugDMOgf3cYd21I-CiPmqKjOhgSuSdIaShdx4B3k4&s",Real nosey (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxrealnosey/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVSecanUOgoInWaDgdFYytwHJViowkCoOjlkpr1EG4LhpfGx3aB2v2Emc3lA&s",Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEe5au0rllCPzoO9c-mNEWKMoK2tN-ZE4taPKYzr-TTkP6OeaE5iOIe8b_A&s",Reelz Channel (XUMO) (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDrS4jlFOSjI_D9fET74-mwlTh5XwgR8_liuxjsjO2wRYKqWMtW-9JyyYjnU4&s",Retro TV (KCKS-LD9) (480p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs0qMsLfsiYlqtNogs9PMArXYkJjJ3_Z9CwUbrPDyUs4UmE361FEmxsIuDz4k&s",Rev'n (KCKS-LD7) (480p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4U9BmxpUh24e02aQvjVgc2cNaUCEC6iKBWMwvCb4KhdT5d8qP8gmd6gKpZA&s",Santa and the Three Bears (480p)
+#EXTVLCOPT:network-caching=1000
+https://cloudfront.tubi.video/21df8036-fa23-49ff-9877-8af983546d2b/elw3phlf/stream.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAaLc0wwZ2YZaDjsh8O_4Clr5lHVjHLTQBCvDEJyHGQPbJ4ewfERyH1tv_97w&s",Shop LC (KCKS-LD10) (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9g216lKdKr3RTmLFk7nmj-U401nOfdArP1zcgSw2txHUNhy1JrohTrio_aqo&s",Shout! Factory TV (1080p)
+#EXTVLCOPT:network-caching=1000
+http://shoutfactory-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY_V1K8dP2KGEqJKWYzrzif-6icNC0Hrf9swawoUrgmXIdf6c1KhlAN9z2y2E&s",Spirit TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWC5jaCXMLpAYLStNxUDY59xNFHu6dyY_LvgNioGnJVrcnfahiRuvVKb79PQ&s",Stadium (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoEDt2YzgzLA8xbwJp2n6bAH1aTdx7lf-VoWa6926MrSTnGaPewmzXJN4pjg&s",Tankee (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream-us-east-1.getpublica.com/playlist.m3u8?app_bundle=com.plexapp.desktop&app_domain=app.plex.tv&app_name=plex&content_series=5f12332eeca6a20040b328e5&content_title=MorUy57ijWhGe4ixZb_T&coppa=1&custom4=plex&device_make=Windows&device_model=Firefox&did=df8e1a36-847d-5096-86a7-3803ed330ede&gdpr=1&h=691&live=1&network_id=39&us_privacy=1---&w=1224
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRSIvSfdVZVjk9PefbpZUJZ33Rl8DTFAbT4HUGY4T95_cNxGcaKUNtShESsoM&s",TBD. (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUKSq2Ne6kmQD1GoPH-5qhsRGXzOK-YY9lV6s2mXW4povewDgzRmodB397T5E&s",TD Ameritrade Network (1080p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTANiH6pT4SSIQD4aQXtoB1oNApz1_fubve7YZ1A4kANlcH2-9MJPkctDP0Zpk&s",TG Junior (1080p)
+#EXTVLCOPT:network-caching=1000
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_5cDxrMYQzXuXWQz2ofxzofabSLbQwVxv447_L5cVvfWlOmoUissEKlta2w&s",The Archive (486p)
+#EXTVLCOPT:network-caching=1000
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=74
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgMPOSFlx_qkeAbcI074uRHdLd0h5PUcj6DAywX-qOH0BoFApui1UwiJjRDA&s",The Design Network (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbuUnktGvwA1HCrl4X3xhUfDuZESQTVohpc55iePeGW5-YbhT_IdSG7_MDfVU&s",The New Detectives (720p)
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5aea40b35126c2157123aa64/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvODT7lGoMnC8axDqEL4iYVm5gwO_5dvlLzi7nz03nTjKVWgQ_HyJGFW8e1Q&s",The Retro Channel (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUIzsffRAv4gtEH-xN8gDu6Ppv19HALvkQjL8c02d3iYXm1emLaxj6HWXBvA&s",The Wall Street Journal Live (720p)
+#EXTVLCOPT:network-caching=1000
+https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuiIICl846h_OD4_gws-6chJNFPZ8HJwgMbYhmDcahxsbZ1aL-tl-OIOyvYEI&s",This TV Network (480p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyM0nZWCdsCg6usaYpyuQ95jh1LPYqjkZeZW_Upi8kFvO7qKj1PRODtahbRw&s",Timeline (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtStXUMUL--xzxgkeovZWa2TGxdopSzMBkAcMp9CjHPZCtRyabQr3mhUbawQ&s",Top Gear (720p)
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7WzFfCGV_ou8REpuAcqySDdNC7hySK1gbxldtrha6YK3TlkTx_8w4VDdnRqc&s",TV Panou (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8cNa_mVsAjmalzOnuirUhah7jnHTIA4IGgjdZM2Ah3r4GSUOPwWklLJXlxw&s",Untamed Sports TV (KCKS-LD8) (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW3AjNxsSDptn_9zy45fczlMpnuBWgzliKPt7cC8rVblBjdj14PmrhHgFD3c&s",Vanity Fair (720p) [Timeout]
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQn1eMC0IrEL9aqfMqdQ3Rfu13Ozsi1KvdjwScJCV7P_cphyJ08aVCXfH3qCM&s",Village of Hastings-On-Hudson NY (WHOH-TV) (360p)
+#EXTVLCOPT:network-caching=1000
+http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRht7Thkh18jsNBpzNGAInns_feD9AgGZE4No2sqisvl6xbZah2DRo-wX5r9g&s",Voyager Documentaries (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq0yWadjXDgHOUXiB8xoMhvPSLY1I_k-VipqlO8J5MoB_XswxX4kmrlJIVXAA&s",VSiN (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream.rcncdn.com/live/vsinproxy.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfINgJ0tOdAfUb0oyI2_U-KW6c1k4mXRoCbHWT4BjPOK3Amy4KKm3B_Fwyrg&s",WeatherNation (KCKS-LD6) (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFmCP3slUDN4PcAcc1VLnQ3TIcO6ActXh3pEeTQOoDv_6V3JIc6isUZ66NWMs&s",WeatherSpy (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrCf8jeS_lCm_x3VOciRzD1as4nQJ1cnfYKGJH0oD4NKqQ4_8o8oJGkomRhcQ&s",WFMZ Bird Camera
+#EXTVLCOPT:network-caching=1000
+https://cdn.jaybirdtv.com/wfmz/13/live/master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0_BaTkSZLh2A9Qo0DgGlgX7KJbhb5ZiuToXdcBYmwJufvoshDksFQ0Awu4A&s",WFMZ Dorney Park Camera
+#EXTVLCOPT:network-caching=1000
+https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3ABvm2MnWkOJkoghhSlPkEB3Bp3ADtAxEgofyxM61RkRwes5VXxeasbv6Q&s",WFMZ PPL Tower Camera
+#EXTVLCOPT:network-caching=1000
+https://cdn.jaybirdtv.com/wfmz/channel/9/master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBAEQHG3kQWHuO8dd8IYG9jch6N55BcLKp9B2pBOkdF3oB16fvWnPbzZ04d5c&s",WFMZ Traffic
+#EXTVLCOPT:network-caching=1000
+https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU-EpVg21_lq4R1AiP6pBDB0KJLbetLLNN5gmGDnZLMKztoZ0o1eipZ1ZKbJM&s",White Plains Community Media (360p)
+#EXTVLCOPT:network-caching=1000
+https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJceA1ugjD4QAijpa6CJgZQeOekSLVWGUqmBeota0OChPC73y9hJnLc_Zx3aA&s",WLNG Radio (410p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN91us5nvhES-gj6tHYq838e32Lc8ZydBMi0lpyMxO4WIxmXaPCsp2B72zAQ&s",Wu Tang Collection (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgHQB57o3MhQE45HHRGlTO0gTbANEzAOcQVBw66dbOSKCJvyVOhyO7dESqA&s",Xplore (1080p)
+#EXTVLCOPT:network-caching=1000
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuVUYiYgymuAy1nJQSYP1tUT59fyNStnf-9vQi7xhzyyG2JtmgJum0C5S32A&s",Yahoo! Finance (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwB4nXrNHuTM81HKG9fs0CMo3gADbBo47UYuYHXynM_Gf1k-2tgzhPkInF2cg&s",Youtoo America (1080p)
+#EXTVLCOPT:network-caching=1000
+https://thegateway.app/YouToo/CueTones/playlist.m3u8
+#EXTINF:-1 group-title="USA PUBLIC" tvg-id="Undefined" tvg-logo="https://i.imgur.com/UxEzPeX.png",Connecticut Network
+http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
+#EXTINF:-1 group-title="USA PUBLIC" tvg-id="Undefined" tvg-logo="https://i.imgur.com/UxEzPeX.png",Connecticut Network (Instant)
+http://video.ct-n.com/live/ctnspare/chunklist_w252238746_DVR.m3u8
+#EXTINF:-1 group-title="USA PUBLIC" tvg-id="Undefined" tvg-logo="https://i.imgur.com/UxEzPeX.png",Connecticut Network (Live Stream 1)
+http://video.ct-n.com/live/web1stream/chunklist_w1992415243_DVR.m3u8
+#EXTINF:-1 group-title="USA PUBLIC" tvg-id="Undefined" tvg-logo="https://i.imgur.com/sxxRphV.png",White Plains Community Media
+http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="Undefined" tvg-logo="https://i.imgur.com/81NqdwB.png",Arkansas - KNOE news 8
+https://dai2-playlistserver.aws.syncbak.com/playlist/893553/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjcyMzUsImlzcyI6IldMUyIsIm1kNSI6IjM5YWE1ZjczMTgyYTg0NThiY2QzOTcxMjQzYzVhZDc1IiwibWlkIjoiODkzNTUzIn0.v4oZTq8PnYSg_UAfc_nt9tO2ThQy44A-F8-colQ2Ijg
+#EXTINF:-1 group-title="USA" tvg-id="Undefined" tvg-logo="https://i.imgur.com/GaWiHiz.png",Arkansas - WMC 5
+https://dai2-playlistserver.aws.syncbak.com/playlist/18497172/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODQ5NzE3MiIsIm1kNSI6IjYzOWYxNjJjOTZjZjJmZWFmYjQ1YWY1NTA4MzhmMGQ4IiwiaWF0IjoxNTk0MDU4Mjc4LCJpc3MiOiJTeW5jYmFrIChURykifQ.m34pXxraDlVLkgkAtFOwXbZ4DqUaAXQjOrumoMi2Fso
+#EXTINF:-1 group-title="USA" tvg-id="Undefined" tvg-logo="https://i.imgur.com/1AkpB2q.jpg",Arkansas - KAIT 8
+https://dai2-playlistserver.aws.syncbak.com/playlist/18533680/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODUzMzY4MCIsIm1kNSI6Ijg2MTZhMDgxMGU0MjViNmZjMjE0YjcxZmM3N2ViMjU1IiwiaWF0IjoxNTk0NTgzNTc4LCJpc3MiOiJTeW5jYmFrIChURykifQ.iMmFxpzDdyXuuhMVZm1jIN2JZ4B1Cl6ms5RwyuI2P-E
