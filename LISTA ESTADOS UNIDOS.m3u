@@ -10,7 +10,7 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
 
-#EXTINF:-1 group-title="USA" tvg-id="WABCDT1.us" tvg-name="ABC_EAST" tvg-logo="https://iili.io/JmoUd6g.png",ABC East
+#EXTINF:-1 group-title="USA" tvg-id="ABC.us" tvg-name="ABC_EAST" tvg-logo="https://iili.io/JmoUd6g.png",ABC East
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-id="KTVODT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/CBS_logo.svg",CBS
