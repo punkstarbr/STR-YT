@@ -2,15 +2,17 @@
 
 
 
-
-
-
-#EXTINF:-1  group-title="N/A",beIN Sport 04 (720P)
+#EXTINF:-1 group-title="Esportes" tvg-id="beinsports4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/BeIN_Sports_logo.svg/320px-BeIN_Sports_logo.svg.png",beIN Sports 4 HD (720p)
 http://red.ipfox.org:8080/1234/12345678/31533
-#EXTINF:-1  group-title="N/A",beIN Sport 06 (720P)
+
+#EXTINF:-1 group-title="Esportes" tvg-id="beinsports6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/BeIN_Sports_logo.svg/320px-BeIN_Sports_logo.svg.png",beIN Sports 6 HD (720p)
 http://red.ipfox.org:8080/1234/12345678/31531
-#EXTINF:-1  group-title="N/A",beIN Sport 07 (720P)
+
+#EXTINF:-1 group-title="Esportes" tvg-id="beinsports7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/BeIN_Sports_logo.svg/320px-BeIN_Sports_logo.svg.png",beIN Sports 7 HD (720p)
 http://red.ipfox.org:8080/1234/12345678/31530
+
+
+
 #EXTINF:-1  group-title="N/A",beIN Sport Premium 01 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31498
 #EXTINF:-1  group-title="N/A",beIN Sport Premium 02 (1080P)
@@ -2600,48 +2602,69 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNEu63YTNEsUIKVauMQCbWW8KNicQisdDzm7OolCstIo7rr4vYtc-HMlsX_mA&s",Eye On Sports
 https://eyeonesports.com/720/ESR-002SCTE35.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+#EXTINF:-1 group-title="Local Now" tvg-id="localnow-46" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Local Now Channel 46
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="IPTV Privado" tvg-id="chileiptv-181800" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",ChileIPTV Canal 181800
 http://us.chileiptv.xyz:80/vEakS93BV/144aUNlbo7/181800
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="IPTV Privado" tvg-id="chileiptv-181803" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",ChileIPTV Canal 181803
 http://us.chileiptv.xyz:80/vEakS93BV/144aUNlbo7/181803
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Local Now" tvg-id="localnow-80" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Local Now Channel 80
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Outros" tvg-id="darcizzle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Darcizzle TV
 https://30a-tv.com/darcizzle.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="BossZX" tvg-id="bosszx-21521" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",BossZX Canal 21521
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/21521
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="BossZX" tvg-id="bosszx-4903" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",BossZX Canal 4903
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4903
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="BossZX" tvg-id="bosszx-4904" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",BossZX Canal 4904
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4904
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="BossZX" tvg-id="bosszx-4905" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",BossZX Canal 4905
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4905
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="BossZX" tvg-id="bosszx-4906" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",BossZX Canal 4906
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4906
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="BossZX" tvg-id="bosszx-7454" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",BossZX Canal 7454
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/7454
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="BossZX" tvg-id="bosszx-30281" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",BossZX Canal 30281
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/30281
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="BossZX" tvg-id="bosszx-30280" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",BossZX Canal 30280
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/30280
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="BossZX" tvg-id="bosszx-30279" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",BossZX Canal 30279
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/30279
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="BossZX" tvg-id="bosszx-30278" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",BossZX Canal 30278
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/30278
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="BossZX" tvg-id="bosszx-30277" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",BossZX Canal 30277
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/30277
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="BossZX" tvg-id="bosszx-30276" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",BossZX Canal 30276
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/30276
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Esportes" tvg-id="tracesport-au" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Trace Sport Stars AU
 https://lightning-tracesport-samsungau.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="BossZX" tvg-id="bosszx-3716" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",BossZX Canal 3716
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/3716
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="BossZX" tvg-id="bosszx-3715" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",BossZX Canal 3715
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/3715
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="A1 Streams" tvg-id="a1stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",A1 Live Stream
 http://77.247.109.101/hls/A1.m3u8
+
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
@@ -2690,66 +2713,95 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w1199481911.m3u8
 http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+#EXTINF:-1 group-title="Rádio" tvg-id="kronehit" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",KroneHit (Áustria)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Rádio" tvg-id="classic-hits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Classic Hits (AudioXi)
 https://edge2.audioxi.com/CLASSIC
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Rádio" tvg-id="vagalume1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Vagalume FM 1
 https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Rádio" tvg-id="vagalume2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Vagalume FM 2
 https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Rádio" tvg-id="1fm-80s-90s" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",1.FM - 80s & 90s
 http://strm112.1.fm/80s_90s_mobile_mp3
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Rádio" tvg-id="vagalume3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Vagalume FM 3
 https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Rádio" tvg-id="vagalume4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Vagalume FM 4
 https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Infantil" tvg-id="zigzag" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",RTP ZigZag Rádio (Portugal)
 https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Rádio" tvg-id="antena2-jazz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Antena_2_Logo.png",Antena 2 Jazz
 https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/chunklist_DVR.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Rádio" tvg-id="antena3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Antena_3_Logo_2016.png",Antena 3
 https://streaming-live.rtp.pt/liveradio/antena380a/chunklist_DVR.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Rádio" tvg-id="radio1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Rádio 1
 http://centova.radios.pt:8495/stream/1/
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Rádio" tvg-id="radio2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Rádio 2
 http://centova.radios.pt:9478/stream/1/
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Rádio" tvg-id="radio3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Rádio 3
 http://centova.radios.pt:9522/stream/1/
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Rádio" tvg-id="radio4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Rádio 4
 http://195.23.85.126:9500/stream/1/
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Rádio" tvg-id="radio5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Rádio 5
 http://195.23.85.126:8401/stream/1/
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Rádio" tvg-id="radio6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Rádio 6
 http://centova.radios.pt:8499/stream/1/
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Rádio" tvg-id="tsf" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e1/TSF_logo.png/250px-TSF_logo.png",TSF Rádio
 http://tsfdirecto.tsf.pt/tsfdirecto.mp3
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Rádio" tvg-id="antena1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Antena1_2016_logo.png",Antena 1
 http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Rádio" tvg-id="antena3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Antena_3_Logo_2016.png",Antena 3 (RTP App)
 http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Rádio" tvg-id="radio7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Rádio 7
 http://centova.radios.pt:9492/stream
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Adulto" tvg-id="jennylive" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Jenny Live
 http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Adulto" tvg-id="visitxtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Visit-X TV
 http://stream.visit-x.tv:1935/vxtv/live_720p/chunklist_w1911927332.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Algum canal
+
+#EXTINF:-1 group-title="Variedades" tvg-id="sdn-stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",SDN Global Live
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ05KPqfLU8ZW5SiDsArQJkWBUoTC0rBaXc93r0bEWdBs-k8igyLlXcbYAuA&s",Porto Seguro - Praia de Taperapuan
+
+#EXTINF:-1 group-title="Câmeras" tvg-id="porto-seguro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ05KPqfLU8ZW5SiDsArQJkWBUoTC0rBaXc93r0bEWdBs-k8igyLlXcbYAuA&s",Porto Seguro - Praia de Taperapuan
 https://video2archives.earthcam.com/sunrisesunset-vod/_definst_/MP4:15041/2022/02/25/sunrise-tl.mp4/playslist.m3u8
+
+#EXTM3U
+
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEQRDd0DL1pcD0PWPx0xi_Fl9CZH5_0HbE08vIRinKJT54hvA3YgxOWcvyLyA&s",Copacabana Live
 https://hd-auth.skylinewebcams.com/live.m3u8?a=g6kho3o8qrioq5gqcbonte6vn4
+
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5AI-KieU6YYU58iKlD_NzAXYBwTdesc7cZZ3oaecQPe0s-VfHUNbmG8yKrLI&s",Basilica Aparecida
 https://hd-auth.skylinewebcams.com/live.m3u8?a=g6kho3o8qrioq5gqcbonte6vn4
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5AI-KieU6YYU58iKlD_NzAXYBwTdesc7cZZ3oaecQPe0s-VfHUNbmG8yKrLI&s",Basilica Aparecida
-https://hd-auth.skylinewebcams.com/live.m3u8?a=g6kho3o8qrioq5gqcbonte6vn4
+
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxzFTWeS0jWZobY3pKnOg2EELSMRgxLk9G4V4pWuwiYCi__6Vj2E3oXHApg&s",Craft Store TV (720p)
 https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
+
 #EXTINF:-1 group-title="Home Shopping" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEuXBq9rdn23ibD_VRaFxEWxgTk3NzdXIKvyfJ_8OO8VZwoIhZTdxRdF1lX4&s",QVC Italia (540p)
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+
 #EXTINF:-1 group-title="Home Shopping" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQByxiZpnIEAdJP1pDlrGLAP1z6De2wGles-oDenIh8Do0oiljQtBJCvQvI_N8&s",QVC Japan (720p)
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+
 #EXTINF:-1 group-title="Home Shopping" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqW_FZVlDeRxNg9u1cuk6W-N4jXV7X9jpDRAYj85k3GLoELZgzEAGOGZgYVFU&s",Shop Channel (1080p) [Not 24/7]
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 group-title="Home Shopping" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ162BN5vgvzGeEQD9TbLjcwWV_RBrl8iKJp3UHvqjkEC169yOaZlv3OQWGfiA&s",Shop LC (1080p)
