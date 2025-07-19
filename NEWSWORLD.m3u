@@ -92,6 +92,8 @@ https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="SyriaTV.sy" tvg-logo="https://www.syria.tv/themes/syriatv/img/logo.svg",Syria TV
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-id="SyriaTV.sy@SD" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="NEWS WORLD",Syria TV (1080p)
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/IRIBTV1.svg",IRIB TV1
 https://live-bshto1203.telewebion.com/ek/tv1/live/1080p/index.m3u8
@@ -2033,9 +2035,6 @@ https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
 
 #EXTINF:-1 tvg-id="Syri.al" tvg-logo="https://i.imgur.com/EEHyKdL.jpeg" group-title="NEWS WORLD",Syri (720p) [Not 24/7]
 https://stream.syritv.al/SyriTV/index.m3u8
-
-#EXTINF:-1 tvg-id="SyriaTV.sy@SD" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="NEWS WORLD",Syria TV (1080p)
-https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="TCM10HD.br" tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="NEWS WORLD",TCM 10 HD (1080p)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
