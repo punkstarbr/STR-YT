@@ -10,9 +10,7 @@ https://webtvstream.bhtelecom.ba/hls19/zadruga_live2_1200.m3u8
 #EXTINF:-1 group-title="Reality Show's Live", Zadruga Live 3
 https://webtvstream.bhtelecom.ba/hls19/zadruga_live3_1200.m3u8
 #EXTINF:-1 group-title="Reality Show's Live", Pink TV
-https://edge8.pink.rs/pinktv/chunklist_w1649157182.m3u8
-#EXTINF:-1 group-title="Reality Show's Live", Pink TV 2
-https://edge8.pink.rs/pinktv/chunklist_w2072273089.m3u8
+https://edge8.pink.rs/pinktv/index.m3u8
 
 #EXTINF:-1 group-title="Reality Show's Live" tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/jJ6v5ea.png",CANAL 5
 http://181.78.106.127:9000/play/ca012/index.m3u8
