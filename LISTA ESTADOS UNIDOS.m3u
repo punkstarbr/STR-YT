@@ -13,11 +13,11 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz"
 #EXTINF:-1 group-title="USA" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC_EAST" tvg-logo="https://iili.io/JmoUd6g.png",ABC East
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="WCBS.us" tvg-name="WCBS (New York) CBS East" tvg-logo="https://iili.io/JmoUFcJ.png" group-title="USA",CBS East
+#EXTINF:-1 tvg-id="WSBK.(TV-38).Boston.us" tvg-logo="https://iili.io/JmoUFcJ.png" group-title="USA",CBS East
 http://fl3.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="FoxEast.us" tvg-logo="https://iili.io/JmoUJMF.png",Fox East
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="NBCEast.us" tvg-logo="https://iili.io/JmoU3Fa.png",NBC East
+#EXTINF:-1 group-title="USA" tvg-id="NBC.(WRC).District.of.Columbia.us" tvg-logo="https://iili.io/JmoU3Fa.png",NBC East
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC - New York" ,ABC - New York
 https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
