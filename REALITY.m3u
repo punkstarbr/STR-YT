@@ -4,12 +4,24 @@ https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 
 
 #EXTINF:-1 group-title="Reality Show's Live", Zadruga Live 1
+#EXTVLCOPT:http-user-agent=IE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
 https://webtvstream.bhtelecom.ba/hls19/zadruga_live1_1200.m3u8
 #EXTINF:-1 group-title="Reality Show's Live", Zadruga Live 2
+#EXTVLCOPT:http-user-agent=IE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
 https://webtvstream.bhtelecom.ba/hls19/zadruga_live2_1200.m3u8
 #EXTINF:-1 group-title="Reality Show's Live", Zadruga Live 3
+#EXTVLCOPT:http-user-agent=IE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
 https://webtvstream.bhtelecom.ba/hls19/zadruga_live3_1200.m3u8
 #EXTINF:-1 group-title="Reality Show's Live", Pink TV
+#EXTVLCOPT:http-user-agent=IE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
 https://edge8.pink.rs/pinktv/index.m3u8
 
 #EXTINF:-1 group-title="Reality Show's Live" tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/jJ6v5ea.png",CANAL 5
