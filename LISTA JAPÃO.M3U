@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml"
-#EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,https://www.bevy.be/bevyfiles/thailand.xml" refresh="3600" 
+#EXTM3U x-tvg-url="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml"
 #EXTINF:0 group-title="JAPÃO" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",QVC Japan (720p)
 #EXTVLCOPT:network-caching=1000
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
