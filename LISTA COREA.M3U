@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 group-title="TV#Korea" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6UmlzrdYm3Fly9QBeXwqxDyDn8B2HmAWLqpcDCrnoTszC8cOrUP6MiIyWZM0&s",KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 #EXTINF:-1 group-title="TV#Korea" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-pRdr-pZifHg0vMlK_VgxRamtqyh0-8EPOKONTOzHo0gbX7_O3wIzmBcciUc&s",KBS NEWS
