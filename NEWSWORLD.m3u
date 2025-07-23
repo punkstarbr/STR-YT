@@ -141,19 +141,19 @@ https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8
 #EXTINF:-1 tvg-id="IRINN.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="NEWS WORLD",IRINN
 https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/Wu4ykxo.png",Globo News HD
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="+ Globosat.br" tvg-logo="https://imgur.com/Wu4ykxo.png",Globo News HD
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120647
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/Wu4ykxo.png",Globo News HD
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="+ Globosat.br" tvg-logo="https://imgur.com/Wu4ykxo.png",Globo News HD
 https://03-mcteteu.shop/secret_key/77a11442e33a694798f9cc53b6235737.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1" tvg-logo="" group-title="NEWS WORLD",BR: SPORTV 1
+#EXTINF:-1 tvg-id="SporTV HD.br" tvg-name="BR: SPORTV 1" tvg-logo="" group-title="NEWS WORLD",BR: SPORTV 1
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120743
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2  [Live During Events Only]" tvg-logo="" group-title="NEWS WORLD",BR: SPORTV 2  [Live During Events Only]
+#EXTINF:-1 tvg-id="SporTV HD.br" tvg-name="BR: SPORTV 2  [Live During Events Only]" tvg-logo="" group-title="NEWS WORLD",BR: SPORTV 2  [Live During Events Only]
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120744
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3" tvg-logo="" group-title="NEWS WORLD",BR: SPORTV 3
+#EXTINF:-1 tvg-id="SporTV HD.br" tvg-name="BR: SPORTV 3" tvg-logo="" group-title="NEWS WORLD",BR: SPORTV 3
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120745
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="JovemPanNews.br" tvg-logo="https://i.imgur.com/aqgaka0.jpeg",Jovem Pan News
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="6317ba014d4d040007227f72" tvg-logo="https://i.imgur.com/aqgaka0.jpeg",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="NEWS WORLD",Band News HD
+#EXTINF:-1 tvg-id="Band Amazonas HD.br" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="NEWS WORLD",Band News HD
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120587
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://imgur.com/tyW3Ppf.png",BM&C NEWS
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -420,9 +420,9 @@ https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6EBO9hJLcDaZT6AK1dk9TyA--QTe-j0wlrWoBSNhm_WdaZEHZlPON4_jag&s",24H 4
 https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8?DVR
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="N/A" tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2022/01/19/e6521679-1e8a-4522-af30-b416193d8414/thumbnail/1920x1080/d73c8305850f4e4a85a25627a616d62b/cbsnews-1920x1080.jpg",CBS NEWS SERVIÇO
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="61e82af27027f9000753c6e4" tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2022/01/19/e6521679-1e8a-4522-af30-b416193d8414/thumbnail/1920x1080/d73c8305850f4e4a85a25627a616d62b/cbsnews-1920x1080.jpg",CBS NEWS SERVIÇO
 https://cbsn-2.cbsnstream.cbsnews.com/out/v1/a6a897e8f4f74cfc896223dfd822482f/master.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="N/A" tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2022/01/19/e6521679-1e8a-4522-af30-b416193d8414/thumbnail/1920x1080/d73c8305850f4e4a85a25627a616d62b/cbsnews-1920x1080.jpg",CBS NEWS SERVIÇO 2
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="61e82af27027f9000753c6e4" tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2022/01/19/e6521679-1e8a-4522-af30-b416193d8414/thumbnail/1920x1080/d73c8305850f4e4a85a25627a616d62b/cbsnews-1920x1080.jpg",CBS NEWS SERVIÇO 2
 https://cbsn-3-fastly.cbsnstream.cbsnews.com/out/v1/f081461c65494eeaa9ec596d0fe96a14/master.m3u8
 
 
