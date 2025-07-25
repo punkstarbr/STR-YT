@@ -46,7 +46,8 @@ https://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8
 
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="RBATV.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/df0c35517ab2f2e9e6c1808730694.webp",Band Belém (RBA TV) 
 https://streaming.gruporba.com.br/rba.m3u8
-
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/band.png",Band (PE)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/recordtv.png",Record TV MT
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/recordtv.png",Record TV (PB)
