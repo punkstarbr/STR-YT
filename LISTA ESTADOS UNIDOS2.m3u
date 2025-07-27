@@ -1,32 +1,4 @@
-#EXTM3U url-tvg="http://fortv.cc:8080/xmltv.php?username=q8KuDU&password=354945"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml"
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
 
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz"
-#EXTINF:-1 group-title="USA" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC_EAST" tvg-logo="https://iili.io/JmoUd6g.png",ABC East
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="WSBK.(TV-38).Boston.us" tvg-logo="https://iili.io/JmoUFcJ.png" group-title="USA",CBS East
-http://fl3.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="FoxEast.us" tvg-logo="https://iili.io/JmoUJMF.png",Fox East
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="NBC.(WRC).District.of.Columbia.us" tvg-logo="https://iili.io/JmoU3Fa.png",NBC East
-http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC - New York" ,ABC - New York
-https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="ABC.(KMBC).Kansas.City,.MO.us" tvg-name="ABC - Kansas City" ,ABC - Kansas City
-https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
-#EXTINF:-1 tvg-id="ABC.(KMIZ).Columbia,.MO.us" tvg-name="ABC - Columbia" ,ABC - Columbia
-https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 tvg-id="ABC.(KTVO).Kirskville,.MO.us" tvg-name="ABC - Kirskville" ,ABC - Kirskville
-https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
 #EXTINF:-1 tvg-id="NBC.(WRC).District.of.Columbia.us" tvg-name="NBC - Washington DC" ,NBC - Washington DC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="NBC.(KOMU).Columbia,.MO.us" tvg-name="NBC - Columbia" ,NBC - Columbia
