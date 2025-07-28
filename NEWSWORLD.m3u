@@ -192,16 +192,7 @@ http://tv.nstvlatino.com:8080/UY1108/@373839/8255
 https://ft.fbcdntv247.cfd/memfs/f03819b3-64bd-4730-ab94-2469c3d30d81_output_0.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="tvg-id="FoxNewsChannel.us"" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIEc4MyZIWvx3nNPOVwlUwvivpu_VLsknHjgtCwEvUVl4sJKazM0LiHDbNRSE&s",FOX NEWS USA 1 SEG
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-name="Fox News" tvg-logo="https://i.imgur.com/GRfQZMK.png" tvg-id="Fox.News.us",LiveNow Fox
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200",Int. América: FOX Live Now USA EN
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Fox.News.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzoYtpgWk9Gbkxrt7YwMv4zFKk-tTyWvwd3Gsxs7qgo5Wizm086TNjgfFzzw&s",FOX NEWS NOW
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?DVR
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="plex.tv.FOX.Weather.plex" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFe6qTjABj7RYZE4WqxKgtbHtJtIoh_OFWXTxgFgAyIR_bIbkKxRShNvIoIg&s",FOX WEATHER
-https://247wlive.foxweather.com/stream/index.m3u8?DVR
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="plex.tv.FOX.Weather.plex" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFe6qTjABj7RYZE4WqxKgtbHtJtIoh_OFWXTxgFgAyIR_bIbkKxRShNvIoIg&s",Fox Weather
-https://247wlive.foxweather.com/stream/index.m3u8
+
 
 #EXTINF:-1 tvg-id="cnbc-us" tvg-logo="https://epg.iptvx.one/picons/cnbc-us.png" group-title="USA",CNBC (HD ready)
 http://fl3.moveonjoy.com/CNBC/index.m3u8
