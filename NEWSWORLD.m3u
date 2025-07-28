@@ -144,12 +144,17 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120647
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/Wu4ykxo.png",Globo News HD
 https://03-mcteteu.shop/secret_key/77a11442e33a694798f9cc53b6235737.m3u8
-#EXTINF:-1 tvg-id="SporTV HD.br" tvg-name="BR: SPORTV 1" tvg-logo="" group-title="NEWS WORLD",BR: SPORTV 1
-http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120743
-#EXTINF:-1 tvg-id="SporTV2 HD.br" tvg-name="BR: SPORTV 2  [Live During Events Only]" tvg-logo="" group-title="NEWS WORLD",BR: SPORTV 2  [Live During Events Only]
-http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120744
-#EXTINF:-1 tvg-id="SporTV3 HD.br" tvg-name="BR: SPORTV 3" tvg-logo="" group-title="NEWS WORLD",BR: SPORTV 3
-http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120745
+#EXTM3U
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="SporTV HD.br" tvg-logo="https://imgur.com/mTdVXfu.jpg",SPORTV
+https://1zn0of55fj.1zn0of55fj.workers.dev/sportv/index.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="SporTV2 HD.br" tvg-logo="https://imgur.com/gofZHpP.jpg",SPORTV
+https://1zn0of55fj.1zn0of55fj.workers.dev/sportv2/index.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="SporTV3 HD.br" tvg-logo="https://imgur.com/N4yF1XS.jpg",BR: SPORTV 3
+https://1zn0of55fj.1zn0of55fj.workers.dev/sportv3/index.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="6317ba014d4d040007227f72" tvg-logo="https://i.imgur.com/aqgaka0.jpeg",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-id="Band Amazonas HD.br" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="NEWS WORLD",Band News HD
@@ -525,9 +530,9 @@ https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/WABCLive
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/WABCLive2.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="ABC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSByudCbCLNVmjaJFPHKZ7aKWNp_xbG1-kvVBFJdPg373zsAvwoQ2egSS5p8KE&s",ABC7 NY WABC LIVE 3
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/WABCLive3.m3u8?DVR
-#EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Brasil
+#EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="BLOOMBERG TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Brasil
 #KODIPROP:inputstream=inputstream.adaptive
-https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+https://bloomberg-bloomberg-3-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Blomberg US" tvg-id="" group-title="BUSINESS NEWS" tvg-logo="https://i.imgur.com/idRFfhY.png",Blomberg US
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
