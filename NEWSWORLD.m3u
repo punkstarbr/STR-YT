@@ -663,22 +663,7 @@ http://news1.live14.com/stream/news1_hi.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037602/orlando/stream1/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="N/A" tvg-logo="https://www.telemundo51.com/wp-content/themes/nbc-station/static/images/TelemundoLiveTV-Desktop.png",Telemundo Miami FL
 https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream6/master.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Telemundo.(KNSO).Fresno,.CA.us" tvg-logo="https://www.telemundo51.com/wp-content/themes/nbc-station/static/images/TelemundoLiveTV-Desktop.png",Telemundo Fresno CA
-https://nbculocallive.akamaized.net/hls/live/2037601/fresno/stream1/master.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Telemundo.(KBLR).Las.Vegas,.NV.us" tvg-logo="https://www.telemundo51.com/wp-content/themes/nbc-station/static/images/TelemundoLiveTV-Desktop.png",Telemundo Las Vegas NV
-https://nbculocallive.akamaized.net/hls/live/2037093/lasvegas/stream1/master.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Telemundo.(KVEA).Los.Angeles,.CA.us" tvg-logo="https://www.telemundo51.com/wp-content/themes/nbc-station/static/images/TelemundoLiveTV-Desktop.png",Telemundo Los Angeles CA
-https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Telemundo.(KUAN).San.Diego,.CA.us" tvg-logo="https://www.telemundo51.com/wp-content/themes/nbc-station/static/images/TelemundoLiveTV-Desktop.png",Telemundo San Diego CA
-https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream3/master.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Telemundo.(WZDC).Washington,.DC.us" tvg-logo="https://www.telemundo51.com/wp-content/themes/nbc-station/static/images/TelemundoLiveTV-Desktop.png",Telemundo Washington DC
-https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream4/master.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="dw.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBAf7iwr2D0X6V5E0ICZRYzObpWE-mZUSloRrbR0UFCNpxdXXH340AAmaLZ9I&s",DW
-https://mrgmaw.github.io/enlaces/xy/dwes.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="RT.hk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnzeBew1dZKHxOGp1AkqGQKdZTxIy6A1QBO7_epA5HDTPljfZw80S0xPtCUA&s",RT
-https://mrgmaw.github.io/enlaces/xy/rtes.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Channel.News.Asia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCfF0rcAGGYaYB1NSlW68AdLeVl6ZoZSqzYOUnezq283StsZ6eZTGb0rtkZA&s",Channel News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2TMAJTcMig7uz6yRwNYio0PDVPadRg7Xfu3LaEoAh1rBWzyOwGDDNo_jtDs&s",News 24 (392p) [Not 24/7]
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU0_w2Iy8Mi7iAat5JujZO8wadVHX6p4O3lq_QS3Nvolqk-9MRfhS04zEK1kY&s",Newsmax (1080p)
