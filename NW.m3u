@@ -198,8 +198,10 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HLN_2017_new_logo.png",HLN
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HLN_2017_new_logo.png",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8?DVR
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="HLN.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO9Yb9QCVtauk3US5ywf3Avc-r3yPhnHyb4nPSL_m2zBe-83bLGrhK-i2e3Q&s",HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="Antena.3.CNN.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512" group-title="NEWS WORLD",Antena 3 CNN
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 #EXTINF:-1 group-title="CNN's" tvg-id="CNN.Türk.tr" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
@@ -273,13 +275,11 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 
 
 
-#EXTINF:-1 tvg-id="bbc" tvg-logo="https://iptvx.one/picons/bbc.png" group-title="NEWS WORLD",BBC World News North America (HD)
+#EXTINF:-1 tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-logo="https://iptvx.one/picons/bbc.png" group-title="NEWS WORLD",BBC World News North America (HD)
 http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="sky-news-uk" tvg-logo="https://epg.iptvx.one/picons/sky-news-uk.png" group-title="NEWS WORLD",Sky News (HD)
+#EXTINF:-1 tvg-id="Sky.News.za" tvg-logo="https://epg.iptvx.one/picons/sky-news-uk.png" group-title="NEWS WORLD",Sky News (HD)
 https://jmp2.uk/sam-USBB52000022Q.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO9Yb9QCVtauk3US5ywf3Avc-r3yPhnHyb4nPSL_m2zBe-83bLGrhK-i2e3Q&s",HLN
-https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFxp349xLkhA5PCOkEjsKkck0O1yWynuGu0QkS8Om7sQf6NmOjdIgySFMBPw&s",24 HORAS CL
 https://marine2.miplay.cl/24horas/index.m3u8?DVR
