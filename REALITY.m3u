@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="tvireality.tv.vodafone.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
 https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
 
-#EXTINF:-1,Las Estrellas
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png",Canal Estrellas
 http://181.205.130.194:4000/play/a07r
 #EXTINF:-1 group-title="Reality Show's Live" tvg-id="Canal.5.(XHPNH).mx" tvg-logo="https://i.imgur.com/jJ6v5ea.png",CANAL 5
 http://181.78.106.127:9000/play/ca012/index.m3u8
