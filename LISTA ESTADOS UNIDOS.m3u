@@ -169,7 +169,7 @@ http://fl5.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="KTVODT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/CBS_logo.svg",CBS
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-id="KTVODT1.us",KTVO-DT1 (720p)
+#EXTINF:-1 group-title="USA" tvg-id="ABC.(WABC).New.York,.NY.us",KTVO-DT1 (720p)
 https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="CBS.(KTVO-DT2).Kirskville,.MO.us",KTVO-DT2 (720p)
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
