@@ -411,11 +411,11 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VoATV.us" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="NEWS WORLD",VOA TV Africa (1080p)
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjBZSnIIF9zwWM3tHj0mHv9UjprxbYp8qBR2GktmkbZEMf7kp58WCAy6mdvQ&s",VOA
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="VOA.voa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjBZSnIIF9zwWM3tHj0mHv9UjprxbYp8qBR2GktmkbZEMf7kp58WCAy6mdvQ&s",VOA
 https://voa-ingest.akamaized.net/hls/live/2033882/tvmc10/playlist.m3u8?DVR
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjBZSnIIF9zwWM3tHj0mHv9UjprxbYp8qBR2GktmkbZEMf7kp58WCAy6mdvQ&s",VOA
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="VOA.voa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjBZSnIIF9zwWM3tHj0mHv9UjprxbYp8qBR2GktmkbZEMf7kp58WCAy6mdvQ&s",VOA
 https://voa-ingest.akamaized.net/hls/live/2033884/tvmc11/playlist.m3u8?DVR
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjBZSnIIF9zwWM3tHj0mHv9UjprxbYp8qBR2GktmkbZEMf7kp58WCAy6mdvQ&s",VOA
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="VOA.voa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjBZSnIIF9zwWM3tHj0mHv9UjprxbYp8qBR2GktmkbZEMf7kp58WCAy6mdvQ&s",VOA
 https://voa-ingest.akamaized.net/hls/live/2033886/tvmc12/playlist.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCxYLOU8hIbQdrJDimy3v9R09ZnjRNnTma3b9QnTqqV1t4aIIqqeeSoH69QQ&s",CAM CAPITOLIO EEUU
 https://www-senate-gov-media-srs.akamaized.net/hls/live/2036784/capcam/capcam/master.m3u8?DVR
@@ -863,7 +863,7 @@ https://mrgmaw.github.io/enlaces/xy/rtes.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2TMAJTcMig7uz6yRwNYio0PDVPadRg7Xfu3LaEoAh1rBWzyOwGDDNo_jtDs&s",News 24 (392p) [Not 24/7]
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU0_w2Iy8Mi7iAat5JujZO8wadVHX6p4O3lq_QS3Nvolqk-9MRfhS04zEK1kY&s",Newsmax (1080p)
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="NewsMax.TV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU0_w2Iy8Mi7iAat5JujZO8wadVHX6p4O3lq_QS3Nvolqk-9MRfhS04zEK1kY&s",Newsmax (1080p)
 https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS-Dya3snfqyb3LPParzS1SPbvniP3FKPxvKuC1ssnFKj4FMvu7xypqTTUTA&s",NewsNet (720p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
