@@ -14,7 +14,7 @@ https://tv.nknews.org/tvdash/stream.mpd?DVR
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZFEJsu.png" group-title="NEWS WORLD",Global News 2
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://www.tagesschau.de/res/assets/image/favicon/apple-touch-icon-152x152.png" group-title="NEWS WORLD",tagesschau24 - ALEMÃO
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-logo="https://www.tagesschau.de/res/assets/image/favicon/apple-touch-icon-152x152.png" group-title="NEWS WORLD",tagesschau24 - ALEMÃO
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="6508be683a0d700008c534e4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9QzyI-bCW4uHTCx0-PEAxBlyKKx36upBu8aLu9XYeNnSQ2jCOUJuI0N-BNQ&s",ABC News
