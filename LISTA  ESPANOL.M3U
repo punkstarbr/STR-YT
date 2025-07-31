@@ -3,10 +3,10 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://statics.atresmedia.com/atresplayer/assets/web/images/channels/antena-3-logo.svg" group-title="ESPANHA", ANTENA 3 (COM VPN)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/web/images/channels/antena-3-logo.svg",ANTENA 3 (COM VPN)
 https://directo.atresmedia.com/2e1074e3833f6b8d5d237f37de397b10c1f3cb66_1682773131/antena3/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://statics.atresmedia.com/atresplayer/assets/web/images/channels/lasexta-logo.svg" group-title="ESPANHA", LA SEXTA (COM VPN)
+#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/web/images/channels/lasexta-logo.svg",LA SEXTA (COM VPN)
 https://atres-live.atresmedia.com/416f09f5f2945d4a4761b12a66f9e6e2b63eb0fb_ES_1682741292_1682770032/h264/live/lasexta/master.m3u8
 
 
