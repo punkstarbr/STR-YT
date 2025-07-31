@@ -16,12 +16,16 @@
 
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="CanalMetropolitanodeNoticias.br" tvg-logo="https://i.imgur.com/G0x4xqa.png",Canal Metropolitano de Noticia (720p)
 https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
+
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCidadedePetropolis.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/00bb19faeb0ea5b2ca8adcfcbaa1249c.webp",TV Cidade de Petrópolis
 https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="62e010e6cd663f0007e57dc8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcE3z-QtWvhdP1Ps_ZKQuYPahyJTKVrJqR1ZvpYC5wOSfKqCbJhtOUmkXmZaI&s",TV CULTURA SP HD
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1027478611.m3u8
+
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfx1E2YGvr_VLO-aUNQZh1kVjvONNaRpCb8GN0f_FS-N6vbcxAP6be6VM5mw&s",TV CÂMARA DOS DEPUTADOS HD
 https://stream3.camara.gov.br/tv1/manifest.m3u8
+
 
 
 
@@ -99,48 +103,61 @@ http://maistop.net:80/live/free/free/1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/250px-Rai_3_-_Logo_2016.svg.png" group-title="Reality Show's Live",RAI 3
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/250px-Rai_3_-_Logo_2016.svg.png",RAI 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RAITRE" tvg-name="IT RAI 3 (D)" tvg-logo="http://fanc.tmsimg.com/assets/s53928_ll_h3_as.png" group-title="Reality Show's Live",IT RAI 3 (D)
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="RAITRE" tvg-name="IT RAI 3 (D)" tvg-logo="http://fanc.tmsimg.com/assets/s53928_ll_h3_as.png",IT RAI 3 (D)
 https://dumdumbullet.com/1011454237/bHg8wYxrId/79992114901
-#EXTINF:-1 tvg-id="RAITRE" tvg-name="IT: Rai 3" tvg-logo="http://fanc.tmsimg.com/assets/s53928_ll_h3_as.png" group-title="Reality Show's Live",IT: Rai 3
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="RAITRE" tvg-name="IT: Rai 3" tvg-logo="http://fanc.tmsimg.com/assets/s53928_ll_h3_as.png",IT: Rai 3
 https://dumdumbullet.com/1011454237/bHg8wYxrId/6661979
 
-
-#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://i.imgur.com/2CimAAN.png" group-title="Reality Show's Live",RTL-TVI (1080p) [Not 24/7]
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="RTLTVI.be" tvg-logo="https://i.imgur.com/2CimAAN.png",RTL-TVI (1080p) [Not 24/7]
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 
 #EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://od.lk/s/M18yOTI2NjczMTZf/france2.png",FRANCE 2
 http://69.64.57.208/france2/playlist.m3u8
 
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://od.lk/s/M18yOTI2NjczMTRf/france5.jpeg", FRANCE 5
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://od.lk/s/M18yOTI2NjczMTRf/france5.jpeg",FRANCE 5
 http://69.64.57.208/france5/playlist.m3u8
 
 #EXTINF:-1 group-title="Reality Show's Live" tvg-id="FRANCE 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmrbOqjG8PomXE86TM5SAMP5_Z30xG2nW1kot6nym9nU63PCzUdpHMrAYwA&s",FRANCE 2 FHD
 http://cord-cutter.net:8080/live/j3McKd/673709/160297.m3u8
+
 #EXTINF:-1 group-title="Reality Show's Live" tvg-id="FRANCE 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQONO80OTwp8oIc8fzLkInbb6ZJ8xondzxrzyVhvYg1hZZOSi99MbV3ifz0Ipg&s",FRANCE 3 FHD
 http://cord-cutter.net:8080/live/j3McKd/673709/160298.m3u8
+
 #EXTINF:-1 group-title="Reality Show's Live" tvg-id="FRANCE 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRrR9BsBZw4zTAzFAAxFQuDp1lm06mXAEU-PnGfC7FTLZEyqnuRWDE-P9C4w&s",FRANCE 4 FHD
 http://cord-cutter.net:8080/live/j3McKd/673709/160299.m3u8
+
 #EXTINF:-1 group-title="Reality Show's Live" tvg-id="FRANCE 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu32fM_Xm6U-85aB1LCxFXx6tYjCCu1SdpmlXj5xLUwdm5dCbriIctZf2QHbk&s",FRANCE 5 FHD
 http://cord-cutter.net:8080/live/j3McKd/673709/160300.m3u8
 
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ESCUTA FREQUENCIA COORDENAÇÃO HELICOPTEROS - SP
+
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-logo="N/A",ESCUTA FREQUENCIA COORDENAÇÃO HELICOPTEROS - SP
 https://ssl1.transmissaodigital.com:20101/HELI127.35RCB
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ESCUTA ATIS DE CAMPO DE MARTE
+
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-logo="N/A",ESCUTA ATIS DE CAMPO DE MARTE
 https://ssl1.transmissaodigital.com:20102/127.725ATISMARTERCB
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ESCUTA AÉREA DO SOLO DO CAMPO DE MARTE - 121.6
+
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-logo="N/A",ESCUTA AÉREA DO SOLO DO CAMPO DE MARTE - 121.6
 https://ssl1.transmissaodigital.com:20104/121.6SOLOMARTERCB
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ESCUTA TORRE DO CAMPO DE MARTE
+
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-logo="N/A",ESCUTA TORRE DO CAMPO DE MARTE
 https://ssl1.transmissaodigital.com:20106/TORREMARTE133.35RCBRCB
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ESCUTA AÉREA ATIS AEROPORTO CONGONHAS
+
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-logo="N/A",ESCUTA AÉREA ATIS AEROPORTO CONGONHAS
 https://ssl1.transmissaodigital.com:20103/127.65ATISCGHRCB
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ESCUTA ATIS AEROPORTO GUARULHOS
+
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-logo="N/A",ESCUTA ATIS AEROPORTO GUARULHOS
 https://ssl1.transmissaodigital.com:20102/127.75ATISGRURCB
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ESCUTA TORRE GUARULHOS
+
+#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-logo="N/A",ESCUTA TORRE GUARULHOS
 https://ssl1.transmissaodigital.com:20105/TORREGRU135.2RCBFONIAEXCLUSIVARADIOCOMBRASIL
-#EXTINF:-1 group-title="CAMERA AO VIVO" MOSAICO TV ALEMANHA
+
+#EXTINF:-1 group-title="CAMERA AO VIVO",MOSAICO TV ALEMANHA
 http://80.61.63.103:81/cam_1.cgi
+
 
 
 
