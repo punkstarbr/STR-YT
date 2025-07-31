@@ -171,7 +171,7 @@ https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-id="KTVODT1.us",KTVO-DT1 (720p)
 https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="KTVODT2.us",KTVO-DT2 (720p)
+#EXTINF:-1 group-title="USA" tvg-id="CBS.(KTVO-DT2).Kirskville,.MO.us",KTVO-DT2 (720p)
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="KTVODT3.us",KTVO-DT3 (720p)
 https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
