@@ -264,12 +264,16 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="MSNBC.au" tvg-logo="https://iili.io/JmKvove.png",MSNBC
 http://41.205.93.154:80/MSNBC/index.m3u8
-#EXTINF:-1 tvg-id="cnbc-us" tvg-logo="https://epg.iptvx.one/picons/cnbc-us.png" group-title="USA",CNBC (HD ready)
+
+#EXTINF:-1 group-title="USA" tvg-id="cnbc-us" tvg-logo="https://epg.iptvx.one/picons/cnbc-us.png",CNBC (HD ready)
 http://fl3.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://iptvx.one/picons/cnn.png" group-title="USA",CNN (HD ready)
+
+#EXTINF:-1 group-title="USA" tvg-id="" tvg-logo="https://iptvx.one/picons/cnn.png",CNN (HD ready)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="cnn" tvg-logo="https://iptvx.one/picons/cnn.png" group-title="USA",CNN INTERNATIONAL (HD ready)
+
+#EXTINF:-1 group-title="USA" tvg-id="cnn" tvg-logo="https://iptvx.one/picons/cnn.png",CNN INTERNATIONAL (HD ready)
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+
 
 
 
