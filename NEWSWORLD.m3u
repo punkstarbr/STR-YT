@@ -892,19 +892,19 @@ https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_oIltQpXICh1WhBl8QAEwcEoMUkjT0DJb9shOLhFV0s7XVsP6R9pB_KKyVQ&s",CloudFront Stream
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2GB.au" tvg-logo="https://i.ibb.co/jwM8DFG/2GB-1.png" group-title="NEWS WORLD",2GB Sydney (1080p)
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="2GB.au" tvg-logo="https://i.ibb.co/jwM8DFG/2GB-1.png",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 
-#EXTINF:-1 tvg-id="324.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/324_%28CCMA%29_logo.svg/revision/latest/scale-to-width-down/512" group-title="NEWS WORLD",3/24 (1080p)
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="324.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/324_%28CCMA%29_logo.svg/revision/latest/scale-to-width-down/512",3/24 (1080p)
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="3AW.au" tvg-logo="https://i.imgur.com/Z4MdB0S.png" group-title="NEWS WORLD",3AW Melbourne (1080p)
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="3AW.au" tvg-logo="https://i.imgur.com/Z4MdB0S.png",3AW Melbourne (1080p)
 https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
 
-#EXTINF:-1 tvg-id="4DmasNoticiasTV.py" tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png" group-title="NEWS WORLD",4DmásNoticias TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="4DmasNoticiasTV.py" tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png",4DmásNoticias TV (1080p) [Not 24/7]
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="13SiamThai.th" tvg-logo="https://i.imgur.com/FvEp1S2.png" group-title="NEWS WORLD",13 Siam Thai (1080p)
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="13SiamThai.th" tvg-logo="https://i.imgur.com/FvEp1S2.png",13 Siam Thai (1080p)
 https://live.x2.co.th/live/13livetv-th.m3u8
 
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="NEWS WORLD",24/7 Canal de Noticias (720p)
@@ -2197,26 +2197,27 @@ http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="Legendarnyy24.ru" tvg-logo="https://www.lyngsat.com/logo/tv/ll/legendarnyy-24-ru.png" group-title="NEWS WORLD",Легендарный 24
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 
-#EXTINF:-1 tvg-id="Millet.ru" tvg-logo="https://i.imgur.com/hUjLRLy.png" group-title="NEWS WORLD",Миллет (540p) [Not 24/7]
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Millet.ru" tvg-logo="https://i.imgur.com/hUjLRLy.png",Миллет (540p) [Not 24/7]
 https://live.trkmillet.ru/millet/index.m3u8
 
-#EXTINF:-1 tvg-id="Mir24.ru" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="NEWS WORLD",Мир 24 (1080p)
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Mir24.ru" tvg-logo="https://i.imgur.com/dj9c8Yd.png",Мир 24 (1080p)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-logo="https://i.imgur.com/jFP50g2.png" group-title="NEWS WORLD",Общественное Независимое Телевидение (576p)
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-logo="https://i.imgur.com/jFP50g2.png",Общественное Независимое Телевидение (576p)
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 
-#EXTINF:-1 tvg-id="PerviyInformationniy.by" tvg-logo="https://i.imgur.com/eIiXRAI.png" group-title="NEWS WORLD",Первый информационный (1080p)
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="PerviyInformationniy.by" tvg-logo="https://i.imgur.com/eIiXRAI.png",Первый информационный (1080p)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GovoritMoskva.ru" tvg-logo="https://i.imgur.com/z2mxf3E.png" group-title="NEWS WORLD",Радио Говорит Москва (404p) [Not 24/7]
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="GovoritMoskva.ru" tvg-logo="https://i.imgur.com/z2mxf3E.png",Радио Говорит Москва (404p) [Not 24/7]
 http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
 
-#EXTINF:-1 tvg-id="Reporter.ua" tvg-logo="https://i.imgur.com/LyA3kBR.png" group-title="NEWS WORLD",Телеканал Репортер Одесса (720p)
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Reporter.ua" tvg-logo="https://i.imgur.com/LyA3kBR.png",Телеканал Репортер Одесса (720p)
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Ternopil1.ua" tvg-logo="https://i.imgur.com/f5EtIzV.png" group-title="NEWS WORLD",Тернопіль 1 (720p)
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Ternopil1.ua" tvg-logo="https://i.imgur.com/f5EtIzV.png",Тернопіль 1 (720p)
 https://ott.columbus.te.ua/ternopil1/index.m3u8
 
-#EXTINF:-1 tvg-id="ChuzhouNewsChannel.cn" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="NEWS WORLD",滁州市广播电视台 新闻综合频道 (1080p)
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="ChuzhouNewsChannel.cn" tvg-logo="https://i.imgur.com/9JfZJRv.png",滁州市广播电视台 新闻综合频道 (1080p)
 http://live.cztv.cc:85/live/xwpd.m3u8
+
