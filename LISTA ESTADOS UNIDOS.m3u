@@ -15,9 +15,11 @@
 #EXTINF:-1 group-title="USA" tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US",CBS News New York (Alt)
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
 #EXTINF:-1 group-title="USA" tvg-id="MIAMI FL WSVN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX9rxl_HuBLxHxh2S5KZ889oaeBwCpjfXji_KZPB3SLhOAhfY3P9i_fPrYMEY&s",FOX: FL MIAMI WSVN - TROCA 1H MANHÃ BRASILIA
-http://cord-cutter.net:8080/live/j3McKd/673709/121242.m3u8
+http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/71647.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="MIAMI FL WPLG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnx0130L65jt8rIzItH24PFkqQiBV641zr049ohN037rZeW6h9t-KZZivmqA&s",ABC 10: FL MIAMI WPLG - TROCA 1H MANHÃ BRASILIA
-http://cord-cutter.net:8080/live/j3McKd/673709/121245.m3u8
+http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/71645.m3u8
+
+https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC_EAST" tvg-logo="https://iili.io/JmoUd6g.png",ABC East
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC - New York",ABC - New York
