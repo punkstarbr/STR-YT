@@ -1,92 +1,128 @@
-
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://files.cercomp.ufg.br/weby/up/120/m/ASSINATURA_RADIO_UFG_BRANCA.png" radio="true",Rádio Universitária UFG
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="Undefined" tvg-logo="https://files.cercomp.ufg.br/weby/up/120/m/ASSINATURA_RADIO_UFG_BRANCA.png" radio="true",Rádio Universitária UFG
 http://200.137.217.155:8010/radiouniversitaria
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="https://www.cbngoiania.com.br/img/cbngoiania/logo_cbn_rodape.png" radio="true",CBN GOIANIA
+
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="Undefined" tvg-logo="https://www.cbngoiania.com.br/img/cbngoiania/logo_cbn_rodape.png" radio="true",CBN GOIANIA
 http://live.ojc.com.br:8000/e9cd_3/myStream/playlist
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="http://aovivo.radioliberal.com.br/logo_liberal_fm.png" radio="true",LIBERAL RÁDIO - BELÉM
+
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="Undefined" tvg-logo="http://aovivo.radioliberal.com.br/logo_liberal_fm.png" radio="true",LIBERAL RÁDIO - BELÉM
 https://www.grupoliberalmedia.com.br/radiolive/_definst_/liveradio/playlist.m3u8
 
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="http://aovivo.radioliberal.com.br/logo_liberal_fm.png" radio="true",LIBERAL RÁDIO - BELÉM - COM CORTES
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="Undefined" tvg-logo="http://aovivo.radioliberal.com.br/logo_liberal_fm.png" radio="true",LIBERAL RÁDIO - BELÉM - COM CORTES
 https://www.grupoliberalmedia.com.br/radiotricaster/_definst_/ngrp:radiotricaster_all/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="http://aovivo.radioliberal.com.br/logo_liberal_fm.png" radio="true",LIBERAL RÁDIO - BELÉM - COM CORTES 2
+
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="Undefined" tvg-logo="http://aovivo.radioliberal.com.br/logo_liberal_fm.png" radio="true",LIBERAL RÁDIO - BELÉM - COM CORTES 2
 https://www.grupoliberalmedia.com.br/radiolive/_definst_/liveradio/chunklist_w75130622.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="http://am.radioliberal.com.br/logo_liberal_fm.png" radio="true",LIBERAL RÁDIO - CASTANHAL
+
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="Undefined" tvg-logo="http://am.radioliberal.com.br/logo_liberal_fm.png" radio="true",LIBERAL RÁDIO - CASTANHAL
 https://www.grupoliberalmedia.com.br/rdcastanhal/liveradio/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="http://am.radioliberal.com.br/logo_liberal_fm.png" radio="true",LIBERAL RÁDIO - CASTANHAL 2
+
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="Undefined" tvg-logo="http://am.radioliberal.com.br/logo_liberal_fm.png" radio="true",LIBERAL RÁDIO - CASTANHAL 2
 https://www.grupoliberalmedia.com.br/rdcastanhal/liveradio/chunklist_w317712096.m3u8
-#EXTINF:-1 group-title="N/A" tvg-logo="https://i.imgur.com/pdM5uH7.png" radio="true", EXECUTIVA FM
+
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="Undefined" tvg-logo="https://i.imgur.com/pdM5uH7.png" radio="true",EXECUTIVA FM
 https://live.ojc.com.br/c2f4/myStream.m3u8
 
-#EXTINF:-1 group-title="N/A" tvg-logo="https://i.imgur.com/td9XjvR.png" radio="true", GAUCHA FM
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="Undefined" tvg-logo="https://i.imgur.com/td9XjvR.png" radio="true",GAUCHA FM
 https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8
 
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A" radio="true",radio vinha
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="Undefined" tvg-logo="N/A" radio="true",radio vinha
 https://streaming.vinhafm.com.br/stream
-#EXTINF:-1 group-title="Radios Internacionales" tvg-id="Undefined" tvg-logo="https://i.imgur.com/LaG8trk.png",Rock FM | Rumania
+
+#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-id="Undefined" tvg-logo="https://i.imgur.com/LaG8trk.png",Rock FM | Rumania
 https://live.rockfm.ro/rockfm.aacp
+
 #EXTINF:-1 group-title="REGIONAL" tvg-id="Media Group Radio" tvg-logo="https://i.imgur.com/JTNF4Rs.png",MIC: Media Group Radio
 https://5ca3e84a76d30.streamlock.net/canal6mich/videocanal6mich/playlist.m3u8
+
 #EXTINF:-1 group-title="REGIONAL" tvg-id="Media Group Radio" tvg-logo="https://i.imgur.com/JTNF4Rs.png",MIC: Media Group Radio
-https://5ca3e84a76d30.streamlock.net/canal6mich/videocanal6mich/chunklist_w157206410.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIzIDE6MTk6MjQgUE0maGFzaF92YWx1ZT1yUmh6dG1ERHhBTEJMRUNSWlpxUXRRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0%3D
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="http://www.mediagroup.mx/senal-en-vivo/wp-content/uploads/2017/12/AcustikMusica.jpg",Radio Acustik Michoacan
+https://5ca3e84a76d30.streamlock.net/canal6mich/videocanal6mich/chunklist_w157206410.m3u8
+
+#EXTINF:-1 group-title="RADIOS MÉXICO" tvg-id="Undefined" tvg-logo="http://www.mediagroup.mx/senal-en-vivo/wp-content/uploads/2017/12/AcustikMusica.jpg",Radio Acustik Michoacan
 http://streamingcws20.com:1935/canal6mich/videocanal6mich/playlist.m3u8?DVR
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio La Grupera 93.1 Morelia
+
+#EXTINF:-1 group-title="RADIOS MÉXICO" tvg-id="Undefined" tvg-logo="Radio.png",Radio La Grupera 93.1 Morelia
 http://www.tuasesorweb.com:8000/;stream/1
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio La Z Morelia
+
+#EXTINF:-1 group-title="RADIOS MÉXICO" tvg-id="Undefined" tvg-logo="Radio.png",Radio La Z Morelia
 http://srmx.ddns.net:8100/;
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Radio Tormenta 100.1 Morelia
+
+#EXTINF:-1 group-title="RADIOS MÉXICO" tvg-id="Undefined" tvg-logo="Radio.png",Radio Tormenta 100.1 Morelia
 https://cdn-embed.tunein.com/resources/media/blank.mp3
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio 40 Principales Morelia
+
+#EXTINF:-1 group-title="RADIOS MÉXICO" tvg-id="Undefined" tvg-logo="Radio.png",Radio 40 Principales Morelia
 http://s4.mexside.net:7040/;
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Candela 91.1 Uruapan
+
+#EXTINF:-1 group-title="RADIOS MÉXICO" tvg-id="Undefined" tvg-logo="Radio.png",Radio Candela 91.1 Uruapan
 http://167.114.116.223:3334/stream/1/streams.mp3
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio La Candela 97.7 Zacapu
+
+#EXTINF:-1 group-title="RADIOS MÉXICO" tvg-id="Undefined" tvg-logo="Radio.png",Radio La Candela 97.7 Zacapu
 http://s4.mexside.net:2094/;stream.nsv
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Azul Lazaro Cardenas
+
+#EXTINF:-1 group-title="RADIOS MÉXICO" tvg-id="Undefined" tvg-logo="Radio.png",Radio Azul Lazaro Cardenas
 https://s2.mexside.net/8010/stream
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Fantasia Zitacuaro
+
+#EXTINF:-1 group-title="RADIOS MÉXICO" tvg-id="Undefined" tvg-logo="Radio.png",Radio Fantasia Zitacuaro
 http://162.212.56.146:8344/stream.mp3
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9zof2eRQtGt_SnISX5xFORkIWmh9BfWJn7QRs1YMgEBo9Fv_nvgUoo6RHA&s",Radio Mexiquense 91.7 fm Amecameca
+
+#EXTINF:-1 group-title="RADIOS MÉXICO" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9zof2eRQtGt_SnISX5xFORkIWmh9BfWJn7QRs1YMgEBo9Fv_nvgUoo6RHA&s",Radio Mexiquense 91.7 fm Amecameca
 https://streamingcwsradio30.com:7047/;
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Opus-94 94.5 fm
+
+#EXTINF:-1 group-title="RADIOS MÉXICO" tvg-id="Undefined" tvg-logo="Radio.png",Radio Opus-94 94.5 fm
 https://s2.mexside.net/8016/stream
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Tropicalisima 1350 am
+
+#EXTINF:-1 group-title="RADIOS MÉXICO" tvg-id="Undefined" tvg-logo="Radio.png",Radio Tropicalisima 1350 am
 https://s2.mexside.net/8030/stream
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio XEB La B grande Cd. México
+
+#EXTINF:-1 group-title="RADIOS MÉXICO" tvg-id="Undefined" tvg-logo="Radio.png",Radio XEB La B grande Cd. México
 https://s2.mexside.net/8024/stream
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Mexico Internacional
+
+#EXTINF:-1 group-title="RADIOS MÉXICO" tvg-id="Undefined" tvg-logo="Radio.png",Radio México Internacional
 https://s2.mexside.net/8020/stream
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Ranchito Guadalajara
+
+#EXTINF:-1 group-title="RADIOS MÉXICO" tvg-id="Undefined" tvg-logo="Radio.png",Radio Ranchito Guadalajara
 http://192.99.16.17:9870/;stream/1
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio La Ranchera de Monterrey
+
+#EXTINF:-1 group-title="RADIOS MÉXICO" tvg-id="Undefined" tvg-logo="Radio.png",Radio La Ranchera de Monterrey
 http://streamingcwsradio20.com:9410/stream
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Infinita fm Radio
+
+#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Infinita fm Radio
 https://cloudstream2032.conectarhosting.com/9586/;
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Colombia Bachata
+
+#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Colombia Bachata
 http://perseus.shoutca.st:8312/;stream/1
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Colombia Crossover
+
+#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Colombia Crossover
 http://64.37.50.226:8006/stream
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Cumbias Inmortales
+
+#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Cumbias Inmortales
 https://panel.retrolandigital.com/radio/8120/listen
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Banda Tropical 100 Regional Mexicana
+
+#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Banda Tropical 100 Regional Mexicana
 http://tropical100.net:8026/;
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Merengue Tropical 100
+
+#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Merengue Tropical 100
 http://tropical100.net:8012/;
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Merengue Tropicalisima
+
+#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Merengue Tropicalisima
 http://23.237.150.178:8004/;?icy=http
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Reggae Mix Station
+
+#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Reggae Mix Station
 http://france1.coollabel-productions.com:8142/;
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Rock Antenne Classic Perlen
+
+#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Rock Antenne Classic Perlen
 http://194.97.151.139/classic-perlen
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Atlantida FM 89.9
+
+#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Atlantida FM 89.9
 https://server-usa2.radioseninternet.net/8034/stream
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Instrumental hits
+
+#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Instrumental hits
 https://panel.retrolandigital.com/radio/8130/listen
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Electronica
+
+#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Electronica
 https://strm112.1.fm/electronica_mobile_mp3
-#EXTINF:-1 group-title="RADIOS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Electronica CircuitPride
+
+#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-id="Undefined" tvg-logo="Radio.png",Radio Electronica CircuitPride
 http://185.33.21.112/circuitpride_128?icy=http
 
-#EXTINF:-1 tvg-logo="http://wmeb.ajolsenportfolio.com/wp-content/themes/wmeb919/img/logo.png" group-title="RADIOS",Radio Hotmixradio 80S
+#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-id="Undefined" tvg-logo="http://wmeb.ajolsenportfolio.com/wp-content/themes/wmeb919/img/logo.png",Radio Hotmixradio 80S
 http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
