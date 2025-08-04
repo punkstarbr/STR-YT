@@ -642,8 +642,7 @@ https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CL" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkSgFV5xQ93qxa1YhjEE2i7JUReYqib2j3CcfVpCN_fH945Vs_jGQ_BERTFg&s",Decima TV
 https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbWFGycajoB9SP9zYNNbl4KqT1WVai3WiD7Y8RO7q2DR6VAPSD2hISxbCYSzQ&s",Deutsche Welle Arabic
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnCSfkYiGqMwXZ5knrQDuG25Ydl6IpbX44-u81EOrN4z56bsp8bBhzzi4Fmg&s",digitalHits FM
 http://digitalhits.frilab.com:8000/digitalhits;
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR00Xyval9LbvuQgvNzk4jeZ9gpAoLNilmXqu0T5-9vrTta7Si4wCzJW92Lvg&s",Deutsche Welle Deutsch+
@@ -708,12 +707,7 @@ http://168.205.87.198:8555/live/123456/123456/62.m3u8?ROGERIOTORRES
 https://video-auth1.iol.pt/beachcam/bclagoazul/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFRITt94mlTMoAXsH9IPq6dkwP8pDcP36szRRlzveGxjkM0YepRaA0Iapw9A&s",Figueira da Foz
 https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLTlSXRxG0p8fPY_Mnjc9F7qx1iiodnzIW9qOQy-yUpaKilH8UdO-yhGHeQ&s",France24 Arabic
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoI_x4V25aomija2HgQL56Gxvs_N_rGVcoAWLKPX-m_ZQf9BKJcRL-82Xc9vk&s",France24 France
-http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="FR" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoI_x4V25aomija2HgQL56Gxvs_N_rGVcoAWLKPX-m_ZQf9BKJcRL-82Xc9vk&s",France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROiNSubEzMY8C95e8AkD9hY-F5w-Y1LCJEybIHDX33M6EmwDJ6W58jE7aZbiQ&s",Foz do Arelho
 https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8
 #EXTINF:-1 group-title="BR" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa7NDXMRWMV6QgJDPR_bDVJJ4t--UT5TD5j0TdJ1lXrNaDaOIyjFJoBzTq5A&s",Classique TV
@@ -726,8 +720,6 @@ https://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
 https://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
 #EXTINF:-1 group-title="AR" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRniy-qLThlH3DgFqVQ2hQfBRdgxNyXRFSccIK8XwazIjFo9vowxhkwhEM3O1w&s",FM Metropolitana 100.5 MHZ
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBx03sXlMXmGeXAFKenwxhDY-f_a45XiLNyf80gMb7K4e9VaeHMox7O6gdt8w&s",France 24 Arabic
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 group-title="CL" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnIRHhr9ujQJSjWcJVNVgDRmu4e8hxnaAf9ZXnsoM6-MEM6nrvH0Qo0IN06w&s",Girovisual TV
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlNdD2WlApTZO3ThYisX0DJU4jwJAM_ToLqwrNEsOo9tuJRdk89lKCG9KdztI&s",Apple Tree (720p)
@@ -918,10 +910,8 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD9yOSM4mb-xMbxA6M5240TG2BISQzxnIZWvJu2B8vFb8VzYVacqAa-gk-QA&s",Dijlah (1080p)
 http://91.134.145.75:10001/Dijlah/index.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECgdS6FvQZKoYXVdTwzeNckCT-iAneyn6WM6Gth957Er6RBzIpsc-TN6ohEc&s",France 24 Arabic (1080p)
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4VHoJ4f7ptJ1jJxoVjYEAcpij1uJYylWSQn173tGkd3i2peqb0A0ytUD3Xw&s",DW Espa ol (1080p)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS36vnHyFYllrqeUsXJ6nFhrsOjrW_MOztXstLARg9I8vH71jObmGwPPQ79Jw&s",Asianet News Tamil (360p) [Not 24/7]
 https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjjvBQXcIoQM2Wb1Fpxb7tlKNZWrIbqe1McFrL96niDDrGWcK3Qq-iI-3L4A&s",FOX News Now (720p)
