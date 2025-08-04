@@ -2221,3 +2221,5 @@ https://ott.columbus.te.ua/ternopil1/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="ChuzhouNewsChannel.cn" tvg-logo="https://i.imgur.com/9JfZJRv.png",滁州市广播电视台 新闻综合频道 (1080p)
 http://live.cztv.cc:85/live/xwpd.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1920px-News_24_%28Albania%29.svg.png" group-title="NEWS WORLD",News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
