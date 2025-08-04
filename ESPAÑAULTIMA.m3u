@@ -45,9 +45,9 @@ https://gitlab.com/movrey/movrel/-/raw/main/cuatro.m3u8
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Telecinco.es",TELECINCO
 https://gitlab.com/movrey/movrel/-/raw/main/telecinco.m3u8
-#EXTINF:-1 group-title="ESPANHA",LA SEXTA
+#EXTINF:-1 group-title="ESPANHA" tvg-id="lasexta.es",LA SEXTA
 http://185.189.225.150:85/LaSexta/index.m3u8
-#EXTINF:-1 group-title="ESPANHA",LA SEXTA
+#EXTINF:-1 group-title="ESPANHA" tvg-id="lasexta.es",LA SEXTA
 https://gitlab.com/movrey/movrel/-/raw/main/sexta.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Beteve.es" tvg-logo="https://beteve.cat/wp-content/themes/beteve/img/logo.svg",🇪🇸 betevéᴴᴰ
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
