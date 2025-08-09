@@ -8,6 +8,26 @@ https://tv.nknews.org/tvdash/stream.mpd?DVR
 
 #EXTM3U
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="abcnews" tvg-name="ABC News" tvg-logo="" tvg-chno="1" ch-number="1",ABC News YT LIVE
+https://www.youtube.com/@ABCNews/live
+
+#EXTINF:-1 tvg-id="nbcnews" tvg-name="NBC News" tvg-logo="" tvg-chno="2" ch-number="2",NBC News YT LIVE
+https://www.youtube.com/@NBCNews/live
+
+#EXTINF:-1 tvg-id="cbsnews" tvg-name="CBS News" tvg-logo="" tvg-chno="3" ch-number="3",CBS News YT LIVE
+https://www.youtube.com/@CBSNews/live
+
+#EXTINF:-1 tvg-id="laatus" tvg-name="Laatus Oficial" tvg-logo="" tvg-chno="4" ch-number="4",Laatus Oficial YT LIVE
+https://www.youtube.com/@Laatusoficial/live
+
+#EXTINF:-1 tvg-id="otimesbrasil" tvg-name="O Times Brasil" tvg-logo="" tvg-chno="5" ch-number="5",Times Brasil YT LIVE
+https://www.youtube.com/@otimesbrasil/live
+
+#EXTINF:-1 tvg-id="video6" tvg-name="Canal Desconhecido" tvg-logo="" tvg-chno="6" ch-number="6",REDE MASSA YT LIVE
+https://www.youtube.com/watch?v=BhtuWrGyIcc/live
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://i.imgur.com/IZFEJsu.png",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://i.imgur.com/IZFEJsu.png",Global News 2
