@@ -2,8 +2,66 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mx/izzi.mx.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/rs/mts.rs.epg.xml,https://iptv-org.github.io/epg/guides/il/yes.co.il.epg.xml,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 
-#EXTINF:-1 tvg-id="TVI.Reality.HD.pt" group-title="Reality Show's Live" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="TVI.Reality.HD.pt" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
 https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
+
+#EXTINF:-1 group-title="Reality Show's Live"  type="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTq5ekjk2_bdYSi0bsp0vAPc-HGvnWmJUC5pG4NsfUXqopMMsZ",LCDF MX
+http://195.66.210.10:80/ideas903/XRYET/611595
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNvzn9-BipVt-IArFknVQBglag0z6fVQzepw&usqp=CAU",Toda la casa
+http://tv.zeuspro.xyz:8080/EXPg3Q5JuS/gJT9nWY1mv/136938
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNvzn9-BipVt-IArFknVQBglag0z6fVQzepw&usqp=CAU",Toda la casa (Alternativo 1)
+http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768830
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNvzn9-BipVt-IArFknVQBglag0z6fVQzepw&usqp=CAU",Toda la casa (Alternativo 2)
+http://195.66.210.10:80/ideas903/XRYET/611597
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10",Acceso total
+http://tv.zeuspro.xyz:8080/EXPg3Q5JuS/gJT9nWY1mv/136937
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10",Acceso total (Alternativo 1)
+http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768829
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10",Acceso total (Alternativo 2)
+http://195.66.210.10:80/ideas903/XRYET/611658
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10",Habitación 1
+http://tv.zeuspro.xyz:8080/EXPg3Q5JuS/gJT9nWY1mv/136942
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10",Habitación 1 (Alternativo 1)
+http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768834
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10",Habitación 1 (Alternativo 2)
+http://195.66.210.10:80/ideas903/XRYET/611594
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10",Habitacion 2
+http://tv.zeuspro.xyz:8080/EXPg3Q5JuS/gJT9nWY1mv/136943
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10",Habitacion 2 (Alternativo 1)
+http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768835
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10",Habitacion 2 (Alternativo 2)
+http://195.66.210.10:80/ideas903/XRYET/611600
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://static.wixstatic.com/media/71f247_7af8f81b97b84cf7a1c15aa8e767d6bb~mv2.jpg/v1/fill/w_960,h_781,al_c,q_85/71f247_7af8f81b97b84cf7a1c15aa8e767d6bb~mv2.jpg",Baño
+http://tv.zeuspro.xyz:8080/EXPg3Q5JuS/gJT9nWY1mv/136939
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://static.wixstatic.com/media/71f247_7af8f81b97b84cf7a1c15aa8e767d6bb~mv2.jpg/v1/fill/w_960,h_781,al_c,q_85/71f247_7af8f81b97b84cf7a1c15aa8e767d6bb~mv2.jpg",Baño (Alternativo 1)
+http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768831
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://static.wixstatic.com/media/71f247_7af8f81b97b84cf7a1c15aa8e767d6bb~mv2.jpg/v1/fill/w_960,h_781,al_c,q_85/71f247_7af8f81b97b84cf7a1c15aa8e767d6bb~mv2.jpg",Baño (Alternativo 2)
+http://195.66.210.10:80/ideas903/XRYET/611596
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://static.wikia.nocookie.net/lacasadelosfamosos/images/9/97/LCDLFMX2_logo.jpg/revision/latest?cb=20240722201840&path-prefix=es",Sala
+http://tv.zeuspro.xyz:8080/EXPg3Q5JuS/gJT9nWY1mv/136941
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://static.wikia.nocookie.net/lacasadelosfamosos/images/9/97/LCDLFMX2_logo.jpg/revision/latest?cb=20240722201840&path-prefix=es",Sala (Alternativo 1)
+http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768833
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://static.wikia.nocookie.net/lacasadelosfamosos/images/9/97/LCDLFMX2_logo.jpg/revision/latest?cb=20240722201840&path-prefix=es",Sala (Alternativo 2)
+http://195.66.210.10:80/ideas903/XRYET/611599
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10",Cocina
+http://tv.zeuspro.xyz:8080/EXPg3Q5JuS/gJT9nWY1mv/136940
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10",Cocina (Alternativo 1)
+http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768832
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10",Cocina (Alternativo 2)
+http://195.66.210.10:80/ideas903/XRYET/611598
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10",Multicamara
+http://195.66.210.10:80/ideas903/XRYET/611657
+
 
 
 #EXTINF:-1 group-title="Reality Show's Live" tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png",Canal Estrellas
