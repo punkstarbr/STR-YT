@@ -2,6 +2,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mx/izzi.mx.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/rs/mts.rs.epg.xml,https://iptv-org.github.io/epg/guides/il/yes.co.il.epg.xml,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 
+#EXTINF:-1 group-title="Reality Show's Live", EC 1
+https://live-as-02-20.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDItMjAudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzU2MzAzMDg4LCJpYXQiOjE3NTYyMTY2ODgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNGI5MGNmNzEtMmJlYi00MmYyLWE1ZTQtOWJmZDNjODhhYTYzIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9lYzAxL3BsYXlsaXN0Lm0zdTgifQ.ChMpkvONyXPQFFa1fmkg0AfngJcdZQKRBw1_7kqYjmC-je9fP-Sw2luKE5LIvg9x0cI1qBq1Xpe7wO3zaoPk6i0UJ20cMD2Vdx8enO4ubpckRTGdbTetTMpUiODbmS4ZG_yMkQN81Fa5ftFjXqbC8oPXFKTyA0wkl1Gg9Y3PUESQVKUq_OCIXxC_bPHsS7B8Vfxk2415jeinN-qtJob6U01w8E6i5IJzrVmztdFRnOBgrScTsV58w9UAyhgu47YZLQtkIfzQX1fyOMofhPOKm8IDqGfiBCrjv3ehiOp-NzTJlpX9GJ60rSDurGI6TqDoAmTbfRTOE5ggYSpXQQR9VA/live/f(i=2)/ec01/playlist.m3u8
+
 #EXTINF:-1 group-title="Reality Show's Live" tvg-id="TVI.Reality.HD.pt" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
 https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
 
