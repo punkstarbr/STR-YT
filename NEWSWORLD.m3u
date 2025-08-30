@@ -159,11 +159,44 @@ https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8
 #EXTINF:-1 tvg-id="IRINN.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="NEWS WORLD",IRINN
 https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8
 
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/120px-Logotipo_da_GloboNews.png" group-title="NEWS WORLD",GLOBO NEWS 
+http://limed.cc:80/4x6cXF/ehfxdp/90039.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/Wu4ykxo.png",Globo News HD
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120647
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/Wu4ykxo.png",Globo News HD
 https://03-mcteteu.shop/secret_key/77a11442e33a694798f9cc53b6235737.m3u8
-#EXTM3U
+
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="JOVEM PAN NEWS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logotipo_da_TV_Jovem_Pan_News.png/120px-Logotipo_da_TV_Jovem_Pan_News.png" group-title="NEWS WORLD",JOVEM PAN NEWS  
+http://limed.cc:80/4x6cXF/ehfxdp/90139.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="6317ba014d4d040007227f72" tvg-logo="https://i.imgur.com/aqgaka0.jpeg",Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/120px-Record_News_logo_2022.svg.png" group-title="NEWS WORLD",RECORD NEWS 
+http://limed.cc:80/4x6cXF/ehfxdp/90259.m3u8
+
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Band_News_TV_2021_Logo.png/800px-Band_News_TV_2021_Logo.png" group-title="NEWS WORLD",BAND NEWS 
+http://limed.cc:80/4x6cXF/ehfxdp/89820.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Band.News.br" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png",Band News HD
+http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120587
+
+#EXTINF:-1 tvg-id="Bloomberg HD.br" tvg-name="BM&C NEWS" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/26762/logo_256_1718721922.png" group-title="NEWS WORLD",BM&C NEWS 
+https://alanza.iptv2022.com/BM_C_News/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://imgur.com/tyW3Ppf.png",BM&C NEWS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+#EXTINF:-1 tvg-id="Bloomberg HD.br" tvg-name="BLOOMBERG" tvg-logo="https://logospng.org/wp-content/uploads/bloomberg.png" group-title="NEWS WORLD",BLOOMBERG 
+http://limed.cc:80/4x6cXF/ehfxdp/97746.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Canal.Mexiquense.TV.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg",AMX Noticias (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNBC.pt" tvg-logo="https://i.ibb.co/X726G1j/Times-Brasil-CNBC-logo-svg-1.png",Times Brasil (1080p)
+https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="SporTV.br" tvg-logo="https://imgur.com/mTdVXfu.jpg",SPORTV
 https://1zn0of55fj.1zn0of55fj.workers.dev/sportv/index.m3u8
@@ -174,29 +207,47 @@ https://1zn0of55fj.1zn0of55fj.workers.dev/sportv2/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id=".SporTV3.br" tvg-logo="https://imgur.com/N4yF1XS.jpg",SPORTV 3
 https://1zn0of55fj.1zn0of55fj.workers.dev/sportv3/index.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="6317ba014d4d040007227f72" tvg-logo="https://i.imgur.com/aqgaka0.jpeg",Jovem Pan News
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:-1 tvg-id="Band.News.br" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="NEWS WORLD",Band News HD
-http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120587
-#EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://imgur.com/tyW3Ppf.png",BM&C NEWS
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Canal.Mexiquense.TV.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg",AMX Noticias (720p) [Not 24/7]
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="NEWS WORLD",SPORTV 
+http://limed.cc:80/4x6cXF/ehfxdp/90328.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SporTV2_2021.png/799px-SporTV2_2021.png" group-title="NEWS WORLD",SPORTV 2 
+http://limed.cc:80/4x6cXF/ehfxdp/90320.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/800px-SporTV3_2021.png" group-title="NEWS WORLD",SPORTV 3 
+http://limed.cc:80/4x6cXF/ehfxdp/90324.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Brasil.br" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png" group-title="ESPORTES",ESPN  
+http://limed.cc:80/4x6cXF/ehfxdp/89962.m3u8
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="NEWS WORLD",ESPN 2 
+http://limed.cc:80/4x6cXF/ehfxdp/89970.m3u8
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="NEWS WORLD",ESPN 3 
+http://limed.cc:80/4x6cXF/ehfxdp/89974.m3u8
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="NEWS WORLD",ESPN 4 
+http://limed.cc:80/4x6cXF/ehfxdp/95437.m3u8
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="NEWS WORLD",ESPN 5 
+http://limed.cc:80/4x6cXF/ehfxdp/89998.m3u8
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/120px-ESPN_6_logo.svg.png" group-title="NEWS WORLD",ESPN 6 
+http://limed.cc:80/4x6cXF/ehfxdp/89966.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="TimesBrasil.br" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png", TIMES BRASIL HD
-https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="TimesBrasil.br" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png", TIMES BRASIL HD
-https://stitcher.pluto.tv/stitch/hls/channel/679a973a97782f0008ff4bb6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=43d0b5e0-5d68-11f0-b0e2-8a6149f1d528
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="TimesBrasil.br" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png", TIMES BRASIL HD
-https://f593663c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVGltZXNCcmFzaWxsaWNlbmNpYWRvZXhjbHVzaXZvQ05CQ19ITFM/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNBC.pt" tvg-logo="https://i.ibb.co/X726G1j/Times-Brasil-CNBC-logo-svg-1.png",Times Brasil (1080p)
 https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
 
-#EXTINF:-1 group-title="CNN's" tvg-id="CNN Brasil.br" group-title="NEWS WORLD" tvg-name="CNN BRASIL" tvg-logo="https://i.ibb.co/7kD8t97/cnn-brasil.png",CNN Brasil
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="TimesBrasil.br" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png", TIMES BRASIL HD
+https://stitcher.pluto.tv/stitch/hls/channel/679a973a97782f0008ff4bb6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=43d0b5e0-5d68-11f0-b0e2-8a6149f1d528
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="TimesBrasil.br" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png", TIMES BRASIL HD
+https://f593663c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVGltZXNCcmFzaWxsaWNlbmNpYWRvZXhjbHVzaXZvQ05CQ19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="NEWS WORLD",CNN BRASIL 
+http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNN Brasil.br" group-title="NEWS WORLD" tvg-name="CNN BRASIL" tvg-logo="https://i.ibb.co/7kD8t97/cnn-brasil.png",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="CNN Brasil Money HD" tvg-name="CNN Brasil Money" tvg-logo="https://imgur.com/3rHuAWH.png" group-title="NEWS WORLD",CNN BRASIL MONEY
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNN Brasil Money HD" tvg-name="CNN Brasil Money" tvg-logo="https://imgur.com/3rHuAWH.png" group-title="NEWS WORLD",CNN BRASIL MONEY
 https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w296915124.m3u8
-#EXTINF:-1 tvg-id="CNN Brasil Money HD" tvg-name="CNN Brasil Money" tvg-logo="https://imgur.com/3rHuAWH.png" group-title="NEWS WORLD",CNN BRASIL MONEY
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNN Brasil Money HD" tvg-name="CNN Brasil Money" tvg-logo="https://imgur.com/3rHuAWH.png" group-title="NEWS WORLD",CNN BRASIL MONEY
 https://fast-channels.b-cdn.net/9978b7063e297d84e1cd5f21af3a88b1/cnnmoney/aovivo_abr/playlist.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/CNN_Portugal.m3u
