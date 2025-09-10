@@ -2,6 +2,8 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mx/izzi.mx.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/rs/mts.rs.epg.xml,https://iptv-org.github.io/epg/guides/il/yes.co.il.epg.xml,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 
+#EXTINF:-1,ESTRELA DA CASA
+https://live-ber-sp-06-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTA2LTAzLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc1NzU2NjQyNSwiaWF0IjoxNzU3NDgwMDI1LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjRiOTBjZjcxLTJiZWItNDJmMi1hNWU0LTliZmQzYzg4YWE2MyIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZWMwMS9wbGF5bGlzdC5tM3U4In0.IWiFa-IYB1Gq-kmgQ4lIN9t0IDiPUIXv8uKmHlfwGhcTTC6MwrKmpsDZoliTrNa5DQCNS__js0iJJc7JCaPwd5zWqkmZhsooV1RB4MnsAlBjEcgzazidNmpvo5K2voJd4KPsTpaPMO-HguTG5Ky1KD1PMuF_VdhL7-vo9xlJpkGUu_KVib5bZgdBxexRkSMZ-dJ87fMLmFacC2t-EVUnwj6ysZJFk1q3mHaNUBe98XrE8SBErYpT9ic_xYunDOZG_oCPQQ3VXu1uNy3kBxfxxFTd7JHkJmb1-TDEC3u9So1Sn49RWA3HGDix2ZXXuQoMvV9HIWeSbGS1nC8azODoag/live/f(i=2)/ec01/ec01-audio_1=96000-video=3442944.m3u8
 #EXTINF:-1 tvg-name="Estrela da Casa" tvg-logo="https://inmagazine.ig.com.br/wp-content/uploads/2024/06/Materias-79.png" group-title="Reality Show's Live",Estrela da Casa
 http://cdnrez.xyz:80/araujo050/c96196818b/4598735.ts
 #EXTINF:-1 tvg-name="Estrela da Casa Cam 01" tvg-logo="https://inmagazine.ig.com.br/wp-content/uploads/2024/06/Materias-79.png" group-title="Reality Show's Live",Estrela da Casa Cam 01
