@@ -15,20 +15,20 @@ https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="La.1.Catalunya.es" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_3293681.jpg",La 1 - CATALUNHA
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_720.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="LA 1" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_5190066.jpg",La 1 - CANARIAS
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestream.akamaized.net/rtvesec/can/la1_can_main.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="La.2.es" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_1688885.jpg",La 2
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
-#EXTINF:-1 group-title="ESPANHA" tvg-id="La.1.Catalunya.es" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_3987218.jpg",La 2 - CATALUNHA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la2_cat_main.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="La.1.Catalunya.es" tvg-logo="https://img2.rtve.es/resources/thumbslive/H_3987218.jpg",La 2 - CATALUNHA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Teledeporte.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20231213T103944SQUARE.png_20231213103945.png",Tdp TVE
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="ESPANHA" tvg-id="La.2.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20240117T032718SQUARE.png_20240117032719.png",La 2
