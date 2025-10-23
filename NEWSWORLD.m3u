@@ -7,22 +7,6 @@
 https://mrgmaw.github.io/enlaces/xy/dwes.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="RT.hk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnzeBew1dZKHxOGp1AkqGQKdZTxIy6A1QBO7_epA5HDTPljfZw80S0xPtCUA&s",RT
 https://mrgmaw.github.io/enlaces/xy/rtes.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png",Eventuales: +24 - 1
-https://rtvehlslivestream.akamaized.net/hls/live/2041583/IRTVE01_AKA_HLS_GL0/master.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png",Eventuales: +24
-https://rtvehlslivestream.akamaized.net/hls/live/2041583/IRTVE01_AKA_HLS_GL0/master.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png",Eventuales: +24
-https://rtvehlslivestream.akamaized.net/hls/live/2041583/IRTVE01_AKA_HLS_GL0/master.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png",Eventuales: +24 - 2
-https://rtvelivestream.akamaized.net/rtvesec/oca/irtve02_main_1080.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3vWDZz1YlhZVuU0IZF0XyTvhLdVhBBg040kir4fQi8FWgkEcwSzSm8UoNNg&s",Eventuales:RTVE - 2
-https://rtvehlslivestream.akamaized.net/hls/live/2041627/IRTVE23_AKA_HLS_GL1/master.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-chno="1" ch-number="1" tvg-id="KCTV.kp" tvg-logo="https://i.imgur.com/O6G4tJ8.png",Korean Central Television (KCTV) (576p)
-https://tv.nknews.org/tvdash/stream.mpd?DVR
-
-#EXTM3U
-
-#EXTM3U
 
 #EXTINF:-1 tvg-id="abcnews" tvg-name="ABC News" tvg-logo="" tvg-chno="1" ch-number="1",ABC News YT LIVE
 https://www.youtube.com/@ABCNews/live
