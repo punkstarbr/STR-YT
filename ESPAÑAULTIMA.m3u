@@ -41,6 +41,14 @@ https://gitlab.com/movrey/movrel/-/raw/main/antena3.m3u8
 http://185.189.225.150:85/CuatroHD/index.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Cuatro.es",CUATRO
 https://gitlab.com/movrey/movrel/-/raw/main/cuatro.m3u8
+#EXTINF:-1 group-title="ESPANHA",CUATRO
+http://176.65.146.237:8401/play/a09s/index.m3u8
+#EXTINF:-1 group-title="ESPANHA",CUATRO
+https://gitlab.com/movrey/movrel/-/raw/main/cuatro.m3u8
+#EXTINF:-1 group-title="ESPANHA",TELECINCO
+http://176.65.146.237:8401/play/a09r/index.m3u8
+#EXTINF:-1 group-title="ESPANHA",TELECINCO
+https://gitlab.com/movrey/movrel/-/raw/main/telecinco.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Telecinco.es",TELECINCO
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Telecinco.es",TELECINCO
@@ -49,6 +57,8 @@ https://gitlab.com/movrey/movrel/-/raw/main/telecinco.m3u8
 http://185.189.225.150:85/LaSexta/index.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="lasexta.es",LA SEXTA
 https://gitlab.com/movrey/movrel/-/raw/main/sexta.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="lasexta.es",LA SEXTA
+http://176.65.146.237:8401/play/a0af/index.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Beteve.es" tvg-logo="https://beteve.cat/wp-content/themes/beteve/img/logo.svg",🇪🇸 betevéᴴᴰ
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 #EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg",Alcarria TV
