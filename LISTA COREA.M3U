@@ -1,4 +1,3 @@
-
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz"
 #EXTINF:-1 group-title="TV#Korea" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6UmlzrdYm3Fly9QBeXwqxDyDn8B2HmAWLqpcDCrnoTszC8cOrUP6MiIyWZM0&s",KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
@@ -12,8 +11,6 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 group-title="TV#Korea" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECX_HpDWJ4ZqPG3UZNZsNX1iE96y7AHdu002cenhB2V5Z-NgnjElGXbZj1ss&s",NBS
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="TV#Korea" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsnzxzScsZJBtdIqJv9HyD-n8PhxnJMLr-yekTZtzb20sptqal6IbRd83MIg&s",ob Plus tv
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
 #EXTINF:-1 group-title="TV#Korea" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPLGyF9Xn5ElCd_2M0TRC3jCcIhmRTHWQcwndCze44-_NZ2PJKMBjobwOXIQ&s",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV#Korea" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1kWldvJs5jMoo7RQhjvjsXGTNFesEYzHeyip6mcAekKOFC5bQ7FtZOMO2rw&s",The K-POP
@@ -35,5 +32,3 @@ http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="TV#Korea" tvg-id="GCN.kr" tvg-logo="https://i.imgur.com/QUxuHA1.png",GCN24 Korean (480p) [Not 24/7]
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
-#EXTINF:-1 group-title="TV#Korea" tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png",KBS World (720p)
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
