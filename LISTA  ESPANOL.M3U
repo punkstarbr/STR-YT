@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz"
 #EXTINF:-1 group-title="ESPANHA" tvg-id="La1.es" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png",La 1 - 3
 http://eja.tv/?f637f17a2fdc60ed45df337e150c36fa.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="La.1.es" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",La 1
@@ -24,6 +23,60 @@ https://gitlab.com/movrey/movrel/-/raw/main/sexta.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg",Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://i.imgur.com/BXmmroM.jpg",Canal Malaga
+http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Local" tvg-id="CanalMalaga.es" tvg-logo="https://i.imgur.com/BXmmroM.jpg",Canal Málaga
+http://canalmalaga-tv-live.flumotion.com/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Local;Undefined" tvg-id="Undefined" tvg-logo="https://i.imgur.com/hwlTrtF.png",Popular TV Melilla
+https://5940924978228.streamlock.net/8009/8009/chunklist_w922827150.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Local" tvg-id="Undefined" tvg-logo="https://i.imgur.com/hwlTrtF.png",Popular TV Melilla
+https://5940924978228.streamlock.net/8009/8009/master.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5K1pv8MjQYK3XMSyB5OusS8qj4WVFMJKk7lHEegeF-8tbIxeyLHMgrM4Zg&s",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5yPzAor64r5faVONHL7zm49ajmxmpahFLaty7Q6jo_a16GuIwMkMZbELPh4&s",Canal Málaga RTV (720p) [Not 24/7]
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-HzoqLDP9NBmcw_bi94Msm8B8nf-IayaYIq2P1PviA4RLG2REP74c5lZDQ&s",Alcarria TV (576p) [Not 24/7]
+http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtvqg4tQMeqyDc-xPfJxG-UFSH06AJwpjY7KbGlaCwT1EQcag3DnpmGsmgcSA&s",Activa TV (720p) [Not 24/7]
+https://streamtv.mediasector.es/hls/activatv/.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gdf0R_sfkzUDjHbpyowpclkQG-WTSsj4WFS0GnliFzwxVdtPVgnJ3UqFLA&s",Alacantí TV (576p) [Not 24/7]
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2HcrrcTzGe2wWS14TJTqreordAQB_4rLu52bJxTjgk33oPcqjAnmM4hDwNNs&s",Cadena Elite (720p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://i.imgur.com/3N90uxs.png",Trece TV
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV9yNZbk67UnNA9wy_HoA-qs2af5iaiEWJ8qR1PFKuCLvo2oAmLS-jLbFToA&s",Popular TV Melilla (720p) [Not 24/7]
+http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSffr6Ick0IztJZSW1gxySbNSItqAcYbM_XQDYvO5kUHlR1nU4F8gAfa8Jdk6I&s",Canal 56 (576p) [Not 24/7]
+https://videos.canal56.com/directe/stream/index.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj_xIHjkrGg78x6QvLVjy-JTV5DgDkngUrV_4p-xwkAJW09kO7paB7WfwBHg&s",Noroeste TV (720p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRntnpkBxMNBpEou3f2pTxIktIizzzqO1bG0HXNvi8w0DeS9nR9St-8PAzKNw&s",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwozMcts84t7dhQxO2vWt-RQoOCdouMeVgIcw__MCql6vNS1ZFQhewjsbEGL8&s",Trace Sport Stars (1080p) [Geo-blocked]
+http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSrHyMK8Z5BPiyn73IeEFC3WkL3bMKtznAZWDDbP0_v6SYpUqvhjRtIh4AqQ&s",Logos TV (1080p) [Not 24/7]
+http://streamer1.streamhost.org/salive/logosH/playlist.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7R9blkwuz-WhlQ2v3lmm13Wu4WBJmQTtnv8w6AyG0ARXv6OpojkxVM7tjn6U&s",Canal 4 Mancha Centro (720p) [Not 24/7]
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbEOPFdRKSLzV39FlikDgFPDR3zFYibEl2USxMUMgaSY35oOUD-lMJSGxAwQ&s",M95 Televisión Marbella (576p) [Not 24/7]
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8f_5QcokzvuvIPAxM1P__W9SnEF6o3vhmwuGhPmycinTvs4dGRtj2OGSZorQ&s",Canal 2000 La Solana (720p)
+http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZCllfIdqa2WNWyQ8cKY3FizIUknMrgxr__J8sqIoR46GB-hT3Wz82QYH6Zg&s",Sal Televisión (720p) [Not 24/7]
+https://www.tdtchannels.com/stream/saltv.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9gqNPXjg7DJC8cxdn_ZG8I3wMR0F5joKUWjcy4dhPAkRPcU3evBLG13Rq-w&s",Pequeradio (720p) [Not 24/7]
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnx8xLuUJbaOK9Lv1CKpsfQDSai4F31x8KVzfMf1A5G9TicoYHWCrHFFTEAqI&s",Diez TV (1080p)
+https://streaming.cloud.innovasur.es/mmj/index.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-HzoqLDP9NBmcw_bi94Msm8B8nf-IayaYIq2P1PviA4RLG2REP74c5lZDQ&s",Tele Safor (576p) [Not 24/7]
+https://video.telesafor.com/hls/video.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm00bUNlYPfFdPmZZwbLqopFl1aVcPtdIYA6wdIdNbT5uAz1ur7NtDy37Mtw&s",RTV Vida (1080p)
+https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ryi_67tCnGB3hTbnsdTGJUwaJiu3Anf1rQyP-3Ox8xUS5W6W6VnSYWkXgAQ&s",Punt 3 Vall Uixó (1080p)
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBW6KDXM08x_po6hQZnMpNF9vnO6j3vA8IGu5cAbDJXXkrtffWH8BPUY3XrgI&s",Solidaria TV (720p)
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 
 #EXTINF:-1 group-title="ESPANHA" tvg-id="ETB.Deportes" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200",Deportivos: ETB Deportes
