@@ -2,269 +2,197 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
 #EXTINF:-1 group-title="Italia" tvg-id="" tvg-logo="https://www.raiplay.it/dl/img/2016/09/1473662801274Logo-Rai3.png",🇮🇹 ●| Rai 3ᴴᴰ
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 group-title="Italia" tvg-id="rai1.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOvJIl5Hw2iNJy3LXvY5to7drapAP6h-3_3eR3kX1Qgv9W830icL2B-3gSQ&s",RAI 1
-http://cord-cutter.net:8080/live/j3McKd/673709/212895.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="rai2.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqY3hnMoRxgTaz4GHx-swk1fvCuulPCDn1kmEYSrlHYYicNFW4hy44KLMLzM&s",RAI 2
-http://cord-cutter.net:8080/live/j3McKd/673709/212896.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="rai3.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOICHd2iOreOKmuGDX3WHrojP40VjUmaBWk4BtkUgMei7By4F5DuuukjR9zew&s",RAI 3
-http://cord-cutter.net:8080/live/j3McKd/673709/212897.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="rai4.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwym_PnTe_b0Jfjiczk9fe3cgBRYu3-ZEV1i8LOBhN4xbEU5EGZeW4SAqbigY&s",RAI 4
-http://cord-cutter.net:8080/live/j3McKd/673709/212898.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="rai-italia.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROIqJmjczjMH15PN9-u5qdIJsLMP63OyX7fYdvmbkXULawE6kXG75i-YVR5g&s",RAI ITALIA
-http://cord-cutter.net:8080/live/j3McKd/673709/212900.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="rai-premium.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5qPvQ-PARM4aQnfXaDdSkG4--Hbi7T0HyJO0SjS-Y2B_hczpVpVoHOEKVal4&s",RAI PREMIUM
-http://cord-cutter.net:8080/live/j3McKd/673709/212901.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="rai-movie.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-amY24O64-C3r1VxllDWLUiQT3nxDQA3XEXYo3NeogZB8m4sm3w8y_lCcLc&s",RAI MOVIE
-http://cord-cutter.net:8080/live/j3McKd/673709/212902.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="canale5.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7NFgaVn_fL72gMVQoeOkqOXRiNOOYWlvZdUcAkuPG-v6IBsdouxQvtBSa1Q&s",CANALE 5
-http://cord-cutter.net:8080/live/j3McKd/673709/212903.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="mediaset-italia1.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqlI0Myr-Rj6Wlm9pJq0Ap8f1eHDH8yaznJF-b9SF5KZRh7idfq9itvMIcBA&s",MEDIASET ITALIA 1
-http://cord-cutter.net:8080/live/j3McKd/673709/212906.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="mediaset-italia2.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTFSuRsTaLzWaIPq8CXonmb7CDyi9HVmOlPUOFeenXijJCx2Cb9MnE0gQlfQ&s",MEDIASET ITALIA 2
-http://cord-cutter.net:8080/live/j3McKd/673709/212907.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="la5.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTioNL_dE8fHr31Rj90GX6wqx9-6dEXVFy6VvGJQH2ZUAoHXw5Cf8CpNIXvF_o&s",LA 5
-http://cord-cutter.net:8080/live/j3McKd/673709/212911.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="rai-news24.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2gcPLjbhuMPgnWpLIrZL-H5brSkpLz61kLHWhFIuu5Gdnx4PXwvMb1gKmOg&s",RAI NEWS 24
-http://cord-cutter.net:8080/live/j3McKd/673709/212913.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="tgcom24.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR_g4p2aSyUWp5TYHk11Q9z-LMi8GAjJ1fEHgyoEkW5KUSNb64a9RKHN_j9A&s",TGCOM 24
-http://cord-cutter.net:8080/live/j3McKd/673709/212915.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="tg-la7.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj8nc5wOWITu6Aui33uFhP6spcOSmLbZWPrVQSxjUiXJpKqciF1UftqoF8Hx8&s",TG LA 7
-http://cord-cutter.net:8080/live/j3McKd/673709/212916.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="rete4.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfV1g6yVhww-XB8yKjq5qn-hkh8vygfZkNiFnujsNuaUHh7DNLN3nYmc1DWLQ&s",RETE 4
-http://cord-cutter.net:8080/live/j3McKd/673709/212920.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="real-time.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbdRkXPc__Qde5jIs2oOAkE3UHfWQ2lpK5hwRcDO1oP67h2k-QD0lje76B_g&s",REAL TIME
-http://cord-cutter.net:8080/live/j3McKd/673709/212923.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="rai-gulp.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr0qD45lotzLz-cF92meKMrZjRZ-8eLWsiVAmHlyRdjpl-hru2Rt0FBn3xcg&s",RAI GULP
-http://cord-cutter.net:8080/live/j3McKd/673709/212925.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="rai-yoyo.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR08gughKw0dOgKZ9kY3xGM1PHzBet0YN-qKK4pTfGye5-0BGjjDFkAjmhMWw&s",RAI YOYO
-http://cord-cutter.net:8080/live/j3McKd/673709/212926.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="cartoonito.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz6NFTVLwcKoloQ_Hqz_Qi24aZviy_Sw_ZcpTem3nRR0IxA7dQ7AOKJ2x9rQ&s",CARTOONITO
-http://cord-cutter.net:8080/live/j3McKd/673709/212928.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="frisbee.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ZWxV1v4EF0R2QOqp3OxDUQnqw9kk72Ysqh22QhQ_UqkKnVxDXvVLIjmytg&s",FRISBEE
-http://cord-cutter.net:8080/live/j3McKd/673709/212929.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="super.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO4EAQdZbcdMy5me9yS_ANrUwJ0zvynynJsDDX2RtlwC24TBJ3mQLFagcq1Tg&s",SUPER!
-http://cord-cutter.net:8080/live/j3McKd/673709/212931.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="rai-storia.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx9i5h0CPQ6LLxGqx9-csRLN6UZySCHH96PZh0n0bGYhx9e_q8fIEX-Id1iw&s",RAI STORIA
-http://cord-cutter.net:8080/live/j3McKd/673709/212933.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="rai-scuola.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ93lxu8HVGdUFnzwLNEiqynVxOPyPo8p7UOdnlom7kncUF9m9coQTOW5vrLuU&s",RAI SCUOLA
-http://cord-cutter.net:8080/live/j3McKd/673709/212934.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="fishing-tv.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAf5sYZ-lHfu2-Krgp_nlgo8CNwq4On3otI1iZI7CgjFdDadHU6E6P5hEBuIM&s",FISHING TV
-http://cord-cutter.net:8080/live/j3McKd/673709/212940.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="focus.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6fvwFtREiF5YkqvP1day2wIxDG8vSfhJDplIkfJwVF3bRwuU3fTrVzVI2qOg&s",FOCUS
-http://cord-cutter.net:8080/live/j3McKd/673709/212941.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT61LPZm6dSvpsU7ueIPPg2H1tIfMrv4BsOAZKH0-V1wHshdekOOqhhsU85t_k&s",UniNettuno University TV Ⓖ
-https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT61LPZm6dSvpsU7ueIPPg2H1tIfMrv4BsOAZKH0-V1wHshdekOOqhhsU85t_k&s",Uninettuno University Tv
-https://stream6-rai-it.akamaized.net/live/uninettuno/chunklist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAeBCxk73kqT3Ay1w4yogNJimduTo22tX19Q7ziCDI1pBytYIQ-WPoa8MAGQ&s",TV UNO (240p)
-http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdrTj-KJ8N7_0rYpvcs1rASsoXgV-621nBNFT5gQ5qiBEkH29cDrHgRbNMvQ&s",Tv Uno
-http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdhBoYt-24QhmPDt5uIWiQLKXm8IeOHLrdJVnhgjeEp49Kj0zFqTbzNU4PNg&s",Tv Qui Modena
-https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTULwade96SKhy8AnWGX9d6WKNvM8fIcqSMjzBwMbsjeuIQDa2_JJ1LgyRROrA&s",TV Qui (Modena) (480p)
-https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaHG2bTh0XXtAcKoQNw_IO7NHHkMO4Wt9-LghBglvgFjowilf1AddNPpfing&s",Tv Campane 1
-https://eu1.servers10.com:8081/8032/index.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr9UBoJi4M7R0-3ammOX6-c37F67JD4AYUoKkrey-tFNEUG-ixfqSplOV8b9A&s",Tuscia Sabina 2000Tv
-http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/chunks.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv3QEtdQv488Tbi9vmDU3qSdyu4abn2JfFkZa-KviHR5YtIyazy6m_wfPLIQU&s",Tris News
-https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSavn3XBTPIGwrAmSaEa_inkKBVgJJwsDQ3ELhLrg3E6YokkHYElh3U1jpAxjE&s",Thriller – Rakuten TV
-https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKR7KacPvIxCLUIrKeLkxw8-PZodzQS-XExq6d8JzyyUt7BuW7ZDc4IlCbRKs&s",TeleTusciaSabina 2000 (576p) [Not 24/7]
-http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQsyRGWRLu9dFwS3lZGxXDJF7Q5jqW7zly7t4tOcTiFu5rOh0768QsIhLgGk&s",Teletricolore (480p) [Not 24/7]
-https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdHYxLbLY1XlrkG7_Qzpj8Nq5gE0SRiH3FpBbHjl0pVxU2_l4cw2KkO6ZXYg&s",TeleMia (576p)
-https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeoc8RlrpB-sTvfhJNGT9ptDUpvwqhukPZFBRAZEafv6zTee5g6WjWGvcXXw&s",TeleMajg
-https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXVXt3VDY_PsEyHlFke-s5Vm60g4r9YCv62xXDtKkFj8vv1G21AtuCqCPXHyw&s",Telefoggia (480p) [Not 24/7]
 http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO8nfqIDajTFDLzMzyOE9xcPLX3g599YeTuhlKope2SyP0zf1Z5pfcqsFTU2w&s",Tele Tricolore
-https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMi5MT7_B_vxwX9x6rp9Mxg-BpB9RYmhgjKKecSVaT6N-OoAzN_iilZ-SNzwQ&s",Tele Sirio
-https://www.telesirio.it/live/stream.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIIQAmywqFha3Q3wXNFpWY9bO_Zyo4TUIQLWh1BgDnLgMsIuPZDS6LoCrIu2E&s",Tele Quattro Trieste
 http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMR2fpXMzla6eKFUpxg5xT7JAGrlyq4T6sI8iXHVl2o_08AozKXevPl1-UfY&s",Tele Quattro (480p) [Not 24/7]
 http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMtu2ifWZiBL-OhcqbFMgG0VJAu-BNmaTAutfPYkTRm_-KL_WLh7IWDMPaPmc&s",Tele Piadena
-https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdrTj-KJ8N7_0rYpvcs1rASsoXgV-621nBNFT5gQ5qiBEkH29cDrHgRbNMvQ&s",Tv Uno
+http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAeBCxk73kqT3Ay1w4yogNJimduTo22tX19Q7ziCDI1pBytYIQ-WPoa8MAGQ&s",TV UNO (240p)
+http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKR7KacPvIxCLUIrKeLkxw8-PZodzQS-XExq6d8JzyyUt7BuW7ZDc4IlCbRKs&s",TeleTusciaSabina 2000 (576p) [Not 24/7]
+http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr9UBoJi4M7R0-3ammOX6-c37F67JD4AYUoKkrey-tFNEUG-ixfqSplOV8b9A&s",Tuscia Sabina 2000Tv
+http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/chunks.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5ZdnrKXymRKS2VHuC5MylWvNNWkivfoJ65ZqK_zbChl77PGjxg4p2oXa2pk&s",Tele Pavia
 http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfhtndnMYLv5TXEQAR4gmYeIX80g0DvxITXqmII9dwH2k-jiNHdaRV2x5sWk&s",Tele Pace Trento
-https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyspS_V4ZyJAhaF6D6nhPDGlQ8wXllLpY-EM1hwcwJOYsH68kKRyWosBPqTeU&s",Tele Pace Roma
-https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5veTjop3bmnTqh7RH9sWuAms3nxLopTjl8v17AIaRQMdBToBJ4_5rt6hPztE&s",Tele Oltre
-http://1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX3r1FqZOA1NqIzeZ98XpsHCvqK3E4sATGryb0LeOIVQPUrYmHuORsZNqktuo&s",Tele Mistretta Radio
-https://stream.mariatvcdn.com/telemistrettaradio/900bfcc0f9012ea272584fd5ff5281b8.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX3r1FqZOA1NqIzeZ98XpsHCvqK3E4sATGryb0LeOIVQPUrYmHuORsZNqktuo&s",Tele Mistretta
-https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-P5qUCb5pCZ0rxUDnCLYRVL3suIncO7A4aRo8-o0JA-VsthO7Xqiyzw_ZQ&s",Tele Mantova
-https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyKEXleA-x2gPcKfPnWR5WvzzacQltH_UPflcxbPGsWqXtKcrBRjIY8aVDGXo&s",Tele Jonio
 http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReORGG-5L5CZMMT7JmQIj452jm4rtz3-Ptn7TpujI__fm868rJAoo7bErK-aI&s",Tele Foggia
 http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPy3yJ2GjVffMk0XQsUqZ1OLWsp3HF9FTNogx3XAB_2uo8ZiO19D8rhUWzxQ&s",T.R.L Tele Radio Leo
-https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMLFMsJgRO-zW2vZIhENItipUZeqc97-nf5yAFsn14HM6NqTGtjw5sHvYilA&s",Supertv
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11cF1FZNnOpIanB20kCrcEMfj6yWHkt3hZn2KnvqVQ_8k0ImQad3oQTd-Ldo&s",SuperSix Lombardia (720p)
-https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUNDqNjKRxmg-jCa5zgO6_AMWyDTaAA1wrZaneLTkISj5H-ShTb-Jfkmj0iEE&s",Super! POP – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT61LPZm6dSvpsU7ueIPPg2H1tIfMrv4BsOAZKH0-V1wHshdekOOqhhsU85t_k&s",Uninettuno University Tv
+https://stream6-rai-it.akamaized.net/live/uninettuno/chunklist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX3r1FqZOA1NqIzeZ98XpsHCvqK3E4sATGryb0LeOIVQPUrYmHuORsZNqktuo&s",Tele Mistretta
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX3r1FqZOA1NqIzeZ98XpsHCvqK3E4sATGryb0LeOIVQPUrYmHuORsZNqktuo&s",Tele Mistretta Radio
+https://stream.mariatvcdn.com/telemistrettaradio/900bfcc0f9012ea272584fd5ff5281b8.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO8nfqIDajTFDLzMzyOE9xcPLX3g599YeTuhlKope2SyP0zf1Z5pfcqsFTU2w&s",Tele Tricolore
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTULwade96SKhy8AnWGX9d6WKNvM8fIcqSMjzBwMbsjeuIQDa2_JJ1LgyRROrA&s",TV Qui (Modena) (480p)
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdhBoYt-24QhmPDt5uIWiQLKXm8IeOHLrdJVnhgjeEp49Kj0zFqTbzNU4PNg&s",Tv Qui Modena
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeoc8RlrpB-sTvfhJNGT9ptDUpvwqhukPZFBRAZEafv6zTee5g6WjWGvcXXw&s",TeleMajg
+https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-P5qUCb5pCZ0rxUDnCLYRVL3suIncO7A4aRo8-o0JA-VsthO7Xqiyzw_ZQ&s",Tele Mantova
+https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQsyRGWRLu9dFwS3lZGxXDJF7Q5jqW7zly7t4tOcTiFu5rOh0768QsIhLgGk&s",Teletricolore (480p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv3QEtdQv488Tbi9vmDU3qSdyu4abn2JfFkZa-KviHR5YtIyazy6m_wfPLIQU&s",Tris News
+https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaHG2bTh0XXtAcKoQNw_IO7NHHkMO4Wt9-LghBglvgFjowilf1AddNPpfing&s",Tv Campane 1
+https://eu1.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMi5MT7_B_vxwX9x6rp9Mxg-BpB9RYmhgjKKecSVaT6N-OoAzN_iilZ-SNzwQ&s",Tele Sirio
+https://www.telesirio.it/live/stream.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdHYxLbLY1XlrkG7_Qzpj8Nq5gE0SRiH3FpBbHjl0pVxU2_l4cw2KkO6ZXYg&s",TeleMia (576p)
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB-7yWeBzdhO2C_MZ6E57bJ-XmeoDDyPaf7Hxi0V6cASor6Cyk8pnVHxjrXQ&s",Super TV (720p)
 http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1G3kCHf-Jeq1QA0ClYyN71A7yPfkXvbmuHLohz5ixKMEE-3jmHTlVn5dbEug&s",Super Six
-https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmSDnO0pE4PwhWLICWOkqt6wLdGZw3uZxJPVlSCjq20-KNCUWZUcpN6wIdJw&s",Stereo 5 TV (720p)
-https://stream1.aswifi.it/stereo5/live/index.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxU5yAQXkaUPpfHJy8FVy5OgGbdULMac_Z676ltYOdqufQ-5mqkDy3jUDSPw&s",Set Tv Cilento
-https://stream1.aswifi.it/settv/live/index.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMY9qrBYqdYZ0-MH26mpVPQyoJeOyMOdAl44TQlKptuElkg_R8LgYerY3KRw&s",San Marino RTV Sport (720p)
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxVXc0UTmukPhpOJmsckjiflcpVtm4Lf7o5e3HSNJylBriP-W6yC0M8HIFLQ&s",RTTR Trento (720p)
-https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxVXc0UTmukPhpOJmsckjiflcpVtm4Lf7o5e3HSNJylBriP-W6yC0M8HIFLQ&s",Rttr
-https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0nwsGegaw0pnnXy5aF_8L4FyGqSdBsrWXqCB1jTbxP7Z40ZJk4mUzNAJDLw&s",Rtp Tv
 http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT61LPZm6dSvpsU7ueIPPg2H1tIfMrv4BsOAZKH0-V1wHshdekOOqhhsU85t_k&s",UniNettuno University TV Ⓖ
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvmYAKwWgZkdIEExsfZNXzQdAInzUKZ5q9HAhhrCZVnnJj8K_2aJXv9uM8A&s",Rete Veneta
+http://wms.shared.streamshow.it/reteveneta/reteveneta/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPy3yJ2GjVffMk0XQsUqZ1OLWsp3HF9FTNogx3XAB_2uo8ZiO19D8rhUWzxQ&s",T.R.L Tele Radio Leo
+https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUNDqNjKRxmg-jCa5zgO6_AMWyDTaAA1wrZaneLTkISj5H-ShTb-Jfkmj0iEE&s",Super! POP – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11cF1FZNnOpIanB20kCrcEMfj6yWHkt3hZn2KnvqVQ_8k0ImQad3oQTd-Ldo&s",SuperSix Lombardia (720p)
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfhtndnMYLv5TXEQAR4gmYeIX80g0DvxITXqmII9dwH2k-jiNHdaRV2x5sWk&s",Tele Pace Trento
+https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMtu2ifWZiBL-OhcqbFMgG0VJAu-BNmaTAutfPYkTRm_-KL_WLh7IWDMPaPmc&s",Tele Piadena
+https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmm4l9edFgTtt1Ac4ukUaZqCvGeos228Bms7mIJF_fR7YwLWaLfxrfTQ4CA&s",Radio 51 TV (480p) [Geo-blocked]
+http://178.32.140.155/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmSDnO0pE4PwhWLICWOkqt6wLdGZw3uZxJPVlSCjq20-KNCUWZUcpN6wIdJw&s",Stereo 5 TV (720p)
+https://stream1.aswifi.it/stereo5/live/index.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxVXc0UTmukPhpOJmsckjiflcpVtm4Lf7o5e3HSNJylBriP-W6yC0M8HIFLQ&s",Rttr
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxVXc0UTmukPhpOJmsckjiflcpVtm4Lf7o5e3HSNJylBriP-W6yC0M8HIFLQ&s",RTTR Trento (720p)
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMY9qrBYqdYZ0-MH26mpVPQyoJeOyMOdAl44TQlKptuElkg_R8LgYerY3KRw&s",San Marino RTV Sport (720p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1G3kCHf-Jeq1QA0ClYyN71A7yPfkXvbmuHLohz5ixKMEE-3jmHTlVn5dbEug&s",Super Six
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxU5yAQXkaUPpfHJy8FVy5OgGbdULMac_Z676ltYOdqufQ-5mqkDy3jUDSPw&s",Set Tv Cilento
+https://stream1.aswifi.it/settv/live/index.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR31_brlFiDmOMvV8285h9gECy53ciscII4pPCPNHRy62IjuOskXnzqEs5XzA&s",Rete Oro Tv
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAf_cDh_Sns38M7rjLze_AutRrCuM5VjaRuTiXmyQBz3aM5nQDGgsdOri6tJ4&s",RTP (404p)
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToEwCMZifpYJmOuy0O50O_BB5IHSPKwOQSTri3-KUJrWdL4dF5am-UTeAx1A&s",Reteveneta (480p)
 https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvmYAKwWgZkdIEExsfZNXzQdAInzUKZ5q9HAhhrCZVnnJj8K_2aJXv9uM8A&s",Rete Veneta
-http://wms.shared.streamshow.it/reteveneta/reteveneta/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR31_brlFiDmOMvV8285h9gECy53ciscII4pPCPNHRy62IjuOskXnzqEs5XzA&s",Rete Oro Tv
-https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0p3qwUp2oun5DguP-ortMYv2yDua3Sp9OSprCk8xobL4OtME-4LzHfuE2uw&s",Rete Oro (720p) [Not 24/7]
-https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8pV9pRhh3duc0DVyX-vkTQ65dvURCXGNdQuVUYGobgK1yXtk_yksKNDb6lw&s",Rete Biella TV (720p) [Not 24/7]
-https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ17up80VuMOxZQMAsjBYSvre79nOqjdQfko73IUrxRX4dMjECo6Ry5kFh49Q&s",Rete Biella
-https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv_npBSXLruWq0nEFcl9ZqCrLutMZrk8yrMLmDnhujAaFnSwU4064QkQ8pBA&s",Rete 8 Vga
-https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWESk1tmTGPeJLoPG5j0EHGAd35x5ixUN3NpmJG2-pb_hg9hqzb6PWz-BFux4&s",Radio Radicale TV (240p) [Not 24/7]
-https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTznbfYhbtGfGmYcqJToePjoAx8ehJ24Tet-0eww0wpDvQbkEAFpxdarPIgvQ&s",Radio KISS KISS TV
-https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC_mAtV2DKdwjQ5VVcZ2Rmwb0n-QJ0HGWb9PYSkdAtYVAuV_UULXe_4_RkwA&s",Radio Italia Cina Tv
-https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV1hHs3Zo_yBWcQqauokRjuYXoP7u2b9xVt2TIjdnImmnNBrG8iN-XvFZg-4A&s",Radio Iglesias Sardegna (576p) [Geo-blocked]
-https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmm4l9edFgTtt1Ac4ukUaZqCvGeos228Bms7mIJF_fR7YwLWaLfxrfTQ4CA&s",Radio 51 TV (480p) [Geo-blocked]
-http://178.32.140.155/canale51/canale51/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJJxbbCOB_GtgJ80GD1UdUxUGZlmrT9BnXiQIOb5eV_9H7t4XtlfeH_emmZQ&s",R.T.C. Quarta Rete
-https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN4XZNgpWmntBkxJiE29UTnl7ZNxzJwIk0ML2H5kbc-q5igmGSUQvqxQgeqQ&s",Primocanale (1080p) [Not 24/7]
-https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVj3FbDV5qndAqalH2ISTc7yPoV9TnYLHvtDWG3lPX9KHbCrqHnyFZ2hrK20&s",Primocanale
-https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFOHnge5mKanz0pw6RO4qZomBZGBn08DGdnnbBnYGX9irykfYXdpaqx3Csuw&s",Prima Tv Sicilia
-https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI9fJUOaP8VgUeSiOfHCAt8ZGplez4jae-RvfYTydAvQN8-gKyThOJFQkpdQ&s",Prima Tv
-http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmj51KSzgGNFePJ5_bdmn4VbK7BrcjHa6xzpfq3VkdJm617y9buKaNMChd3Nw&s",Passione Lotto Tv
-http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-gw68bWdm8denIfx9PXnQlro8cap8A7NIlKoZzjI7prp53exMljHOvJF3lw&s",Ora Tv
-https://5db313b643fd8.streamlock.net/OraTv/OraTv/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO9cE0hvN_iNB7tKqa98fzc2Mat1Mh8_2TaOl1x6JBnNHNLs3-F1O8xTjeFw&s",Onda Web Radio
 http://178.33.224.197:1935/ondaradioweb/ondaradioweb/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmkoh0fKzT4ukkQA700E9UreEB2v3kyDdqcTHZK66aGVsVEls0gC7Jo6cfRlk&s",Onda Tv Sicilia
-https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHnO8OOYeHf82dHp-zCHWTi-OswnLI79I0kbplTKA5VEHA0JUBdpJgOvR_Io&s",Onda Novara TV (720p) [Not 24/7]
-https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHnO8OOYeHf82dHp-zCHWTi-OswnLI79I0kbplTKA5VEHA0JUBdpJgOvR_Io&s",Onda Novara Tv
-https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUK54z2ap1jQvJsJKe9f4nJB-BTy5W0pda_f7xeOVri1GAwxnsMrWxroV7xw&s",Minformo Tv
-https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0CfR5AEzTNN5CZvlw9GFQxVUvLYfoWszcuqgQGfQ-ggyUapBXZRwnLWlIg&s",Medjugorje Italia Tv
-https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV1hHs3Zo_yBWcQqauokRjuYXoP7u2b9xVt2TIjdnImmnNBrG8iN-XvFZg-4A&s",Radio Iglesias Sardegna (576p) [Geo-blocked]
+https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTznbfYhbtGfGmYcqJToePjoAx8ehJ24Tet-0eww0wpDvQbkEAFpxdarPIgvQ&s",Radio KISS KISS TV
+https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0p3qwUp2oun5DguP-ortMYv2yDua3Sp9OSprCk8xobL4OtME-4LzHfuE2uw&s",Rete Oro (720p) [Not 24/7]
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI9fJUOaP8VgUeSiOfHCAt8ZGplez4jae-RvfYTydAvQN8-gKyThOJFQkpdQ&s",Prima Tv
+http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ17up80VuMOxZQMAsjBYSvre79nOqjdQfko73IUrxRX4dMjECo6Ry5kFh49Q&s",Rete Biella
+https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC_mAtV2DKdwjQ5VVcZ2Rmwb0n-QJ0HGWb9PYSkdAtYVAuV_UULXe_4_RkwA&s",Radio Italia Cina Tv
+https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8pV9pRhh3duc0DVyX-vkTQ65dvURCXGNdQuVUYGobgK1yXtk_yksKNDb6lw&s",Rete Biella TV (720p) [Not 24/7]
+https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFOHnge5mKanz0pw6RO4qZomBZGBn08DGdnnbBnYGX9irykfYXdpaqx3Csuw&s",Prima Tv Sicilia
+https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN4XZNgpWmntBkxJiE29UTnl7ZNxzJwIk0ML2H5kbc-q5igmGSUQvqxQgeqQ&s",Primocanale (1080p) [Not 24/7]
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqb_LGjVbFa24ZBiUEcWaUpdW-UflYSzjuQE-xCNU4JiAMv9h0cpWjXqxYPQ&s",Le sorelle mcleod – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Opr-W3_7oOTsEsqREHKK9rBzPwK650jldEWhtfiYGdtgpzwSNBlFh55hmwc&s",La TR3 Marsala (720p)
-https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeIZYEB5GAj2RGABUqcS3YKOCko0LhfI1prl11cTkIb2KvAByyF3UoMT-JuQ&s",La tr3 Marsala
-https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn8RqabyAtG6y0dhvSLAIYppRDtJPOx3J98oAdmcLYL0qnGMoW8slfEvj1iQ&s",Just for laughs – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLBmRXvKh-wHUzddKpNxC9PuI2dQ3itZgx0ut6lq8b1n_DL9T_OHj81jEHg&s",Iunior TV (720p) [Not 24/7]
-https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXLpHCECd9TnLUvFKTZSZ9VIdBINNYKdiV1haJJUNw9JvVZxfL9JNh1TDdtuI&s",Iunior Tv
-https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-T6fhs9KwsPF6TVe4ZCqr32IS8btma6NHUvHhQrvD1X5N8TzacotP3xX0Iw&s",Italia 7
-https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf5eo0B6kSsbVwXuF6hDECQyqX84lcfnoNPcBdLZYt7yd-UwQGLytISUk09A&s",Italia 2 TV (480p) [Geo-blocked]
 http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTFSuRsTaLzWaIPq8CXonmb7CDyi9HVmOlPUOFeenXijJCx2Cb9MnE0gQlfQ&s",Italia 2
-https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVj3FbDV5qndAqalH2ISTc7yPoV9TnYLHvtDWG3lPX9KHbCrqHnyFZ2hrK20&s",Primocanale
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHnO8OOYeHf82dHp-zCHWTi-OswnLI79I0kbplTKA5VEHA0JUBdpJgOvR_Io&s",Onda Novara Tv
+https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmkoh0fKzT4ukkQA700E9UreEB2v3kyDdqcTHZK66aGVsVEls0gC7Jo6cfRlk&s",Onda Tv Sicilia
+https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0CfR5AEzTNN5CZvlw9GFQxVUvLYfoWszcuqgQGfQ-ggyUapBXZRwnLWlIg&s",Medjugorje Italia Tv
+https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUK54z2ap1jQvJsJKe9f4nJB-BTy5W0pda_f7xeOVri1GAwxnsMrWxroV7xw&s",Minformo Tv
+https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn8RqabyAtG6y0dhvSLAIYppRDtJPOx3J98oAdmcLYL0qnGMoW8slfEvj1iQ&s",Just for laughs – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRNF_FrbDqD1u9uCq3UpKIF9vZfGHG864HPW8TW0dCoiQxFtDr8wYWTKy9254&s",Il banco dei pugni – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBWjoBH9avMM9ItAbK_vGjTye4XxwouIFSm-nZ_GfbJkt2eFYEGMqftn1Uus&s",Icaro Tv Rimini
-https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTkX5GZLeoq9FrIxLG-WO1Ww5NBSbRVRgEiFv6q29aHtshU6WQMiyajZVpg4&s",Gold Tv
-https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiUrltJyVbNXLisFTzya_D1J903gp268HhsR43hkVHkqYyHwWn-CYLtARIiJ0&s",Giovanni Paolo Tv
-https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyvUI0V9sPKwZZWQ5sSb-xo96qWw8pNUnH8AAhD2OEtQIvKpYuoWKh6MCKJxA&s",Film Azione – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPCu5LfWAwaA_jRNzQfbrLopiTIS7YU_OqtHfRf9ny1bxLRRPjSl4eDrde2Q0&s",FailArmy
-https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUF6Ksvuj-Rn0y82ZX_qzGB74PKYIQPIB86FF9Z9p-pc2CqswVD_Gc1p7NoA&s",Euro TV (720p) [Not 24/7]
-https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyOJ1vYpiEtOVBXrpeLZ7GIIqnydK-s44P28CDTyrbfKrCvn5JvHqU7TnL5g&s",Euro Tv
-https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHnO8OOYeHf82dHp-zCHWTi-OswnLI79I0kbplTKA5VEHA0JUBdpJgOvR_Io&s",Onda Novara TV (720p) [Not 24/7]
+https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTciWVBMizxW2a4FmE7ceFpkqSbEmhxx9sDlkitbMdsRxBERlZEa-0yDc5V8LE&s",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwuOXwT2hkKAA2mzCxtSl5jgx9YgxE3ZrHCxpPSNRiTWwurU5qWsuTDM5nAQo&s",Etv Rete7
-https://live.ipstream.it/etv/etv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8rZPRYEewKtTplF78cHCUnMvANNUG-MLM8ZZL7Hq9XJZo003uQaNNZq-fjQ&s",Etv Marche
-https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTFSuRsTaLzWaIPq8CXonmb7CDyi9HVmOlPUOFeenXijJCx2Cb9MnE0gQlfQ&s",Italia 2
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyvUI0V9sPKwZZWQ5sSb-xo96qWw8pNUnH8AAhD2OEtQIvKpYuoWKh6MCKJxA&s",Film Azione – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Opr-W3_7oOTsEsqREHKK9rBzPwK650jldEWhtfiYGdtgpzwSNBlFh55hmwc&s",La TR3 Marsala (720p)
+https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXLpHCECd9TnLUvFKTZSZ9VIdBINNYKdiV1haJJUNw9JvVZxfL9JNh1TDdtuI&s",Iunior Tv
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHVbN18bQxqd2mdhB7ACLVOTJCfQSoFUTp0Fs0c7PkZ52P7hC_Fl3aFApTbg&s",Esperia TV (480p)
 http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhee5qjcg0kofHGWix-GARaTR5T-v92Q5anv3RIz5MyofpqHP-8fwO-mtZdg&s",Entella TV (720p) [Not 24/7]
-https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz96rdLKVV6vXiMMHTolB7b5Mr_l1b7dPi0CUUrAZdQy2-v0X7GN-VBFcvbw&s",Entella Tv
-https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6IoTA5mhyyhLzZ8LrhAgLRHVwVJo99_S5rPVKmQcKhYAYoGWHdiV88uFVCw&s",Elive TV Brescia (720p) [Not 24/7]
-https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT52UtgZlN5fPwi7zlJyZcRKjX-ubzETfPqa8CHH8MRk-2nnkE8KeQli1BVXA&s",E'live Brescia Tv
-https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gBsvB4YNKUMsPm-5tjGFzZ23j73DTxLY7wtQP1i87kmfUMT1wONYAsTwNvM&s",Documentari – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNjeduxmawhnCmiX7WdFcC3ZMV8Ib8winvcsHOUYeaNMx6yQOUenAbd34HGw&s",Digital Tv7 Benevento
-http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl-Ql6uggMWeiL7he-RdcD8o1f-w7SBuQ4ABOsDZsicYiszIOxgnCuvy6bEtE&s",Crime – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d05d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTONFIX_NfiBGPqNSelBGElSsvlgng2V1Z4lsdSkHi2g79iOPScmGjEgjNbQ0k&s",Classico – Rakuten TV
-https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcBwCC9kVcz2dlT3HZcaBrIwH6m7_prn0aM01w44M6JSZ2vftPujLF_VM9g&s",Catfish – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLBmRXvKh-wHUzddKpNxC9PuI2dQ3itZgx0ut6lq8b1n_DL9T_OHj81jEHg&s",Iunior TV (720p) [Not 24/7]
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPCu5LfWAwaA_jRNzQfbrLopiTIS7YU_OqtHfRf9ny1bxLRRPjSl4eDrde2Q0&s",FailArmy
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBWjoBH9avMM9ItAbK_vGjTye4XxwouIFSm-nZ_GfbJkt2eFYEGMqftn1Uus&s",Icaro Tv Rimini
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeIZYEB5GAj2RGABUqcS3YKOCko0LhfI1prl11cTkIb2KvAByyF3UoMT-JuQ&s",La tr3 Marsala
+https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjF2Rzia3uR5cImbY9b1Fo6Sb5MHbHFY6b5Bdlk2ICmo8t-9zz_kE8oWEngw&s",Canale 8 (480p)
 http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjF2Rzia3uR5cImbY9b1Fo6Sb5MHbHFY6b5Bdlk2ICmo8t-9zz_kE8oWEngw&s",Canale 7 (480p)
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBuNgBa4nfE4c6z3uLte5U4spuSjFLOWoKfCOi8-R9huGCBzEk5rQWK-yVbQ&s",Canale 7
 http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiUrltJyVbNXLisFTzya_D1J903gp268HhsR43hkVHkqYyHwWn-CYLtARIiJ0&s",Giovanni Paolo Tv
+https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gBsvB4YNKUMsPm-5tjGFzZ23j73DTxLY7wtQP1i87kmfUMT1wONYAsTwNvM&s",Documentari – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwuOXwT2hkKAA2mzCxtSl5jgx9YgxE3ZrHCxpPSNRiTWwurU5qWsuTDM5nAQo&s",Etv Rete7
+https://live.ipstream.it/etv/etv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcBwCC9kVcz2dlT3HZcaBrIwH6m7_prn0aM01w44M6JSZ2vftPujLF_VM9g&s",Catfish – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUF6Ksvuj-Rn0y82ZX_qzGB74PKYIQPIB86FF9Z9p-pc2CqswVD_Gc1p7NoA&s",Euro TV (720p) [Not 24/7]
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyOJ1vYpiEtOVBXrpeLZ7GIIqnydK-s44P28CDTyrbfKrCvn5JvHqU7TnL5g&s",Euro Tv
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl-Ql6uggMWeiL7he-RdcD8o1f-w7SBuQ4ABOsDZsicYiszIOxgnCuvy6bEtE&s",Crime – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d05d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNjeduxmawhnCmiX7WdFcC3ZMV8Ib8winvcsHOUYeaNMx6yQOUenAbd34HGw&s",Digital Tv7 Benevento
+http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8rZPRYEewKtTplF78cHCUnMvANNUG-MLM8ZZL7Hq9XJZo003uQaNNZq-fjQ&s",Etv Marche
+https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhee5qjcg0kofHGWix-GARaTR5T-v92Q5anv3RIz5MyofpqHP-8fwO-mtZdg&s",Entella TV (720p) [Not 24/7]
+https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6IoTA5mhyyhLzZ8LrhAgLRHVwVJo99_S5rPVKmQcKhYAYoGWHdiV88uFVCw&s",Elive TV Brescia (720p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmm4l9edFgTtt1Ac4ukUaZqCvGeos228Bms7mIJF_fR7YwLWaLfxrfTQ4CA&s",51 Radio TV (480p) [Geo-blocked]
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT52UtgZlN5fPwi7zlJyZcRKjX-ubzETfPqa8CHH8MRk-2nnkE8KeQli1BVXA&s",E'live Brescia Tv
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz96rdLKVV6vXiMMHTolB7b5Mr_l1b7dPi0CUUrAZdQy2-v0X7GN-VBFcvbw&s",Entella Tv
+https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBMLw6DBDqZio5P18HoCDD2oA9nKxRrv8osJkqQsutc7rSDDymBA5C-2Xig&s",Anime – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc9k9bXfY8iSijIHIcOas_EzzKCudCSXjMrigGABeKZ1UTpKyCxJRpyQphXw&s",Canale 2 Altamura (576p) [Not 24/7]
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZchMGkeTo30e05lB4o7riY6cP1Bp_-ZDhmC6-6eLF02tsWSvWZ7shMQ1uAA&s",Canale 2
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPwZnhTg6IUJdA0_2Xxb3hqI14rf6df8JaH0d5lZhBZDJbkp1or_O-9XNww2k&s",Camera dei Deputati (via RR) (240p)
-https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWQdg9LYK_WOZcklQi3Vd-QCzy5AALnJlsPWTruwOnROaUDGoPwPVf1nztmw&s",Aurora Arte
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-HsnWuWDG_48nGLWHDAurYkudfV0l6bKPsqPoMRh7teHm5q18ormCcIf5HQ&s",Azzurra Tv Vco
 https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2fnqSfi9wFZ6CtzXq17hFYCHX-knQBdXEReOdMU2TRWDccWQ32RAVLb7hYw&s",Aurora Arte (480p)
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWQdg9LYK_WOZcklQi3Vd-QCzy5AALnJlsPWTruwOnROaUDGoPwPVf1nztmw&s",Aurora Arte
-https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBMLw6DBDqZio5P18HoCDD2oA9nKxRrv8osJkqQsutc7rSDDymBA5C-2Xig&s",Anime – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmm4l9edFgTtt1Ac4ukUaZqCvGeos228Bms7mIJF_fR7YwLWaLfxrfTQ4CA&s",51 Radio TV (480p) [Geo-blocked]
-http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPwZnhTg6IUJdA0_2Xxb3hqI14rf6df8JaH0d5lZhBZDJbkp1or_O-9XNww2k&s",Camera dei Deputati (via RR) (240p)
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
