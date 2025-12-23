@@ -15,12 +15,12 @@ https://www.youtube.com/watch?v=BhtuWrGyIcc/live
 https://www.youtube.com/@NBCNews/live
 #EXTINF:-1 group-title="USA" tvg-id="abc-news-live-us" tvg-logo="https://epg.iptvx.one/picons/abc-news-live-us.png",ABC News Live (HD ready)
 https://livetv-fa.tubi.video/abc-news/index.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="dw.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBAf7iwr2D0X6V5E0ICZRYzObpWE-mZUSloRrbR0UFCNpxdXXH340AAmaLZ9I&s",DW
+https://mrgmaw.github.io/enlaces/xy/dwes.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://i.imgur.com/IZFEJsu.png",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://i.imgur.com/IZFEJsu.png",Global News 2
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="dw.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBAf7iwr2D0X6V5E0ICZRYzObpWE-mZUSloRrbR0UFCNpxdXXH340AAmaLZ9I&s",DW
-https://mrgmaw.github.io/enlaces/xy/dwes.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaIrWYMViPoK9xEaUGRqryEDP5SUT4OwJcLH2jz6Ed8AHQDXQGFhLSqNIxuQ&s",CBS News Miami (720p)
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkmjWcpVPEPwlAmjpapmSi0gWE5vSqzPHh7TvGD6L73vFgkpnNNvEIp3Gn1dY&s",CBS News New York (720p)
@@ -86,17 +86,17 @@ https://ncdn.telewebion.com/twsport2/live/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD",IRIB TWSPORT 3
 https://ncdn.telewebion.com/twsport3/live/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-gbmlqWNJhNxyID2ZA7SQhpYE_rFJ6cIEp-LnqtYeOzXF1yIzR8XvwketBw&s",IRAN INTERNACIONAL
-https://live.playstop.me/1816184091/index.m3u8?DVR
+https://live.playstop.me/1816184091/index.m3u8
+#EXTINF:-1 tvg-id="IranInternational.uk" tvg-logo="https://i.imgur.com/55RpaF3.png" group-title="NEWS WORLD",Iran International (1080p)
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD",IRIB NAMAYESH
 https://ncdn.telewebion.com/namayesh/live/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yB6IKighgeiOzJDgn4N59HxeW8vYJ-yZvnJ09beDbczjKzF89ObFvcNIgQ&s",IRAN TV INTERNACIONAL
-https://live.playstop.me/1816184091/index.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD",IRIB VARZESH
 https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yB6IKighgeiOzJDgn4N59HxeW8vYJ-yZvnJ09beDbczjKzF89ObFvcNIgQ&s",Iran International (1080p) 2
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
-#EXTINF:-1 tvg-id="IranInternational.uk" tvg-logo="https://i.imgur.com/55RpaF3.png" group-title="NEWS WORLD",Iran International (1080p)
-https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/120px-Logotipo_da_GloboNews.png" group-title="NEWS WORLD",GLOBO NEWS
 http://limed.cc:80/4x6cXF/ehfxdp/90039.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yB6IKighgeiOzJDgn4N59HxeW8vYJ-yZvnJ09beDbczjKzF89ObFvcNIgQ&s",Iran International (1080p)
