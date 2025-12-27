@@ -94,39 +94,41 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8
 #EXTINF:-1 tvg-id="TVSimSaoMateus.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="NEWS WORLD",TV Sim São Mateus (720p)
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/120px-Record_News_logo_2022.svg.png" group-title="NEWS WORLD",RECORD NEWS
+http://limed.cc:80/4x6cXF/ehfxdp/90259.m3u8
+
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/120px-Logotipo_da_GloboNews.png" group-title="NEWS WORLD",GLOBO NEWS
 http://limed.cc:80/4x6cXF/ehfxdp/90039.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/Wu4ykxo.png",Globo News HD
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120647
 
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Band_News_TV_2021_Logo.png/800px-Band_News_TV_2021_Logo.png" group-title="NEWS WORLD",BAND NEWS
+http://limed.cc:80/4x6cXF/ehfxdp/89820.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Band.News.br" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png",Band News HD
+http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120587
+
+#EXTINF:-1 tvg-id="Bloomberg HD.br" tvg-name="BLOOMBERG" tvg-logo="https://logospng.org/wp-content/uploads/bloomberg.png" group-title="NEWS WORLD",BLOOMBERG
+http://limed.cc:80/4x6cXF/ehfxdp/97746.m3u8
 
 #EXTINF:-1 tvg-id="Jpnews.br" tvg-name="JOVEM PAN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logotipo_da_TV_Jovem_Pan_News.png/120px-Logotipo_da_TV_Jovem_Pan_News.png" group-title="NEWS WORLD",JOVEM PAN NEWS
 http://limed.cc:80/4x6cXF/ehfxdp/90139.m3u8
-#EXTINF:-1 group-title="NEWS WORLD",IRIB TAMASHA
-https://ncdn.telewebion.com/hdtest/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/120px-Record_News_logo_2022.svg.png" group-title="NEWS WORLD",RECORD NEWS
-http://limed.cc:80/4x6cXF/ehfxdp/90259.m3u8
-#EXTINF:-1 group-title="NEWS WORLD",IRIB IRINN 2
-https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="6317ba014d4d040007227f72" tvg-logo="https://i.imgur.com/aqgaka0.jpeg",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Band_News_TV_2021_Logo.png/800px-Band_News_TV_2021_Logo.png" group-title="NEWS WORLD",BAND NEWS
-http://limed.cc:80/4x6cXF/ehfxdp/89820.m3u8
-#EXTINF:-1 tvg-id="Bloomberg HD.br" tvg-name="BLOOMBERG" tvg-logo="https://logospng.org/wp-content/uploads/bloomberg.png" group-title="NEWS WORLD",BLOOMBERG
-http://limed.cc:80/4x6cXF/ehfxdp/97746.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Band.News.br" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png",Band News HD
-http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120587
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png",Iran International
-https://live.playstop.me/LS-63503-4/index.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="SporTV.br" tvg-logo="https://imgur.com/mTdVXfu.jpg",SPORTV
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="SporTV.br" tvg-logo="https://imgur.com/mTdVXfu.jpg",SPORTV
 https://1zn0of55fj.1zn0of55fj.workers.dev/sportv/index.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="SporTV2.br" tvg-logo="https://imgur.com/gofZHpP.jpg",SPORTV 2
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="SporTV2.br" tvg-logo="https://imgur.com/gofZHpP.jpg",SPORTV 2
 https://1zn0of55fj.1zn0of55fj.workers.dev/sportv2/index.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id=".SporTV3.br" tvg-logo="https://imgur.com/N4yF1XS.jpg",SPORTV 3
+
+#EXTINF:-1 group-title="SPORTS" tvg-id=".SporTV3.br" tvg-logo="https://imgur.com/N4yF1XS.jpg",SPORTV 3
 https://1zn0of55fj.1zn0of55fj.workers.dev/sportv3/index.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="NEWS WORLD",SPORTV
-http://limed.cc:80/4x6cXF/ehfxdp/90328.m3u8
+
+
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Canal.Mexiquense.TV.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg",AMX Noticias (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SporTV2_2021.png/799px-SporTV2_2021.png" group-title="NEWS WORLD",SPORTV 2
