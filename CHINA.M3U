@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml"
-#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRED5JuoPYimK38rrmeLL_zRnYAdmVbHGa3im6gPqEhHOvGMRjfgdcVZyRG5qU&s",CCTV+ 1 (600p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="CCTV-1 综合.cn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRED5JuoPYimK38rrmeLL_zRnYAdmVbHGa3im6gPqEhHOvGMRjfgdcVZyRG5qU&s",CCTV+ 1 (600p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRED5JuoPYimK38rrmeLL_zRnYAdmVbHGa3im6gPqEhHOvGMRjfgdcVZyRG5qU&s",CCTV+ 2 (600p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="CCTV-2 财经.cn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRED5JuoPYimK38rrmeLL_zRnYAdmVbHGa3im6gPqEhHOvGMRjfgdcVZyRG5qU&s",CCTV+ 2 (600p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSTPvVg6t1wsFu4gCkXWWqGX0VZbEqvaBPNaqHxcx321dIvFabLkv1FAnsEg&s",CGTN Français (576p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="CCTV-Français.cn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSTPvVg6t1wsFu4gCkXWWqGX0VZbEqvaBPNaqHxcx321dIvFabLkv1FAnsEg&s",CGTN Français (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRntnpkBxMNBpEou3f2pTxIktIizzzqO1bG0HXNvi8w0DeS9nR9St-8PAzKNw&s",Red Bull TV (1080p)
@@ -23,7 +23,7 @@ http://123.146.162.24:8013/tslslive/URetCnP/hls/live_sd.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJSqupbszx8tx2GGryTGXMle80EoGodphC30cx3Yf_WEFG89SLqxkk1rF0Rk&s",万州综合 (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJSqupbszx8tx2GGryTGXMle80EoGodphC30cx3Yf_WEFG89SLqxkk1rF0Rk&s",上虞1新闻综合 (720p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="成都新闻综合.cn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJSqupbszx8tx2GGryTGXMle80EoGodphC30cx3Yf_WEFG89SLqxkk1rF0Rk&s",上虞1新闻综合 (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJSqupbszx8tx2GGryTGXMle80EoGodphC30cx3Yf_WEFG89SLqxkk1rF0Rk&s",上虞3新商都 (720p) [Not 24/7]
@@ -32,7 +32,7 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdrCHgQxQOPAM7pZayn1wmr-MIdFEQB3u9TlKxPJMCvGRFpHa5xr-w57GIg&s",上虞經濟文化 (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJSqupbszx8tx2GGryTGXMle80EoGodphC30cx3Yf_WEFG89SLqxkk1rF0Rk&s",云南 Ⅰ 文山综合台 (1080p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="云南卫视.cn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJSqupbszx8tx2GGryTGXMle80EoGodphC30cx3Yf_WEFG89SLqxkk1rF0Rk&s",云南 Ⅰ 文山综合台 (1080p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 #EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoN2qQB_CM3SPjEcKnMg1uJJ7BEWR21lBHNWPoM59iSD8bHDP7L-yAt0JzGQ&s",余姚姚江文化 (576p)
@@ -53,7 +53,7 @@ http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv3TItUpSC21YcJHeN1vZMDmp85nAGT8WROCijJMlZh2GvkAclzvlVtIuTK-M&s",南京娱乐 (720p)
 #EXTVLCOPT:network-caching=1000
 http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdrCHgQxQOPAM7pZayn1wmr-MIdFEQB3u9TlKxPJMCvGRFpHa5xr-w57GIg&s",四川 Ⅰ 巴中综合台 (1080p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="四川卫视.cn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdrCHgQxQOPAM7pZayn1wmr-MIdFEQB3u9TlKxPJMCvGRFpHa5xr-w57GIg&s",四川 Ⅰ 巴中综合台 (1080p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.flv
 #EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBT2pcxuwhp4vywJgH8wFfO4FQ5h9VAo7PohyL8mjSjSh24mu7tFHzuFQxdyE&s",四平新闻综合 [Geo-blocked]
@@ -74,7 +74,7 @@ http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbj4Lonfx3HQxXLci0k68k8gNE7P0pwRrt8eb3Yg6cPq2Chh0hIta3xG_YsQ&s",嵊州综合 (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJia9SZcFYoVkgKJFZ-L2CYBnVydPU0usITxj6X7AIuwc_whqF64EX4a4qPw&s",延边卫视 (720p)
+#EXTINF:-1 group-title="CHINA" tvg-id="延边卫视.cn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJia9SZcFYoVkgKJFZ-L2CYBnVydPU0usITxj6X7AIuwc_whqF64EX4a4qPw&s",延边卫视 (720p)
 #EXTVLCOPT:network-caching=1000
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBT2pcxuwhp4vywJgH8wFfO4FQ5h9VAo7PohyL8mjSjSh24mu7tFHzuFQxdyE&s",延边新闻综合 [Geo-blocked]
@@ -119,10 +119,10 @@ http://222.179.155.21:1935/ch1.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdrCHgQxQOPAM7pZayn1wmr-MIdFEQB3u9TlKxPJMCvGRFpHa5xr-w57GIg&s",江津经济生活 (480p)
 #EXTVLCOPT:network-caching=1000
 http://222.179.155.21:1935/ch0.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDaWKiSAoLtVsNZKEW3_TDtUNXB2jrTZpPMhNm3JpOTvyRXI-3nkyJFYBIDw&s",江苏 Ⅰ 连云港公共 (480p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="江苏卫视.cn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDaWKiSAoLtVsNZKEW3_TDtUNXB2jrTZpPMhNm3JpOTvyRXI-3nkyJFYBIDw&s",江苏 Ⅰ 连云港公共 (480p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://live.lyg1.com/ggpd/sd/live.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpNB-CAcmDNXgOfFunfn5FlbFhcwMGaryIP0RW_vthu5xoX_FeD1fL_d1V_Q&s",江苏 Ⅰ 连云港综合 (480p) [Not 24/7]
+#EXTINF:-1 group-title="CHINA" tvg-id="江苏卫视.cn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpNB-CAcmDNXgOfFunfn5FlbFhcwMGaryIP0RW_vthu5xoX_FeD1fL_d1V_Q&s",江苏 Ⅰ 连云港综合 (480p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://live.lyg1.com/zhpd/sd/live.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdrCHgQxQOPAM7pZayn1wmr-MIdFEQB3u9TlKxPJMCvGRFpHa5xr-w57GIg&s",河源公共 (540p)
@@ -131,10 +131,10 @@ http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJSqupbszx8tx2GGryTGXMle80EoGodphC30cx3Yf_WEFG89SLqxkk1rF0Rk&s",河源综合 (540p)
 #EXTVLCOPT:network-caching=1000
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzq5uku409QTs-gfLmWK2FPm27VRpE5bq0BnTxJxipnlljhTEuyrXOSn7SFk0&s",浙江 Ⅰ 绍兴影视 (720p) [Timeout]
+#EXTINF:-1 group-title="CHINA" tvg-id="浙江卫视.cn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzq5uku409QTs-gfLmWK2FPm27VRpE5bq0BnTxJxipnlljhTEuyrXOSn7SFk0&s",浙江 Ⅰ 绍兴影视 (720p) [Timeout]
 #EXTVLCOPT:network-caching=1000
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OeT46G4TEAH2lO4R69w52FsMnf7IOSSa6Um3gjRrRKFW0T2-4dm9_K2pYQ&s",浙江 Ⅰ 绍兴综合 (576p) [Timeout]
+#EXTINF:-1 group-title="CHINA" tvg-id="浙江卫视.cn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OeT46G4TEAH2lO4R69w52FsMnf7IOSSa6Um3gjRrRKFW0T2-4dm9_K2pYQ&s",浙江 Ⅰ 绍兴综合 (576p) [Timeout]
 #EXTVLCOPT:network-caching=1000
 http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdrCHgQxQOPAM7pZayn1wmr-MIdFEQB3u9TlKxPJMCvGRFpHa5xr-w57GIg&s",漳州新闻综合 (720p) [Not 24/7]
