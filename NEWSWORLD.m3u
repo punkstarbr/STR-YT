@@ -8,6 +8,20 @@ https://ncdn.telewebion.com/irinn/live/playlist.m3u8
 https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8
 #EXTINF:-1 tvg-id="IRINN.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="NEWS WORLD",IRINN
 https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB1.ir@SD",IRIB1
+https://ncdn.telewebion.com/tv1/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB2.ir@SD",IRIB2
+https://ncdn.telewebion.com/tv2/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB3.ir@SD",IRIB3
+https://ncdn.telewebion.com/tv3/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB4.ir@SD",IRIB4
+https://ncdn.telewebion.com/tv4/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIBUHD.ir@4K",IRIB UHD (2160p)
+https://ncdn.telewebion.com/faratar/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRINN2.ir@SD",IRINN2 Live Farsi News
+https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRINN.ir@SD",IRINN Live Farsi News
+https://ncdn.telewebion.com/irinn/live/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Canal.Mexiquense.TV.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg",AMX Noticias (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
