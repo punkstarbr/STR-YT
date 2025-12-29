@@ -137,10 +137,10 @@ http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120647
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/Wu4ykxo.png",GLOBO NEWS
 https://03-mcteteu.shop/secret_key/77a11442e33a694798f9cc53b6235737.m3u8
 
-#EXTINF:-1 tvg-id="465460" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Band_News_TV_2021_Logo.png/800px-Band_News_TV_2021_Logo.png" group-title="NEWS WORLD",BAND NEWS
+#EXTINF:-1 tvg-id="Band.News.br" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Band_News_TV_2021_Logo.png/800px-Band_News_TV_2021_Logo.png" group-title="NEWS WORLD",BAND NEWS
 http://limed.cc:80/4x6cXF/ehfxdp/89820.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png",Band News HD
+#EXTINF:-1 tvg-id="Band.News.HD.br" group-title="NEWS WORLD" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png",Band News HD
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120587
 
 #EXTINF:-1 tvg-id="6110" tvg-name="BLOOMBERG" tvg-logo="https://logospng.org/wp-content/uploads/bloomberg.png" group-title="NEWS WORLD",BLOOMBERG
@@ -210,6 +210,9 @@ https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/play
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNNBRASILMONEY" tvg-name="CNN Brasil Money" tvg-logo="https://imgur.com/3rHuAWH.png" group-title="NEWS WORLD",CNN BRASIL MONEY
 https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w296915124.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNNBRASILMONEY" tvg-name="CNN Brasil Money" tvg-logo="https://imgur.com/3rHuAWH.png" group-title="NEWS WORLD",CNN BRASIL MONEY
+https://fast-channels.b-cdn.net/9978b7063e297d84e1cd5f21af3a88b1/cnnmoney/aovivo_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="666c9c60a7efd40008f552f0" group-title="NEWS WORLD" tvg-logo="https://imgur.com/tyW3Ppf.png",BM&C NEWS
 #EXTINF:-1 tvg-id="CNNBrasil.br" group-title="NEWS WORLD" group-title="NEWS WORLD" tvg-name="CNN BRASIL" tvg-logo="https://i.ibb.co/7kD8t97/cnn-brasil.png",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="NEWS WORLD",CNN BRASIL
@@ -220,15 +223,15 @@ http://cord-cutter.net:8080/live/j3McKd/673709/57619.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8?DVR
 #EXTINF:-1 group-title="CNN's" tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png",CNN US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="465021" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",CNN INTERNACIONAL
-https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8?DVR
 #EXTINF:-1 group-title="CNN's" tvg-id="cnn.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png",CNN US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="CNN's" tvg-id="GBBD8000016N" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="CNN's" tvg-id="465021" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXg3w_lCcX81-Prwhx-_QOIfR1mHI2LXg866TEnyGVoGR3yDgb7GybgnSKw&s",CNN INTERNACIONAL
-https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="465021" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",CNN INTERNACIONAL
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8?DVR
 #EXTINF:-1 group-title="CNN's" tvg-id="465021" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",CNN INTERNACIONAL
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="CNN's" tvg-id="465021" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXg3w_lCcX81-Prwhx-_QOIfR1mHI2LXg866TEnyGVoGR3yDgb7GybgnSKw&s",CNN INTERNACIONAL
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HLN_2017_new_logo.png",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8?DVR
@@ -252,9 +255,6 @@ https://247.foxbusiness.com/hls/live/2003756/FBNHLSv3/master.m3u8
 http://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Fox.News.us" tvg-name="" tvg-logo="https://a57.foxnews.com/static.foxnews.com/static/orion/styles/img/fox-news/og/360/203/og-fox-news.png?ve=1&tl=1",FOX News
 https://247.foxnews.com/hls/live/2003586/FNCHLSv3/master.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNNBRASILMONEY" tvg-name="CNN Brasil Money" tvg-logo="https://imgur.com/3rHuAWH.png" group-title="NEWS WORLD",CNN BRASIL MONEY
-https://fast-channels.b-cdn.net/9978b7063e297d84e1cd5f21af3a88b1/cnnmoney/aovivo_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="666c9c60a7efd40008f552f0" group-title="NEWS WORLD" tvg-logo="https://imgur.com/tyW3Ppf.png",BM&C NEWS
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",Fox News
 http://cord-cutter.net:8080/k4Svp2/645504/1818#checkedby:alliptvlinks.com
