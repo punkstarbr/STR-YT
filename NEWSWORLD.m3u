@@ -2,6 +2,49 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml,https://www.open-epg.com/files/brazil1.xml,http://m3u4u.com/xml/68m7n44xk6bj319pn1ge,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/80345b77e4dbf1d74a7a658521b8a01ce151ebd5/PlutoTV/all.xml,https://epg.pw/xmltv/epg_BR.xml,https://epg.pw/xmltv/epg_lite.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/80345b77e4dbf1d74a7a658521b8a01ce151ebd5/nz/epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/80345b77e4dbf1d74a7a658521b8a01ce151ebd5/SamsungTVPlus/all.xml,https://www.bevy.be/bevyfiles/brazil.xml.gz,https://www.bevy.be/bevyfiles/argentinapremium2.xml.gz,https://www.bevy.be/bevyfiles/argentina.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/df76ad7a393ae465e86c969a0f0a0d4a3ed84035/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz"
 
+#EXTM3U
+
+#EXTINF:-1 group-title="NEWS WORLD",TX1
+https://cdn0-03837-liveedge0.dna.contentdelivery.net/03837-liveedge0/smil:03837-tx1/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD",TX2
+https://cdn0-03837-liveedge0.dna.contentdelivery.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD",TX3
+https://cdn0-03837-liveedge0.dna.contentdelivery.net/03837-liveedge0/smil:03837-tx3/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD",TX4
+https://cdn0-03837-liveedge0.dna.contentdelivery.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD",TX5
+https://cdn0-03837-liveedge0.dna.contentdelivery.net/03837-liveedge0/smil:03837-tx5/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD",TX6
+https://cdn0-03837-liveedge1.dna.contentdelivery.net/03837-liveedge1/smil:03837-tx6/playlist.m3u8
+
+
+#EXTINF:-1 group-title="NEWS WORLD",AP Direto
+https://streaming-a-806.cdn.nextologies.com/Ugg7ohj1KOol2v04/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD",AP Live Choice 1
+https://streaming-a-806.cdn.nextologies.com/4M2gqURXdsxuPj01/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD",AP Live Choice 2
+https://streaming-a-806.cdn.nextologies.com/SCNek2Fa6TFmNF02/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD",AP Live Choice 3
+https://streaming-a-806.cdn.nextologies.com/eZWEYDN1QYcHsM03/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD",AP Live Choice 4
+https://streaming-a-806.cdn.nextologies.com/dd20476021b1fc5dd4fe0e50fabdc2bz/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD",AP Live Choice 5
+https://streaming-a-806.cdn.nextologies.com/b88e314b3e2b62b5756ba2fc95289f21/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD",AP Live Choice 6
+https://streaming-a-806.cdn.nextologies.com/38dafadc68316650d32c7e974332e5b8/playlist.m3u8
+
+
 #EXTINF:-1 group-title="NEWS WORLD",IRIB IRINN
 https://ncdn.telewebion.com/irinn/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IRINN2.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="NEWS WORLD",IRIB2
