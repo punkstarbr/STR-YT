@@ -197,9 +197,6 @@ https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 group-title="NEWS WORLD",CGTN Documentary
 https://news.cgtn.com/resource/live/wx/cgtn-doc.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",CNA
-https://mediacorp-videosbclive.akamaized.net/8a496e61361c4079a0e16d8f09e79df9/ap-southeast-1/6057994443001/playlist.m3u8
-
 #EXTINF:-1 group-title="NEWS WORLD",CNN
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 
@@ -797,10 +794,14 @@ https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/WABCLive
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNA.sg" tvg-logo="https://i.imgur.com/xJZ9ChT.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="USAJ4300005PJ" tvg-logo="https://i.imgur.com/Y3vQaf5.png",Yahoo! Finance
-https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",CNA
+https://mediacorp-videosbclive.akamaized.net/8a496e61361c4079a0e16d8f09e79df9/ap-southeast-1/6057994443001/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="cna" tvg-logo="https://i.ibb.co/NTKgPfv/cna.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?cc
+#EXTINF:-1 tvg-id="465021" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="NEWS WORLD",CNA International (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="USAJ4300005PJ" tvg-logo="https://i.imgur.com/Y3vQaf5.png",Yahoo! Finance
+https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="ABC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSByudCbCLNVmjaJFPHKZ7aKWNp_xbG1-kvVBFJdPg373zsAvwoQ2egSS5p8KE&s",ABC7 NY WABC LIVE 2
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/WABCLive2.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="SkyNews.uk" tvg-logo="https://www.tagesschau.de/res/assets/image/favicon/apple-touch-icon-152x152.png",tagesschau24 - ALEMÃO
@@ -1379,8 +1380,6 @@ https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="NEWS WORLD",CGTN (1080p)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="465021" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="NEWS WORLD",CNA International (1080p)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus1.cn" tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="NEWS WORLD",CCTV+ 1 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Contivision.cl" tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="NEWS WORLD",Contivision (720p)
