@@ -2,8 +2,7 @@
 
 
 #EXTM3U
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png", REDE MINAS
-http://168.205.87.198:8555/live/1330/123456/101.m3u8
+
 #EXTINF:0 tvg-id="TV.Câmara.br" type="stream" group-title="TV AO VIVO" logo="https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg", TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:0 tvg-id="TV.Senado.br" type="stream" group-title="TV AO VIVO" logo="", TV SENADO
