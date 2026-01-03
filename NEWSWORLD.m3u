@@ -15,7 +15,7 @@ https://aka-live1050.delivery.roku.com/038ffd84-d8cf-4100-8529-d59257abcf78/t2-o
 https://aka-live1050.delivery.roku.com/0005e38f-fc77-42ad-a187-841bcd6b4637/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD",TV5 Monde Info
-http://127.0.0.1:8095/https://dun10g57y9s4x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fvdsgn3zglj18/tvfm.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=IT18000033C|user-agent=okhttp/4.12.0
+https://dun10g57y9s4x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fvdsgn3zglj18/tvfm.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=IT18000033C|user-agent=okhttp/4.12.0
 
 #EXTINF:-1 group-title="NEWS WORLD",Class CNBC
 https://d1t2v0gs1xcf0l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y3ddf6plueqkw/ClassCNBC_IT.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=IT2700002ZN|user-agent=okhttp/4.12.0
@@ -182,8 +182,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-646fab0e43d6
 #EXTINF:-1 group-title="NEWS WORLD",BBC Arabic
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 
-#EXTINF:-1 group-title="NEWS WORLD",Bloomberg
-https://www.bloomberg.com/media-manifest/streams/us.m3u8
+
 
 #EXTINF:-1 group-title="NEWS WORLD",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
@@ -196,9 +195,6 @@ https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD",CGTN Documentary
 https://news.cgtn.com/resource/live/wx/cgtn-doc.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD",CNN
-https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD",Current Time TV
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
@@ -404,6 +400,41 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8
 #EXTINF:-1 tvg-id="TVSimSaoMateus.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="NEWS WORLD",TV Sim São Mateus (720p)
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 
+#EXTINF:-1 tvg-id="6110" tvg-name="BLOOMBERG" tvg-logo="https://logospng.org/wp-content/uploads/bloomberg.png" group-title="NEWS WORLD",BLOOMBERG
+http://limed.cc:80/4x6cXF/ehfxdp/97746.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD",Bloomberg
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cLOvhE4vAfbn064HhmbDax8pU48W-2jZP2ZdTd2P0vG4afZpOFL_BHmTGg&s",Bloomberg Asia
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="6110" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1kltagitQcwkA-Swoye2NcTBiLqKUTQfaAMEkhrjDCZKAQtA5B7jTRXgUAQ&s",Bloomberg US
+https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6WmgQx4WREPuRYDFcRnf4Oz468lCbUG4lKboK13mdLMWw3od6-CGztn9O6g&s",Bloomberg Politics
+https://www.bloomberg.com/media-manifest/streams/politics.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="6110" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZS8rzrmFoRuvQby6YSaja-ScGunpB-TRFCbWt4RcbfJaapuk4R6Q4C9MGohY&s",Bloomberg EU
+https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="BLOOMBERG TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Brasil
+https://bloomberg-bloomberg-3-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Blomberg US" tvg-id="6110" group-title="BUSINESS NEWS" tvg-logo="https://i.imgur.com/idRFfhY.png",Blomberg US
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Politics" tvg-logo="https://i.imgur.com/WdpIGAF.png" group-title="BUSINESS NEWS",Bloomberg Politics
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="ABC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSByudCbCLNVmjaJFPHKZ7aKWNp_xbG1-kvVBFJdPg373zsAvwoQ2egSS5p8KE&s",ABC7_NY_WABC
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8?DVR
+#EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="BloombergTelevision.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBAMx5ocyi-5mmkLQHwD0w1vteFbhZwme0iLwR4F1Aos64MpycYMYVHThM_Ic&s",Bloomberg Television
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="BloombergTVEMEALiveEvent.us" tvg-logo="https://www.lyngsat.com/logo/tv/bb/blommberg-tv-us.png",Bloomberg Europe Event
+https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg",Int. América: Bloomberg USA EN
+https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg",Int. América: Bloomberg USA EN
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/nSj18g1.png" group-title="BUSINESS NEWS",Bloomberg TV Mongolia
+https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
+#EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/nSj18g1.png",Bloomberg TV Mongolia
+https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
+
 #EXTINF:-1 tvg-id="465497" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/120px-Record_News_logo_2022.svg.png" group-title="NEWS WORLD",RECORD NEWS
 http://limed.cc:80/4x6cXF/ehfxdp/90259.m3u8
 
@@ -425,8 +456,7 @@ http://limed.cc:80/4x6cXF/ehfxdp/89820.m3u8
 #EXTINF:-1 tvg-id="Band.News.HD.br" group-title="NEWS WORLD" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png",Band News HD
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120587
 
-#EXTINF:-1 tvg-id="6110" tvg-name="BLOOMBERG" tvg-logo="https://logospng.org/wp-content/uploads/bloomberg.png" group-title="NEWS WORLD",BLOOMBERG
-http://limed.cc:80/4x6cXF/ehfxdp/97746.m3u8
+
 
 #EXTINF:-1 tvg-id="6317ba014d4d040007227f72" tvg-name="JOVEM PAN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logotipo_da_TV_Jovem_Pan_News.png/120px-Logotipo_da_TV_Jovem_Pan_News.png" group-title="NEWS WORLD",JOVEM PAN NEWS
 http://limed.cc:80/4x6cXF/ehfxdp/90139.m3u8
@@ -762,16 +792,7 @@ https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x
 https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/WLSLive1.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="ABC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSByudCbCLNVmjaJFPHKZ7aKWNp_xbG1-kvVBFJdPg373zsAvwoQ2egSS5p8KE&s",ABC7 LA KABC LIVE 1.html
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/KABCLive1.m3u8?DVR
-#EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="BLOOMBERG TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Brasil
-https://bloomberg-bloomberg-3-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Blomberg US" tvg-id="6110" group-title="BUSINESS NEWS" tvg-logo="https://i.imgur.com/idRFfhY.png",Blomberg US
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Politics" tvg-logo="https://i.imgur.com/WdpIGAF.png" group-title="BUSINESS NEWS",Bloomberg Politics
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="ABC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSByudCbCLNVmjaJFPHKZ7aKWNp_xbG1-kvVBFJdPg373zsAvwoQ2egSS5p8KE&s",ABC7_NY_WABC
-https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8?DVR
-#EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="BloombergTelevision.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBAMx5ocyi-5mmkLQHwD0w1vteFbhZwme0iLwR4F1Aos64MpycYMYVHThM_Ic&s",Bloomberg Television
-https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSByudCbCLNVmjaJFPHKZ7aKWNp_xbG1-kvVBFJdPg373zsAvwoQ2egSS5p8KE&s",ABC CHICAGO WLS LIVE 3
 https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/WLSLive3.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSByudCbCLNVmjaJFPHKZ7aKWNp_xbG1-kvVBFJdPg373zsAvwoQ2egSS5p8KE&s",ABC CHICAGO WLS LIVE 2
@@ -812,14 +833,12 @@ http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="DWArabic.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDQGrn_7OecJwZG45681ZyIam-pApP5a9bufduU-gbs16C7_aKm-tceUwaWg&s",DW Arabe
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
-#EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="BloombergTVEMEALiveEvent.us" tvg-logo="https://www.lyngsat.com/logo/tv/bb/blommberg-tv-us.png",Bloomberg Europe Event
-https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200",Int. América: CBS News USA EN
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoj1sadr0FQYsXmpWpE7a9pQ4HnwZKZiTThvQJh3zWly1NOHze43PNGE_ZYxA&s",Meteonews (1080p)
 https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg",Int. América: Bloomberg USA EN
-https://www.bloomberg.com/media-manifest/streams/us.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://i.imgur.com/jHJR3LN.png",Africanews
 https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg",teleSUR English
@@ -846,8 +865,7 @@ https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQgUdCTlQNlFIuILolibTDGGltOyJpXfG2vMSb5SH0m74yUXa9L6v-fX3-qY&s",Al Iraqiya News (720p) [Not 24/7]
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg",Int. América: Bloomberg USA EN
-https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="AlArabiya.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOFxyDXvMqzluYDtpAGClZQ2Rl7SWcurIjsz2rg8F71u4sJLxnxvJfeegYL24&s",Al Arabiya (Arabic)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="AlJazeeraArabic.qa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_D9WOAaoPC8yyCvYzHJpvW8L72lbzeA_1Rk2-f3J4P3pczmQXR1UyFtSehA&s",Al Jazeera Arabic
@@ -858,8 +876,7 @@ https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="12477" tvg-logo="https://i.imgur.com/okkmsZK.png",Sky News Arabe
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
-#EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/nSj18g1.png",Bloomberg TV Mongolia
-https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
+
 #EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="AsharqNews.sa" tvg-logo="https://i.imgur.com/bqRC3sl.png",Asharq News (1080p)
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="100News.ua" tvg-logo="https://i.imgur.com/wEou5az.png",100% News (576p)
@@ -870,8 +887,7 @@ https://603c568fccdf5.streamlock.net/live2/dhaweb2/playlist.m3u8
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png",ARB 24 (1080p)
 http://85.132.81.184:8080/arb/live/index.m3u8
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/nSj18g1.png" group-title="BUSINESS NEWS",Bloomberg TV Mongolia
-https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="Undefined" tvg-logo="https://img2.rtve.es/resources/thumbslive/1938069.jpg",Eventuales: +24 - 3
 https://rtvelivestream.akamaized.net/rtvesec/oca/irtve03_main_1080.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Undefined" tvg-logo="https://img2.rtve.es/resources/thumbslive/1938070.jpg",Eventuales: +24 - 4
@@ -1082,12 +1098,7 @@ https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream3/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqX5Mi38dVfJgzVLT-15qyO8Q3x3lRFQuvungakW6NYfWIwzQFjqBWoKIlhg8&s",Akamai Live Event
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="6110" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1kltagitQcwkA-Swoye2NcTBiLqKUTQfaAMEkhrjDCZKAQtA5B7jTRXgUAQ&s",Bloomberg US
-https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6WmgQx4WREPuRYDFcRnf4Oz468lCbUG4lKboK13mdLMWw3od6-CGztn9O6g&s",Bloomberg Politics
-https://www.bloomberg.com/media-manifest/streams/politics.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="6110" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZS8rzrmFoRuvQby6YSaja-ScGunpB-TRFCbWt4RcbfJaapuk4R6Q4C9MGohY&s",Bloomberg EU
-https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Telemundo.(KVEA).Los.Angeles,.CA.us" tvg-logo="https://www.telemundo51.com/wp-content/themes/nbc-station/static/images/TelemundoLiveTV-Desktop.png",Telemundo Los Angeles CA
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6e2UESRrJK1NtDCXRR0q47jDHN-VB01K_yvVPoG9a7PVi2HcV2H8Po2ecoMA&s",Tustreaming - Tevex Inter
@@ -1096,8 +1107,7 @@ https://v4.tustreaming.cl/tevexinter/index.m3u8
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_oIltQpXICh1WhBl8QAEwcEoMUkjT0DJb9shOLhFV0s7XVsP6R9pB_KKyVQ&s",CloudFront Stream
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cLOvhE4vAfbn064HhmbDax8pU48W-2jZP2ZdTd2P0vG4afZpOFL_BHmTGg&s",Bloomberg Asia
-https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Y7Fa2eUglqqWnMcDRBzIfLYuP7QpPe9qHkoq7zEzmoxxwUPYSdqFTzuYm3s&s",India Today (720p) [Not 24/7]
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="NEWS WORLD",24/7 Canal de Noticias (720p)
