@@ -4,7 +4,35 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml"
 
 
-#EXTM3U
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/bbcnews.png",BBC News
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/cnn.png",CNN International
+https://ls-cnn.warnermediacdn.com/cd/25298135-0230-4927-9092-23c3167b0784/master.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/aljazeera.png",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/skynews.png",Sky News
+https://skynews.akamaized.net/hls/live/2002834/skynews/master.m3u8
+
+#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/france24.png",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_tv.m3u8
+
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/dw.png",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/nhk.png",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-id="EuroNewsEnglish.fr" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/euronews.png",EuroNews English
+https://euronews-euronews-english-1-be.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/abcnews.png",ABC News (USA)
+https://content.uplynk.com/channel/3324f244aab04aab8797a4d1709a3f7c.m3u8
+
+#EXTINF:-1 tvg-id="CNA.sg" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/cna.png",CNA (Channel News Asia)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 
 #EXTINF:-1 channel-id="5a28fbf15c135b51b3638e8bd02d6577" tvg-id="5a28fbf15c135b51b3638e8bd02d6577" tvg-chno="" tvg-name="" tvg-logo="" group-title="NEWS WORLD",Noticias Univision 24/7
