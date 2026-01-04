@@ -601,16 +601,10 @@ https://playlistserver.aws.syncbak.com/playlist/13353644/master.m3u8?access_toke
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="FRBD4100006OC" tvg-logo=https://a57.foxnews.com/static.foxnews.com/static/orion/styles/img/fox-business/og/360/203/og-fox-business.png?ve=1&tl=1",Fox Business
 https://247.foxbusiness.com/hls/live/2003756/FBNHLSv3/master.m3u8
 #EXTINF:-1 tvg-id="FRBD4100006OC" tvg-logo="https://epg.iptvx.one/picons/fox-business-us.png" group-title="NEWS WORLD",Fox Business (HD ready)
-http://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
+http://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Fox.News.us" tvg-name="" tvg-logo="https://a57.foxnews.com/static.foxnews.com/static/orion/styles/img/fox-news/og/360/203/og-fox-news.png?ve=1&tl=1",FOX News
-https://247.foxnews.com/hls/live/2003586/FNCHLSv3/master.m3u8
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",Fox News
-http://cord-cutter.net:8080/k4Svp2/645504/1818#checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="FOXNEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIEc4MyZIWvx3nNPOVwlUwvivpu_VLsknHjgtCwEvUVl4sJKazM0LiHDbNRSE&s",Fox News
-http://cord-cutter.net:8080/live/j3McKd/673709/135794.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Fox.News.us" tvg-logo="https://i.imgur.com/m22eA9B.png" radio="false",Fox News
-https://a1xs.vip/300011
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+
 
 
 
