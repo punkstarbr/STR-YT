@@ -1,5 +1,37 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
+
+
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/rai1.png",Rai 1
+https://rai-livedash.akamaized.net/content/items/contentBundle_re_rai_1/manifest_1.mpd
+
+#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/rai2.png",Rai 2
+https://rai-livedash.akamaized.net/content/items/contentBundle_re_rai_2/manifest_1.mpd
+
+#EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/rai3.png",Rai 3
+https://rai-livedash.akamaized.net/content/items/contentBundle_re_rai_3/manifest_1.mpd
+
+#EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/rete4.png",Rete 4
+https://live3.msf.mediaset.it/content/hls_h0_clr_cpp/live/channel(r4)/index.m3u8
+
+#EXTINF:-1 tvg-id="Canale5.it" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/canale5.png",Canale 5
+https://live3.msf.mediaset.it/content/hls_h0_clr_cpp/live/channel(c5)/index.m3u8
+
+#EXTINF:-1 tvg-id="Italia1.it" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/italia1.png",Italia 1
+https://live3.msf.mediaset.it/content/hls_h0_clr_cpp/live/channel(i1)/index.m3u8
+
+#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/la7.png",LA7
+https://cdn-live.la7.it/hls/live/la7.m3u8
+
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/rainews24.png",Rai News 24
+https://rai-livedash.akamaized.net/content/items/contentBundle_re_rainews24/manifest_1.mpd
+
+#EXTINF:-1 tvg-id="TGCOM24.it" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/tgcom24.png",TGCOM24
+https://live3.msf.mediaset.it/content/hls_h0_clr_cpp/live/channel(kf)/index.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/dmax.png",DMAX
+https://ddit-live.akamaized.net/hls/live/2014022/dmax/master.m3u8
+
 #EXTINF:-1 group-title="Italia" tvg-id="" tvg-logo="https://www.raiplay.it/dl/img/2016/09/1473662801274Logo-Rai3.png",🇮🇹 ●| Rai 3ᴴᴰ
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?wowzasessionid=inspiration
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXVXt3VDY_PsEyHlFke-s5Vm60g4r9YCv62xXDtKkFj8vv1G21AtuCqCPXHyw&s",Telefoggia (480p) [Not 24/7]
