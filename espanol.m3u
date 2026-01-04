@@ -311,37 +311,51 @@ https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200",Musicales: Muzzik ZZ TV Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200",Musicales: Muzzik Sense Serbia
+#EXTINF:-1 group-title="" tvg-id="MuzzikSense.rs" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200",Musicales: Muzzik Sense Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200",Musicales: Muzzik Glazzba Serbia
+
+#EXTINF:-1 group-title="" tvg-id="MuzzikGlazba.rs" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200",Musicales: Muzzik Glazzba Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200",Musicales: Muzzik Flashback Serbia
+
+#EXTINF:-1 group-title="" tvg-id="MuzzikFlashback.rs" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200",Musicales: Muzzik Flashback Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200",Musicales: Muzzik OKK Serbia
+
+#EXTINF:-1 group-title="" tvg-id="MuzzikOKK.rs" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200",Musicales: Muzzik OKK Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="Undefined" tvg-logo="https://pbs.twimg.com/profile_images/825104000341012480/ip1tcW4n_200x200.jpg",Musicales: Spirit TV USA EN
+
+#EXTINF:-1 group-title="" tvg-id="SpiritTV.us" tvg-logo="https://pbs.twimg.com/profile_images/825104000341012480/ip1tcW4n_200x200.jpg",Musicales: Spirit TV USA EN
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 group-title="" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200",Religiosos: EWTN España
+
+#EXTINF:-1 group-title="" tvg-id="EWTNEspana.es" tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200",Religiosos: EWTN España
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200",Religiosos: EWTN España EN
+
+#EXTINF:-1 group-title="" tvg-id="EWTN.us" tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200",Religiosos: EWTN España EN
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/ecclesiacope/picture?width=200&height=200",Religiosos: Ecclesia COPE España
+
+#EXTINF:-1 group-title="" tvg-id="Ecclesia.es" tvg-logo="https://graph.facebook.com/ecclesiacope/picture?width=200&height=200",Religiosos: Ecclesia COPE España
 https://cope-religion-video.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="Undefined" tvg-logo="https://pbs.twimg.com/profile_images/1359486927406321664/WZXLfd2h_200x200.jpg",Religiosos: RTV Vida España
+
+#EXTINF:-1 group-title="" tvg-id="RTVEspana.es" tvg-logo="https://pbs.twimg.com/profile_images/1359486927406321664/WZXLfd2h_200x200.jpg",Religiosos: RTV Vida España
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-#EXTINF:-1 group-title="" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/solidariatv/picture?width=200&height=200",Religiosos: Solidaria TV España
+
+#EXTINF:-1 group-title="" tvg-id="SolidariaTV.es" tvg-logo="https://graph.facebook.com/solidariatv/picture?width=200&height=200",Religiosos: Solidaria TV España
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:-1 group-title="" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/TBNEspana/picture?width=200&height=200",Religiosos: TBN España
+
+#EXTINF:-1 group-title="" tvg-id="TBNEspana.es" tvg-logo="https://graph.facebook.com/TBNEspana/picture?width=200&height=200",Religiosos: TBN España
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
-#EXTINF:-1 group-title="" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/cetelmon.television/picture?width=200&height=200",Religiosos: Cetelmon TV España
+
+#EXTINF:-1 group-title="" tvg-id="CetelmonTV.es" tvg-logo="https://graph.facebook.com/cetelmon.television/picture?width=200&height=200",Religiosos: Cetelmon TV España
 http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
-#EXTINF:-1 group-title="" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200",Religiosos: CBN USA
+
+#EXTINF:-1 group-title="" tvg-id="CBN.us" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200",Religiosos: CBN USA
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200",Religiosos: María Visión Mexico
+
+#EXTINF:-1 group-title="" tvg-id="MariaVision.mx" tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200",Religiosos: María Visión Mexico
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-#EXTINF:-1 group-title="" tvg-id="Undefined" tvg-logo="https://graph.facebook.com/redevida/picture?width=200&height=200",Religiosos: Redevida Brasil PT
+
+#EXTINF:-1 group-title="" tvg-id="RedeVida.br" tvg-logo="https://graph.facebook.com/redevida/picture?width=200&height=200",Religiosos: Redevida Brasil PT
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
