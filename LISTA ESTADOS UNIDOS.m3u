@@ -8,11 +8,11 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml"
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
-
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_all.xml"
 
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz"
-#EXTINF:-1 group-title="USA" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC_EAST" tvg-logo="https://iili.io/JmoUd6g.png",ABC East
+#EXTINF:-1 group-title="USA" tvg-id="ABC.us" tvg-name="ABC_EAST" tvg-logo="https://iili.io/JmoUd6g.png",ABC East
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="CBS.(KRCG).Jefferson,.MO.us" tvg-name="CBS - Jefferson",CBS - Jefferson
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
