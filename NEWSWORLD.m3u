@@ -4,9 +4,6 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml"
 
 
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/dw.png",DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
 
 
 
@@ -211,6 +208,18 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="DWEspanol.de" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/dw.png",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="NEWS WORLD",Deutsche Welle Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="NEWS WORLD",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="DWDEUTSCHPLUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPKKi31T-cpbQpBKDo3Qblf-6Joj8DEtQxjjmoY3d6uD838_ix2Z7PWyXUxzQ&s",DW Español 2
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD",Global News Canada
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
@@ -618,12 +627,7 @@ https://ft.fbcdntv247.cfd/memfs/f03819b3-64bd-4730-ab94-2469c3d30d81_output_0.m3
 http://41.205.93.154:80/MSNBC/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="378819" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIX6OH6VIrM0t-NWWFOC5fxIe2SQr6YKlrJlIv91LJin5WltdNH2rKvEGjcBA&s",CCTV+1
 https://livevideo01.tegnadigital.com/hls/live/2014549/go-live/stream-1.m3u8?DVR
-#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="NEWS WORLD",DW English (1080p)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="NEWS WORLD",Deutsche Welle Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="DWDEUTSCHPLUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPKKi31T-cpbQpBKDo3Qblf-6Joj8DEtQxjjmoY3d6uD838_ix2Z7PWyXUxzQ&s",DW Español 2
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-id="619d59b7cbef25000728221c"  group-title="NEWS WORLD",Euronews Español
 http://clubtv.link/iptv/p13/distro.php?c=euronews-spa&f=.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Euronews" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/euronews.png",Euronews | Union Europea
