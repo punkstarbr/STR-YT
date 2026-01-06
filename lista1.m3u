@@ -27,11 +27,13 @@
 
 
 
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://imgur.com/HhSQN5B.png",Oportunidades TV HD
-http://maistop.net:80/live/free/free/2.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://imgur.com/HhSQN5B.png",Oportunidades TV FHD
-http://maistop.net:80/live/free/free/1.m3u8
+#EXTM3U url-tvg="http://g-epg.com/brazil.xml"
 
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="OportunidadesTV.br" tvg-name="Oportunidades TV" tvg-logo="https://imgur.com/HhSQN5B.png",Oportunidades TV HD
+http://maistop.net:80/live/free/free/2.m3u8
+
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="OportunidadesTV.br" tvg-name="Oportunidades TV" tvg-logo="https://imgur.com/HhSQN5B.png",Oportunidades TV FHD
+http://maistop.net:80/live/free/free/1.m3u8
 
 
 #EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/250px-Rai_3_-_Logo_2016.svg.png",RAI 3
@@ -65,25 +67,27 @@ http://cord-cutter.net:8080/live/j3McKd/673709/160299.m3u8
 http://cord-cutter.net:8080/live/j3McKd/673709/160300.m3u8
 
 
-#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-logo="N/A",ESCUTA FREQUENCIA COORDENAÇÃO HELICOPTEROS - SP
+#EXTM3U
+
+#EXTINF:-1 group-title="ESCUTA AÉREA" tvg-id="AERO.SP" tvg-name="COORD HELICOPTEROS SP" tvg-logo="https://i.imgur.com/vH9XqXW.png",ESCUTA FREQUENCIA COORDENAÇÃO HELICOPTEROS - SP
 https://ssl1.transmissaodigital.com:20101/HELI127.35RCB
 
-#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-logo="N/A",ESCUTA ATIS DE CAMPO DE MARTE
+#EXTINF:-1 group-title="ESCUTA AÉREA" tvg-id="AERO.MARTE" tvg-name="ATIS CAMPO DE MARTE" tvg-logo="https://i.imgur.com/r62z69K.png",ESCUTA ATIS DE CAMPO DE MARTE
 https://ssl1.transmissaodigital.com:20102/127.725ATISMARTERCB
 
-#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-logo="N/A",ESCUTA AÉREA DO SOLO DO CAMPO DE MARTE - 121.6
+#EXTINF:-1 group-title="ESCUTA AÉREA" tvg-id="AERO.MARTE.SOLO" tvg-name="SOLO CAMPO DE MARTE" tvg-logo="https://i.imgur.com/vH9XqXW.png",ESCUTA AÉREA DO SOLO DO CAMPO DE MARTE - 121.6
 https://ssl1.transmissaodigital.com:20104/121.6SOLOMARTERCB
 
-#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-logo="N/A",ESCUTA TORRE DO CAMPO DE MARTE
+#EXTINF:-1 group-title="ESCUTA AÉREA" tvg-id="AERO.MARTE.TORRE" tvg-name="TORRE CAMPO DE MARTE" tvg-logo="https://i.imgur.com/r62z69K.png",ESCUTA TORRE DO CAMPO DE MARTE
 https://ssl1.transmissaodigital.com:20106/TORREMARTE133.35RCBRCB
 
-#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-logo="N/A",ESCUTA AÉREA ATIS AEROPORTO CONGONHAS
+#EXTINF:-1 group-title="ESCUTA AÉREA" tvg-id="AERO.CGH" tvg-name="ATIS CONGONHAS" tvg-logo="https://i.imgur.com/r62z69K.png",ESCUTA AÉREA ATIS AEROPORTO CONGONHAS
 https://ssl1.transmissaodigital.com:20103/127.65ATISCGHRCB
 
-#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-logo="N/A",ESCUTA ATIS AEROPORTO GUARULHOS
+#EXTINF:-1 group-title="ESCUTA AÉREA" tvg-id="AERO.GRU.ATIS" tvg-name="ATIS GUARULHOS" tvg-logo="https://i.imgur.com/r62z69K.png",ESCUTA ATIS AEROPORTO GUARULHOS
 https://ssl1.transmissaodigital.com:20102/127.75ATISGRURCB
 
-#EXTINF:-1 group-title="N/A" tvg-id="N/A" tvg-logo="N/A",ESCUTA TORRE GUARULHOS
+#EXTINF:-1 group-title="ESCUTA AÉREA" tvg-id="AERO.GRU.TORRE" tvg-name="TORRE GUARULHOS" tvg-logo="https://i.imgur.com/vH9XqXW.png",ESCUTA TORRE GUARULHOS
 https://ssl1.transmissaodigital.com:20105/TORREGRU135.2RCBFONIAEXCLUSIVARADIOCOMBRASIL
 
 #EXTINF:-1 group-title="CAMERA AO VIVO",MOSAICO TV ALEMANHA
@@ -263,34 +267,28 @@ https://vod05.msf.cdn.mediaset.net/farmunica/2020/04/584486_1715f06b3bea2f/dashr
 
 
 
-#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-id="N/A" tvg-logo="https://static.portaldacidade.com/unsafe/1280x720/https://s3.amazonaws.com/fozdoiguacu.portaldacidade.com/img/camera/br277-5a5e6199dd931-5b04548e405cd.jpg",BR - 277 - Sentido Ponte da Amizade em Foz do Iguaçu / PR 
+#EXTM3U
+
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-id="CAM.FOZ.BR277" tvg-name="Foz do Iguaçu - BR277" tvg-logo="https://static.portaldacidade.com/unsafe/1280x720/https://s3.amazonaws.com/fozdoiguacu.portaldacidade.com/img/camera/br277-5a5e6199dd931-5b04548e405cd.jpg",BR - 277 - Foz do Iguaçu (Sentido Ponte)
 https://video02.logicahost.com.br/portaldacidade/fozsentidopontedaamizade.stream/chunklist_w781220348.m3u8
-#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-id="N/A" tvg-logo="https://static.portaldacidade.com/unsafe/1280x720/https://s3.amazonaws.com/fozdoiguacu.portaldacidade.com/img/camera/ponte-amizade-5a5e05cf0ee38-5b04561a42b70.jpg",Ponte da Amizade - Sentido Brasil em Foz do Iguaçu / PR 
+
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-id="CAM.FOZ.PONTE.BR" tvg-name="Ponte da Amizade - Brasil" tvg-logo="https://static.portaldacidade.com/unsafe/1280x720/https://s3.amazonaws.com/fozdoiguacu.portaldacidade.com/img/camera/ponte-amizade-5a5e05cf0ee38-5b04561a42b70.jpg",Ponte da Amizade - Foz (Sentido Brasil)
 https://video02.logicahost.com.br/portaldacidade/fozaduanapontedaamizade.stream/chunklist_w1164603525.m3u8
-#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-id="N/A" tvg-logo="https://static.portaldacidade.com/unsafe/1280x720/https://s3.amazonaws.com/fozdoiguacu.portaldacidade.com/img/camera/captura-de-tela-de-2018-10-02-16-13-39-5bb3c37f1c08e.png",Ponte da Amizade - Sentido Paraguai em Foz do Iguaçu / PR 
+
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-id="CAM.FOZ.PONTE.PY" tvg-name="Ponte da Amizade - Paraguai" tvg-logo="https://static.portaldacidade.com/unsafe/1280x720/https://s3.amazonaws.com/fozdoiguacu.portaldacidade.com/img/camera/captura-de-tela-de-2018-10-02-16-13-39-5bb3c37f1c08e.png",Ponte da Amizade - Foz (Sentido Paraguai)
 https://video02.logicahost.com.br/portaldacidade/fozpontedaamizadesentidoparaguai.stream/chunklist_w315346688.m3u8
-#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-id="N/A" tvg-logo="https://static.portaldacidade.com/unsafe/1280x720/https://s3.amazonaws.com/fozdoiguacu.portaldacidade.com/img/camera/captura-de-tela-de-2018-10-02-16-13-05-5bb3c38fd114b.png",BR - 277 - Aduana Ponte da Amizade em Foz do Iguaçu / PR 
-https://video02.logicahost.com.br/portaldacidade/fozaduanapontedaamizade.stream/chunklist_w1164603525.m3u8
 
-
-#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="https://zoevideos.net/public/uploads/thumbnail/live-1034/jamelcecilio-flamboyant.jpeg",GOIÂNIA - AV. Jamel Cecílio
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-id="CAM.GO.JAMEL" tvg-name="Goiânia - Av Jamel Cecílio" tvg-logo="https://zoevideos.net/public/uploads/thumbnail/live-1034/jamelcecilio-flamboyant.jpeg",GOIÂNIA - Av. Jamel Cecílio
 https://hunq9fz8yk.zoeweb.tv/flamboyant/flamboyant.stream/chunklist.m3u8
 
-#EXTINF:-1  group-title="Cameras Ao Vivo" tvg-logo="https://cdn.zoeflix.com.br/storage/cameras/27a8790f-c496-4e66-aec2-6ad5b4f6f9d8.jpg",GOIÂNIA - Morro do Mendanha
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-id="CAM.GO.MENDANHA" tvg-name="Goiânia - Morro do Mendanha" tvg-logo="https://cdn.zoeflix.com.br/storage/cameras/27a8790f-c496-4e66-aec2-6ad5b4f6f9d8.jpg",GOIÂNIA - Morro do Mendanha
 https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://cdn.zoeflix.com.br/storage/cameras/855963b8-222d-4df5-9cc5-1edde67d870f.jpg",GOIÂNIA - AV 85
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-id="CAM.GO.AV85" tvg-name="Goiânia - Av 85" tvg-logo="https://cdn.zoeflix.com.br/storage/cameras/855963b8-222d-4df5-9cc5-1edde67d870f.jpg",GOIÂNIA - Av. 85
 https://hunq9fz8yk.zoeweb.tv/av85/av85.stream/chunklist_w123426081.m3u8
 
-#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://cdn.zoeflix.com.br/storage/cameras/855963b8-222d-4df5-9cc5-1edde67d870f.jpg",GOIÂNIA - AV 85
-https://hunq9fz8yk.zoeweb.tv/av85/av85.stream/chunklist_w1795256914.m3u8
-
-#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://i.imgur.com/7DfRiz6.png",GOIÂNIA -  Rua 9 (Cartório Índio Artiaga), Setor Oeste
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-id="CAM.GO.RUA9" tvg-name="Goiânia - Rua 9 Oeste" tvg-logo="https://i.imgur.com/7DfRiz6.png",GOIÂNIA - Rua 9 (Setor Oeste)
 https://hunq9fz8yk.zoeweb.tv/r9oeste/r9oeste.stream/chunklist_w1793116402.m3u8
-
-
-#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://cdn.zoeflix.com.br/storage/cameras/c77749e7-7661-4f15-afc6-c9e65cf7f769.jpg",GOIÂNIA - RUA 9
-https://5a7d54e35f9d2.streamlock.net/r9oeste/r9oeste.stream/chunklist_w1404527354.m3u8
 
 
 
