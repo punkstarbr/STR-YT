@@ -1,11 +1,12 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz"
 #EXTM3U x-tvg-url="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml"
-#EXTINF:0 group-title="JAPÃO" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",QVC Japan (720p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTINF:0 group-title="JAPÃO" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Red Bull TV (1080p)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+#EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml"
+
+#EXTINF:0 group-title="JAPÃO" tvg-id="QVC_Japan" tvg-name="QVC Japan" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",QVC Japan (720p)
+https://qvc-jp.akamaized.net/hls/live/2017109/qvc_jp/master_1280x720.m3u8
+
+#EXTINF:0 group-title="JAPÃO" tvg-id="Red_Bull_TV" tvg-name="Red Bull TV" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/fl_global/master.m3u8
 
 
 
