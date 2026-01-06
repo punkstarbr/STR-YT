@@ -78,109 +78,36 @@ https://cdn0-03837-liveedge1.dna.contentdelivery.net/03837-liveedge1/smil:03837-
 
 #EXTM3U url-tvg="https://timbiriche.me/epg/usa.xml.gz,https://raw.githubusercontent.com/LITUATUI/Geral/master/EPG/Geral.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_doble_m/master/guia.xml.gz,https://raw.githubusercontent.com/HelmerLous/EPG/main/Guia.xml.gz,https://raw.githubusercontent.com/Tapiosat/EPG/master/guide.xml.gz"
 
-# --- AP DIRETO / LIVE CHOICE 1 ---
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Associated Press" tvg-name="AP Direto",AP Direto
-https://streaming-a-806.cdn.nextologies.com/Ugg7ohj1KOol2v04/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AP_Live" tvg-name="AP Direto",AP Direto
-https://streaming-a-806.cdn.nextologies.com/Ugg7ohj1KOol2v04/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AP_News" tvg-name="AP Direto",AP Direto
-https://streaming-a-806.cdn.nextologies.com/Ugg7ohj1KOol2v04/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AP_Choice_1" tvg-name="AP Direto",AP Direto
-https://streaming-a-806.cdn.nextologies.com/Ugg7ohj1KOol2v04/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AP.News" tvg-name="AP Direto",AP Direto
+#EXTM3U
+
+# --- AP DIRECT ---
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AP_Direct" tvg-name="AP Direct" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Associated_Press_logo_2012.svg/1035px-Associated_Press_logo_2012.svg.png",AP Direct
 https://streaming-a-806.cdn.nextologies.com/Ugg7ohj1KOol2v04/playlist.m3u8
 
+# --- AP LIVE CHOICE 1 ---
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AP_LC_1" tvg-name="AP Live Choice 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Associated_Press_logo_2012.svg/1035px-Associated_Press_logo_2012.svg.png",AP Live Choice 1
+https://streaming-a-806.cdn.nextologies.com/4M2gqURXdsxuPj01/playlist.m3u8
+
 # --- AP LIVE CHOICE 2 ---
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AP Choice 2" tvg-name="AP Live Choice 2",AP Live Choice 2
-https://streaming-a-806.cdn.nextologies.com/SCNek2Fa6TFmNF02/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AP_Choice_2" tvg-name="AP Live Choice 2",AP Live Choice 2
-https://streaming-a-806.cdn.nextologies.com/SCNek2Fa6TFmNF02/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AP_Live_2" tvg-name="AP Live Choice 2",AP Live Choice 2
-https://streaming-a-806.cdn.nextologies.com/SCNek2Fa6TFmNF02/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Associated_Press_2" tvg-name="AP Live Choice 2",AP Live Choice 2
-https://streaming-a-806.cdn.nextologies.com/SCNek2Fa6TFmNF02/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AP.Choice2" tvg-name="AP Live Choice 2",AP Live Choice 2
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AP_LC_2" tvg-name="AP Live Choice 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Associated_Press_logo_2012.svg/1035px-Associated_Press_logo_2012.svg.png",AP Live Choice 2
 https://streaming-a-806.cdn.nextologies.com/SCNek2Fa6TFmNF02/playlist.m3u8
 
 # --- AP LIVE CHOICE 3 ---
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AP Choice 3" tvg-name="AP Live Choice 3",AP Live Choice 3
-https://streaming-a-806.cdn.nextologies.com/eZWEYDN1QYcHsM03/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AP_Choice_3" tvg-name="AP Live Choice 3",AP Live Choice 3
-https://streaming-a-806.cdn.nextologies.com/eZWEYDN1QYcHsM03/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AP_Live_3" tvg-name="AP Live Choice 3",AP Live Choice 3
-https://streaming-a-806.cdn.nextologies.com/eZWEYDN1QYcHsM03/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Associated_Press_3" tvg-name="AP Live Choice 3",AP Live Choice 3
-https://streaming-a-806.cdn.nextologies.com/eZWEYDN1QYcHsM03/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AP.Choice3" tvg-name="AP Live Choice 3",AP Live Choice 3
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AP_LC_3" tvg-name="AP Live Choice 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Associated_Press_logo_2012.svg/1035px-Associated_Press_logo_2012.svg.png",AP Live Choice 3
 https://streaming-a-806.cdn.nextologies.com/eZWEYDN1QYcHsM03/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",Wire - AP Direct (Test) [MASTER]
-https://streaming-a-806.cdn.nextologies.com/Ugg7ohj1KOol2v04/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD",Wire - AP Direct (Test) [2500k CHUNKS]
-https://streaming-a-806.cdn.nextologies.com/Ugg7ohj1KOol2v04/live_LZhmmII6x8GR7I3ig3zQ/AP_FEED_1_2500k/chunks.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD",Wire - AP Direct (Test) [2500k DIR]
-https://streaming-a-806.cdn.nextologies.com/Ugg7ohj1KOol2v04/live_LZhmmII6x8GR7I3ig3zQ/AP_FEED_1_2000k/
-
-
-
-#EXTINF:-1 group-title="NEWS WORLD",Wire - AP LC 1 (Test) [MASTER]
-https://streaming-a-806.cdn.nextologies.com/4M2gqURXdsxuPj01/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD",Wire - AP LC 1 (Test) [2500k CHUNKS]
-https://streaming-a-806.cdn.nextologies.com/4M2gqURXdsxuPj01/live_LZhmmII6x8GR7I3ig3zQ/AP_FEED_2_2500k/chunks.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD",Wire - AP LC 1 (Test) [2500k DIR]
-https://streaming-a-806.cdn.nextologies.com/4M2gqURXdsxuPj01/live_LZhmmII6x8GR7I3ig3zQ/AP_FEED_2_2500k/
-
-
-
-#EXTINF:-1 group-title="NEWS WORLD",Wire - AP LC 2 (Test) [MASTER]
-https://streaming-a-806.cdn.nextologies.com/SCNek2Fa6TFmNF02/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD",Wire - AP LC 2 (Test) [2500k CHUNKS]
-https://streaming-a-806.cdn.nextologies.com/SCNek2Fa6TFmNF02/live_LZhmmII6x8GR7I3ig3zQ/AP_FEED_3_2500k/chunks.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD",Wire - AP LC 2 (Test) [2500k DIR]
-https://streaming-a-806.cdn.nextologies.com/SCNek2Fa6TFmNF02/live_LZhmmII6x8GR7I3ig3zQ/AP_FEED_3_2500k/
-
-
-
-#EXTINF:-1 group-title="NEWS WORLD",Wire - AP LC 3 (Test) [MASTER]
-https://streaming-a-806.cdn.nextologies.com/eZWEYDN1QYcHsM03/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD",Wire - AP LC 3 (Test) [2500k CHUNKS]
-https://streaming-a-806.cdn.nextologies.com/eZWEYDN1QYcHsM03/live_LZhmmII6x8GR7I3ig3zQ/AP_FEED_4_2500k/chunks.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD",Wire - AP LC 3 (Test) [2500k DIR]
-https://streaming-a-806.cdn.nextologies.com/eZWEYDN1QYcHsM03/live_LZhmmII6x8GR7I3ig3zQ/AP_FEED_4_2500k/
-
-
-
-#EXTINF:-1 group-title="NEWS WORLD",Wire - AP LC 4 (Test) [MASTER]
+# --- AP LIVE CHOICE 4 ---
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AP_LC_4" tvg-name="AP Live Choice 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Associated_Press_logo_2012.svg/1035px-Associated_Press_logo_2012.svg.png",AP Live Choice 4
 https://streaming-a-806.cdn.nextologies.com/dd20476021b1fc5dd4fe0e50fabdc2bz/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",Wire - AP LC 4 (Test) [2500k CHUNKS]
-https://streaming-a-806.cdn.nextologies.com/dd20476021b1fc5dd4fe0e50fabdc2bz/live_LZhmmII6x8GR7I3ig3zQ/AP_LC04_2500k/chunks.m3u8
-
-#EXTINF:-1 group-title="NEWS WORLD",Wire - AP LC 4 (Test) [2500k DIR]
-https://streaming-a-806.cdn.nextologies.com/dd20476021b1fc5dd4fe0e50fabdc2bz/live_LZhmmII6x8GR7I3ig3zQ/AP_LC04_2500k/
-
-
-
-#EXTINF:-1 group-title="NEWS WORLD",Wire - AP LC 5 (Test) [MASTER]
+# --- AP LIVE CHOICE 5 ---
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AP_LC_5" tvg-name="AP Live Choice 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Associated_Press_logo_2012.svg/1035px-Associated_Press_logo_2012.svg.png",AP Live Choice 5
 https://streaming-a-806.cdn.nextologies.com/b88e314b3e2b62b5756ba2fc95289f21/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",Wire - AP LC 5 (Test) [2500k CHUNKS]
-https://streaming-a-806.cdn.nextologies.com/b88e314b3e2b62b5756ba2fc95289f21/live_LZhmmII6x8GR7I3ig3zQ/5525b517_AP_LC05_2500k/chunks.m3u8
+# --- AP LIVE CHOICE 6 ---
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AP_LC_6" tvg-name="AP Live Choice 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Associated_Press_logo_2012.svg/1035px-Associated_Press_logo_2012.svg.png",AP Live Choice 6
+https://streaming-a-806.cdn.nextologies.com/38dafadc68316650d32c7e974332e5b8/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",Wire - AP LC 5 (Test) [2500k DIR]
-https://streaming-a-806.cdn.nextologies.com/b88e314b3e2b62b5756ba2fc95289f21/live_LZhmmII6x8GR7I3ig3zQ/5525b517_AP_LC05_2500k/
-
-#EXTM3U
-
-#EXTM3U
 
 #EXTINF:-1 group-title="NEWS WORLD",ABC News (Australia)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
