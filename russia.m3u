@@ -1,0 +1,16 @@
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="pervy" tvg-name="Perviy Kanal HD" tvg-logo="http://epg.it999.ru/img2/983.png" group-title="RUSSIA",Первый HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+#EXTINF:-1 tvg-id="pervy" tvg-name="Perviy Kanal HD" tvg-logo="http://epg.it999.ru/img2/983.png" group-title="RUSSIA",Первый HD (Alt)
+https://s.pokaz.me/kF_YmQ-nL_k4A3uiJ6EGZw/540/1753895997/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia1" tvg-name="Rossiya 1 HD" tvg-logo="http://epg.it999.ru/img2/984.png" group-title="RUSSIA",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia1" tvg-name="Rossiya 1 HD" tvg-logo="http://epg.it999.ru/img2/984.png" group-title="RUSSIA",Россия 1 HD (Alt)
+https://s.pokaz.me/zhk7j0uqDKrpQpDoIutrcw/544/1753896034/index.m3u8
+
+#EXTINF:-1 tvg-id="rossija24" tvg-name="Rossiya 24" tvg-logo="http://epg.it999.ru/img2/1683.png" group-title="RUSSIA",Россия-24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
