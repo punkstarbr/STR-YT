@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz"
-#EXTINF:-1 group-title="ESPANHA" tvg-id="La1.es" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png",La 1 - 3
-http://eja.tv/?f637f17a2fdc60ed45df337e150c36fa.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="La.1.es" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 group-title="ESPANHA" tvg-id="La1.es" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png",La 1 - 2
+http://eja.tv/?f637f17a2fdc60ed45df337e150c36fa.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="ESBC4100001NZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsETSbhajmdIjR_iNhpPq1t2Ij4Kb6w95zwtiJIvUpjMQvHmA2gXZLLT_76g&s",LA 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8?DVR
 #EXTINF:-1 group-title="ESPANHA" tvg-id="ESBC4100002AG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFZH0zaH2ptMUlPvqYKJXPM9_6V-BGeZ-g1ibNkMf6J_P_9YojfCtTIuQikY&s",LA 2
