@@ -57,7 +57,14 @@ http://gjrctv.com:8080/live/josechagas1/8muRH8/1278720.m3u8
 #EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",Mosaico
 http://gjrctv.com:8080/live/josechagas1/8muRH8/1278721.m3u8
 
-
+#EXTINF:-1 group-title="Reality Show's Live",TVI REALITY CAMARA 1 sd
+http://vm4youallsos.securityservice.cyou:8080/AndreNovais25/ascmUEAyUTtDdRC/83164
+#EXTINF:-1 group-title="Reality Show's Live",TVI REALITY CAMARA 2
+http://vm4youallsos.securityservice.cyou:8080/AndreNovais25/ascmUEAyUTtDdRC/83165
+#EXTINF:-1 group-title="Reality Show's Live",TVI REALITY CAMARA 3
+http://vm4youallsos.securityservice.cyou:8080/AndreNovais25/ascmUEAyUTtDdRC/83166
+#EXTINF:-1 group-title="Reality Show's Live",TVI REALITY CAMARA 4
+http://vm4youallsos.securityservice.cyou:8080/AndreNovais25/ascmUEAyUTtDdRC/83167
 
 #EXTINF:-1 group-title="Reality Show's Live" tvg-id="TVI.Reality.HD.pt" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
 https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
