@@ -6,3 +6,13 @@ https://fl1.moveonjoy.com/CA_Los_Angeles_NBC/index.m3u8
 http://restream-live.realiptv.to:8080/live/19742329/27604387/90546.ts
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",KABC-TV ABC 7 (Los Angeles CA)
 https://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8
+#EXTINF:-1 tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/250px-CBS_logo_%282020%29.svg.png", CBS WEST PALM BEACH FL
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
+#EXTINF:-1 tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/250px-NBC_logo_2022_%28vertical%29.svg.png", NBC TAMPA FL
+https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
+#EXTINF:-1 tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/250px-CBS_logo_%282020%29.svg.png", CBS
+http://tkosportz.live:25461/folalawal@/4044225438/10374
+#EXTINF:-1 tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/250px-NBC_logo_2022_%28vertical%29.svg.png", NBC
+http://4.59.210.197:8815/udp/127.0.0.1:6009
+#EXTINF:-1 tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/250px-ABC-2021-LOGO.svg.png", ABC
+http://173.225.32.123/KSFY-2363/index.m3u8
