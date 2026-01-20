@@ -2,6 +2,50 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mx/izzi.mx.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/rs/mts.rs.epg.xml,https://iptv-org.github.io/epg/guides/il/yes.co.il.epg.xml,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="Reality Show's Live",* APOSTARIAS POR MI? *
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597678.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967ee663f622e5734649255/06032a6defef1ade3018c6f7591d5c23?tr=q-80&w=1920" group-title="Reality Show's Live",Villa en vivo
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597679.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967eefc942ecbaf66898723/b4e74320a11c2b2d7b15ff44c115ba98?tr=q-80&w=1920" group-title="Reality Show's Live",Habitación Corazón
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597680.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967ef8826e61e0bc8bb2e01/ad6997175d1757290b94dacc2160c77a?tr=q-80&w=1920" group-title="Reality Show's Live",Habitación Trébol
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597681.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967effd5b1678140785ca80/5873749f08f911c814888d16db439121?tr=q-80&w=1920" group-title="Reality Show's Live",Baños
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597682.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967f09fe557e6c0782706b9/4e3936c97bda29d3d5509bae082ad485?tr=q-80&w=1920" group-title="Reality Show's Live",Cocina
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597683.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967f0f3f25c6ad4a1d9cbd4/493526d0948001373749842dc7011421?tr=q-80&w=1920" group-title="Reality Show's Live",Sala
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597684.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967f1a7ebef4d5efd06875f/e0b88e99f4f71af55b075803370f4f81?tr=q-80&w=1920" group-title="Reality Show's Live",Multicámaras
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597685.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="Reality Show's Live",APM 24/7
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597686.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="Reality Show's Live",APM VILLA EN VIVO
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597687.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="Reality Show's Live",APM BAÑOS
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597689.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="Reality Show's Live",APM COCINA
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597690.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="Reality Show's Live",APM HABITACION CORAZON
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597691.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="Reality Show's Live",APM HABITACION TREBOL
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597692.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="Reality Show's Live",APM SALA
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597693.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Mozaico
