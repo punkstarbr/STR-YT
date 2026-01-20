@@ -2,6 +2,29 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mx/izzi.mx.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/rs/mts.rs.epg.xml,https://iptv-org.github.io/epg/guides/il/yes.co.il.epg.xml,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 
+#EXTINF:-1 tvg-logo="N/A" group-title="Reality Show's Live",196 Univision Los Angeles
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/555458.m3u8
+
+#EXTINF:-1 tvg-logo="N/A" group-title="Reality Show's Live",207 Uninvision LA
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/555462.m3u8
+#EXTINF:-1 tvg-logo="N/A" group-title="Reality Show's Live",206 Unimas LA KFTR-TV
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/555463.m3u8
+
+#EXTINF:-1 tvg-logo="N/A" group-title="Reality Show's Live",Univision KMEX-TV
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/555480.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kmex_los_angeles.png" group-title="Reality Show's Live",Univision 34 KMEX-TV
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/555488.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Reality Show's Live",UNIVISION CHICAGO (WGBO) Local
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/555506.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Reality Show's Live",HD | Univision Chicago (WGBO)
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/555507.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Reality Show's Live",Univision WGBO Chicago HD
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/555502.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="Reality Show's Live",* APOSTARIAS POR MI? *
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597678.m3u8
 
