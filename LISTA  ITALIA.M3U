@@ -18,6 +18,92 @@ http://45.59.149.54:8032/play/s1886
 #EXTINF:-1 tvg-id="RaiWorldPremium.it" tvg-logo="https://tvprofil.com/img/kanali-logo/RAI_World_Premium_IT_logo_v2.png" group-title="Italia",Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 
+#EXTM3U
+
+#EXTINF:-1 group-title="Italia",RAI 1
+https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
+
+#EXTINF:-1 group-title="Italia",RAI 2
+https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
+
+#EXTINF:-1 group-title="Italia",RAI 3
+https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
+#EXTINF:-1 group-title="Italia",RAI 3
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Italia",RAI 3
+https://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 group-title="Italia",RAI 3
+https://list.iptvcat.com/my_list/s/1f22856f68f2fba4a993c47f47c78a64.m3u8
+#EXTINF:-1 group-title="Italia",RAI 3
+https://list.iptvcat.com/my_list/s/a372048a4fb440e752aec141aa02885f.m3u8
+#EXTINF:-1 group-title="Italia",RAI 3
+https://list.iptvcat.com/my_list/s/c7efe17aa0dc8096561967bfb828d4f3.m3u8
+#EXTINF:-1 group-title="Italia",RAI 3
+https://list.iptvcat.com/my_list/s/2d1f14bbb3370d263d8d3f0d9f5128e0.m3u8
+
+#EXTINF:-1 group-title="Italia",Rete 4
+https://tvit.leicaflorianrobert.dev/mediaset/rete-4/stream.m3u8
+#EXTINF:-1 group-title="Italia",Rete 4
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(rete4)/manifest.mpd
+
+#EXTINF:-1 group-title="Italia",Canale 5
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(canale5)/manifest.mpd
+#EXTINF:-1 group-title="Italia",Canale 5
+https://tvit.leicaflorianrobert.dev/mediaset/canale-5/stream.m3u8
+#EXTINF:-1 group-title="Italia",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+
+#EXTINF:-1 group-title="Italia",Italia 1
+https://tvit.leicaflorianrobert.dev/mediaset/italia-1/stream.m3u8
+#EXTINF:-1 group-title="Italia",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+#EXTINF:-1 group-title="Italia",Italia 1
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(italia1)/manifest.mpd
+
+#EXTINF:-1 group-title="Italia",RAI 4K
+https://list.iptvcat.com/my_list/s/fbf04fbd9694eee71b5af9f12e49538d.m3u8
+
+#EXTINF:-1 group-title="Italia",RAI News
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+
+#EXTINF:-1 group-title="Italia",Top Crime
+https://tvit.leicaflorianrobert.dev/mediaset/top-crime/stream.m3u8
+
+#EXTINF:-1 group-title="Italia",Mediaset Extra
+https://tvit.leicaflorianrobert.dev/mediaset/mediaset-extra/stream.m3u8
+
+#EXTINF:-1 group-title="Italia",Focus
+https://tvit.leicaflorianrobert.dev/mediaset/focus/stream.m3u8
+
+#EXTINF:-1 group-title="Italia",Boing
+https://tvit.leicaflorianrobert.dev/mediaset/boing/stream.m3u8
+
+#EXTINF:-1 group-title="Italia",Cartoonito
+https://tvit.leicaflorianrobert.dev/mediaset/cartoonito/stream.m3u8
+
+#EXTINF:-1 group-title="Italia",TV8
+https://tvit.leicaflorianrobert.dev/sky/tv8/stream.m3u8
+
+#EXTINF:-1 group-title="Italia",Cielo
+https://tvit.leicaflorianrobert.dev/sky/cielo/stream.m3u8
+
+#EXTINF:-1 group-title="Italia",DMAX
+https://tvit.leicaflorianrobert.dev/discovery/dmax/stream.m3u8
+
+#EXTINF:-1 group-title="Italia",Nove
+https://tvit.leicaflorianrobert.dev/discovery/nove/stream.m3u8
+
+#EXTINF:-1 group-title="Italia",Euronews Italiano
+https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist/amg00882-euronewsfast-euronewsita-wedotveu/playlist.m3u8
+
+#EXTINF:-1 group-title="Italia",Doctor Who
+https://amg00793-amg00793c17-samsung-it-4577.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhoitaly-samsungit/playlist.m3u8
+
+#EXTINF:-1 group-title="Italia",SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.raiplay.it/dl/img/2016/09/1473662801274Logo-Rai3.png" group-title="Italia",🇮🇹 ●| Rai 3ᴴᴰ
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?wowzasessionid=inspiration/img/kanali-logo/RAI_World_Premium_IT_logo_v2.png" group-title="Internacionales",Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
