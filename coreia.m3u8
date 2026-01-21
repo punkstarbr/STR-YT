@@ -1,3 +1,18 @@
-#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
-https://koryo.tv/hls/1080p/public.m3u8
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV SD" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="🇰🇵 Coreia do Norte",Korean Central Television (KCTV) (576p)
+#EXTVLCOPT:http-referrer=https://kcnawatch.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://streamer.nknews.org/tvdash/stream.mpd
+
+#EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV Main" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/KCTV_logo.svg/200px-KCTV_logo.svg.png" group-title="🇰🇵 Coreia do Norte",KCTV (Korean Central TV)
+https://tv.intchoson.com/kctv/index.m3u8
+
+#EXTINF:-1 tvg-id="Ryongnamsan" tvg-name="Ryongnamsan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ryongnamsan_Television_logo.png/220px-Ryongnamsan_Television_logo.png" group-title="🇰🇵 Coreia do Norte",Ryongnamsan TV (Educação)
+http://122.202.129.136:1935/live/ch4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mansudae" tvg-name="Mansudae TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Mansudae_TV_logo.png" group-title="🇰🇵 Coreia do Norte",Mansudae TV (Fim de Semana)
+rtmp://122.202.129.136:1935/live/ch2
+
+#EXTINF:-1 tvg-id="KCS" tvg-name="KCS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/North_Korean_Sports_TV_logo.png" group-title="🇰🇵 Coreia do Norte",Coreia Esportes (KCS)
+http://122.202.129.136:1935/live/ch3/playlist.m3u8
