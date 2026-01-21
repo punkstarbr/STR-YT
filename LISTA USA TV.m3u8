@@ -1,16 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/acidjesuz/EPGTalk/raw/master/guide.xml"
 
-#Broadcast
-#EXTINF:-1 group-title="Broadcast" tvg-id="KYOUDT2.us",NBC
-https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
-#EXTINF:-1 group-title="Broadcast" tvg-id="KMIZDT1.us",ABC 
-https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
-#EXTINF:-1 group-title="Broadcast" tvg-logo="https://i.imgur.com/bHIK943.png",CBS
-https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
-#EXTINF:-1 group-title="Broadcast" tvg-id="KQFXLD1.us",FOX
-https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
-#EXTINF:-1 group-title="Broadcast" tvg-logo="https://i.imgur.com/Njl2UVf.png", PBS
-https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png" group-title="Broadcast" , ABC USA
 #plugin://plugin.video.tvone/play/23/play.pvr
