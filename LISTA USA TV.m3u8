@@ -75,8 +75,7 @@ http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/71753.m3u8
 #Classic TV
 #EXTINF:-1 tvg-id="Comet.TV.us" tvg-name="Comet TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s97051_h15_ab.png" group-title="Classic TV", Comet TV
 https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:-1 tvg-id="I80.78851.schedulesdirect.org" tvg-name="Cozi" tvg-logo="https://www.cozitv.com/wp-content/themes/cozi/static/images/cozilogo.png" group-title="Classic TV", Cozi
-https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
+
 #EXTINF:-1 tvg-id="I81.89922.schedulesdirect.org" tvg-name="Grit" tvg-logo="https://www.grittv.com/static/media/grit-logo.d95f9d5baad19e7f7c0d.png" group-title="Classic TV", Grit
 #grit.us
 https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
