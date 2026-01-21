@@ -9,8 +9,7 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (WABC)
 http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(KMIZ).Columbia,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (KMIZ)
-https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
+
 #EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(KTVO).Kirskville,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (KTVO)
 https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
 
