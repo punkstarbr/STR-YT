@@ -11,6 +11,8 @@ http://173.225.32.123/KSFY-2363/index.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",KABC-TV ABC 7 (Los Angeles CA)
 https://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8
 
+#EXTINF:-1 group-title="USA" tvg-id="ABC.(KMIZ).Columbia,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (KMIZ)
+https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
 
 ########## BROADCAST – CBS ##########
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/bHIK943.png",CBS West Palm Beach FL
