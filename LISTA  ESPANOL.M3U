@@ -8,23 +8,23 @@ http://eja.tv/?f637f17a2fdc60ed45df337e150c36fa.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8?DVR
 #EXTINF:-1 group-title="ESPANHA" tvg-id="ESBC4100002AG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFZH0zaH2ptMUlPvqYKJXPM9_6V-BGeZ-g1ibNkMf6J_P_9YojfCtTIuQikY&s",LA 2
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main.m3u8?DVR
-#EXTINF:-1 group-title="ESPANHA" tvg-id="Cuatro.es",CUATRO
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Cuatro.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_8foFlL0_SZ6UMVaPNBqyD48jpYoBjj9ctJRxOmYI6520o7TxZn-KnObgEQ&s",CUATRO
 http://176.65.146.237:8401/play/a09s/index.m3u8
-#EXTINF:-1 group-title="ESPANHA" tvg-id="Cuatro.es",CUATRO
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Cuatro.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_8foFlL0_SZ6UMVaPNBqyD48jpYoBjj9ctJRxOmYI6520o7TxZn-KnObgEQ&s",CUATRO
 https://gitlab.com/movrey/movrel/-/raw/main/cuatro.m3u8
-#EXTINF:-1 group-title="ESPANHA" tvg-id="Cuatro.es",CUATRO
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Cuatro.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_8foFlL0_SZ6UMVaPNBqyD48jpYoBjj9ctJRxOmYI6520o7TxZn-KnObgEQ&s",CUATRO
 https://gitlab.com/movrey/movrel/-/raw/main/cuatro.m3u8
-#EXTINF:-1 group-title="ESPANHA" tvg-id="Telecinco.es",TELECINCO
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Telecinco.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZL9zni39_SylHZiK9yZyIjB8TnxdghkYhwaigEfcK-qD1knGKKcYaclzIkSc&s",TELECINCO
 https://gitlab.com/movrey/movrel/-/raw/main/telecinco.m3u8
-#EXTINF:-1 group-title="ESPANHA" tvg-id="Telecinco.es",TELECINCO
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Telecinco.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZL9zni39_SylHZiK9yZyIjB8TnxdghkYhwaigEfcK-qD1knGKKcYaclzIkSc&s",TELECINCO
 https://gitlab.com/movrey/movrel/-/raw/main/telecinco.m3u8
-#EXTINF:-1 group-title="ESPANHA" tvg-id="Telecinco.es",TELECINCO
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Telecinco.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZL9zni39_SylHZiK9yZyIjB8TnxdghkYhwaigEfcK-qD1knGKKcYaclzIkSc&s",TELECINCO
 http://176.65.146.237:8401/play/a09r/index.m3u8
-#EXTINF:-1 group-title="ESPANHA" tvg-id="lasexta.es",LA SEXTA
+#EXTINF:-1 group-title="ESPANHA" tvg-id="lasexta.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWe04Qa4u0YXQgeqqb1J5LrRi0DRHOpf7CL_XL2hmuFVFMSDItIZqFqG2wuYw&s",LA SEXTA
 http://176.65.146.237:8401/play/a0af/index.m3u8
-#EXTINF:-1 group-title="ESPANHA" tvg-id="lasexta.es",LA SEXTA
+#EXTINF:-1 group-title="ESPANHA" tvg-id="lasexta.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWe04Qa4u0YXQgeqqb1J5LrRi0DRHOpf7CL_XL2hmuFVFMSDItIZqFqG2wuYw&s",LA SEXTA
 https://gitlab.com/movrey/movrel/-/raw/main/sexta.m3u8
-#EXTINF:-1 group-title="ESPANHA" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg",Alcarria TV
+#EXTINF:-1 group-title="ESPANHA" tvg-id="Undefined" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg",Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 
 #EXTINF:-1 group-title="ESPANHA" tvg-id="CanalMalaga.es" tvg-logo="https://i.imgur.com/BXmmroM.jpg",Canal Málaga
