@@ -11,8 +11,7 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png", group-title="Broadcast", NBC USA
 #plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://cord-cutter.net:8080/live/95549031/69361122/120749.m3u8
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="I44.1.30617.zap2it.com" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/500px-The_CW_2024.svg.png", group-title="Broadcast", CW USA
-https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+
 
 #EXTINF:-1 tvg-id="I10.1.32470.schedulesdirect.org" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png" group-title="Broadcast" , ABC Albany
 http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/71302.m3u8
