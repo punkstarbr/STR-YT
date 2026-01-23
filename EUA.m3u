@@ -57,7 +57,8 @@ https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
 ########## BROADCAST – CW ##########
 #EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",KTLA-TV CW 5 (Los Angeles CA)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/90546.ts
-
+#EXTINF:-1 tvg-id="I44.1.30617.zap2it.com" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/500px-The_CW_2024.svg.png", group-title="USA", CW USA
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 
 ########## CLASSIC TV ##########
 #EXTINF:-1 group-title="USA" tvg-id="I80.78851.schedulesdirect.org" tvg-name="Cozi" tvg-logo="https://www.cozitv.com/wp-content/themes/cozi/static/images/cozilogo.png",Cozi
