@@ -11,13 +11,14 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="NEWS WORLD" tvg-name="+24",+24
+https://ztnr.rtve.es/ztnr/6108720.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="NEWS WORLD" tvg-name="+24",+24
 https://ztnr.rtve.es/ztnr/6108696.m3u8
 #EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="NEWS WORLD" tvg-name="+24",+24
 https://ztnr.rtve.es/ztnr/6108703.m3u8
 #EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="NEWS WORLD" tvg-name="+24",+24
 https://ztnr.rtve.es/ztnr/6108704.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="NEWS WORLD" tvg-name="+24",+24
-https://ztnr.rtve.es/ztnr/6108720.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD",RTVE 24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Undefined" tvg-logo="https://img2.rtve.es/resources/thumbslive/1938069.jpg",Eventuales: +24 - 3
