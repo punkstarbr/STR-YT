@@ -52,6 +52,17 @@ https://rtvelivestream.akamaized.net/rtvesec/can/24h_can_main_dvr.m3u8
 #EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="NEWS WORLD",Canal 24 Horas Catalunya (720p)
 https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="NEWS WORLD" tvg-name="TVG Eventos",TVG Eventos
+https://events1-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="NEWS WORLD" tvg-name="TVG Eventos",TVG Eventos
+https://events2-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="NEWS WORLD" tvg-name="TVG Eventos",TVG Eventos
+https://events3-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="NEWS WORLD" tvg-name="TVG Eventos",TVG Eventos
+https://events4-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="NEWS WORLD" tvg-name="TVG Eventos",TVG Eventos
+https://events5-crtvg.flumotion.com/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Noticias_Univision_24_7" tvg-name="Noticias Univision 24/7" tvg-logo="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Roku/_logos/noticias-univision-24-7-roku.png" group-title="NEWS WORLD",Noticias Univision 24/7
 https://aka-live1050.delivery.roku.com/10d99635-efe0-4a99-ab00-54cbc2d95cf6/t2-origin/out/v1/live.m3u8
 
