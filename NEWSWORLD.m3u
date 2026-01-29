@@ -10,6 +10,46 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="NEWS WORLD" tvg-name="+24",+24
+https://ztnr.rtve.es/ztnr/6108696.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="NEWS WORLD" tvg-name="+24",+24
+https://ztnr.rtve.es/ztnr/6108703.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="NEWS WORLD" tvg-name="+24",+24
+https://ztnr.rtve.es/ztnr/6108704.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD",RTVE 24h
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Undefined" tvg-logo="https://img2.rtve.es/resources/thumbslive/1938069.jpg",Eventuales: +24 - 3
+https://rtvelivestream.akamaized.net/rtvesec/oca/irtve03_main_1080.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Undefined" tvg-logo="https://img2.rtve.es/resources/thumbslive/1938070.jpg",Eventuales: +24 - 4
+https://rtvelivestream.akamaized.net/rtvesec/oca/irtve04_main_1080.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Undefined" tvg-logo="https://img2.rtve.es/resources/thumbslive/1938070.jpg",Eventuales: +24 - 5
+https://rtvehlslivestream.akamaized.net/hls/live/2041587/IRTVE04_AKA_HLS_GL0/master.m3u8
+#EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="USAJ4300005PJ" tvg-logo="https://i.imgur.com/43oHsHL.png",Yahoo! Finance (1080p)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="RTVE +24 (1)" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="NEWS WORLD",Eventuales: +24 (Sinal 1)
+https://rtvehlslivestream.akamaized.net/hls/live/2041585/IRTVE02_AKA_HLS_GL0/master.m3u8
+
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="RTVE +24 (2)" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="NEWS WORLD",Eventuales: +24 (Sinal 2)
+https://rtvehlslivestream.akamaized.net/hls/live/2041586/IRTVE03_AKA_HLS_GL0/master.m3u8
+
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="RTVE +24 (3)" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="NEWS WORLD",Eventuales: +24 (Sinal 3)
+https://rtvehlslivestream.akamaized.net/hls/live/2041587/IRTVE04_AKA_HLS_GL0/master.m3u8
+
+#EXTINF:-1 tvg-id="La3.es" tvg-name="RTVE Eventos 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQknCQdNeXtcIED5-9zmKlXixHzzZohr9cKRF8q5UXN6aWLRJgfZe6qFQkmESI&s" group-title="NEWS WORLD",Eventuales: RTVE - 3
+https://rtvehlslivestream.akamaized.net/hls/live/2041619/IRTVE19_AKA_HLS_GL1/master.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="W14DKD2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",W14DK-D 14.2 NEWSNET
+https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png",Eventuales: +24
+https://rtvehlslivestream.akamaized.net/hls/live/2041586/IRTVE03_AKA_HLS_GL0/master.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/lPyJhBN.png",UN Web TV 2
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png",Eventuales: +24
+https://rtvehlslivestream.akamaized.net/hls/live/2041587/IRTVE04_AKA_HLS_GL0/master.m3u8
+#EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="NEWS WORLD",Canal 24 Horas Canarias (720p)
+https://rtvelivestream.akamaized.net/rtvesec/can/24h_can_main_dvr.m3u8
+#EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="NEWS WORLD",Canal 24 Horas Catalunya (720p)
+https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Noticias_Univision_24_7" tvg-name="Noticias Univision 24/7" tvg-logo="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Roku/_logos/noticias-univision-24-7-roku.png" group-title="NEWS WORLD",Noticias Univision 24/7
 https://aka-live1050.delivery.roku.com/10d99635-efe0-4a99-ab00-54cbc2d95cf6/t2-origin/out/v1/live.m3u8
@@ -202,8 +242,7 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD",RT en Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",RTVE 24h
-https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+
 
 #EXTINF:-1 group-title="NEWS WORLD",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
@@ -901,33 +940,7 @@ https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png",ARB 24 (1080p)
 http://85.132.81.184:8080/arb/live/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Undefined" tvg-logo="https://img2.rtve.es/resources/thumbslive/1938069.jpg",Eventuales: +24 - 3
-https://rtvelivestream.akamaized.net/rtvesec/oca/irtve03_main_1080.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Undefined" tvg-logo="https://img2.rtve.es/resources/thumbslive/1938070.jpg",Eventuales: +24 - 4
-https://rtvelivestream.akamaized.net/rtvesec/oca/irtve04_main_1080.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Undefined" tvg-logo="https://img2.rtve.es/resources/thumbslive/1938070.jpg",Eventuales: +24 - 5
-https://rtvehlslivestream.akamaized.net/hls/live/2041587/IRTVE04_AKA_HLS_GL0/master.m3u8
-#EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="USAJ4300005PJ" tvg-logo="https://i.imgur.com/43oHsHL.png",Yahoo! Finance (1080p)
-https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="RTVE +24 (1)" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="NEWS WORLD",Eventuales: +24 (Sinal 1)
-https://rtvehlslivestream.akamaized.net/hls/live/2041585/IRTVE02_AKA_HLS_GL0/master.m3u8
 
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="RTVE +24 (2)" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="NEWS WORLD",Eventuales: +24 (Sinal 2)
-https://rtvehlslivestream.akamaized.net/hls/live/2041586/IRTVE03_AKA_HLS_GL0/master.m3u8
-
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="RTVE +24 (3)" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="NEWS WORLD",Eventuales: +24 (Sinal 3)
-https://rtvehlslivestream.akamaized.net/hls/live/2041587/IRTVE04_AKA_HLS_GL0/master.m3u8
-
-#EXTINF:-1 tvg-id="La3.es" tvg-name="RTVE Eventos 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQknCQdNeXtcIED5-9zmKlXixHzzZohr9cKRF8q5UXN6aWLRJgfZe6qFQkmESI&s" group-title="NEWS WORLD",Eventuales: RTVE - 3
-https://rtvehlslivestream.akamaized.net/hls/live/2041619/IRTVE19_AKA_HLS_GL1/master.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="W14DKD2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",W14DK-D 14.2 NEWSNET
-https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png",Eventuales: +24
-https://rtvehlslivestream.akamaized.net/hls/live/2041586/IRTVE03_AKA_HLS_GL0/master.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/lPyJhBN.png",UN Web TV 2
-https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png",Eventuales: +24
-https://rtvehlslivestream.akamaized.net/hls/live/2041587/IRTVE04_AKA_HLS_GL0/master.m3u8
 #EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="RBKTV.ru" tvg-logo="https://i.imgur.com/CwhmJby.png",РБК (560p)
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIbfM4Bv_G96pIjvIJxDZ4i4kc6y-IafQzBRKxTkhfxfQCdRALicR-GA0r-Q&s",Al Jazeera Mubasher (1080p)
@@ -1330,10 +1343,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BurkinaInfoTV.bf" tvg-logo="https://i.imgur.com/a9v5CbU.png" group-title="NEWS WORLD",Burkina Info TV (540p)
 http://69.64.57.208/burkinainfo/index.m3u8
-#EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="NEWS WORLD",Canal 24 Horas Canarias (720p)
-https://rtvelivestream.akamaized.net/rtvesec/can/24h_can_main_dvr.m3u8
-#EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="NEWS WORLD",Canal 24 Horas Catalunya (720p)
-https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8
+
 #EXTINF:-1 tvg-id="BFMLyon.fr" tvg-logo="https://i.imgur.com/0uiiZRo.png" group-title="NEWS WORLD",BFM Lyon (576p)
 https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-id="CanTV.tr" tvg-logo="https://i.imgur.com/oIMtuwB.png" group-title="NEWS WORLD",Can TV (720p)
