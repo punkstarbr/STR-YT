@@ -8,6 +8,8 @@ http://eja.tv/?f637f17a2fdc60ed45df337e150c36fa.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8?DVR
 #EXTINF:-1 group-title="ESPANHA" tvg-id="ESBC4100002AG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFZH0zaH2ptMUlPvqYKJXPM9_6V-BGeZ-g1ibNkMf6J_P_9YojfCtTIuQikY&s",LA 2
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main.m3u8?DVR
+#EXTINF:-1 group-title="ESPANHA" tvg-id="ESBC4100002AG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFZH0zaH2ptMUlPvqYKJXPM9_6V-BGeZ-g1ibNkMf6J_P_9YojfCtTIuQikY&s",LA 2
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Cuatro.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_8foFlL0_SZ6UMVaPNBqyD48jpYoBjj9ctJRxOmYI6520o7TxZn-KnObgEQ&s",CUATRO
 http://176.65.146.237:8401/play/a09s/index.m3u8
 #EXTINF:-1 group-title="ESPANHA" tvg-id="Cuatro.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_8foFlL0_SZ6UMVaPNBqyD48jpYoBjj9ctJRxOmYI6520o7TxZn-KnObgEQ&s",CUATRO
