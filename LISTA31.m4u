@@ -739,6 +739,8 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 https://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoI_x4V25aomija2HgQL56Gxvs_N_rGVcoAWLKPX-m_ZQf9BKJcRL-82Xc9vk&s",France 24 Français
 https://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
+#EXTINF:-1 group-title="NEWS EUROPE" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCTnHVde-KMkf7tXsMUELQtZjSnJFE0Tb6QKYuq3Gtpgr6_7yeYdsuqNLo2z8&s",France 24 Français (1080p)
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 group-title="AR" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRniy-qLThlH3DgFqVQ2hQfBRdgxNyXRFSccIK8XwazIjFo9vowxhkwhEM3O1w&s",FM Metropolitana 100.5 MHZ
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CL" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnIRHhr9ujQJSjWcJVNVgDRmu4e8hxnaAf9ZXnsoM6-MEM6nrvH0Qo0IN06w&s",Girovisual TV
@@ -956,8 +958,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS LATAM" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV78jm2fTop7vf5bSYRMBLcN9HpkCI4gWmGeoVNNAc8277eaX7apDcP7rzaS0&s",Estrella News (1080p)
 https://estrellanews-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS EUROPE" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCTnHVde-KMkf7tXsMUELQtZjSnJFE0Tb6QKYuq3Gtpgr6_7yeYdsuqNLo2z8&s",France 24 Français (1080p)
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+
 
 #EXTINF:-1 group-title="NEWS EUROPE" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLXbF4jREVY3t5JsDe-c3SB1u4ogr4ieAP1yHUc_G0X5uwSURZx91pLTEpMgo&s",ERT News (720p) [Geo-blocked]
 http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
