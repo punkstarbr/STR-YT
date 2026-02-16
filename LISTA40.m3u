@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYP6QpmDLNjKg0GF58wBDHcGOVXjdHDUJfhDyaHKKJ_8TW_eO0BAb4FViuwMQ&s",PinguinoTV | CL
 http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShLktLUH00ZpMwkzI_BPfmE0i2OftQab6XgDi8LdXx-KCwpxNswQeXYKyszg&s",Nuevo Tiempo | BR
@@ -14,22 +13,14 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3
 http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-o5m7Qi5ZPSL9xHEvPLIy31fJWul718HB509cWO83fo1EoFPcRApI6cMVazc&s",Nova Era TV³ (Lages-SC)
 http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w973096972.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi28SxLtwNFD7k8t_3CEetAoECVdkQ3FPyOJZs4mPnO5_zR1E6ViQnfQmfgmA&s",Power | AR
-https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn6eUoF6dvLgxAFmOnZojub_50j8evnMM5F-SDs83__-Dl3CL4zMaR2wXGTMQ&s",plus_tv_suceava
-http://85.186.146.34:8080
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG7Edo2NUpA5-UuDuV2-gTAPQsvDL6NhKYG6TqfefbC3SXCy5ECcviXBJkp-c&s",NRG 91 TV
 http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUVWX5lWaTwS6ciYXq4YjsGsFFAbf3PBx5bkchKg3I45E0b3_DLeThDaDb&s",Nove3Cinco
 http://centova.radios.pt:9522/;
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiXJ1R4Y--Orb2JBvD6nVGB0F95Fcw7KUJTCX1RYzyO4e54BCMNlS3XT6ntw&s",Pequeradio TV | ES
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiXJ1R4Y--Orb2JBvD6nVGB0F95Fcw7KUJTCX1RYzyO4e54BCMNlS3XT6ntw&s",PequeRadio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7I2dDkceeCZvwoF0o3v9fsWk79SX6FTB95WyDRFfYLiUye_UA3oF2wdntAw&s",Odeceixe
 https://video-auth1.iol.pt/beachcam/bcodeceixe/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf382DDNhFua0WNrPJ2wBge6wNAGAUoVfJQwtBYpvu0xBDGyPZgr8TaTSl5g&s",Paço de Arcos
-https://video-auth1.iol.pt/beachcam/parcos/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTinrunVVD-tila5pt00ubi0_hc6chR0nOXoeGWO5vl6A5RtbKJ2WSXu3f1bQw&s",Praia Canide Norte - Sul
 https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKY4trvVZHWs6pOcjlwOnuADJ219QRomREpLpL1zaHj7HkFGLGixMv-TguRw&s",Praia da Barra
@@ -62,8 +53,6 @@ https://video-auth1.iol.pt/beachcam/bcmeco/playlist.m3u8
 http://91.187.93.115:8000/;stream/1
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYu_N3kK6O1STudQxbbvI8RZEw_IfT_rf_mLdlskSav6bKfuXLKwbtQ2-2rDg&s",Primer TV (São José-SC)
 http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMBktiBG_-dw3uB_yNobTcNuRs5p_dHz0b6vhlOSyyRX2EyFseLYXcJ58LRPw&s",Praia do Peneco
-https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJq-8Vhn6At-F7siboDN_w-nm_zJvR58KPL0380PqL-zaeDJGJ-pKbRDpSrg&s",Praia Grande - Sul
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFfhDdoplIgGXLbIJ5AqI6hozieJd0-MQ3lDH41pu2kU8r4BeH1DFvugz4rk8&s",Praia Sesimbra
@@ -154,8 +143,6 @@ http://204.199.3.2/.m3u8?PlaylistM3UCL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS7O7YFoJInnHzi7N6FH7wYlWZ0Fe6gPwhodWsTjMosN9438H5ChngpYVeMA&s",Redbull tv
 https://rbmn-live.akamaized.net:443/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ42cyTlL3Df0Kb92Telzmc5lM7z5knaUsCPXtZiFwGQEgEXK4Ozbwdje-Uy6I&s",Restauracion TV Houston | US
-https://2-fss-2.themediacdn.com/pl_138/amlst:200836-1357134/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgonHShl7UpCQd__e57cUu5yEg8-x7Ixm1rTMzuLro98qikZr7lGiW8Ywtqg&s",Radio Vida Curico | CL
 https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkvtf_pDO2RXYbBFcw5rXpNrOszlZY9QlYBPJmbB6B6qcotGP_vgs5ixNgvA&s",Radio TV Neuquen (720p) [Not 24/7]
@@ -206,26 +193,12 @@ https://video-auth1.iol.pt/beachcam/bcpraiaazul/playlist.m3u8
 https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREVv0M3JMGNsN_bYpNdfmar7PtRnz3_uNUVJEQdZ-pG2aLrt_b6obZKpINvjo&s",Senhora da Rocha e Praia Nova
 https://video-auth1.iol.pt/beachcam/bcigreja/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2g40WIl1okfiudKdgTERsQsHq561KqlRhFnexcs3G0HQYYuZOVkTwu2vhw&s",sportsnet 2 usa hd
-http://rogerslive-i.akamaihd.net/hls/live/202799/event/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2g40WIl1okfiudKdgTERsQsHq561KqlRhFnexcs3G0HQYYuZOVkTwu2vhw&s",sportsnet 4 usa hd
-http://rogerslive-i.akamaihd.net/hls/live/202801/event/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPu9in8KkVy5c1hhfjVlRpAJMreSasKPybYkwPDW4ctIg3iyG5STzoC7Ptcw&s",Soy Plancha TV | CR
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3WZuNgyPE_zqqUwsvmRhdo7Z0Om-jh12mU8-1tMR1heOp7T6GG0V5jfXA&s",Soberania Radio | CL
 https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFmKqVju0KTJUCmRcRVfuklYKwJbiOMxiTEM53hZdA_-223-pKko0-J33qhw&s",Shop Channel HD (Japão)
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbuhaaeSjEckw3SWuKDYoE7sKM85Q6EJRhtBmuQG7WINz_ypk80PjqwvEiw6s&s",Tarragona Ràdio
 http://streaming.enantena.com:8000/tarragona128.mp3
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Yp991_I8l4vA5aiCQ1nhUarpbN6lhB9hn0o8EBh1g4I1qp-WE6SohRsDpw&s",sportsnet 1 usa hd
-http://rogerslive-i.akamaihd.net/hls/live/202803/event/index.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2g40WIl1okfiudKdgTERsQsHq561KqlRhFnexcs3G0HQYYuZOVkTwu2vhw&s",sportsnet 3 usa hd
-http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi28SxLtwNFD7k8t_3CEetAoECVdkQ3FPyOJZs4mPnO5_zR1E6ViQnfQmfgmA&s",TeleNord | AR
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvcwPjwAEnXlJiHpvo_gousvu_jWG9NLZ9CpmaQQG5kjCnFEEhZkIsXtqhITU&s",Stadium HD (ENG)
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdPlMzsiQMDaupitSisZACpBysTp7b32zJaYmmebVPJo97_zZStxwal1LVr1g&s",Teleangol Radio | CL
 http://unlimited1-cl-isp.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEQPOf_bLW14O1eK2OYLGI78gw1RK-7XKPWA6ABnGVfch9hQR8PnzBeUmBIw&s",Tele Familia | CO
@@ -244,8 +217,6 @@ https://v2.tustreaming.cl/tnetv/index.m3u8?PlaylistM3UCL
 https://video-auth1.iol.pt/beachcam/bctroia/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA4b32v0sRURPF0dptNhJ82-X3NhGwkipKKmlfRofHg9FphAb39Aw7dZ4R5w&s",Turcomenistão Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_84Mq-lRrnoZGZDbdcLMof2sq_a9oRBOHZ8XH2u78L1t91EIZDBVTnTVevQ&s",Trece
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA4b32v0sRURPF0dptNhJ82-X3NhGwkipKKmlfRofHg9FphAb39Aw7dZ4R5w&s",Turcomenistão Sport
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA4b32v0sRURPF0dptNhJ82-X3NhGwkipKKmlfRofHg9FphAb39Aw7dZ4R5w&s",Turcomenistão Sport
@@ -258,14 +229,8 @@ https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
 https://www.dailymotion.com/video/x82pp99
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_7d8hDlOVWL6aJXd3XGz7DpsTNnynT4Otwkh36WnuIXj9GK4nDRFNBevtvw&s",TV Câmara Canal 1¹ (DF)
 http://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKq6l1wn6-s0ZJCzrGcAbjbRF98EWkGgJatI_RsEHMYLw-4mkYC7GrcKerskw&s",TV Novo Tempo HD (Jacareí-SP)
-http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKq6l1wn6-s0ZJCzrGcAbjbRF98EWkGgJatI_RsEHMYLw-4mkYC7GrcKerskw&s",TV Novo Tempo HD (Jacareí-SP)
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG68UPjx2UWhbKc8pUK2w5aH2jJYXhP9WG_zxthFYPyU5fs1wsolU4UFufpXs&s",TV Grande Natal HDTV * | BR
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHldmMdAUBI6zAIfSFIxeXDBirS_Ub0uNtJWf5JTecPiC_aqXCT6u597xX6FE&s",TV Peñol | CO
-https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrITHKq1Mn2k3dQy4qQsaZJymfcOAMrM8NZWTiHFyXN5nqaw7QmHy_4oGieQ&s",Red Fueguina Radio | CL
 https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ7_rBRAS0lQa1i20EITW8e3JHOKmvflKV2CHoFA4utN4hVh3safPQesyL1FM&s",TV Sertão¹ (Quixeramobim-CE)
@@ -286,8 +251,6 @@ http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist_w1373785554.m3u8
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99zuRgarbFK_1ulFFIuK6ZkaLdY8UU7qFhrsjHk8yhqstOLey-pzdGZvAkB0&s",TV Senado | CL
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSu5OeZ1gI8AW7MxeeD6WCXFjP7VugTxp4aJ4C0eOHtZtfjl37gzDMk2UL_Q&s",TV UCT | CL
-https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlcpTyENFCkNIv9QtFAjirI6O2cgOfIq1p7rkcVN5XjwNWNnYsN6Jz78UfRw&s",TV4 Noticias | MX
 https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl9kNpc-eVMVrxQ1lk2S7t018P8Yt1NwxIFtig_T3e-PLfl4NxKeibdcDbkg&s",TVE | BR
@@ -304,26 +267,18 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8?PlaylistM3UCL
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3CsH00hwWVH8k6d7vywD1olGbveUukGa9PMAx63C4lg5FT2JqIbfvXAEsYQ&s",TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRmASaybvuKnpoXznW5gWvnG8udqR8Rv3tz7UYW3csESfbhqqf7VGRTuoSWg&s",TVM
-http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYP6QpmDLNjKg0GF58wBDHcGOVXjdHDUJfhDyaHKKJ_8TW_eO0BAb4FViuwMQ&s",T-Vinet | CL
 https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj0qIVEsmEni8fMZP1oBn0_l6c_ohd1vIYXzcYHHBKLP0uBR55WGsuV-wLRQ&s",TVP Culiacan | MX
 https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrjBd-UtxE_DP9ej7ibO-NYHy3RC5IAe7b7Cr5dNXjur2jax_OgDMN0aODw8&s",TVM Internacional
-http://196.28.226.121:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoYVHQdzSQLUCfbEnqlVYtZ7ZWZ5-DGuqFOdiJGZw2i5iOcN-Hqg0_KtJRog&s",TVP Los Mochis | MX
 https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS10SMGkjuoFXzHjdTWqCy2rfRDH5H1aIdmItX_7HFE3xchXTG1KZT2Dwfkefk&s",TVP Mazatlan | MX
 https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTI5bfoEAYgV3AVHojJK1RJ1XaLJAuwE2tQoj0Kn2zPH-_1b8xz9KaMD1mFg&s",TVP Obregon | MX
 https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThPpn8qtnabHWDeodBianCSe2KCOCf59Kg8msp2jfWWWLWzKnjHAqy2eTc3A&s",U Los Lagos | CL
-http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYP6QpmDLNjKg0GF58wBDHcGOVXjdHDUJfhDyaHKKJ_8TW_eO0BAb4FViuwMQ&s",UesTV | CL
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYP6QpmDLNjKg0GF58wBDHcGOVXjdHDUJfhDyaHKKJ_8TW_eO0BAb4FViuwMQ&s",Ufrovision | CL
-https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3hb_znJtRTfyzzS9k9W9RLdvNdbRJ9wBP-qfxTWlyRz10KYFbpRAZPhhUyw4&s",TVU | CL
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtz4sNhVd2mXf6B8gGueSPdQx6KiN6Iipk_MqKYH1HkIU6RdsRBAwHxmSgXw&s",TVR | CL
@@ -332,8 +287,6 @@ https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYP6QpmDLNjKg0GF58wBDHcGOVXjdHDUJfhDyaHKKJ_8TW_eO0BAb4FViuwMQ&s",UCV | CL
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdiNw4kLSOQSvVD_XJjiHILsgcEp_b6Aig2aW4DA0gNlqusE-MOcX6pHtu5q0&s",tvm moçambique internacional
-http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Mlbx9QF4YBnQ--5v015JH3w3Asx4x_X9Om_6jj709HlzuhPVcd2eydtsAg&s",UMAG TV | CL
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMlKwC_X3jWPTu9CCnf67nVF1W3ZFwa4w3mWgcOFbMwFG2XhaYNqXp40XOGnA&s",Vida Television | US
@@ -356,12 +309,8 @@ https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?Play
 https://video-auth1.iol.pt/beachcam/bcfarol/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTaL6Ft2_h-aPstniQZq32MLK7JExfiKXPgZKoP38lVC0H1Ha1W0ROGUFitkU&s",Vilamoura
 https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPkRfSLHQHt_z7ERCYhn_KWfaJHBKt6-6mTLH4674VKh8TE6jsy7WLwxeItYw&s",Zambujeira do Mar
-https://video-auth1.iol.pt/beachcam/zambujeira/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvgTzLZLy2gF6QUFH0XjrUadT_v9SIgSoVnNbA63HiK7JyxfJiaC35u_rFbw&s",Pluto TV MTV (Germany) (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5caf325764025859afdd6c4d&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=2&terminate=false&userId=
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFBFBzMb51e5lpfIz4AK4M2HU9fyfZAe8U97u5fNpYzOZiXrnkxQVCNUkPY9o&s",ZOOMOO (720p)
-http://168.205.87.198:8555/live/1499/123456/162.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGl7SeV0jxqmHPc8IPBqseKu1qbwz-Mrag4dcNEAsykwx-zDzbPWYilGdlyWo&s",VTV | CL
 https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUT5sQ7mvSpbHorW8o-uPn5bDnXya14PhV-JafvOwJ4yvg2LT5bi3XxLzJp0Q&s",Pluto TV MTV Latino (720p)
@@ -372,16 +321,12 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?checkedby:iptvcat.com
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgRR2yIasgaP-ERxdHyRKVwRXz5nxl1nVktvfZyaOOzK1ayuTNSmCJM0vDyQ&s",5TV Corrientes
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHkul09LUEuSkeZdHHNilmsqEsQ9PMP1MPj61Vv1z99JOiXdFVFOTetFY3oQ&s",Vintage Music | CR
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVd5CgjDYqRHNKi48wztHPX6HitNkurAHoYDpev1o10vvN-gRYbFIHTKA2Sw&s",Pluto TV MTV (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRmKFjJmTs9IxMHIMZ17SR6RV9UGrM96hid_gCN6v9f0lLTjU5_py0VfTrTc&s",30A Music
 https://30a-tv.com:443/music.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-eDbfZbb7safN4yUC2JJ1Ug3JYZSaH-aIYk7f7pQXSqtZJOg8zL_KC7PxQ&s",4FunTV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgn0ZP5C0DgAkCudUmfptZmEJoDJAbG27fXd2cwSXUBjDFvl1iM_SnjJVDxQc&s",Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR45EY3Ide3IjFU_5Yd-PS1AMbkJivb5G-hWFBgW2im906NaJnFWyiTEcbhYQ&s",AGRO BRASIL
 http://168.205.87.198:8555/live/JOSEE/123456/7.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR45EY3Ide3IjFU_5Yd-PS1AMbkJivb5G-hWFBgW2im906NaJnFWyiTEcbhYQ&s",AGRO BRASIL
@@ -418,8 +363,6 @@ http://168.205.87.198:8555/live/JOSEE/123456/175.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/1221/123456/175.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkDaE_egGlo1YZBsLx8H0HCwDYZzdJFHV7njNYdRiNrm-5qoYpq5c7KUIS9A&s",Al Hurria HD (Iraque)
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w836773702.m3u8
-#EXTINF:-1 group-title="ES" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoXl_HhaogjGjJbIhWA5Oxonj9i9CEJ5m8-hIPq3xqUc9nI85Ba_xdi4CwlIU&s",Alcarria TV
-http://217.182.77.27/live/alcarriatv-livestream.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm5gTj75w5UbmaGiTRRuGIcEpIAUUIP51P14-QvmetWP7bENW7hKRrI_nChw&s",Alcarria TV¹ (Guadalajara-ES)
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaULx5KPdIGK4wa39AnrgsLPwr5N95vCokeUHKPuyOPxwHhZnNHmj1Bfvo2w&s",ALL SPORTS
@@ -446,8 +389,6 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?
 http://168.205.87.198:8555/live/michele/123456/16.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJylE2P-JNpYy9N3FXCbDKBMNOgx36EDjqp3tZCVsY70z9_ln2y0v9JZy_igs&s",AMERICA LATINO
 http://168.205.87.198:8555/live/antony/1234/16.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="PE" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3E78JZSnyti_1v4cep4fvl6QyVv0Wwa8kXE-OZ0rH0CebxOPgJIHAqbRd5Q&s",Antares TV
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJylE2P-JNpYy9N3FXCbDKBMNOgx36EDjqp3tZCVsY70z9_ln2y0v9JZy_igs&s",AMERICA LATINO
 http://168.205.87.198:8555/live/1111/123456/16.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJylE2P-JNpYy9N3FXCbDKBMNOgx36EDjqp3tZCVsY70z9_ln2y0v9JZy_igs&s",AMERICA LATINO
@@ -494,8 +435,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnS5k9UbVQWGUUUXsT31TBmI7Wb5NjBWxkRXkLUOlRe1WlepHLXBqxN4eI4uA&s",BAND
 http://168.205.87.198:8555/live/1221/123456/19.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="CL" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2KHFiU8L_0vPNn4hkxIcRVXzcWX9EOKcfICswcgaNpgCRRfuGFjAy4nQUsw&s",Atacama TV
-https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CL" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFO5ILNGNSIQ2st7jjPkQNf2Ltz1n3CTtmkwPSyHuq56AajLdZqeU9SxecMVs&s",Atacama Noticias TV
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CL" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSBIpehF-ff5ezz_6_M8qpAFM4eccbQNI-_mA8YerCUPbNYXV5F1OZxdTvvg&s",Antofagasta TV
@@ -512,8 +451,6 @@ http://168.205.87.198:8555/live/antony/1234/19.ts?checkedby:iptvcat.com
 https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBAMx5ocyi-5mmkLQHwD0w1vteFbhZwme0iLwR4F1Aos64MpycYMYVHThM_Ic&s",Bloomberg TV
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
-#EXTINF:-1 group-title="CO" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ECRfuxlWblKFLECi4lwa_namEilU-yN9OSYq2VNOFOHVu-KvCcTXgUM5HzI&s",Cali TV
-http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMqJ_T-kZ3zp-2UPR8qesQxG8gKvlLn_oHN9dl6QNHurt0GSk77ijPzEBfUA&s",BAND SPORTS
 http://168.205.87.198:8555/live/antony/1234/176.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMqJ_T-kZ3zp-2UPR8qesQxG8gKvlLn_oHN9dl6QNHurt0GSk77ijPzEBfUA&s",BAND SPORTS
@@ -524,16 +461,12 @@ http://168.205.87.198:8555/live/JOSEE/123456/176.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/michele/123456/176.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoORrFDtjqlUBkdGsiz1b823TV_k9Mk0ny1LJx38r2KHA_8YuKFu5X-oViA&s",California Music Channel
 https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcU3wOPMdPpgevJsPDPuQ5U48MHj6JaaI6kYQ3Bb7rXyrSq6kR6su_8s84uw&s",Canal 10 (México)
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJybalhI_IK4iurntPDLv5WD9LSryC7GBRATAkWSreI3t-uKN9GNvjkNvw94o&s",Cadena SER - Ràdio Manresa
 http://streaming.enantena.com:8000/taronjadigital-bages56.mp3
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3-D0UizttnrhkaPVWQUTChRJCtX8e0Jh3danbcDsKokebtG_TuDLISKDwgQ&s",Cadena Digital
 http://185.23.192.118:8006/;stream.mp3
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv6DVzKZPIYFHiWxbc94zOwxXESwcqQe6YilLqGog6eUKi5wiDw6ZuImULjQ&s",Cadena Latino
 http://185.23.192.118:8000/;stream.mp3
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPgrFonOexqqBa5HbdN0vZV2QcWa9TmvlSF5XMGVyupuwKpzEUPU2J_N83V8&s",Beach Grooves
-http://stream.beachgrooves.com:8000/stream
 #EXTINF:-1 group-title="CO" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt7BYIvdDlN50VP8H_WMya-AZEv66hEg3uNW2YUxY3kizAaELiBvWCTn_OVAk&s",Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4B1r62FOe6E7s4Oewf2BgIfP2-ugvJH3CtWUN1n82f0cewooDb-v2UIiqoK8&s",Canal Blau Ràdio
@@ -548,8 +481,6 @@ https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBuNgBa4nfE4c6z3uLte5U4spuSjFLOWoKfCOi8-R9huGCBzEk5rQWK-yVbQ&s",Canale 7
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLpWu2jwuLvPz8j_UzeoI50neFZ9SaTwkGBiNquVs-QoW0yJLyIcFFVcSVjw&s",Cetelmon TV España
-http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2cxstZaSkXhvlSOxZNSYnQegG848WvDP9ZsKmvlVV81NOjU-qhP-xycMM_38&s",Canale 7 HD (Itália)
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 #EXTINF:-1 group-title="CL" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjGMUL7mHC93gNm7ITXl-ON-mbmi6ywlampbfeiQN70Nvsze7o7I0n9xpc6No&s",Canal 2 de San Antonio
@@ -572,14 +503,10 @@ http://video.ct-n.com/live/ctnstream/playlist.m3u8
 https://server10.emitironline.com:2199/tunein/carruselfm.pls
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFMm1I0Q79US8SgYCUiVlvunQwfzMVQxGt7yA_SNniAYJiuZSc8-M8uQTqO0k&s",CHI: SPORTING HD
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1 group-title="CO" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpLWI0XTcDXGRev7Cxdo0_c2KT3XYP8nU5wa_LFsx-6wKgfEI96CGPHHQzaw&s",Cosmovisión
-https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CL" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qfl0veS2sN9MGN_i_UFqk6CwYIuqvFSs1oTipWI8PWdU0uC69HC6_zDbMA&s",Chile Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKTgVwuJSWZsO_tvxCxLieKE5HEiuqRD1lhpZnBDGVRLz6h2kncPt1OS8TW-Y&s",Comporta
 https://video-auth1.iol.pt/beachcam/bccomporta/playlist.m3u8
-#EXTINF:-1 group-title="CR" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVIWruARPd_ss-ZnQPUsvJtvbsgDxLBe7ApLVn1uFc_szxkGouFhRRlkD5tQ&s",Canal VM Latino
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQbiQA7zzNYKmpwO1_juU40BAKrNxXxOyY-BOeYIlMh3HkQuE7-hoY9blA2s&s",Costa de Caparica - Riviera
 https://video-auth1.iol.pt/beachcam/riviera/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjZtFNksw1e8mb27573EPHz9l_lOvcGUnb2MrlhdrCtcIHm-d4O2ThViFkng&s",Costa de Caparica - S. João
@@ -588,30 +515,8 @@ https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlVQmO9D8ABnNQDeC8o3wsWCxzEIrxhL4weIYzJEYN9GG0NTMONIyNjgINIA&s",Costa Nova
 https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6TpFkYQf7RHtp_DRZyjF6vDqTBFTxaUENiJyaVxHC9AmvNuk5a0_G9MbwlQ&s",Deutsche Welle Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR00Xyval9LbvuQgvNzk4jeZ9gpAoLNilmXqu0T5-9vrTta7Si4wCzJW92Lvg&s",Deutsche Welle Deutsch
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-#EXTINF:-1 group-title="DE" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkd7T-OlHmp7wQcVTFM-M7yY4J8vMg7xRtUgoOFCEgzHK6k-X2tAN2OTLves&s",DW Deutsch
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbWFGycajoB9SP9zYNNbl4KqT1WVai3WiD7Y8RO7q2DR6VAPSD2hISxbCYSzQ&s",Deutsche Welle Arabic
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 group-title="DE" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkd7T-OlHmp7wQcVTFM-M7yY4J8vMg7xRtUgoOFCEgzHK6k-X2tAN2OTLves&s",DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="DE" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkd7T-OlHmp7wQcVTFM-M7yY4J8vMg7xRtUgoOFCEgzHK6k-X2tAN2OTLves&s",DW Deutsch+
-https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR00Xyval9LbvuQgvNzk4jeZ9gpAoLNilmXqu0T5-9vrTta7Si4wCzJW92Lvg&s",Deutsche Welle Deutsch+
-https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP9ocpV15McNRVyx_9fhVlST6_7aXHM5kfupLacstXrLtjwKnRFBQBZ4Tq2zk&s",El Pinguino Tv (Chile)
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1602984822.m3u8
-#EXTINF:-1 group-title="DE" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1YO3zchUjHN_obfz4W_T_rO2uiUI2rwF-dZmKvjjAT9vr1h7McvbhZd2Av40&s",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5K1pv8MjQYK3XMSyB5OusS8qj4WVFMJKk7lHEegeF-8tbIxeyLHMgrM4Zg&s",DW Inglês (1080p)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnCSfkYiGqMwXZ5knrQDuG25Ydl6IpbX44-u81EOrN4z56bsp8bBhzzi4Fmg&s",digitalHits FM
-http://digitalhits.frilab.com:8000/digitalhits;
-#EXTINF:-1 group-title="AR" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTobmEgzhBAGHmJ2IH2ykaq31WAYeRNBaGGLZ9pMR-35XSRSU1fdHeNZxtvGTY&s",Chaco TV
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcqH5ElRnTGV9cRCQfG7TicGpC3ci_AQ560FfObf96P1Jv-l6D6I6jolcJSA&s",ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJ9U8tWhYk8Owf_RHD7NpxsiTpy-dMnZwWGplPS-3IuiLrU1R_3kqd7yPRg&s",ETB 1
@@ -624,14 +529,8 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="PR" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJYJvPoBTS5XjM0W65WMD9k6XaqfnxAZNPLNE2-5yBSB-GO-OMz0UsdDeKsA&s",Faro de Santidad TV
 https://5dbcd1053301e.streamlock.net:4443/farotv/farotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="US" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw47wJqNSZSb6j_epyCDD7RMiPDmDYfQ3sWwY8tFZTAilvAUrWMBX-spq0rA&s",EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO9OE3Nlxoiek9oTRooxRDq9kyt6dj-dO6VHZWmkueVmqgAGf-3xllRq8tiBg&s",Euskalerria Irratia
 http://server4.beatproducciones.com:8014/;
-#EXTINF:-1 group-title="FR" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoI_x4V25aomija2HgQL56Gxvs_N_rGVcoAWLKPX-m_ZQf9BKJcRL-82Xc9vk&s",France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBx03sXlMXmGeXAFKenwxhDY-f_a45XiLNyf80gMb7K4e9VaeHMox7O6gdt8w&s",France 24 Arabic
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR41aO6e8Ft1WK4V5aQFkoangWagUC0PmxfGkiInppZsB17CRm9zUHGvFmZdQ&s",Esmoriz
 https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-NA9tSPhyxzwi4FzySlT1-412CATrEzjteYDv_qwGv5UiY8q65E_xLrEtQ&s",Ericeira
@@ -640,92 +539,38 @@ https://video-auth1.iol.pt/beachcam/ericeiraspots/playlist.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbku-O3yGBSZY1Qf0zmYwGr1mJZ2EepnQivjywWK9unOH41K-AI8fAxr2n5w&s",Espinho
 https://video-auth1.iol.pt/beachcam/espinho/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqqkkFBVpklXcvOdF29NG0EOoYITS1lUMs4k8ti2d94Fs3hFnbwldzbAJWkUY&s",France 24H¹ (Reino Unido)
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lx0227mIRnEDTtifCGrrmiE7qRu8hrnvgU2ZDy-RZMoElTj2ggEIf1x6MA&s",First Music Channel Bielorrusia
 http://hz1.teleport.cc/HLS/SD.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLTlSXRxG0p8fPY_Mnjc9F7qx1iiodnzIW9qOQy-yUpaKilH8UdO-yhGHeQ&s",France24 Arabic
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoI_x4V25aomija2HgQL56Gxvs_N_rGVcoAWLKPX-m_ZQf9BKJcRL-82Xc9vk&s",France24 France
-http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-EcZopVE7exVDVOtzYEVTJgXBZcE-ApSdGzuNp0FeANy9PkjGU0yP1i3uA&s",Fish TV HD
-http://168.205.87.198:8555/live/123456/123456/62.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkU81lykWeKYhS0oCSaxw27fKxTVVzIaEG7pnoYq-09F3JxURHtBodVViVcw&s",Int. Am rica: Se al Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF2lk5RimB-2SsRL5eckXzkqZF1-HJriSEPQbMuVeBmm5Jad_P_CnlqVjN6g&s",Ferreira do Zêzere - Lago Azul
-https://video-auth1.iol.pt/beachcam/bclagoazul/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFRITt94mlTMoAXsH9IPq6dkwP8pDcP36szRRlzveGxjkM0YepRaA0Iapw9A&s",Figueira da Foz
-https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIHRIORSoKOome6QcSJz5UO9e0L2jzEGDSbv6E2FPnRt8vfm8qChjRc7HXtg&s",Santuário de Fátima (Bitly)
-https://bit.ly/SantuarioFatima?/chunklist.m3u8?wowzasessionid=inspiration
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROiNSubEzMY8C95e8AkD9hY-F5w-Y1LCJEybIHDX33M6EmwDJ6W58jE7aZbiQ&s",Foz do Arelho
 https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOH-VItqOt5x63ucAltTNrw5d111v7YySfFzT6HCY7om91vg_LyTrU7cEOQcM&s",TVM INTERNACIONAL
-http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ80uFddTnmKhjPHtpEkCNFHa8QY0OqKY0YnqOrb0eMthb-9k9YQECWal2VDf4&s",Canal Desconhecido
-http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_w539729195_b714000_slpor.m3u8
 #EXTINF:-1 group-title="CL" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnIRHhr9ujQJSjWcJVNVgDRmu4e8hxnaAf9ZXnsoM6-MEM6nrvH0Qo0IN06w&s",Girovisual TV
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Vaa7v66WR4J6RHEHm2EkZ1smJa2DQyR9tyXXGtEoFKeGp0Hc-CUEYEYI42E&s",France 24 English
-https://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTKkxLu-9Op9Q5xpEaDn_vI20k9_746ZR_ZPkLKgBzK2MIbpIumCej0PAcgYU&s",Transmissão Bitly 6
-https://bit.ly/3J39Afq?/playlist_1920x1080.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZOtZ_rXDxkzxY2KLMnzYmmT_iOw2oD6ON7Z3bjufUxIPjJsV2V_lbWrw8A&s",Apple Tree (720p)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevESnSWxdunzGMwO2TwlxEAI_pPFOQNBtH2jtNrKDiYr_KEs9uPWA86YGOw&s",Plex AMC Presents (MediaTailor)
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6bDpjMBjAKaM598yP5S6bdxQAL312uwZastVDQlHv9kQF5cnjNGrSxVrnlQ&s",Moviesphere UK - Playlist 1080p
-https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdt3LuKdwZ41vV39qtZPsNs4YaLMSFNYjUkOc7Owxj0slstHUwceQRLxPn0g&s",Paramount Network
-https://bit.ly/ParamountNetwork?/chunklist.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBFzrVhb7QE7kD8LivTcs3lpRAvnvnBaVb59-be6i3eCACDiF6FT3Q2sPxrQ&s",The Walking Dead Universe
 https://bit.ly/TheWalkingDeadUniverse?/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9bKo-KleCq2fheNIpCkzGctseJ_EdAEUDZfeUzHs0B1lx8GLebyKK45s6knE&s",Goo Talents
-https://bit.ly/goo-talents?/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHqhfmaclzyIG7yWz6A56x7wayRwA-YoL_vXfUnFXPBRL4ZPOLeXMDNV3W9g&s",Tv2000
-http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEDtazyfWPKywXFvWgmnhl_240WSXZZpf577Te6n9X82OLV25ExSg0oWakpyA&s",Insight TV (720p)
-https://insighttv-samsungau.amagi.tv/playlistE720p.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Td_I5KwhuJSy2kt1NGj43tUV1wlGjlyO8zD3-LfV0bz1KHsch9yeyDh8Dg&s",Wonder (UK - 720p)
-https://wonder-samsung-uk.amagi.tv/playlist720-p.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuR7FZ2EqRvKuFv-0KQ-rGVQEPHYot8nsREzxz6dr1JEiK8ZzCGxwRmGkffA&s",Documentário Pluto
-https://bit.ly/DocumentarioPluto?/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9pqWzlk6Az71v0EgG2AY_QpkNozycciiDNF1oxY42vZRqqTERNcwxbRgsFQ&s",Investigation Crime
-https://bit.ly/Investigationcrime?/playlist1080-p.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQti9f9TGHE9_DjNiZoUWejo8dChcNosoxPg0NTLr_XfGxa-RuHFUqkZ2UT9g&s",Wild Earth (Plex)
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyLcsFhnWFx6d43DZk8d8sZ1eVa1PG9Y2vl8BAC3L2FNb0Z4TYPIQLxY4yw&s",Google DAI Event 2
-https://dai.google.com/linear/hls/event/qd8D8TtbQ-2fFw5-1sZiWQ/master.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhtHacY06BZPUlJmrBr-k2sMxvosKgbwTzMu2ItTYZZS8tGpjaZocpkpoN1ec&s",France 24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8?wowzasessionid=inspiration
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpLXOydppmNEvT92ii1NIz8epRByXUPEuW9Ps-5_tAxHq8n4LaUv0qaXwd0g&s",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDStbHgaiFJK0lZh64xbxsy4NqgV8-fQqGeiTsWZG7otSrWGJmwOvyewEvrxI&s",TV Cocina Pluto
-https://bit.ly/tvcocinaPluto?/master1080p.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9BkVfWHpuTIiXYBInByXj4j55kZ3TNDgP_HH0Rmp5R1IW8UJUWNMwGVin8M&s",Tripsmarter KTV HD
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZG_D2bzpJJg9w19LDZny-XF80yoi7z_r0WqhjOfL8Vzm23ciRPZXn7AxuVQ&s",Travel XP (Rakuten)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLNnNx23O2zHPXlbotClzI8PcByoKT1nhZJkLBqutORBCjOGlDedrK9kPJdE8&s",Canal Desconhecido 6
 https://5c483b9d1019c.streamlock.net/8054/8054/chunklist_w648759078.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgzdAsnCsv2913BsNhhtDeVlIFranTZkUnkPQ1N8sVPiP7qdZLLmLodVbtmNk&s",Canal Mono 2
-https://bit.ly/3rUCg15?/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaack0ZJLqyxZa7Wtaqi0CT36DWbu6fhlcir-tdpYHpnojDowWSD5Am95NH4Y&s",Publica US East 1
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5MpPAvk49__glqU2cbYrAhItLL1NLCTmB3HPg_oLS1T_9tDoLdjxYfvrjw&s",Canal Mono 3
-https://bit.ly/3cXQNoL?/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyC1inF2BWR7Zup0KLWWlFaYpB7GH3WfRzqm9pIS70PfEVV2JxYg_tFkAE07M&s",VK Video Link
-http://vk.com/video_ext.php?oid=432851568&id=456239017&hash=78c72a2626a861a?
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXAJM0jpogFOsQMS-RzU8OZhLYGgVrC3l2Spl6C6plKPucYrw09kcdSioAOQ&s",Publica US East 3
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mLPaI7jbs_GEHs52u2F0in98X7_x__J26y_8nTQeXRYPFIO-6VbN-igF-e4&s",Publica US East 2
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=60
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKKzU4n_x8M9RsW0ZBkQwK0kcL65i05qvu6Q86bC119t65fRvFYN3BRWkbAw&s",Publica US East 4
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyC1inF2BWR7Zup0KLWWlFaYpB7GH3WfRzqm9pIS70PfEVV2JxYg_tFkAE07M&s",VK Link
-https://vk.com/luky74
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
-https://bit.ly/3sYLlrg?master/playlist.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 http://us.chileiptv.xyz:80/vEakS93BV/144aUNlbo7/181800
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
@@ -733,11 +578,7 @@ http://us.chileiptv.xyz:80/vEakS93BV/144aUNlbo7/181803
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
-http://vk.com/video_ext.php?oid=432851568&id=456239017&hash=78c72a2626a861a/////
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 https://30a-tv.com/darcizzle.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
-http://vk.com/luky74/
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 https://lightning-tracesport-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
@@ -749,25 +590,13 @@ https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 https://github.com/
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
-https://www.sck.pm
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
-https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
-https://bit.ly/FightNetwork?/index.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1278619934.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 https://www.raiplay.it
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
-http://www.raiplay.it/
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 https://www.youtube.com/embed/9Auq9mYxFEE?autoplay=1
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
-http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8?wmsAuthSign=InspirationLinks
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
@@ -781,17 +610,9 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=Inspirat
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
-https://bit.ly/vevo80s?wmsAuthSign=InspirationLinks
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8?wmsAuthSign=InspirationLinks
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
-https://bit.ly/vevo90s?wmsAuthSign=InspirationLinks
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
-https://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
-https://stream.vagalume.fm
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
@@ -808,8 +629,6 @@ https://streaming-live.rtp.pt/liveradio/antena380a/chunklist_DVR.m3u8
 https://edge2.audioxi.com/CLASSIC
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 http://strm112.1.fm/80s_90s_mobile_mp3
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
-http://stream.vagalume.fm
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 http://centova.radios.pt:8495/stream/1/
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
@@ -829,8 +648,6 @@ http://centova.radios.pt:8499/stream/1/
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
-https://playerservices.streamtheworld.com/api/livestream-redirect/OCEANPACIFICAAC_SC
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 https://playerservices.streamtheworld.com/api/livestream-redirect/GR80SRFM_SC
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8?wowzasessionid=inspiration
@@ -839,15 +656,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 http://centova.radios.pt:9492/stream
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
-http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8?wowzasessionid=inspiration
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 http://radiocast.rtp.pt/antena180a.mp3
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
-https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADOR_ADP.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
-https://stream.zeno.fm/fx5n4m0xkwzuv
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 http://62.37.6.216:8001/1:0:1:778b:424:1:c00000:0:0:0:
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
@@ -856,148 +667,52 @@ https://centova.radios.com.pt/proxy/460?mp=/stream
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG_FGWNIiCkbGaNTt8974HclwLDSLnftQutYgHK271WyDbmfM1fohphiUCcA&s",Porto Seguro - Praia de Taperapuan
 https://video2archives.earthcam.com/sunrisesunset-vod/_definst_/MP4:15041/2022/02/25/sunrise-tl.mp4/playslist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjLaRZhfN5c6n2M4gngEyMC0Rdft__NnIjKjyJtF0guQNf885WNMEmAKXIlG0&s",Copacabana Live
-https://hd-auth.skylinewebcams.com/live.m3u8?a=g6kho3o8qrioq5gqcbonte6vn4
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9SbjiFSZmqJXaoyjSXfng2bCzwjK5-KTlra-I-73LpaGhnxjEnTs2lij52J8&s",Basilica Aparecida
-https://hd-auth.skylinewebcams.com/live.m3u8?a=g6kho3o8qrioq5gqcbonte6vn4
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9SbjiFSZmqJXaoyjSXfng2bCzwjK5-KTlra-I-73LpaGhnxjEnTs2lij52J8&s",Basilica Aparecida
-https://hd-auth.skylinewebcams.com/live.m3u8?a=g6kho3o8qrioq5gqcbonte6vn4
 #EXTINF:-1 group-title="Home Shopping" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcIlCOhJ7MJfdPWRn-2oObw91M258LL2k4EzSqiTDZaohiOBcCLJ92vvt1Lnw&s",QVC Japan (720p)
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 group-title="Home Shopping" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lK6pqlrpYNc1IRVWeX8-kYKdTCatosR6LVqR5qBKctOOHCwe2QeWQLEmsks&s",QVC Italia (540p)
-https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuTdBtHpj6DchFdiDJhbOkvXu_oJhdHs7Kh7cnzf7nD03C8xaDe6oGxVrrO84&s",1001 Noites (720p) [Not 24/7]
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqs9W_MkQzlRRxzQ8Lff14bRHqFlP-93TH3N2fFwq3a05Pn6MK4suCZeqT7A&s",Leomax 24 (1080p)
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 group-title="Home Shopping" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT40zLlaquyMvvgX1yHYIbL6poFe4pp_Fsr7WQJnZqVBZ9adstJo3AgwdwKeQ&s",Shop LC (1080p)
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
-#EXTINF:-1 group-title="Home Shopping" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRqYp9FFeihAXalgTgftgE1aF0CrOFCJejST57zzu_788Nj5-RIpO1qpugTg&s",The Shopping Channel (720p)
-https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 group-title="Home Shopping" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZdymnOuaRuZsEBs3uoBBWC2c16tPw1Rhft7YxaY3_Q5aNfXs2cRnaLyxig&s",Shopping Live (576p) [Not 24/7]
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
-#EXTINF:-1 group-title="Home Shopping" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLQ3GM9O9MWc8ijkXiP8mae2bJ1c0lZ0mnCSsS-rjnGhSzxR2e7bQqYSFkQCE&s",Tommy Teleshopping (480p)
-http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
-#EXTINF:-1 group-title="Home Shopping" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJtGQ50cREzGjGINpDgy75XL1DYL6iU8yUHz__gW5STaiQxrAdBu7IKGV2iI&s",Shop Channel (1080p) [Not 24/7]
-https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIRecGXk_eM1hJUrXhfVtEGlVQ3JDBhp_Y_KfxC5ZwyJc8Lk88QrlXrRe4cM&s",Algum canal
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjtww1PNuieIC5zJ6ksZAbdY5mbDA7Gt2IqHdkbzgua-fymLs-I7LlkQZpw&s",Al Hadath TV (1080p)
-https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA4Muf4CvCsPaJ6PbAnD8iVhtpR9r0Kkpt35doiscOljRxtb2S_NAyoY-Hiaw&s",Al Alam (360p) [Not 24/7]
-https://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD6hU1R500TcUb21WYeFwRRSxbDgYPQTg4dAXPFFaaccjv_LWq27OTqDigifA&s",Al Masirah (720p) [Not 24/7]
-https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOw2A2BV1_gJnfNkKRTD3t5Ow82YpnYMS4aHCDGU76VcS2d4hkbqz8XO2Ea_E&s",Al Masirah Mubacher (642p) [Not 24/7]
-https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfXlpspNNSvD6qryAPESZLR_r4Z-4ZHJZJIUFu32UXA_kqscbbuSBTFB7MYJg&s",Al Hurra (720p)
-https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwHQiU1bS1aKgsxOTrd2hqAJIjIloTApUhrkJtKLU3cPrDynSJdjo2brp6A&s",AMX Noticias (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd7oQN-uW6bmkKhdhzonvLgIva7Q2nfkVryIqszvPY31tDv06u3Lmj2oPtag&s",America's Voice (720p)
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWuNz_ITmR2Yv_Z5DaMGhMbmKFzRy62S78G7TMjTo4s0xzxJugBSvp4A7A8A&s",Alghad Almushreq (576p)
-http://82.212.74.3:8000/live/7512.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ9wajCvvEPnrGN2vIdQMSVngI39umsx2a9YUfxUnuMo2PwJYQz2E8Jrf1A&s",ABP Ananda (720p)
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl5cfiuQsopHpSE2jp3uOYtLSu99Gfb2YSuAwWwP2fPkzFz_WHOxp7Tl_WpQ&s",ATN News (720p) [Not 24/7]
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOy4mHQ2KeD-bytlsqdOjm_-fmlBWCDObgKh9iKD6bVrL-pxxMfijhVi9-hxk&s",ABP Majha (720p)
-https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPI5EB1w9aa9GDjsZVcKhkvixMVNWDNp7te3SivGuHLdAk9ZNC5ew1fFr_lYc&s",ABP Asmita (720p)
-https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuLgKiyxUFHXWys55as6PbPSB6I0LAO4LbPoS_PZCs9cToST8V-SB2kyrp1vY&s",Black News Channel (1080p)
-http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS621T33TcJZ-euEdLRCCyFCWVNCUKLll32XRr-SPeDNRiTvGpDVjGtUxkr9Q&s",ABP Hindi (720p)
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzMu-Cw4g7IeU7wOkIi5Lq7PGXzG0SyNQszy_skWouKe4vX-vHeuHqUm_Q2A&s",CGTN English (432p) [Not 24/7]
 https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvl511qsZx6LGcFjcgChA1I-j6Q7fFP8zv86r3zt6E1z-lErcRUR-Y-ItO4w&s",CNA (1080p) [Geo-blocked]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD4pMsGKq3sFb2QsE49Q6DO1qVMBgpgm24ucGNu8X9K0BmOFDbDjayoDJdiA&s",Dijlah (1080p)
-http://91.134.145.75:10001/Dijlah/index.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYe2w3uQSEwXXZvL2sruxER4dw7FXvFLMbcPeKB_zc9YHW5Pz-zLxOwNJf8w&s",DW Deutsch (1080p) [Geo-blocked]
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYUSIjLH3wEL32bhCzd-ffs7H_JkbGJcDc4-iREcS3wWidpiIgef2xbIEusw&s",DW Arabic (1080p)
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6TpFkYQf7RHtp_DRZyjF6vDqTBFTxaUENiJyaVxHC9AmvNuk5a0_G9MbwlQ&s",DW English (1080p)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSqocPO8dXmbsStEn31BCHpiMLYI4OmWTCd_ynfN5UFLHoKg9SySK6qrVJn48&s",DW Espa ol (1080p)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRwmcOSYvWj8kb3LvAWiPewUvG1Agob5U40-PbzUK-up6QG3d03uYZI5DZLQ&s",Estrella News (1080p)
 https://estrellanews-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7jV47qJcpE1dM_2qOzi29WfOFTeGVhtZRqEcoROu3YT2XUMArwQvtQckdHwU&s",ERT News (720p) [Geo-blocked]
-http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrb7W6-CzBU537H22vNuTJZfcDtdmR_MjwJxNx5Z6Hg411BXXN98lKd_xCGg&s",Ekushey TV (480p)
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECgdS6FvQZKoYXVdTwzeNckCT-iAneyn6WM6Gth957Er6RBzIpsc-TN6ohEc&s",France 24 Arabic (1080p)
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1O5KEtKrK-KhPwKAUkLwQ3H3JMZJ80VrQUEwzoLmsEQCNXFoO_UFyzMGDcQ&s",FOX News Now (720p)
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCTnHVde-KMkf7tXsMUELQtZjSnJFE0Tb6QKYuq3Gtpgr6_7yeYdsuqNLo2z8&s",France 24 Fran ais (1080p)
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yB6IKighgeiOzJDgn4N59HxeW8vYJ-yZvnJ09beDbczjKzF89ObFvcNIgQ&s",Iran International (1080p)
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yB6IKighgeiOzJDgn4N59HxeW8vYJ-yZvnJ09beDbczjKzF89ObFvcNIgQ&s",Iran International (1080p)
 https://live.playstop.me/1816184091/index.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqvgxE9Unyc7Vhf_zkgg54nNlazyQvxCMGm0vCt0CYE5oul00w8ObazA5kjc4&s",India Today (720p) [Not 24/7]
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN4FSlIcZ3gKwRdcoxGMofJyiRQNSmDGcpMgEMm79EQt-QPlx6ZZzlKPnkCQ&s",Mekameleen TV (1080p)
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYn1GuPhiP6SjkufKlb68C4PHmO1pLrLY6Mfygi3CoE-tcC5brJ916yxe4gw&s",Palitra News (480p) [Not 24/7]
 https://live.palitranews.ge/hls/palitratv/index.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq4gJPys80s4gAXgJWXimheB5GaMeHd-ES37QiR7_Fn-aQesId-XLIcnYL4S4&s",Pluto TV CBSN (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a6b92f6e22a617379789618&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=204&terminate=false&userId=
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRviOXhac596SRulBfFpfVDlb23Kx8NsYFPRr570AN3zYIOxbkrD7Hxh6Z9jZA&s",Pluto TV CBSN Bay Area CA (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAOMCGXJkd2foGfeOnWp4wQeqHU8FdfmVxeLTN9CRpiOsWe5Yy_EGYWIqBOEE&s",Pluto TV CBSN Boston MA (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1af2ad345340008fccd1e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP0c3dy0lerZASA9vNnSABlQkl_n9Got2lQiRX6LbNplgeuRGKe_q9x-ziq5Y&s",Pluto TV CBSN Denver CO (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b12146cba40007aa7e5d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcUOm49nosaHeOW0SCn7bByTMfNWknO6XNo3LPMU5VE-u30yLBIyhIZqgizA&s",Pluto TV CBSN Minnesota MN (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ue1HqpnO0oTehomIWqI-MSD2PoHkMoqm8TM6VIJEtsiBiF7xpzWGAeDB8w&s",Pluto TV CBSN New York NY (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc48170e280c80009a861ab&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=206&terminate=false&userId=
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8NevWXRvMzITteDVafiLvWugNKRdIq6uYYDh6Q2f15-QXdw94WcUYKg2puQ&s",Pluto TV CBSN Philly PA (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxgqD0GF_PJl-n9geFM-fkdkdsiOm5axcscUYjMK5XrLCV1bbHOB9ZhIqVGgU&s",Pluto TV CBSN Chicago IL (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1aeb2fd4b8a00076c2047/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6CLx4wQj2cSupfrdk7NCrw7LgF-oYbmQDENhmov6k4ajI6BgmNS7ZkBWDQBk&s",Pluto TV CBSN Pittsburgh PA (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjnSMoVFWu0p6ZicWdgPIIdewF-3b07rbBOT6jN8Rjt8vWiWy-6iB-Zqfibg&s",Pluto TV CBSN Los Angeles CA (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc481cda1d430000948a1b4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=207&terminate=false&userId=
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8_yXIgjHZGp8qSlXsxTHn6XEmw6ER4xP9nlEMJNKL9L_ZLr2aDpvvraa0tg4&s",Pluto TV Euronews (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrYisZAuicCv1NQGLN7804llclwkoGjNTZoPyj9iyGDLjh_ASIxM8IE14G2w&s",Pluto TV NBC News NOW (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX-mGxYKGyzwUt7VCjhctd-WKcj-C0NYHq2S6k7L0BIBUxjk3xFT_v8TMPXw&s",RTP3 (720p) [Not 24/7]
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kelWumvUlSerLjXZOQ1elMoU6ezWCnHLwb7t5S2GPE6437-6NLyBAGiBQQ&s",Rudaw TV (1080p)
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTz2QhflTVVVmKLzRGRMQ84l2FZpgiYaqBSdDq5kCzY_pP2FifTJFVHA22Yg&s",Real News Kerala (1080p) [Not 24/7]
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTbTCLRzJOV29eGg3SyMjzFUGq5IVu-d2kCElPkGcI7-l8iUuZprV8C9WTwko&s",Pluto TV The First (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486acc34ceb37d3c458a64/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d486acc34ceb37d3c458a64&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=244&terminate=false&userId=
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlrYH2_5mdQuKZtQA8PKJRqpe-Dqfgx-jcG5rOEyGMRupLUVTf9syD0QPLKg&s",Sky News Extra 3 (1080p)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYtsRJec8ADww9lhPusdHmGdKpYrDGprxCt6vF72CB5zBWGSWra4A5i9xTtto&s",Sky News Arabia (Portrait) (1280p) [Not 24/7]
-https://stream.skynewsarabia.com/vertical/vertical.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKiMskcyRr2is7BAO8UEB8IOi6IyWkKBp9SPsuhsexfKKzjx5cIS0pG52G98Q&s",The Wall Street Journal Live (720p)
 https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTipbTZpnGhe3-QAlgCCc831z1h5J5mM64GlILAOY68cSx8zQLw6vse-raVqg&s",Sky News Extra 1 (540p)
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK93IwgWy5-z-ebh32P0QRO4YzriTQumqqT9biyCWX1ZM9EwcNZmXFXSnATQg&s",The Young Turks (TYT) (1080p) [Not 24/7]
-https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwo24pbtqcE7m7Et7RU8pCj7evBAiXmi-p87nTFBkpzhNX3zu740pdtrlbDTg&s",Sky News Extra 2 (540p) [Not 24/7]
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-vcLQ-8ieL9qi3g-Ghp3VbP94nKMQTvVhXU_c6DGa5gOYAuFD_YytTgpDx0c&s",TGRT Haber (360p) [Not 24/7]
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-5G8XBCGsdWxwBCNXoS4aXRhlvHg94CQZmtWKk4RdRDX8iv0iz-Jzh_9b3B0&s",like Gecko) Mobile/13G36" - TVM El Salvador (720p)
 http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTplnJbDxNcX5CSLXOmza8f3WsIGWS137qpkxnDoUS2bjF1sAPQ2q3kbP8Cuw&s",Mir TV - Mir 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTplnJbDxNcX5CSLXOmza8f3WsIGWS137qpkxnDoUS2bjF1sAPQ2q3kbP8Cuw&s",Mir TV - General
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ywGQ7CndHF-azl8RgTVbT0tm8C6bF0DkPAGHhIpkgwQXeLos-Pxx3r2L5ns&s",IGI Channel (SD) - Duplicate
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGhBczxxeh6Gx4Wj2T1i1BA6HWnowKF8x5vSelIxdrW3-NAPihFvCsz-Uy2JE&s",UTV Channel
@@ -1008,8 +723,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpOvF4OLNgdDev3M6z8dwi7Efm2nKc2nOxmBuj9ESzibdBFGJNlG5QKrKQRAk&s",8TV Europe
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
-#EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0cWk9FX0_dJurvtXowK8qY1M1xS6GeCfSLvuhnaWMXhihCpdyBJZuGc1mnw&s",Studio 360 News
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd5C_6951r0eE2TVmVIGfZqBi0FSwY1SzltsQ2j_vRFfs9xunvQSSom7G4qg&s",TNT Channel (Wink Player)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="N/A" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIEjyzC2WEzcDQPdteRJuhxNt_63KWPhWcdkiSOLacaidlDdK1lJP8YT1e8w&s",1TV Channel (Wink Player)
@@ -1070,8 +783,6 @@ https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5f
 https://streaming.almg.gov.br/live/tvalmg.m3u8
 #EXTINF:-1 group-title="FMRADIOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8qMZiOo1iRCkSRa4mNokyNAdYrbMWqlKiLEgrmLocuQ11234vB1Bf5N1HZ9o&s",Tamil Kuil FM
 http://live.tamilkuyilradio.com:8095/;stream/2
-#EXTINF:-1 group-title="Regional" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStmXXZf1YiYrwu0pXefW_Lyd6476dhTHGVBRVQf6OoJ7a_xtuhVml1hq7UHlc&s",group-title="Regional" - NDA Channel
-http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdZHp4d-6jBdfKG0OYcbgsxo9-rBQNm-tvRxV3kiKJrEoaQJj8U8JwsGzgbjY&s",group-title="Tamil" - Eet TV
 https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 group-title="UTube" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWS6gfm9uSedf9WZh2X_b2Gc2FQUpKM6KKq1ilAV-GyTpqQne-IHhVxD6Qg4&s",group-title="UTube" -  SaiBaba Aarti
@@ -1080,8 +791,6 @@ https://www.youtube.com/watch?v=Mwf3ByNX0YY
 http://s3.yesstreaming.net:7019/thayagam48K
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCweEjmwaHLdgrMMfRe37eWyBrKuWlFhnbJFFYqX0hYB342JNBshkxXUHAs0&s",Key TV (USA)
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl9K2x1mj_q546AzyYBAtCkHxcO-O8uXNxj3GR5vKNYfubh3BTBKr2laGlDh0&s",ICI Television
-https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-DFkkPMhsEJaJ7FriC5TQ6qs3E5fbYCX7IUUYxCHOYRUINL6px4u9DzwfXg&s",La Fresca FM
 http://stream.produccionesdale.com:8899/altacalidad
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNz558WyEioAe4dNeOwv-C7mw4AksrF1L0_n0E5JpMoeCJM6N22JfQjFfCYn4&s",La Mega FM
@@ -1090,10 +799,6 @@ http://streaming5.elitecomunicacion.es:8220/stream?type=.mp3
 https://video-auth1.iol.pt/beachcam/bclagoaalbufeira/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOanti9ShG6quAPMQc2U-uFxTxQZFu1CpdJ36WfXTAvzpjfTaXlJLAo-Gekm8&s",Latin Zone TV | US
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM04WqkD5cewo2eyLXPnNKpJ3L6MjvJtMrUv8UVPEfxnHMEyyJmoCxpgCO7uc&s",Holvoet TV | CL
-https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKJcYP2KdfX8XdCUYDQLMyGdr0ALBx_1p_u6FSWU7ORo2wW3DszBcm6pAkL58&s",Kronehit HD
-https://bitcdn-kronehit.bitmovin.com:443/v2/hls/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrFziT4agmj9DeNh0bCsIP8qEPbNTCG7r2gJU2E15juKKB4cIUnpNrCa11Fw&s",ITV Patagonia | CL
 https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbcLlK1IuyH5G9pUUkQxhips_iWuVBaZIgF21Blj7MnbkPZX2kCcULFY_22c&s",Leça da Palmeira
@@ -1104,28 +809,16 @@ http://137.74.160.250:8000/;stream/1
 https://video-auth1.iol.pt/beachcam/jardimdomardois/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF0Qx4yOhT9XP0PRV2RD0MQ8cxZZ5KZvnOUE5NbBy-0f2DJM1XiKUoGMPPXQ&s",Madeira - Ponta Pequena - Paul
 https://video-auth1.iol.pt/beachcam/madeirajardimdomar/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoOb4MHVm2S0VrcZuUr4QydNJcz4RuENyf-u-leyaA5oaO8nRF_Umi_qsYKw&s",NASA TV Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLG0dClH9G_2oZDMX4DOLpMpdx5qoyBWrtDh6S4HIpk7IQUe31GJ804dP-oA&s",MyTime Movie Network (BR)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaqUiRA4cArauaRx7z7ylZftA4hYcZYLEYEUYI_wdwv79G8z9y4TkCdxARcw&s",NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTplnJbDxNcX5CSLXOmza8f3WsIGWS137qpkxnDoUS2bjF1sAPQ2q3kbP8Cuw&s",Mir 24 HD Rússia
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnSL3-aJ7dSSXQBpYR3hGiT2joXx-84R6SBGa9WDEOkfwDGnEGs0f8rjOrhQ&s",Monte Clérigo
 https://video-auth1.iol.pt/beachcam/bcmonteclerigo/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpPzYM_RIXlRJjwZwHcjAkGZVwTAL49PSly1Bl-7Xhf_8XV5uTr7X_UugZ0Q&s",New Orleans TV (USA)
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49wsviGkoMrC34BTrZOsTYdFQZxKA1VoF8e8hrT4V-wLNbLbiQ5VvVpO2jw&s",Nazaré - Forte S. Miguel Arcanjo
-https://video-auth1.iol.pt/beachcam/bcarcanjo3/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ9Iv8G6zKj7G0I1HpC1LrXHa4bezCs-yWkXhVQd_Cf62pxhFMx3hITnI2xzo&s",Nazaré - Porto de Abrigo
-https://video-auth1.iol.pt/beachcam/bcportodeabrigo/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49wsviGkoMrC34BTrZOsTYdFQZxKA1VoF8e8hrT4V-wLNbLbiQ5VvVpO2jw&s",Nazaré - Forte S. Miguel Arcanjo - Baía
-https://video-auth1.iol.pt/beachcam/bcarcanjo1/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScnsIWo_4CC7g87Di0WRMvFoCFIYDZ_zyWBMTcyE6AHjRxugMUBOrD35RvBA&s",Nova Era TV¹ (Lages-SC)
 http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQgFRvGP9JrsXPL9rAG7yLDNoL8RnmOFcHnYROb_G23jCjgh9ygAlrTT4Ogo&s",Nazaré - Praia do Norte
-https://video-auth1.iol.pt/beachcam/canhaonazare/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtc4mnK6Ere1-paCFyjvN_lYp61whC-T_VYflxSscou_I80j8hu37MiF-R-4&s",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScnsIWo_4CC7g87Di0WRMvFoCFIYDZ_zyWBMTcyE6AHjRxugMUBOrD35RvBA&s",Nova Era TV SD
