@@ -11,7 +11,7 @@ http://icecast.hostingbahia.com.ar:8002/live?28344
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-id="ElGarageTV.ar" tvg-logo="https://i.imgur.com/v8Y3p0S.png",GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 group-title="Internacionales" tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
+#EXTINF:-1 group-title="Argentina" tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
 http://190.95.60.228:8500/play/a031
 #EXTINF:-1 group-title="Argentina" tvg-id="TelefeJujuy.ar" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029739824/IZeVtHxrcaOlzblx.png",Telefe Canal 7 Jujuy
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
