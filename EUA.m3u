@@ -1,12 +1,20 @@
 #EXTM3U x-tvg-url="https://github.com/acidjesuz/EPGTalk/raw/master/guide.xml"
 
 
-########## BROADCAST – ABC ##########
-#EXTINF:-1 group-title="USA" tvg-id="KMIZDT1.us",ABC Tampa FL
-https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/250px-ABC-2021-LOGO.svg.png",ABC (KSFY)
 http://173.225.32.123/KSFY-2363/index.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/250px-CBS_logo_%282020%29.svg.png",CBS (Generic)
+http://tkosportz.live:25461/folalawal@/4044225438/10374
+
+#EXTINF:-1 group-title="USA" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/250px-NBC_logo_2022_%28vertical%29.svg.png",NBC (UDP)
+http://4.59.210.197:8815/udp/127.0.0.1:6009
+
+#EXTINF:-1 group-title="USA" tvg-id="KMIZDT1.us",ABC Tampa FL
+https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+
+
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",KABC-TV ABC 7 (Los Angeles CA)
 https://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8
@@ -14,20 +22,19 @@ https://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="ABC.(KMIZ).Columbia,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (KMIZ)
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
 
-########## BROADCAST – CBS ##########
+
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/bHIK943.png",CBS West Palm Beach FL
 https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/250px-CBS_logo_%282020%29.svg.png",CBS West Palm Beach FL (Duplicate Signal)
 https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/250px-CBS_logo_%282020%29.svg.png",CBS (Generic)
-http://tkosportz.live:25461/folalawal@/4044225438/10374
+
 
 #EXTINF:-1 group-title="USA" tvg-id="CBS.(KRCG).Jefferson,.MO.us" tvg-name="CBS - Jefferson",CBS - Jefferson
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
 
-########## BROADCAST – NBC ##########
+
 #EXTINF:-1 group-title="USA" tvg-id="KYOUDT2.us",NBC Tampa FL
 https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 
@@ -40,26 +47,24 @@ https://fl61.moveonjoy.com/NY_New_York_NBC/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",KNBC-TV NBC 4 (Los Angeles CA)
 https://fl1.moveonjoy.com/CA_Los_Angeles_NBC/index.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/250px-NBC_logo_2022_%28vertical%29.svg.png",NBC (UDP)
-http://4.59.210.197:8815/udp/127.0.0.1:6009
 
 
-########## BROADCAST – FOX ##########
+
 #EXTINF:-1 group-title="USA" tvg-id="KQFXLD1.us",FOX West Palm Beach FL
 https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
 
 
-########## BROADCAST – PBS ##########
+
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Njl2UVf.png",PBS
 https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
 
 
-########## BROADCAST – CW ##########
+
 #EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",KTLA-TV CW 5 (Los Angeles CA)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/90546.ts
 #EXTINF:-1 tvg-id="I44.1.30617.zap2it.com" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/500px-The_CW_2024.svg.png", group-title="USA", CW USA
 https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 
-########## CLASSIC TV ##########
+
 #EXTINF:-1 group-title="USA" tvg-id="I80.78851.schedulesdirect.org" tvg-name="Cozi" tvg-logo="https://www.cozitv.com/wp-content/themes/cozi/static/images/cozilogo.png",Cozi
 https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
