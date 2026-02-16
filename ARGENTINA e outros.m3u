@@ -1,909 +1,513 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz"
-
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1005" tvg-id="" tvg-logo="https://i.imgur.com/r7q9o9X.png" , Camaras de Villa Gesell (Av. 3 y 104)
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://i.imgur.com/r7q9o9X.png",Camaras de Villa Gesell (Av. 3 y 104)
 http://cam104y3.gesell.com.ar/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1007" tvg-id="" tvg-logo="https://i.imgur.com/r7q9o9X.png" , Camaras de Villa Gesell (La Pinocha)
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://i.imgur.com/r7q9o9X.png",Camaras de Villa Gesell (La Pinocha)
 http://camlapinocha.gesell.com.ar/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1006" tvg-id="" tvg-logo="https://i.imgur.com/r7q9o9X.png" , Camaras de Villa Gesell (Buenos Aires y Playa)
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://i.imgur.com/r7q9o9X.png",Camaras de Villa Gesell (Buenos Aires y Playa)
 http://cambsasyplaya.gesell.com.ar/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1004" tvg-id="" tvg-logo="https://i.imgur.com/HbV9HoX.png", Norte | Bahía Blanca | Argentina
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://i.imgur.com/HbV9HoX.png",Norte | Bahía Blanca | Argentina
 http://icecast.hostingbahia.com.ar:8002/live?28344
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1009" tvg-id="AmericaTV.ar" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029739824/diqoDMIusahTvokV.png", America TV | Argentina - TDA 2.1
-https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1010" tvg-id="AmericaTV.ar" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029739824/diqoDMIusahTvokV.png", America TV | Argentina - TDA 2.1
-https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1013" tvg-id="AmericaCanal4Posadas.ar" tvg-logo="https://i.imgur.com/2Y5s4yO.png", América Canal 4 Posadas | AR
+#EXTINF:-1 group-title="Argentina" tvg-id="AmericaCanal4Posadas.ar" tvg-logo="https://i.imgur.com/2Y5s4yO.png",América Canal 4 Posadas | AR
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-chno="1008" tvg-id="ElGarageTV.ar" tvg-logo="https://i.imgur.com/v8Y3p0S.png", GARAGE TV
+#EXTINF:-1 group-title="Argentina" tvg-id="ElGarageTV.ar" tvg-logo="https://i.imgur.com/v8Y3p0S.png",GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Internacionales",Telefe
+#EXTINF:-1 group-title="Internacionales" tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
 http://190.95.60.228:8500/play/a031
-#EXTINF:-1 group-title="Argentina" tvg-chno="1033" tvg-id="Canal.Telefé.(Argentina).ar" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029739824/IZeVtHxrcaOlzblx.png", Telefe (VPN) - TDA 11.1
-https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:-1 group-title="Argentina" tvg-chno="1034" tvg-id="Canal.Telefé.(Argentina).ar" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029739824/IZeVtHxrcaOlzblx.png", Telefe (VPN) 2
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-chno="1035" tvg-id="TelefeJujuy.ar" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029739824/IZeVtHxrcaOlzblx.png", Telefe Canal 7 Jujuy
+#EXTINF:-1 group-title="Argentina" tvg-id="TelefeJujuy.ar" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029739824/IZeVtHxrcaOlzblx.png",Telefe Canal 7 Jujuy
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1040" tvg-id="ElGarage.ar" tvg-logo="https://i.imgur.com/v8Y3p0S.png", EL GARAGE TV - VER TV ABIERTA ONLINE
+#EXTINF:-1 group-title="Argentina" tvg-id="ElGarage.ar" tvg-logo="https://i.imgur.com/v8Y3p0S.png",EL GARAGE TV - VER TV ABIERTA ONLINE
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-chno="1051" tvg-id="Canal.13.de.Argentina.(El.Trece).ar" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029739824/WMZkemWKleKUxhKo.png", El Trece - TDA 13.1
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-chno="1052" tvg-id="Canal.13.de.Argentina.(El.Trece).ar" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029739824/WMZkemWKleKUxhKo.png", El Trece - TDA 13.1
-https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-chno="1083" tvg-id="Unife.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/unife.png" , UNIFE 25.1 - TDA 25.1
+#EXTINF:-1 group-title="Argentina" tvg-id="Unife.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/unife.png",UNIFE 25.1 - TDA 25.1
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1092" tvg-id="NetTV.ar" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029739824/BHmDCapmuSleLUUM.png" , NET TV 27.2 - TDA 27.2
+#EXTINF:-1 group-title="Argentina" tvg-id="NetTV.ar" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029739824/BHmDCapmuSleLUUM.png",NET TV 27.2 - TDA 27.2
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1093" tvg-id="NetTV.ar" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029739824/BHmDCapmuSleLUUM.png" , NET TV 27.2 - TDA 27.2
+#EXTINF:-1 group-title="Argentina" tvg-id="NetTV.ar" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029739824/BHmDCapmuSleLUUM.png",NET TV 27.2 - TDA 27.2
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1094" tvg-id="NetTV.ar" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029739824/BHmDCapmuSleLUUM.png" , NET TV 27.2 - TDA 27.2
-https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1095" tvg-id="NetTV.ar" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029739824/BHmDCapmuSleLUUM.png" , NET TV | Argentina - TDA 27.2
+#EXTINF:-1 group-title="Argentina" tvg-id="NetTV.ar" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029739824/BHmDCapmuSleLUUM.png",NET TV | Argentina - TDA 27.2
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1096" tvg-id="NetTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-tv-ar.png" , Net TV HD
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1097" tvg-id="NetTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-tv-ar.png" , Net TV SD1
+#EXTINF:-1 group-title="Argentina" tvg-id="NetTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-tv-ar.png",Net TV SD1
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream3/chunks.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1098" tvg-id="NetTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-tv-ar.png" , Net TV FHD
+#EXTINF:-1 group-title="Argentina" tvg-id="NetTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-tv-ar.png",Net TV FHD
 https://pantera1-100gb-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1100" tvg-id="NetTV.ar" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg" , Canal Net TV (Argentina)
+#EXTINF:-1 group-title="Argentina" tvg-id="NetTV.ar" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Net TV (Argentina)
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1131" tvg-id="CanalOnce.ar" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d800ee1a28bbee6769de24c5c050c40c.webp" , Canal Once - TDA 24.3
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1099" tvg-id="NetTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-tv-ar.png" , Net TV SD2
+#EXTINF:-1 group-title="Argentina" tvg-id="NetTV.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-tv-ar.png",Net TV SD2
 https://pantera1-100gb-cl-movistar.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1132" tvg-id="" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg" , Canal 5ATV (Argentina)
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal 5ATV (Argentina)
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1134" tvg-id="" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg" , Canal Chaco DX (Argentina)
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Chaco DX (Argentina)
 http://arcast.net:1935/mp/mp/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1136" tvg-id="" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg" , Canal Previsora TV (Argentina)
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Previsora TV (Argentina)
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1138" tvg-id="Canal5Corrientes.ar" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg" , 5TV (Corrientes) (480p)
+#EXTINF:-1 group-title="Argentina" tvg-id="Canal5Corrientes.ar" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",5TV (Corrientes) (480p)
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1139" tvg-id="Canal5Corrientes.ar" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg" , 5TV Corrientes
+#EXTINF:-1 group-title="Argentina" tvg-id="Canal5Corrientes.ar" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",5TV Corrientes
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1141" tvg-id="Canal5Corrientes.ar" tvg-logo="https://www.m3u.cl/logo/249_5TV.png" , 5TV | AR
+#EXTINF:-1 group-title="Argentina" tvg-id="Canal5Corrientes.ar" tvg-logo="https://www.m3u.cl/logo/249_5TV.png",5TV | AR
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1137" tvg-id="" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg" , Canal Vertv (Argentina)
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Vertv (Argentina)
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1143" tvg-id="" tvg-logo="https://www.m3u.cl/logo/224_Cadena_103.png" , Cadena 103 | AR
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://www.m3u.cl/logo/224_Cadena_103.png",Cadena 103 | AR
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1146" tvg-id="Canal13LaRioja.ar" tvg-logo="https://www.m3u.cl/logo/227_Canal_13_La_Rioja.jpg" , Canal 13 La Rioja | AR
+#EXTINF:-1 group-title="Argentina" tvg-id="Canal13LaRioja.ar" tvg-logo="https://www.m3u.cl/logo/227_Canal_13_La_Rioja.jpg",Canal 13 La Rioja | AR
 http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1153" tvg-id="" tvg-logo="https://www.m3u.cl/logo/243_Power.png" , Power | AR
-https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1156" tvg-id="" tvg-logo="https://www.m3u.cl/logo/814_TeleNord.jpg" , TeleNord | AR
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://www.m3u.cl/logo/814_TeleNord.jpg",TeleNord | AR
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1147" tvg-id="" tvg-logo="https://www.m3u.cl/logo/230_Canal_22_Buenos_Aires.jpg" , Canal 22 Buenos Aires | AR
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://www.m3u.cl/logo/230_Canal_22_Buenos_Aires.jpg",Canal 22 Buenos Aires | AR
 https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1154" tvg-id="" tvg-logo="https://www.m3u.cl/logo/210_Radiocanal_San_Francisco.png" , Radiocanal San Francisco | AR
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://www.m3u.cl/logo/210_Radiocanal_San_Francisco.png",Radiocanal San Francisco | AR
 http://204.199.3.2/.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1157" tvg-id="Uniteve.ar" tvg-logo="https://www.m3u.cl/logo/248_Uni_Teve.png" , Uni Teve | AR
+#EXTINF:-1 group-title="Argentina" tvg-id="Uniteve.ar" tvg-logo="https://www.m3u.cl/logo/248_Uni_Teve.png",Uni Teve | AR
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1158" tvg-id="" tvg-logo="https://www.m3u.cl/logo/1003_Sublime_Gracia_TV.png" , Sublime Gracia TV | AR
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://www.m3u.cl/logo/1003_Sublime_Gracia_TV.png",Sublime Gracia TV | AR
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1148" tvg-id="CanalE.ar" tvg-logo="https://mediakit.perfil.com/img/canal-e-logo.png" , CANAL E - PERFIL TV
-https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1162" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNFmRVSlvVv4Tka8ROzgBwd-CvTJt7toogM5_hCN9lKMzsvgaCUK_Ux0YZ0V8&s" , Canal 22 Buenos Aires | AR
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNFmRVSlvVv4Tka8ROzgBwd-CvTJt7toogM5_hCN9lKMzsvgaCUK_Ux0YZ0V8&s",Canal 22 Buenos Aires | AR
 https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1164" tvg-id="Canal13LaRioja.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNxWNiOWkSJPs_dcwU__8_HqXl__fhQ26F3bkGDj7SKw18OYA_6KtaF8MSyA&s" , Canal 13 La Rioja | AR
+#EXTINF:-1 group-title="Argentina" tvg-id="Canal13LaRioja.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNxWNiOWkSJPs_dcwU__8_HqXl__fhQ26F3bkGDj7SKw18OYA_6KtaF8MSyA&s",Canal 13 La Rioja | AR
 http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1166" tvg-id="Canal5Corrientes.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi28SxLtwNFD7k8t_3CEetAoECVdkQ3FPyOJZs4mPnO5_zR1E6ViQnfQmfgmA&s" , 5TV | AR
+#EXTINF:-1 group-title="Argentina" tvg-id="Canal5Corrientes.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi28SxLtwNFD7k8t_3CEetAoECVdkQ3FPyOJZs4mPnO5_zR1E6ViQnfQmfgmA&s",5TV | AR
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1160" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK71DmXuk4eVi9eAbhm_QGOsLggZvEXNejkzCMlrjoQBb543TCr6mgWfWPTg&s" , Canal 6 Posadas | AR
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK71DmXuk4eVi9eAbhm_QGOsLggZvEXNejkzCMlrjoQBb543TCr6mgWfWPTg&s",Canal 6 Posadas | AR
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1161" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3J7Yo43guS5rImHc8UM-ZkXo5HWBmzMIaBedUMon-x_sqBAMQ01HwDcqREg&s" , Canal 21 TV | AR
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3J7Yo43guS5rImHc8UM-ZkXo5HWBmzMIaBedUMon-x_sqBAMQ01HwDcqREg&s",Canal 21 TV | AR
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1168" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBqJ5EK_82Gq2Q1NadxFoqLtZOCPtvcn5Ba55nRrs1y21x7Xtmb3YTakmElg&s" , Sublime Gracia TV | AR
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBqJ5EK_82Gq2Q1NadxFoqLtZOCPtvcn5Ba55nRrs1y21x7Xtmb3YTakmElg&s",Sublime Gracia TV | AR
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Mundo" tvg-chno="1175" tvg-id="DWEspanol.de" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029739824/dqwySDXgxIyxUgou.png" , Deutsche Welle
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1185" tvg-id="Enlace.ar" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029739824/lpFYCmeqvmhnlTYx.png" , Enlace
-https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1184" tvg-id="Clic.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLIC.png?raw=true" , Clic
+#EXTINF:-1 group-title="Argentina" tvg-id="Clic.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLIC.png?raw=true",Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1169" tvg-id="CanalE.ar" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png" , Canal E
-https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1192" tvg-id="Canal4Esquel.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Esquel-en-vivo-Online.png" , Canal 4 Esquel
+#EXTINF:-1 group-title="Argentina" tvg-id="Canal4Esquel.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Esquel-en-vivo-Online.png",Canal 4 Esquel
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-chno="1190" tvg-id="ElObservador.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ROBS.png?raw=true" , El Observador 107.9
+#EXTINF:-1 group-title="Argentina" tvg-id="ElObservador.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ROBS.png?raw=true",El Observador 107.9
 https://s8.stweb.tv/observador/live/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/america.png" group-title="🏙️ Buenos Aires",✔️ America (3)
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/america.png" group-title="🏙️ Buenos Aires",✔️ America (2)
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TELEFE.png" group-title="🏙️ Buenos Aires",✔️ Telefe (2)
-https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master.m3u8
-
-#EXTINF:-1 tvg-id="BravoTV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/bravotv.png" group-title="🏙️ Buenos Aires",✔️ Bravo TV
+#EXTINF:-1 group-title="🏙️ Buenos Aires" tvg-id="BravoTV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/bravotv.png",✔️ Bravo TV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Argentinisima.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ArgentinisimaSatelital1.png" group-title="🏙️ Buenos Aires",✔️ Argentinisima Satelital
+#EXTINF:-1 group-title="🏙️ Buenos Aires" tvg-id="Argentinisima.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ArgentinisimaSatelital1.png",✔️ Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
-
-#EXTINF:-1 tvg-id="Canal2MDP.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/canal2mardelplata.png" group-title="🏙️ Buenos Aires",✔️ Canal 2 (Mar del Plata)
+#EXTINF:-1 group-title="🏙️ Buenos Aires" tvg-id="Canal2MDP.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/canal2mardelplata.png",✔️ Canal 2 (Mar del Plata)
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
-
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/america.png" group-title="🏙️ Buenos Aires",✔️ America
-https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
-
-#EXTINF:-1 tvg-id="TelpinTV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/canal2telpintvpinamar.png" group-title="🏙️ Buenos Aires",✔️ Canal 2 Telpin TV (Pinamar)
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal11LaCosta.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal11delaCosta1.png" group-title="🏙️ Buenos Aires",✔️ Canal 11 de la Costa
+#EXTINF:-1 group-title="🏙️ Buenos Aires" tvg-id="Canal11LaCosta.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal11delaCosta1.png",✔️ Canal 11 de la Costa
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
-
-#EXTINF:-1 tvg-id="Canal79.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal79MardelPlata.png" group-title="🏙️ Buenos Aires",✔️ Canal 79 (La Costa)
-https://streamconex.com:19360/lacosta/lacosta.m3u8
-
-#EXTINF:-1 tvg-id="Canal22Web.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal22WebCABA.png" group-title="🏙️ Buenos Aires",✔️ Canal 22 Web
+#EXTINF:-1 group-title="🏙️ Buenos Aires" tvg-id="Canal22Web.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal22WebCABA.png",✔️ Canal 22 Web
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal79.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal79MardelPlata.png" group-title="🏙️ Buenos Aires",✔️ Canal 79 (Santa Clara del Mar)
+#EXTINF:-1 group-title="🏙️ Buenos Aires" tvg-id="Canal79.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal79MardelPlata.png",✔️ Canal 79 (Santa Clara del Mar)
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
-
-#EXTINF:-1 tvg-id="Canal79.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal79MardelPlata.png" group-title="🏙️ Buenos Aires",✔️ Canal 79 (Villa Maza)
+#EXTINF:-1 group-title="🏙️ Buenos Aires" tvg-id="Canal79.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal79MardelPlata.png",✔️ Canal 79 (Villa Maza)
 https://streamconex.com:19360/villamaza/villamaza.m3u8
-
-#EXTINF:-1 tvg-id="CeltaTV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/celtatv.png" group-title="🏙️ Buenos Aires",✔️ Celta TV
+#EXTINF:-1 group-title="🏙️ Buenos Aires" tvg-id="CeltaTV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/celtatv.png",✔️ Celta TV
 https://vivo.solumedia.com:19360/celta/celta.m3u8
-
-#EXTINF:-1 tvg-id="CeltTV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/celttvtornquist.png" group-title="🏙️ Buenos Aires",✔️ Celt TV (Tornquist)
+#EXTINF:-1 group-title="🏙️ Buenos Aires" tvg-id="CeltTV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/celttvtornquist.png",✔️ Celt TV (Tornquist)
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
-
-#EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/cincotvgeneralpacheco.png" group-title="🏙️ Buenos Aires",✔️ Cinco TV (General Pacheco)
+#EXTINF:-1 group-title="🏙️ Buenos Aires" tvg-id="CincoTV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/cincotvgeneralpacheco.png",✔️ Cinco TV (General Pacheco)
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CiudadMagazine.png" group-title="🏙️ Buenos Aires",✔️ Ciudad Magazine
+#EXTINF:-1 group-title="🏙️ Buenos Aires" tvg-id="CiudadMagazine.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CiudadMagazine.png",✔️ Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="NetTV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/NetTV.png" group-title="🏙️ Buenos Aires",✔️ Net TV (2)
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TeleJunin.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/telejunin.png" group-title="🏙️ Buenos Aires",✔️ TeleJunin
+#EXTINF:-1 group-title="🏙️ Buenos Aires" tvg-id="TeleJunin.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/telejunin.png",✔️ TeleJunin
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
-
-#EXTINF:-1 tvg-id="NetTV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/NetTV.png" group-title="🏙️ Buenos Aires",✔️ Net TV
-https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal247.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/24-7.png" group-title="🎙️ Noticias",✔️ 24/7 Canal de Noticias
+#EXTINF:-1 group-title="🎙️ Noticias" tvg-id="Canal247.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/24-7.png",✔️ 24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/Source.m3u8
-
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Telemax.png" group-title="🏙️ Buenos Aires",✔️ Telemax
-http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-
-#EXTINF:-1 tvg-id="TVUNLP.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/UNLP.png" group-title="🏙️ Buenos Aires",✔️ UNLP TV (La Plata)
+#EXTINF:-1 group-title="🏙️ Buenos Aires" tvg-id="TVUNLP.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/UNLP.png",✔️ UNLP TV (La Plata)
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/canal26.png" group-title="🎙️ Noticias",✔️ Canal 26
-http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-
-#EXTINF:-1 tvg-id="CatamarcaTV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/catamarcatv.png" group-title="🏡 Provincia",✔️ Catamarca TV
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="CatamarcaTV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/catamarcatv.png",✔️ Catamarca TV
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
-
-#EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal9ResistenciaChaco.png" group-title="🏡 Provincia",✔️ Canal 9 (Chaco)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Canal9Resistencia.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal9ResistenciaChaco.png",✔️ Canal 9 (Chaco)
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png" group-title="🎙️ Noticias",✔️ A24
+#EXTINF:-1 group-title="🎙️ Noticias" tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png",✔️ A24
 https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
-
-#EXTINF:-1 tvg-id="Canal4Esquel.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal4esquelchubut.png" group-title="🏡 Provincia",✔️ Canal 4 (Esquel, Chubut)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Canal4Esquel.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal4esquelchubut.png",Chubut)
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tele5Trelew.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/telecincotrelewchubut.png" group-title="🏡 Provincia",✔️ Tele Cinco Trelew (Chubut)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Tele5Trelew.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/telecincotrelewchubut.png",✔️ Tele Cinco Trelew (Chubut)
 https://videohd.live:19360/8016/8016.m3u8
-
-#EXTINF:-1 tvg-id="TeleCondor.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal14TeleCondorSatelitalCordoba.png" group-title="🏡 Provincia",✔️ Canal 14 TeleCondor Satelital (Cordoba)
-https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
-
-#EXTINF:-1 tvg-id="UniTeve.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/unitvvillamariacordoba.png" group-title="🏡 Provincia",✔️ UniTeve (Villa Maria, Cordoba)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="UniTeve.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/unitvvillamariacordoba.png",Cordoba)
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-
-#EXTINF:-1 tvg-id="Canal5Corrientes.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/5TVCorrientes.png" group-title="🏡 Provincia",✔️ 5TV (Corrientes)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Canal5Corrientes.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/5TVCorrientes.png",✔️ 5TV (Corrientes)
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal4SanFrancisco.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal4sanfranciscocordoba.png" group-title="🏡 Provincia",✔️ Canal 4 (San Francisco, Cordoba)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Canal4SanFrancisco.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal4sanfranciscocordoba.png",Cordoba)
 http://204.199.3.2/.m3u8
-
-#EXTINF:-1 tvg-id="13Max.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/13MaxTelevisi%C3%B3nCorrientes.png" group-title="🏡 Provincia",✔️ 13Max Televisión (Corrientes)
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TeleNord.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/telenordcorrientes.png" group-title="🏡 Provincia",✔️ TeleNord (Corrientes)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="TeleNord.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/telenordcorrientes.png",✔️ TeleNord (Corrientes)
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal9LitoralEntreRios.png" group-title="🏡 Provincia",✔️ Canal 9 Litoral (Entre Rios)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Canal9Litoral.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal9LitoralEntreRios.png",✔️ Canal 9 Litoral (Entre Rios)
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal3LaPampa.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal3LaPampa.png" group-title="🏡 Provincia",✔️ Canal 3 (La Pampa)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Canal3LaPampa.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal3LaPampa.png",✔️ Canal 3 (La Pampa)
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SomosUnoChaco.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/somosunochaco.png" group-title="🏡 Provincia",✔️ Somos Uno (Chaco)
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal7jujuy.png" group-title="🏡 Provincia",✔️ Canal 7 (Jujuy)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Canal7Jujuy.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal7jujuy.png",✔️ Canal 7 (Jujuy)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal13LaRioja.png" group-title="🏡 Provincia",✔️ Canal 13 (La Rioja)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Canal13LaRioja.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal13LaRioja.png",✔️ Canal 13 (La Rioja)
 http://arcast.net:1935/mp/mp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/TN.png" group-title="🎙️ Noticias",✔️ TN
+#EXTINF:-1 group-title="🎙️ Noticias" tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/TN.png",✔️ TN
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
-
-#EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal4PosadasMisiones.png" group-title="🏡 Provincia",✔️ Canal 4 (Posadas, Misiones)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Canal4Posadas.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal4PosadasMisiones.png",Misiones)
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal7Neuquen.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal7Neuqu%C3%A9n.png" group-title="🏡 Provincia",✔️ Canal 7 (Neuquén)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Canal7Neuquen.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal7Neuqu%C3%A9n.png",✔️ Canal 7 (Neuquén)
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal6Posadas.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal6PosadasMisiones.png" group-title="🏡 Provincia",✔️ Canal 6 (Posadas, Misiones)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Canal6Posadas.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal6PosadasMisiones.png",Misiones)
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal2Misiones.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal2Misiones.png" group-title="🏡 Provincia",✔️ Canal 2 (Misiones)
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal7Salta.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal7Salta.png" group-title="🏡 Provincia",✔️ Canal 7 (Salta)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Canal7Salta.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal7Salta.png",✔️ Canal 7 (Salta)
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
-
-#EXTINF:-1 tvg-id="Canal21Posadas.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal21TVPosadasMisiones.png" group-title="🏡 Provincia",✔️ Canal 21 TV (Posadas, Misiones)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Canal21Posadas.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal21TVPosadasMisiones.png",Misiones)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/NeoxTVSalta.png" group-title="🏡 Provincia",✔️ Neox TV (Salta)
-https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
-
-#EXTINF:-1 tvg-id="Canal34SanJuan.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal34SanJuan.png" group-title="🏡 Provincia",✔️ Canal 34 (San Juan)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Canal34SanJuan.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal34SanJuan.png",✔️ Canal 34 (San Juan)
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal3LasHeras.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal3LasHerasSantaCruz.png" group-title="🏡 Provincia",✔️ Canal 3 (Las Heras; Santa Cruz)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Canal3LasHeras.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal3LasHerasSantaCruz.png",✔️ Canal 3 (Las Heras; Santa Cruz)
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal5PicoTruncado.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal5PicoTruncadoSantaCruz.png" group-title="🏡 Provincia",✔️ Canal 5 (Pico Truncado, Santa Cruz)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Canal5PicoTruncado.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal5PicoTruncadoSantaCruz.png",Santa Cruz)
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal5SantaFe.png" group-title="🏡 Provincia",✔️ Canal 5 (Santa Fe)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal5SantaFe.png",✔️ Canal 5 (Santa Fe)
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CableImagenArmstrongSantaFe.png" group-title="🏡 Provincia",✔️ Cable Imagen Armstrong (Santa Fe)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CableImagenArmstrongSantaFe.png",✔️ Cable Imagen Armstrong (Santa Fe)
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal7SantiagodelEstero.png" group-title="🏡 Provincia",✔️ Canal 7 (Santiago del Estero)
+#EXTINF:-1 group-title="🏡 Provincia" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal7SantiagodelEstero.png",✔️ Canal 7 (Santiago del Estero)
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/AiredeSantaFe.png" group-title="🏡 Provincia",✔️ Aire de Santa Fe
-https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/amxnoticas.png" group-title="🎙️ Noticias Internacional" ,✔️ AMX Noticias (Mexico)
+#EXTINF:-1 group-title="🎙️ Noticias Internacional" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/amxnoticas.png",✔️ AMX Noticias (Mexico)
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/canal10noticiascancun.png" group-title="🎙️ Noticias Internacional" ,✔️ Canal 10 Noticias Cancun (Mexico)
-https://stream2.canal10mx.com/live/movil/chunklist_w1994174427.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/c4alerta.png" group-title="🎙️ Noticias Internacional",✔️ C4 en Alerta (Mexico)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CGTNEspa%C3%B1olChina.png" group-title="🎙️ Noticias Internacional",✔️ CGTN Español (China)
+#EXTINF:-1 group-title="🎙️ Noticias Internacional" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CGTNEspa%C3%B1olChina.png",✔️ CGTN Español (China)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/canal44mexico.png" group-title="🎙️ Noticias Internacional",✔️ Canal 44 (Mexico)
+#EXTINF:-1 group-title="🎙️ Noticias Internacional" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/canal44mexico.png",✔️ Canal 44 (Mexico)
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/chunklist_w541086724.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/dw.png" group-title="🎙️ Noticias Internacional",✔️ DW En Español (Alemania)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/EstrellaNewsMexico.png" group-title="🎙️ Noticias Internacional",✔️ Estrella News (Mexico)
+#EXTINF:-1 group-title="🎙️ Noticias Internacional" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/EstrellaNewsMexico.png",✔️ Estrella News (Mexico)
 https://estrellanews-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CGTNEspa%C3%B1olChina.png" group-title="🎙️ Noticias Internacional",✔️ CGTN Español (2) (China)
+#EXTINF:-1 group-title="🎙️ Noticias Internacional" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CGTNEspa%C3%B1olChina.png",✔️ CGTN Español (2) (China)
 http://38.44.109.41:8003/play/a021/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/dw.png" group-title="🎙️ Noticias Internacional",✔️ DW En Español (2) (Alemania)
+#EXTINF:-1 group-title="🎙️ Noticias Internacional" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/dw.png",✔️ DW En Español (2) (Alemania)
 http://38.44.109.41:8003/play/a01b/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/EuronewsFrancia.png" group-title="🎙️ Noticias Internacional",✔️ Euronews (Francia)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal2deUshuaiaTierraDelFuego.png" group-title="🏡 Provincia",✔️ Canal 2 de Ushuaia (Tierra Del Fuego)
-https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/HispanTVIran.png" group-title="🎙️ Noticias Internacional",✔️ HispanTV (2) (Iran)
+#EXTINF:-1 group-title="🎙️ Noticias Internacional" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/HispanTVIran.png",✔️ HispanTV (2) (Iran)
 http://38.44.109.41:8003/play/a024/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/Canal24Horas.png" group-title="🎙️ Noticias Internacional",✔️ Canal 24 Horas (España)
+#EXTINF:-1 group-title="🎙️ Noticias Internacional" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/Canal24Horas.png",✔️ Canal 24 Horas (España)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/MilenioTV.png" group-title="🎙️ Noticias Internacional",✔️ Milenio (2) (Mexico)
+#EXTINF:-1 group-title="🎙️ Noticias Internacional" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/MilenioTV.png",✔️ Milenio (2) (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/HispanTVIran.png" group-title="🎙️ Noticias Internacional",✔️ HispanTV (Iran)
-https://live.presstv.ir/hls/hispantv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/telediariomex.png" group-title="🎙️ Noticias Internacional",✔️ TeleDiario Now (Mexico)
+#EXTINF:-1 group-title="🎙️ Noticias Internacional" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/telediariomex.png",✔️ TeleDiario Now (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/RT.png" group-title="🎙️ Noticias Internacional",✔️ RT en Español (2) (Rusia)
+#EXTINF:-1 group-title="🎙️ Noticias Internacional" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/RT.png",✔️ RT en Español (2) (Rusia)
 http://38.44.109.41:8003/play/a00a/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/TeleSUR.png" group-title="🎙️ Noticias Internacional",✔️ Telesur (Venezuela)
+#EXTINF:-1 group-title="🎙️ Noticias Internacional" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/TeleSUR.png",✔️ Telesur (Venezuela)
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/RT.png" group-title="🎙️ Noticias Internacional",✔️ RT en Español (Rusia)
+#EXTINF:-1 group-title="🎙️ Noticias Internacional" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/RT.png",✔️ RT en Español (Rusia)
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/TeleSUR.png" group-title="🎙️ Noticias Internacional",✔️ Telesur (2) (Venezuela)
+#EXTINF:-1 group-title="🎙️ Noticias Internacional" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/TeleSUR.png",✔️ Telesur (2) (Venezuela)
 http://38.44.109.41:8003/play/a01q/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/puranoticia.png" group-title="🎙️ Noticias Internacional" ,✔️ Pura Noticia (Chile)
+#EXTINF:-1 group-title="🎙️ Noticias Internacional" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/puranoticia.png",✔️ Pura Noticia (Chile)
 https://pnt.janusmedia.tv/hls/pnt.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/calitvcolombia.png" group-title="🌍 Canales Internacionales",✔️ Cali TV (Colombia)
-http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/TVBRICSRusia.png" group-title="🎙️ Noticias Internacional",✔️ TV BRICS (Rusia)
-https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal2AlpavisionNeiva.co" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/alpavisionneivacolombia.png" group-title="🌍 Canales Internacionales",✔️ Alpavisión Neiva (Colombia)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Canal2AlpavisionNeiva.co" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/alpavisionneivacolombia.png",✔️ Alpavisión Neiva (Colombia)
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/BumTelevisi%C3%B3nColombia.png" group-title="🌍 Canales Internacionales",✔️ Bum Televisión (Colombia)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="CanalVisionDorada.co" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/BumTelevisi%C3%B3nColombia.png",✔️ Bum Televisión (Colombia)
 https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/Univision247Mexico.png" group-title="🎙️ Noticias Internacional",✔️ Univision 24|7 (Mexico)
+#EXTINF:-1 group-title="🎙️ Noticias Internacional" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/Univision247Mexico.png",✔️ Univision 24|7 (Mexico)
 https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal1%C3%91ubleChile.png" group-title="🌍 Canales Internacionales",✔️ Canal 1 Ñuble (Chile)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal1%C3%91ubleChile.png",✔️ Canal 1 Ñuble (Chile)
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal8Tv%2B.png" group-title="🌍 Canales Internacionales",✔️ Canal 8 TV+ (Colombia)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal8Tv%2B.png",✔️ Canal 8 TV+ (Colombia)
 https://movil.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal2Quell%C3%B3nChile.png" group-title="🌍 Canales Internacionales",✔️ Canal 2 Quellón (Chile)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal2Quell%C3%B3nChile.png",✔️ Canal 2 Quellón (Chile)
 https://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/latinanoticias.png" group-title="🎙️ Noticias Internacional",✔️ Latina Noticias (Peru)
+#EXTINF:-1 group-title="🎙️ Noticias Internacional" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/latinanoticias.png",✔️ Latina Noticias (Peru)
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/RCNColombia.png" group-title="🌍 Canales Internacionales",✔️ RCN (Colombia)
-http://clubtv.link/jun27/phpcode/lista0.php?c=71&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal1colombia.png" group-title="🌍 Canales Internacionales",✔️ Canal 1 (Colombia)
-http://38.44.109.41:8003/play/a020/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/rcnmascolombia.png" group-title="🌍 Canales Internacionales",✔️ RCN Mas (Colombia)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/rcnmascolombia.png",✔️ RCN Mas (Colombia)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CaracolTVColombia.png" group-title="🌍 Canales Internacionales",✔️ Caracol TV (Colombia)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CaracolTVColombia.png",✔️ Caracol TV (Colombia)
 http://38.44.109.41:8003/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal9biobiochile.png" group-title="🌍 Canales Internacionales",✔️ Canal 9 Bio Bio Television (Chile)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal9biobiochile.png",✔️ Canal 9 Bio Bio Television (Chile)
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Se%C3%B1alColombiaColombia.png" group-title="🌍 Canales Internacionales",✔️ Señal Colombia (Colombia)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Se%C3%B1alColombiaColombia.png",✔️ Señal Colombia (Colombia)
 http://38.44.109.41:8003/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CityTV1Colombia.png" group-title="🌍 Canales Internacionales",✔️ City TV (Colombia)
-http://38.44.109.41:8003/play/a02f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ExtraTVCostaRica.png" group-title="🌍 Canales Internacionales",✔️ Extra TV (Costa Rica)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ExtraTVCostaRica.png",✔️ Extra TV (Costa Rica)
 https://d2axu5ozwr5gk0.cloudfront.net/480p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuadorTVEcuador.png" group-title="🌍 Canales Internacionales",✔️ Ecuador TV (2) (Ecuador)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuadorTVEcuador.png",✔️ Ecuador TV (2) (Ecuador)
 http://38.44.109.41:8003/play/a02b/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuavisaEcuador.png" group-title="🌍 Canales Internacionales",✔️ Ecuavisa (2) (Ecuador)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuavisaEcuador.png",✔️ Ecuavisa (2) (Ecuador)
 http://38.44.109.41:8003/play/a019/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TeleUnoCostaRica.png" group-title="🌍 Canales Internacionales",✔️ Tele Uno (Costa Rica)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TeleUnoCostaRica.png",✔️ Tele Uno (Costa Rica)
 https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/chunklist_w1246775036.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TeleamazonasEcuador.png" group-title="🌍 Canales Internacionales",✔️ Teleamazonas (2) (Ecuador)
-http://38.44.109.41:8003/play/a01d/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuavisaEcuador.png" group-title="🌍 Canales Internacionales",✔️ Ecuavisa (Ecuador)
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b2163355050067fdfde47773e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/vtvhonduras.png" group-title="🌍 Canales Internacionales",✔️ VTV (Honduras)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/vtvhonduras.png",✔️ VTV (Honduras)
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuadorTVEcuador.png" group-title="🌍 Canales Internacionales",✔️ Ecuador TV (Ecuador)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuadorTVEcuador.png",✔️ Ecuador TV (Ecuador)
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Wuan%2BEcuador.png" group-title="🌍 Canales Internacionales",✔️ Wuan+ (Ecuador)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Wuan%2BEcuador.png",✔️ Wuan+ (Ecuador)
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/atvhdperu.png" group-title="🌍 Canales Internacionales",✔️ ATV (Peru)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/atvhdperu.png",✔️ ATV (Peru)
 https://d19e55ehz2il4i.cloudfront.net/original.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/atvsurperu.png" group-title="🌍 Canales Internacionales",✔️ ATV Sur (Peru)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/atvsurperu.png",✔️ ATV Sur (Peru)
 http://38.44.109.41:8003/play/a02r/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AutenticaTVPeru.png" group-title="🌍 Canales Internacionales",✔️ Autentica TV (Peru)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AutenticaTVPeru.png",✔️ Autentica TV (Peru)
 https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/tvcosmosperu.png" group-title="🌍 Canales Internacionales",✔️ TV Cosmos (Peru)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/tvcosmosperu.png",✔️ TV Cosmos (Peru)
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1336493216.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/PanamericanaPeru.png" group-title="🌍 Canales Internacionales",✔️ Panamericana TV (Peru)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/PanamericanaPeru.png",✔️ Panamericana TV (Peru)
 http://38.44.109.41:8003/play/a013/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TelemundoPuerto%20Rico.png" group-title="🌍 Canales Internacionales",✔️ Telemundo (2) (Puerto Rico)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TelemundoPuerto%20Rico.png",✔️ Telemundo (2) (Puerto Rico)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/telemundopunto2.png" group-title="🌍 Canales Internacionales",✔️ Telemundo Punto 2 (Puerto Rico)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/telemundopunto2.png",✔️ Telemundo Punto 2 (Puerto Rico)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/LatinaTVPeru.png" group-title="🌍 Canales Internacionales",✔️ Latina (Peru)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/LatinaTVPeru.png",✔️ Latina (Peru)
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/10microvisionrepdominicana.png" group-title="🌍 Canales Internacionales",✔️ 10 Microvision (Rep. dominicana)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/10microvisionrepdominicana.png",✔️ 10 Microvision (Rep. dominicana)
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/latinaclasicosperu.png" group-title="🌍 Canales Internacionales",✔️ Latina Clasicos (Peru)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/latinaclasicosperu.png",✔️ Latina Clasicos (Peru)
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/rtvdrepublicadominicana.png" group-title="🌍 Canales Internacionales",✔️ Canal 4 RTVD (Rep. Dominicana)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/rtvdrepublicadominicana.png",✔️ Canal 4 RTVD (Rep. Dominicana)
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/teleunionrepublicadominicana.png" group-title="🌍 Canales Internacionales",✔️ Teleunion (Rep. Dominicana)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/teleunionrepublicadominicana.png",✔️ Teleunion (Rep. Dominicana)
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/readyhdrepdominicana.png" group-title="🌍 Canales Internacionales",✔️ ReadyHD (Rep. Dominicana)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/readyhdrepdominicana.png",✔️ ReadyHD (Rep. Dominicana)
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AlcanceTVVenezuela.png" group-title="🌍 Canales Internacionales",✔️ Alcance TV (Venezuela)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AlcanceTVVenezuela.png",✔️ Alcance TV (Venezuela)
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CanalOnceDelZuliaVenezuela.png" group-title="🌍 Canales Internacionales",✔️ Canal Once Del Zulia (Venezuela)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CanalOnceDelZuliaVenezuela.png",✔️ Canal Once Del Zulia (Venezuela)
 https://streaming5.globalhostla.com/rtplive/canalzulia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ReformaTVVenezuela.png" group-title="🌍 Canales Internacionales",✔️ Reforma TV (Venezuela)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ReformaTVVenezuela.png",✔️ Reforma TV (Venezuela)
 https://5bf8041cb3fed.streamlock.net:443/ReformaTV/ReformaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/PromarTVVenezuela.png" group-title="🌍 Canales Internacionales",✔️ Promar TV (Venezuela)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/PromarTVVenezuela.png",✔️ Promar TV (Venezuela)
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TelearaguaVenezuela.png" group-title="🌍 Canales Internacionales",✔️ Telearagua (Venezuela)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TelearaguaVenezuela.png",✔️ Telearagua (Venezuela)
 http://45.173.198.59:8080/hls/nginx3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TorococoTVVenezuela.png" group-title="🌍 Canales Internacionales",✔️ Torococo TV (Venezuela)
-https://us.streaminghd.cl/torococotelevision/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TRTVenezuela.png" group-title="🌍 Canales Internacionales",✔️ TRT (Venezuela)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TRTVenezuela.png",✔️ TRT (Venezuela)
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TRVVenezuela.png" group-title="🌍 Canales Internacionales",✔️ TRV (Venezuela)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TRVVenezuela.png",✔️ TRV (Venezuela)
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVFANBVenezuela.png" group-title="🌍 Canales Internacionales",✔️ TV FANB (Venezuela)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVFANBVenezuela.png",✔️ TV FANB (Venezuela)
 https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ValeTVVenezuela.png" group-title="🌍 Canales Internacionales",✔️ Vale TV (Venezuela)
-https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVSMaracayVenezuela.png" group-title="🌍 Canales Internacionales",✔️ TVS Maracay (Venezuela)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVSMaracayVenezuela.png",✔️ TVS Maracay (Venezuela)
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/ewtn.png" group-title="🌍 Canales Internacionales",✔️ EWTN (2) (Usa)
-http://38.44.109.41:8003/play/a01u/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Andaluc%C3%ADaTelevisionEspa%C3%B1a.png" group-title="🌍 Canales Internacionales",✔️ Andalucía Television (España)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Andaluc%C3%ADaTelevisionEspa%C3%B1a.png",✔️ Andalucía Television (España)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12685&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EsTuTeleEspa%C3%B1a.png" group-title="🌍 Canales Internacionales",✔️ EsTuTele (España)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EsTuTeleEspa%C3%B1a.png",✔️ EsTuTele (España)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12680&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ElToroTVEspa%C3%B1a.png" group-title="🌍 Canales Internacionales",✔️ El Toro TV (España)
-https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/StarTVEEspa%C3%B1a.png" group-title="🌍 Canales Internacionales",✔️ Star TVE (España)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/StarTVEEspa%C3%B1a.png",✔️ Star TVE (España)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/a3cine.png" group-title="🎬 Cine",✔️ A3Cine
+#EXTINF:-1 group-title="🎬 Cine" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/a3cine.png",✔️ A3Cine
 http://38.44.109.41:8003/play/a01k/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/La2TVEspa%C3%B1a.png" group-title="🌍 Canales Internacionales",✔️ La 2 TV (España)
+#EXTINF:-1 group-title="🌍 Canales Internacionales" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/La2TVEspa%C3%B1a.png",✔️ La 2 TV (España)
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/Atreseries.png" group-title="🎬 Cine",✔️ A3s
-http://160.20.165.246:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="🎬 Cine",✔️ AMC
+#EXTINF:-1 group-title="🎬 Cine" tvg-id="Undefined" tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true",✔️ AMC
 https://amc-amcespanol-1-us.plex.wurl.tv/1200.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="🎬 Cine",✔️ AMC (2)
-http://clubtv.link/jun27/phpcode/lista0.php?c=57&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AXN.png?raw=true" group-title="🎬 Cine",✔️ AXN (2)
-http://clubtv.link/jun27/phpcode/lista0.php?c=58&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/CINECANAL.png?raw=true" group-title="🎬 Cine",✔️ Cinecanal
-http://clubtv.link/jun27/phpcode/lista0.php?c=50&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/aztecacinema.png?raw=true" group-title="🎬 Cine",✔️ Cinema Azteca
-http://clubtv.link/jun27/phpcode/lista0.php?c=89&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/CINEMAX.png?raw=true" group-title="🎬 Cine",✔️ Cinemax
-http://clubtv.link/jun27/phpcode/lista0.php?c=49&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/cinemadinamita.png?raw=true" group-title="🎬 Cine",✔️ Cinema Dinamita
-http://clubtv.link/jun27/phpcode/lista0.php?c=85&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/DEPELICULA.png?raw=true" group-title="🎬 Cine",✔️ D Pelicula
-http://clubtv.link/jun27/phpcode/lista0.php?c=48&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/freetvaccion.png?raw=true" group-title="🎬 Cine",✔️ FreeTV Accion
-https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist/amg01024-olympusat-topcinelatam-ono/cb573d167d6c668784cd3778d2f04482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8e85810d93aa6b6014892284dfa83439fd401b389815d83158471f614999bf483d311d08c8c599e06e627475c2b79ebc213d39d0fef89c33e68cd272c1e4f02b2a0c1a91c6bd3451405fbfcc8bc63a7169fd17ff50a5dae13a75f96399c6aa910d58724c4fc82f16c1b49cead5a6534eee6af9aeb3441de0c9af2b388190d98f2073646d97de7313f3782f8f40196cf67d6dc5d8da07d0d2b9ade0a8c8aa5cde9a2884f883384c4fb9572464b750d01834ef8eb07bd28d96be6c710533b272184bb7789d7831d5a0b4e829310d31615abdef9f5b57a14d8691c53e661d55e162cc8312c5af728fcae0a36c14c74d93d29ef486fcf0dfdbc3fbbb2c8f9073fa690d251a150ffa703c4f701b01f5a3366e2cb02711f0417beef621e7e78d355dbd1dfef7305059e81a78ac35c3549361b4b019bf7f4718fc0e63b1813f5657c0e1e77169217986dd1143b6344a84e89db631384023263f3b5332f3606fccea38482c2dc0ab670de958553433a5d70f332153651ddb7805c8f5021185c4f850a50758ff83b289efd227212e114acbd56e851430664c0fe03480753011b60f9a349a790660e7fc3f6f953d9fb8552648839b108139faaab045b4630a63d7fb6a6580b6299d02eca331bc605d127899006b053eeb77d4e216ab8e276ea5ab7d089870a933ea85c4918801ceac4bbeb84323e82e09cd72fb9861e5ef20fc6dc395320362ddba6c206eb58f4e256a80d75213842d096095087a75509993b71739a81c299a8d939ddab04fb58c67a0aaa5b0c61b48268aacb85faf48360431399989f0ceaf1c6d19796fd2f705d386bdbd909013e9807e09c0be49a187ec4809faa8f3dc03bb163fbcc9d06d0118c87fc02a79b98bedc721455551ebce2ffe81bd6b94514e82f951d6348d2daa4c764fddbae0e37bf0eb7cb5438dc4b1437fea2f500c73caba6687a95e0476d9525628fb0856576ae03a82f3571f4b7f14d33ddcc02960dd6d5c00642880709f7053945a96ff193b0796583e84118300d6ab175ea5aae47075e6ee0c38b7da4c6a756c25d8bf3/42/848x480_1686360/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/freetvdrama.png" group-title="🎬 Cine",✔️ FreeTV Drama
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/freetvestelar.png" group-title="🎬 Cine",✔️ FreeTV Estelar
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/freetvlive.png" group-title="🎬 Cine",✔️ FreeTV Live
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/freetvfamilia.png" group-title="🎬 Cine",✔️ FreeTV Familia
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/freetvsure%C3%B1o.png" group-title="🎬 Cine",✔️ FreeTV Sureño
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/GOLDEN.png" group-title="🎬 Cine",✔️ Golden (2)
-http://clubtv.link/jun27/phpcode/lista0.php?c=26&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/freetvterror.png" group-title="🎬 Cine",✔️ FreeTV Terror
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/grjigo.png" group-title="🎬 Cine",✔️ GRJNGO
+#EXTINF:-1 group-title="🎬 Cine" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/grjigo.png",✔️ GRJNGO
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hbo.png" group-title="🎬 Cine",✔️ HBO
-http://clubtv.link/jun27/phpcode/lista0.php?c=24&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hbo2.png" group-title="🎬 Cine",✔️ HBO 2
-http://clubtv.link/jun27/phpcode/lista0.php?c=23&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hbofamily.png" group-title="🎬 Cine",✔️ HBO Family
-https://clubtv.link/jun27/phpcode/lista0.php?c=22&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hboplus.png" group-title="🎬 Cine",✔️ HBO +
-https://clubtv.link/jun27/phpcode/lista0.php?c=21&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hbosignature.png" group-title="🎬 Cine",✔️ HBO Signature 🔊(ING)
-https://clubtv.link/jun27/phpcode/lista0.php?c=20&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hboxtreme.png" group-title="🎬 Cine",✔️ HBO Xtreme
-https://clubtv.link/jun27/phpcode/lista0.php?c=16&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/megacinetv.png" group-title="🎬 Cine",✔️ MegaCineTV
+#EXTINF:-1 group-title="🎬 Cine" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/megacinetv.png",✔️ MegaCineTV
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/mytimemovienetwork.png" group-title="🎬 Cine",✔️ MyTime Movie Network
+#EXTINF:-1 group-title="🎬 Cine" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/mytimemovienetwork.png",✔️ MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/oromartv.png" group-title="🎬 Cine",✔️ Oromar TV
+#EXTINF:-1 group-title="🎬 Cine" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/oromartv.png",✔️ Oromar TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/oromartv.png" group-title="🎬 Cine",✔️ Oromar TV (2)
+#EXTINF:-1 group-title="🎬 Cine" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/oromartv.png",✔️ Oromar TV (2)
 http://38.44.109.41:8003/play/a01a/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/paramountnetwork.png" group-title="🎬 Cine",✔️ Paramount Network
-https://clubtv.link/jun27/phpcode/lista0.php?c=12&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/planetatv.png" group-title="🎬 Cine",✔️ Planeta TV
-https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/plutocineaccion.png" group-title="🎬 Cine",✔️ PlutoTV Cine Accion
+#EXTINF:-1 group-title="🎬 Cine" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/plutocineaccion.png",✔️ PlutoTV Cine Accion
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/plutocinecomedia.png"  group-title="🎬 Cine",✔️ PlutoTV Cine Comedia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/plutocinedrama.png"  group-title="🎬 Cine",✔️ PlutoTV Cine Drama
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/plutoseries.png"  group-title="🎬 Cine",✔️ PlutoTV Series
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/plutocineterror.png"  group-title="🎬 Cine",✔️ PlutoTV Cine Terror
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/sonychannel.png" group-title="🎬 Cine",✔️ Sony Channel
-https://clubtv.link/jun27/phpcode/lista0.php?c=11&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/space.png" group-title="🎬 Cine",✔️ Space
+#EXTINF:-1 group-title="🎬 Cine" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/space.png",✔️ Space
 http://38.44.109.41:8003/play/a01y/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/starchannel.png" group-title="🎬 Cine",✔️ STAR Channel
-https://clubtv.link/jun27/phpcode/lista0.php?c=37&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/studiouniversal.png" group-title="🎬 Cine",✔️ Studio Universal
-https://clubtv.link/jun27/phpcode/lista0.php?c=70&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tcm.png" group-title="🎬 Cine",✔️ TCM
-https://clubtv.link/jun27/phpcode/lista0.php?c=73&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tnt.png" group-title="🎬 Cine",✔️ TNT (2)
+#EXTINF:-1 group-title="🎬 Cine" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tnt.png",✔️ TNT (2)
 http://38.44.109.41:8003/play/a01v/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tntseries.png" group-title="🎬 Cine",✔️ TNT Series
+#EXTINF:-1 group-title="🎬 Cine" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tntseries.png",✔️ TNT Series
 http://38.44.109.41:8003/play/a01x/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcrime.png" group-title="🎬 Cine",✔️ Universal Crime
-http://clubtv.link/jun27/phpcode/lista0.php?c=32&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcinema.png" group-title="🎬 Cine",✔️ Universal Cinema
-https://clubtv.link/jun27/phpcode/lista0.php?c=36&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalpremiere.png" group-title="🎬 Cine",✔️ Universal Premier
-https://clubtv.link/jun27/phpcode/lista0.php?c=31&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universaltv.png" group-title="🎬 Cine",✔️ Universal TV
-https://clubtv.link/jun27/phpcode/lista0.php?c=38&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/videoclub.png" group-title="🎬 Cine",✔️ Video Club
-https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/xtrematvcineaccion.png" group-title="🎬 Cine",✔️ Xtrema TV Cine Accion
+#EXTINF:-1 group-title="🎬 Cine" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/xtrematvcineaccion.png",✔️ Xtrema TV Cine Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/aztecacorazon.png" group-title="❤️ Novelas",✔️ Azteca Corazon
+#EXTINF:-1 group-title="❤️ Novelas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/aztecacorazon.png",✔️ Azteca Corazon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/kanald.png" group-title="❤️ Novelas",✔️ Kanal D
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/639751f81a36b400072b8f5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/plutonevelas.png"  group-title="❤️ Novelas",✔️ PlutoTV Novelas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/tlnovelas.png" group-title="❤️ Novelas",✔️ TLnovelas
-http://clubtv.link/jun27/phpcode/lista0.php?c=69&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/aymsports.png" group-title="⚽ Deportes",✔️ AYM Sports
+#EXTINF:-1 group-title="⚽ Deportes" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/aymsports.png",✔️ AYM Sports
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/clarosports.png" group-title="⚽ Deportes",✔️ Claro Sports
-https://clubtv.link/jun27/phpcode/lista0.php?c=82&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/daznfast.png" group-title="⚽ Deportes",✔️ DAZN Fast
+#EXTINF:-1 group-title="⚽ Deportes" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/daznfast.png",✔️ DAZN Fast
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn.png" group-title="⚽ Deportes",✔️ ESPN
-http://clubtv.link/jun27/phpcode/lista0.php?c=77&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn.png" group-title="⚽ Deportes",✔️ ESPN MX
-https://clubtv.link/jun27/phpcode/lista0.php?c=77&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn2.png" group-title="⚽ Deportes",✔️  ESPN 2
-https://clubtv.link/jun27/phpcode/lista0.php?c=79&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn2.png" group-title="⚽ Deportes",✔️ ESPN 2 MX
-https://clubtv.link/jun27/phpcode/lista0.php?c=40&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn3.png" group-title="⚽ Deportes",✔️ ESPN 3
-https://clubtv.link/jun27/phpcode/lista0.php?c=39&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/Fox_sports_3_mx.png" group-title="⚽ Deportes",✔️ Fox Sports 3 MX
-https://clubtv.link/jun27/phpcode/lista0.php?c=28&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/foxsportspremiummx.png" group-title="⚽ Deportes",✔️ FS Premium
-https://clubtv.link/jun27/phpcode/lista0.php?c=29&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/ligadecampeonesmovistar.png" group-title="⚽ Deportes",✔️ Liga De Campeones Movistar
-https://clubtv.link/jun27/phpcode/lista0.php?c=64&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/garagetv.png" group-title="⚽ Deportes",✔️ Garage TV
+#EXTINF:-1 group-title="⚽ Deportes" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/garagetv.png",✔️ Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/itvdeportes.png" group-title="⚽ Deportes",✔️ InterneTV Deportes HD
+#EXTINF:-1 group-title="⚽ Deportes" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/itvdeportes.png",✔️ InterneTV Deportes HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/redbulltv.png" group-title="⚽ Deportes",✔️ Red Bull TV 🔊(ING)
+#EXTINF:-1 group-title="⚽ Deportes" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/redbulltv.png",✔️ Red Bull TV 🔊(ING)
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/skysportslaliga.png" group-title="⚽ Deportes",✔️ Sky Sports La Liga
+#EXTINF:-1 group-title="⚽ Deportes" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/skysportslaliga.png",✔️ Sky Sports La Liga
 http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tudn.png" group-title="⚽ Deportes",✔️ TUDN (2)
-http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/motorvision.png" group-title="⚽ Deportes",✔️ MotorVision HD
+#EXTINF:-1 group-title="⚽ Deportes" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/motorvision.png",✔️ MotorVision HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7342
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tycsports.png" group-title="⚽ Deportes",✔️ TyC Sports (3)
+#EXTINF:-1 group-title="⚽ Deportes" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tycsports.png",✔️ TyC Sports (3)
 http://38.44.109.41:8003/play/a02l/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/winsports.png" tvg-country="AR" group-title="⚽ Deportes",✔️ Win Sports
-https://clubtv.link/jun27/phpcode/lista0.php?c=67&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/wwnetwork.png" tvg-country="AR" group-title="⚽ Deportes",✔️ WW Network 🔊(ING)
-https://clubtv.link/jun27/phpcode/lista0.php?c=65&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/babyfirst.png" group-title="🎈 Infantil",✔️ Baby First
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/babyshark.png" group-title="🎈 Infantil",✔️ Baby Shark TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/xtremacnadeportes.png" group-title="⚽ Deportes",✔️ Xtrema TV CnaDeportes 2
+#EXTINF:-1 group-title="⚽ Deportes" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/xtremacnadeportes.png",✔️ Xtrema TV CnaDeportes 2
 https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/BOBSPONJA.png" group-title="🎈 Infantil",✔️ Bob Esponja
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CuttheRopeOmNomStories.png" group-title="🎈 Infantil",✔️ Cut the Rope - Om Nom Stories
+#EXTINF:-1 group-title="🎈 Infantil" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CuttheRopeOmNomStories.png",✔️ Cut the Rope - Om Nom Stories
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/discoverykids.png" group-title="🎈 Infantil",✔️ Discovery Kids
-https://clubtv.link/jun27/phpcode/lista0.php?c=45&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneychannel.png" group-title="🎈 Infantil",✔️ Disney Channel
+#EXTINF:-1 group-title="🎈 Infantil" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneychannel.png",✔️ Disney Channel
 http://38.44.109.41:8003/play/a00e/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickelodeon.png" group-title="🎈 Infantil",✔️ Nickelodeon
-http://38.44.109.41:8003/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/magickids.png" group-title="🎈 Infantil",✔️ Magic Kids
-https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickjr.png" group-title="🎈 Infantil",✔️ Nick Jr
+#EXTINF:-1 group-title="🎈 Infantil" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickjr.png",✔️ Nick Jr
 http://38.44.109.41:8003/play/a026/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickjr.png" group-title="🎈 Infantil",✔️ Nick Jr (2)
-https://clubtv.link/jun27/phpcode/lista0.php?c=13&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/LosPadrinosMagico.png" group-title="🎈 Infantil",✔️ Padrinos Mágicos
+#EXTINF:-1 group-title="🎈 Infantil" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/LosPadrinosMagico.png",✔️ Padrinos Mágicos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6322099c822bbc00074857db/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/pequeradio.png" group-title="🎈 Infantil",✔️ Pequeradio TV
+#EXTINF:-1 group-title="🎈 Infantil" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/pequeradio.png",✔️ Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/rugrats.png" group-title="🎈 Infantil",✔️ Rugrats
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/xtremacartoons.png" group-title="🎈 Infantil" http-referrer="https://xtrematv.com/?p=1390",✔️ Xtrema Cartoons
+#EXTINF:-1 group-title="🎈 Infantil" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/xtremacartoons.png",✔️ Xtrema Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/PITUFOS.png" group-title="🎈 Infantil",✔️ Pitufos
+#EXTINF:-1 group-title="🎈 Infantil" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/PITUFOS.png",✔️ Pitufos
 https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?ads.dpname=distrotv&version=12&id=37&partner=distro&ads.rnd=pc1o&ads.env_i=9f2ed548-6f6a-4b2a-865d-ff516704c20e&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=994&ads.height=559&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=186.18.5.78&ads.geo=AR&ads.lat=-36.00000&ads.long=-59.99640&ads.dma=&ads.geoType=2&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126120&ads.show_id=5059&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CAnimation%20%26%20Anime%2CFamily%2FChildren%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=Pitufo%20TV&ads.episodetitle=Pitufo%20TV&ads.keywords=Smurf%2CSmurfs%2CPitufo&ads.contenturl=&ads.gdprConsent=&ads.paln=&ads.islive=1&ads.streamtype=live&ads.vf=20250401
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CapitainTsubasa.png" group-title="🤖 Animacion",✔️ Capitain Tsubasa
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/Dead-Note.png" group-title="🤖 Animacion",✔️ Death Note
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/youtube-for-kids.png" group-title="🎈 Infantil",✔️ Youtube Kids TV
+#EXTINF:-1 group-title="🎈 Infantil" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/youtube-for-kids.png",✔️ Youtube Kids TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/bitme.png" group-title="🤖 Animacion",✔️ Bitme
+#EXTINF:-1 group-title="🤖 Animacion" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/bitme.png",✔️ Bitme
 http://38.44.109.41:8003/play/a00f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/locomotion.png" group-title="🤖 Animacion",✔️ Locomotion
+#EXTINF:-1 group-title="🤖 Animacion" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/locomotion.png",✔️ Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/plutoanime.png"  group-title="🤖 Animacion",✔️ PlutoTV Anime
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/dreiko.png" group-title="🤖 Animacion" ,✔️ Dreiko TV
+#EXTINF:-1 group-title="🤖 Animacion" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/dreiko.png",✔️ Dreiko TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/naruto.png" group-title="🤖 Animacion",✔️ Naruto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/esports.png" group-title="🤖 Animacion",✔️ PlutoTV E-Sports
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/tokusato.png" group-title="🤖 Animacion",✔️ Tokusato
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/yugiho.png" group-title="🤖 Animacion",✔️ Yu-Gi-Oh
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/south-park.png" group-title="🤖 Animacion",✔️ South Park
+#EXTINF:-1 group-title="🤖 Animacion" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/south-park.png",✔️ South Park
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bb430b50-dea7-11eb-be60-3b6a118ac8ac&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=463c119a-456a-46c9-a878-3ce9897b7179&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/taltaltv.png" group-title="🤖 Animacion" ,✔️ Taltal TV
+#EXTINF:-1 group-title="🤖 Animacion" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/taltaltv.png",✔️ Taltal TV
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/lafamiliadelbarrio.png" group-title="🤖 Animacion",✔️ La Familia del barrio
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d08af527ce19000731eaa0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/plutotvhumor.png" group-title="🤡 Comedia",✔️ Pluto TV Humor
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/onepiece.png" group-title="🤖 Animacion",✔️ One Piece
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/zaz.png" group-title="🤖 Animacion",✔️ Zaz
+#EXTINF:-1 group-title="🤖 Animacion" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/zaz.png",✔️ Zaz
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=13012&live=1&hls_marker=1&position=preroll&pod_duration=120&min_ad_duration=6&max_ad_duration=120&did=[DID]&ip=[IP]&ua=[UA]&player_height=[HEIGHT]&player_width=[WIDTH]&is_lat=[LIMITED_AD_TRACKING]&us_privacy=[US_PRIVACY]&consent=[CONSENT]&lat=[LAT]&lon=[LON]&device_type=[DEVICE_TYPE]&gdpr=[GDPR]&ifa_type=[IFA_TYPE&schain=[SCHAIN]
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/Ridiculousness.png" group-title="🤡 Comedia",✔️ Ridiculousness
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98a911c881310007d7aae2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcomedy.png" group-title="🤡 Comedia",✔️ Universal Comedy
-https://clubtv.link/jun27/phpcode/lista0.php?c=34&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/comedycentral.png" group-title="🤡 Comedia",✔️ Pluto TV Comedy Central
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/masterchef.png" group-title="👁️‍ Reality",✔️ MasterChef
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/plutotvreality.png" group-title="👁️‍ Reality",✔️ Pluto TV Reality
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/conflictotv.png" group-title="👁️‍ Reality",✔️ Conflicto TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=80
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/hellskitchen.png" group-title="👁️‍ Reality",✔️ Hells Kitchen
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/plutotvarchivosforenses.png" group-title="🚜 Cultura",✔️ Archivos Forenses
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/mtvreality.png" group-title="👁️‍ Reality",✔️ MTV Reality
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/daria.png" group-title="🤖 Animacion",✔️ Daria
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d0895ebe7a970008785244/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/discovery-channel.png" group-title="🚜 Cultura",✔️ Discovery Channel
-https://clubtv.link/jun27/phpcode/lista0.php?c=47&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/minutoparaganar.png" group-title="👁️‍ Reality",✔️ Minuto Para Ganar
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Discovery_Turbo.png" group-title="🚜 Cultura",✔️ Discovery Turbo
-https://clubtv.link/jun27/phpcode/lista0.php?c=80&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/elmundodelcampo.png" group-title="🚜 Cultura",✔️ El Mundo Del Campo (2)
+#EXTINF:-1 group-title="🚜 Cultura" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/elmundodelcampo.png",✔️ El Mundo Del Campo (2)
 http://38.44.109.41:8003/play/a036/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/History.png" group-title="🚜 Cultura",✔️ History
-https://clubtv.link/jun27/phpcode/lista0.php?c=19&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Discovery_Home_%26_Health.png" group-title="🚜 Cultura",✔️ H&H Discovery
-https://clubtv.link/jun27/phpcode/lista0.php?c=46&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/discoveryid.png" group-title="🚜 Cultura",✔️ ID
-https://clubtv.link/jun27/phpcode/lista0.php?c=18&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/lovenature.png" group-title="🚜 Cultura",✔️ love nature
-http://160.20.165.246:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/lovenature.png" group-title="🚜 Cultura",✔️ love nature (2)
+#EXTINF:-1 group-title="🚜 Cultura" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/lovenature.png",✔️ love nature (2)
 http://38.44.109.41:8003/play/a02d/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/plutococina.png" group-title="🚜 Cultura",✔️ PlutoTV Cocina
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/todocrimen.png" group-title="🚜 Cultura",✔️ Todo Crimen
+#EXTINF:-1 group-title="🚜 Cultura" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/todocrimen.png",✔️ Todo Crimen
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusCrimenSpanish&ads.csid=zeus_es_indigeniuscrimenspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3687&ads.rakuten_streaming_id=004a7a3f-6d34-4cd6-802e-3e45cb604307&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883018&ads.xumo_contentId=2192&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2192&ads.xumo_providerName=IndigeniusCrimenSpanish&ads.xumo_streamId=88883018
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/turistik.png" group-title="🚜 Cultura",✔️ Turistik FHD
+#EXTINF:-1 group-title="🚜 Cultura" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/turistik.png",✔️ Turistik FHD
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/UNIFETV.png" group-title="🚜 Cultura",✔️ Unife TV
+#EXTINF:-1 group-title="🚜 Cultura" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/UNIFETV.png",✔️ Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/xtrematvanimal.png" group-title="🚜 Cultura",✔️ Xtrema TV Animal
-https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/An24.png" group-title="📻 Radio en Vivo",✔️ AN24 sv1
+#EXTINF:-1 group-title="📻 Radio en Vivo" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/An24.png",✔️ AN24 sv1
 https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/RTNNeuquen.png" group-title="📻 Radio en Vivo",✔️ RTN (Neuquen)
+#EXTINF:-1 group-title="📻 Radio en Vivo" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/RTNNeuquen.png",✔️ RTN (Neuquen)
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/RNEparatodos.png" group-title="📻 Radio en Vivo",✔️ RNE para todos
+#EXTINF:-1 group-title="📻 Radio en Vivo" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/RNEparatodos.png",✔️ RNE para todos
 https://ztnr.rtve.es/ztnr/6688753.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/latina.png" group-title="📻 Radio en Vivo",✔️ Latina
-http://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/Cadena103.png" group-title="📻 Radio en Vivo",✔️ Cadena 103
+#EXTINF:-1 group-title="📻 Radio en Vivo" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/Cadena103.png",✔️ Cadena 103
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/BeatsRadio.png" group-title="🎵​ Musica",✔️ Beats Radio
+#EXTINF:-1 group-title="🎵​ Musica" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/BeatsRadio.png",✔️ Beats Radio
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/quantica.png" group-title="🎵​ Musica",✔️ Quantica TV
+#EXTINF:-1 group-title="🎵​ Musica" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/quantica.png",✔️ Quantica TV
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/MusicTop.png" group-title="🎵​ Musica",✔️ MusicTop
-http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/Telehit.png" group-title="🎵​ Musica",✔️ Telehit
+#EXTINF:-1 group-title="🎵​ Musica" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/Telehit.png",✔️ Telehit
 http://38.44.109.41:8003/play/a003/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/RetroTV.png" group-title="🎵​ Musica",✔️ Retro TV
+#EXTINF:-1 group-title="🎵​ Musica" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/RetroTV.png",✔️ Retro TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/TheRetroChannel.png" group-title="🎵​ Musica",✔️ The Retro Channel
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/TierramiaTV.png" group-title="🎵​ Musica",✔️ Tierramia TV
-http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/cbcnewstoronto.png" group-title="🌐 Otros Idiomas",✔️ CBC News Toronto (Canada)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/cbcnewstoronto.png",✔️ CBC News Toronto (Canada)
 https://dgmkbg0c12wvc.cloudfront.net/CBC_News_Toronto.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/TelpinTVPinamar.png" group-title="🎵​ Musica",✔️ Telpin TV Pinamar
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/GlobalTV.png" group-title="🌐 Otros Idiomas",✔️ Global TV (Canada)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/GlobalTV.png",✔️ Global TV (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/ICITelevision.png" group-title="🌐 Otros Idiomas",✔️ ICI Television (Canada)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/ICITelevision.png",✔️ ICI Television (Canada)
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/IciRDI.png" group-title="🌐 Otros Idiomas",✔️ ICI RDI (Canada)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/IciRDI.png",✔️ ICI RDI (Canada)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CBSNewsChicago.png" group-title="🌐 Otros Idiomas",✔️ CBS News Chicago (EEUU)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CBSNewsChicago.png",✔️ CBS News Chicago (EEUU)
 https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master_8.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CBSNews.png" group-title="🌐 Otros Idiomas",✔️ CBS News (EEUU)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CBSNews.png",✔️ CBS News (EEUU)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/Abc7.png" group-title="🌐 Otros Idiomas",✔️ ABC 7 (EEUU)
-https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/ABCNewsLive.png" group-title="🌐 Otros Idiomas",✔️ ABC News Live (EEUU)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CBSLosAngeles.png" group-title="🌐 Otros Idiomas",✔️ CBS News Los Angeles (EEUU)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CBSLosAngeles.png",✔️ CBS News Los Angeles (EEUU)
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master_2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CBSMiami.png" group-title="🌐 Otros Idiomas",✔️ CBS News Bay Miami (EEUU)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CBSMiami.png",✔️ CBS News Bay Miami (EEUU)
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master_2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CBSNewsNewYork.png" group-title="🌐 Otros Idiomas",✔️ CBS News New York (EEUU)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CBSNewsNewYork.png",✔️ CBS News New York (EEUU)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_21.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CNN.png" group-title="🌐 Otros Idiomas",✔️ CNN (EEUU)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CNN.png",✔️ CNN (EEUU)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/FoxWeather.png" group-title="🌐 Otros Idiomas",✔️ Fox Weather (2) (EEUU)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/FoxWeather.png",✔️ Fox Weather (2) (EEUU)
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/FoxWeather.png" group-title="🌐 Otros Idiomas",✔️Fox Weather (EEUU)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/FoxWeather.png",✔️Fox Weather (EEUU)
 https://247wlive.foxweather.com/stream/index_640x360.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/cheddar.png" group-title="🌐 Otros Idiomas",✔️ Cheddar TV (EEUU)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/cheddar.png",✔️ Cheddar TV (EEUU)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=102
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/galxytv.png" group-title="🌐 Otros Idiomas",✔️ Galxy TV (EEUU)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=85
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/Fox4.png" group-title="🌐 Otros Idiomas",✔️ Fox 4 (EEUU)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/Fox4.png",✔️ Fox 4 (EEUU)
 https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/UnitedNationsTV.png" group-title="🌐 Otros Idiomas",✔️ United Nations TV (EEUU)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/UnitedNationsTV.png",✔️ United Nations TV (EEUU)
 https://cdnapisec.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/verylocal.png" group-title="🌐 Otros Idiomas",✔️ Very Local (EEUU)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/verylocal.png",✔️ Very Local (EEUU)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/1hd.png" group-title="🌐 Otros Idiomas",✔️ 1 HD (RUS)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/1hd.png",✔️ 1 HD (RUS)
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CNA.png"  group-title="🌐 Otros Idiomas",✔️ CNA (ALB)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CNA.png",✔️ CNA (ALB)
 https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/123TV.png" group-title="🌐 Otros Idiomas",✔️ 1-2-3 TV (ALE)
-https://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0.png" group-title="🌐 Otros Idiomas",✔️ Россия Культура (RUS)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/otros-idiomas/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1-HD.png?raw=true" group-title="🌐 Otros Idiomas",✔️ Россия-1 HD (RUS)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/1hd.png" group-title="🌐 Otros Idiomas",✔️ 1 HD (2) (RUS)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/1hd.png",✔️ 1 HD (2) (RUS)
 https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg" group-title="Serie",Tumberos Cap 01
+#EXTINF:-1 group-title="Serie" tvg-id="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 01
 https://ucarecdn.com/c09b923c-c939-49d9-b9a0-7efa105159c0/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/%D0%9D%D0%A2%D0%92.png" group-title="🌐 Otros Idiomas",✔️ НТВ HD (RUS)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/%D0%9D%D0%A2%D0%92.png",✔️ НТВ HD (RUS)
 http://cdn2.ntv.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg" group-title="Serie",Tumberos Cap 02
+#EXTINF:-1 group-title="Serie" tvg-id="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 02
 https://ucarecdn.com/411d9ad6-7aea-4fa1-98a6-8044d9531745/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg" group-title="Serie",Tumberos Cap 03
+#EXTINF:-1 group-title="Serie" tvg-id="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 03
 https://ucarecdn.com/9337f42c-bd79-44a4-ae27-94cb74ef5de2/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/aljazeera.png" group-title="🌐 Otros Idiomas",✔️ Aljazeera (QAT)
-http://38.44.109.41:8003/play/a00q/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg" group-title="Serie",Tumberos Cap 04
+#EXTINF:-1 group-title="Serie" tvg-id="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 04
 https://ucarecdn.com/6cc66deb-ef68-486b-ba76-df3994e0f7ca/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CBSNBoston.png" group-title="🌐 Otros Idiomas",✔️ CBS News Boston (EEUU)
+#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CBSNBoston.png",✔️ CBS News Boston (EEUU)
 https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg" group-title="Serie",Tumberos Cap 06
+#EXTINF:-1 group-title="Serie" tvg-id="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 06
 https://ucarecdn.com/ba2df284-a29c-480b-b874-1d979dbb2610/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg" group-title="Serie",Tumberos Cap 05
+#EXTINF:-1 group-title="Serie" tvg-id="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 05
 https://ucarecdn.com/12d39b3a-5e69-45a3-ae6e-790fe396cfa1/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg" group-title="Serie",Tumberos Cap 08
+#EXTINF:-1 group-title="Serie" tvg-id="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 08
 https://ucarecdn.com/c4d7e748-5da7-4045-ad23-bb1d294e792f/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg" group-title="Serie",Tumberos Cap 09
+#EXTINF:-1 group-title="Serie" tvg-id="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 09
 https://ucarecdn.com/cdb0f081-be25-4bd1-9c73-b3774eabd19b/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg" group-title="Serie",Tumberos Cap 07
+#EXTINF:-1 group-title="Serie" tvg-id="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 07
 https://ucarecdn.com/b93f5f4c-a8ff-4750-8610-47d42803e33a/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg" group-title="Serie",Tumberos Cap 11
+#EXTINF:-1 group-title="Serie" tvg-id="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 11
 https://ucarecdn.com/157e4e7c-645d-4852-914a-1465ea2bd8c9/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg" group-title="Serie",Tumberos Cap 10
+#EXTINF:-1 group-title="Serie" tvg-id="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 10
 https://ucarecdn.com/054bacca-988d-4707-a656-483315fa2aca/
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg" group-title="Serie",El Eternauta cap 4 (2025)
+#EXTINF:-1 group-title="Serie" tvg-id="Undefined" tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg",El Eternauta cap 4 (2025)
 https://archive.org/download/el-eternauta-capitulo-4/EL%20ETERNAUTA%20Capitulo%204.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg" group-title="Serie",El Eternauta cap 3 (2025)
+#EXTINF:-1 group-title="Serie" tvg-id="Undefined" tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg",El Eternauta cap 3 (2025)
 https://archive.org/download/el-eternauta-capitulo-3/EL%20ETERNAUTA%20Capitulo%203.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg" group-title="Serie",El Eternauta cap 2 (2025)
+#EXTINF:-1 group-title="Serie" tvg-id="Undefined" tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg",El Eternauta cap 2 (2025)
 https://archive.org/download/el-eternauta-capitulo-2/EL%20ETERNAUTA%20Capitulo%202.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg" group-title="Serie",El Eternauta cap 6 (2025)
+#EXTINF:-1 group-title="Serie" tvg-id="Undefined" tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg",El Eternauta cap 6 (2025)
 https://archive.org/download/el-eternauta-capitulo-6/EL%20ETERNAUTA%20Capitulo%206.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg" group-title="Serie",El Eternauta cap 5 (2025)
+#EXTINF:-1 group-title="Serie" tvg-id="Undefined" tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg",El Eternauta cap 5 (2025)
 https://archive.org/download/el-eternauta-capitulo-5/EL%20ETERNAUTA%20Capitulo%205.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg" group-title="Serie",El Eternauta cap 1 (2025)
+#EXTINF:-1 group-title="Serie" tvg-id="Undefined" tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg",El Eternauta cap 1 (2025)
 https://archive.org/download/el-eternauta-capitulo-1/EL%20ETERNAUTA%20Capitulo%201.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_asesino-609845433-large.jpg" group-title="Movies",El Asesino (2023 ‧ Acción)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://pics.filmaffinity.com/El_asesino-609845433-large.jpg",El Asesino (2023 ‧ Acción)
 https://od.lk/s/NV8xODkyMzgxNjZf/VER%20El%20asesino%202023.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/24/03/06/16/05/5342408.jpg" group-title="Movies",Damsel (2024 ‧ Acción)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://es.web.img3.acsta.net/pictures/24/03/06/16/05/5342408.jpg",Damsel (2024 ‧ Acción)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Damsel%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_salario_del_miedo-673954416-large.jpg" group-title="Movies",El salario del miedo (2024 ‧ Acción)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://pics.filmaffinity.com/El_salario_del_miedo-673954416-large.jpg",El salario del miedo (2024 ‧ Acción)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20El%20salario%20del%20miedo%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE0Njk3ZmUtZjk1OS00OWFjLTllMjYtNGVjNGJhMzAyNGI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies",La ira de Becky (2023 ‧ Acción) SUB
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE0Njk3ZmUtZjk1OS00OWFjLTllMjYtNGVjNGJhMzAyNGI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",La ira de Becky (2023 ‧ Acción) SUB
 https://od.lk/s/NV8xODYzNjAzMDRf/The%20Wrath%20of%20Becky%20ONLINE%202023.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2024/5/w1280/nFBjI5qFkqfvEvEx6VaylKGSOqp.jpg" group-title="Movies",Colateral (2024 ‧ Acción)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2024/5/w1280/nFBjI5qFkqfvEvEx6VaylKGSOqp.jpg",Colateral (2024 ‧ Acción)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmay24%2FVer%20Colateral%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWZlYjYxNGItNTM0OC00Nzg4LTk0MzAtOWE1ODQ5ODY2MjgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Venganza Silenciosa (2023 ‧ Acción)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWZlYjYxNGItNTM0OC00Nzg4LTk0MzAtOWE1ODQ5ODY2MjgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Venganza Silenciosa (2023 ‧ Acción)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FWatch%20VS1080LAT%20mp4.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Cazadores_en_tierra_inhaospita-599548550-large.jpg" group-title="Movies",Cazadores en tierra inhóspita (2024 ‧ Acción)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://pics.filmaffinity.com/Cazadores_en_tierra_inhaospita-599548550-large.jpg",Cazadores en tierra inhóspita (2024 ‧ Acción)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Cazadores%20en%20tierra%20inh%C3%B3spita%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/lift-500114909-mmed.jpg" group-title="Movies",Lift: Un robo de primera clase (2024 ‧ Acción/Comedia)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://pics.filmaffinity.com/lift-500114909-mmed.jpg",Lift: Un robo de primera clase (2024 ‧ Acción/Comedia)
 https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis2024%2FVer%20Lift-%20Un%20robo%20de%20primera%20clase%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Napoleaon-250563766-large.jpg" group-title="Movies",Napoleón (2023 ‧ Bélico)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://pics.filmaffinity.com/Napoleaon-250563766-large.jpg",Napoleón (2023 ‧ Bélico)
 https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/Ver%20Napole%C3%B3n%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_3.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIwMDkwZjUtMGU0ZC00NGQ5LWJhMWUtNWZjZDFjZjU2NTZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Los juegos del hambre: Balada de pájaros cantores y serpientes (2023 ‧ Aventura)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIwMDkwZjUtMGU0ZC00NGQ5LWJhMWUtNWZjZDFjZjU2NTZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Los juegos del hambre: Balada de pájaros cantores y serpientes (2023 ‧ Aventura)
 https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/Ver%20Los%20Juegos%20del%20Hambre-%20Balada%20de%20p%C3%A1jaros%20cantores%20y%20serpientes%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/5d8047c423531c53a9bb535c66cc685ffc3d2f6f680298423ef61a0600456d03.jpg" group-title="Movies",Liga de la Justicia: Crisis en Tierras Infinitas, Parte 1 (2024 ‧ Animacion)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/5d8047c423531c53a9bb535c66cc685ffc3d2f6f680298423ef61a0600456d03.jpg",Parte 1 (2024 ‧ Animacion)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Liga%20de%20la%20Justicia-%20Crisis%20en%20Tierras%20Infinitas%2C%20Parte%201%20(2024)%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mPZOhdgclWR_E8v5XPJVcq5-814EU5dvmBHOWYdqubm___k-00E4F3uaFcc_vNhiYbudMSZPChsMSuNNVg" group-title="Movies",El sexto bus (2022 ‧ Bélico)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://play-lh.googleusercontent.com/mPZOhdgclWR_E8v5XPJVcq5-814EU5dvmBHOWYdqubm___k-00E4F3uaFcc_vNhiYbudMSZPChsMSuNNVg",El sexto bus (2022 ‧ Bélico)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20El%20Sexto%20Bus%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a0/Cazafantasmas_4_Poster_Oficial.jpg/revision/latest?cb=20240222144410&path-prefix=es" group-title="Movies",Cazafantasmas: Apocalipsis Fantasma (2024 ‧ Comedia)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a0/Cazafantasmas_4_Poster_Oficial.jpg/revision/latest?cb=20240222144410&path-prefix=es",Cazafantasmas: Apocalipsis Fantasma (2024 ‧ Comedia)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20Ghostbusters-%20Apocalipsis%20fantasma%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_sociedad_de_la_nieve-826551508-mmed.jpg" group-title="Movies",La sociedad de la nieve (2023 ‧ Drama)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://pics.filmaffinity.com/La_sociedad_de_la_nieve-826551508-mmed.jpg",La sociedad de la nieve (2023 ‧ Drama)
 https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/Ver%20La%20sociedad%20de%20la%20nieve%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/4172f6d8eca7f41074bf7efcdd7c29d0d11cdd7d79dd9f7fbfd68916ae54452a.jpg" group-title="Movies",Elijo Creer - El Camino del Campeón (2023 ‧ Documental)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/4172f6d8eca7f41074bf7efcdd7c29d0d11cdd7d79dd9f7fbfd68916ae54452a.jpg",Elijo Creer - El Camino del Campeón (2023 ‧ Documental)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Elijo%20Creer-%20El%20Camino%20del%20Campe%C3%B3n%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0d/El_p%C3%A1jaro_loco_se_va_de_campamento_posterEsp.png/revision/latest?cb=20240416194645&path-prefix=es" group-title="Movies",El Pájaro Loco se va de campamento (2024 ‧ Comedia)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0d/El_p%C3%A1jaro_loco_se_va_de_campamento_posterEsp.png/revision/latest?cb=20240416194645&path-prefix=es",El Pájaro Loco se va de campamento (2024 ‧ Comedia)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20El%20P%C3%A1jaro%20Loco%20se%20va%20de%20campamento%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/664e39d29d8c15c8caf853f6fe6e3e3484fcb90d4118faf6427993a852829692.jpg" group-title="Movies",Ricky Stanicky: El impostor (2024 ‧ Comedia)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/664e39d29d8c15c8caf853f6fe6e3e3484fcb90d4118faf6427993a852829692.jpg",Ricky Stanicky: El impostor (2024 ‧ Comedia)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Ricky%20Stanicky-%20El%20impostor%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Silber_y_el_libro_de_los_sueanos-655785205-large.jpg" group-title="Movies",Silber y el libro de los sueños (2023 ‧ Fantasía)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://pics.filmaffinity.com/Silber_y_el_libro_de_los_sueanos-655785205-large.jpg",Silber y el libro de los sueños (2023 ‧ Fantasía)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Silber%20y%20el%20libro%20de%20los%20sue%C3%B1os%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/08c3f7af558231c022dcccf9eae2cd7c_2867x4096_41eff7c2.png" group-title="Movies",Wish: El poder de los deseos (2023 ‧ Infantil)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/08c3f7af558231c022dcccf9eae2cd7c_2867x4096_41eff7c2.png",Wish: El poder de los deseos (2023 ‧ Infantil)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Wish-%20El%20poder%20de%20los%20deseos%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Migraciaon_Un_viaje_patas_arriba-947704095-large.jpg" group-title="Movies",Patos! Un viaje patas arriba (2023 ‧ Infantil)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://pics.filmaffinity.com/Migraciaon_Un_viaje_patas_arriba-947704095-large.jpg",Patos! Un viaje patas arriba (2023 ‧ Infantil)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20%C2%A1Patos!%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://musicart.xboxlive.com/7/687d6400-0000-0000-0000-000000000002/504/image.jpg" group-title="Movies",Black Panther: Wakanda Forever (2022 ‧ SuperHeroes)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://musicart.xboxlive.com/7/687d6400-0000-0000-0000-000000000002/504/image.jpg",Black Panther: Wakanda Forever (2022 ‧ SuperHeroes)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Black%20Panther-%20Wakanda%20Forever%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_167d5a00.jpeg?region=0%2C0%2C540%2C810" group-title="Movies",The Marvels *The Marvels (2023 ‧ SuperHeroes)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_167d5a00.jpeg?region=0%2C0%2C540%2C810",The Marvels *The Marvels (2023 ‧ SuperHeroes)
 https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2FVer%20The%20Marvels%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_3.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/6bdc9004516b6d86e971ae1ad2ae2d295cf2de50c51cdf4cd846e2a4cc8bebf9.jpg" group-title="Movies",Mavka: Guardiana del bosque (2023 ‧ Infantil)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/6bdc9004516b6d86e971ae1ad2ae2d295cf2de50c51cdf4cd846e2a4cc8bebf9.jpg",Mavka: Guardiana del bosque (2023 ‧ Infantil)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Mavka-%20Guardiana%20del%20bosque%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/yatoroba/images/8/85/Chicken_Run_Dawn_of_the_Nugget_-_poster_%28Latin_American_Spanish%29.webp/revision/latest?cb=20231217181539&path-prefix=es" group-title="Movies",Pollitos en fuga: el origen de los nuggets (2023 ‧ Infantil)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://static.wikia.nocookie.net/yatoroba/images/8/85/Chicken_Run_Dawn_of_the_Nugget_-_poster_%28Latin_American_Spanish%29.webp/revision/latest?cb=20231217181539&path-prefix=es",Pollitos en fuga: el origen de los nuggets (2023 ‧ Infantil)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Pollitos%20en%20fuga-%20El%20origen%20de%20los%20nuggets%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2I4NmE0MzAtNjE1MS00NzNlLWE1YjItYzkyMzE0MGM3ODY1XkEyXkFqcGc@._V1_.jpg" group-title="Movies",Atrapados en lo Profundo (2024 ‧ Suspenso)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2I4NmE0MzAtNjE1MS00NzNlLWE1YjItYzkyMzE0MGM3ODY1XkEyXkFqcGc@._V1_.jpg",Atrapados en lo Profundo (2024 ‧ Suspenso)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Atrapados%20en%20lo%20Profundo%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/10/w1280/yco6dWR1W3iANUEKxGT0vQRWrJn.jpg" group-title="Movies",Trolls 3: Todos juntos (2023 ‧ Infantil)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/10/w1280/yco6dWR1W3iANUEKxGT0vQRWrJn.jpg",Trolls 3: Todos juntos (2023 ‧ Infantil)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FT-3-4K-R-1080p.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYyMzNlNTgtODNlMy00OGIyLWI4NTgtNzA4NmExNGNmNmE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Sin Aire (2023 ‧ Suspenso)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYyMzNlNTgtODNlMy00OGIyLWI4NTgtNzA4NmExNGNmNmE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Sin Aire (2023 ‧ Suspenso)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FVer%20Sin%20Aire%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/1962_Halloween_Massacre-379166312-mmed.jpg" group-title="Movies",1962 Halloween Masacre (2023 ‧ Terror)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://pics.filmaffinity.com/1962_Halloween_Massacre-379166312-mmed.jpg",1962 Halloween Masacre (2023 ‧ Terror)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FVer%201962%20Halloween%20Massacre%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZmYmFkMDgtYWFlMi00NTYyLTkzNmQtZWZiOWRiYjIwZmQ3XkEyXkFqcGc@._V1_.jpg" group-title="Movies",Imaginario - Juguete diabólico (2024 ‧ Terror)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZmYmFkMDgtYWFlMi00NTYyLTkzNmQtZWZiOWRiYjIwZmQ3XkEyXkFqcGc@._V1_.jpg",Imaginario - Juguete diabólico (2024 ‧ Terror)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Imaginario-%20juguete%20diab%C3%B3lico%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Abigail-133797089-large.jpg" group-title="Movies",Abigail (2024 ‧ Terror)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://pics.filmaffinity.com/Abigail-133797089-large.jpg",Abigail (2024 ‧ Terror)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmay24%2FVer%20Abigail%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/9/w1280/45pDkZ986FayuGEkXz5paF6X6BO.jpg" group-title="Movies",En el desierto (2023 ‧ Terror/Drama)
+#EXTINF:-1 group-title="Movies" tvg-id="Undefined" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/9/w1280/45pDkZ986FayuGEkXz5paF6X6BO.jpg",En el desierto (2023 ‧ Terror/Drama)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20%D9%86%D8%A7%D9%82%D8%A9%20online%20HD%20-%20Cuevana%202.mp4
