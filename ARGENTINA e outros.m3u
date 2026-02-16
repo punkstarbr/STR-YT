@@ -1,21 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz"
-#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://i.imgur.com/r7q9o9X.png",Camaras de Villa Gesell (Av. 3 y 104)
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuR9onZC7EbcRv86J3H6dH1WaYuxLWlpDng3hxfGoL_XwSug-LRXz7SgIEXQ&s",Camaras de Villa Gesell (Av. 3 y 104)
 http://cam104y3.gesell.com.ar/playlist.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://i.imgur.com/r7q9o9X.png",Camaras de Villa Gesell (La Pinocha)
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvhh01b65AHNHWA6VCVlmZa5xsrf0dYBGV5nXMC6IZvcA9AY5ZlOMVSsM7gA&s",Camaras de Villa Gesell (La Pinocha)
 http://camlapinocha.gesell.com.ar/playlist.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://i.imgur.com/r7q9o9X.png",Camaras de Villa Gesell (Buenos Aires y Playa)
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuR9onZC7EbcRv86J3H6dH1WaYuxLWlpDng3hxfGoL_XwSug-LRXz7SgIEXQ&s",Camaras de Villa Gesell (Buenos Aires y Playa)
 http://cambsasyplaya.gesell.com.ar/playlist.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://i.imgur.com/HbV9HoX.png",Norte | Bahía Blanca | Argentina
+#EXTINF:-1 group-title="Argentina" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmYYpJEf5tnuuncpbWVYTaA8nfLN3VmpygBiK4xpw_FLlrL6QN2Xo23KYHsA&s",Norte | Bahía Blanca | Argentina
 http://icecast.hostingbahia.com.ar:8002/live?28344
-#EXTINF:-1 group-title="Argentina" tvg-id="AmericaCanal4Posadas.ar" tvg-logo="https://i.imgur.com/2Y5s4yO.png",América Canal 4 Posadas | AR
+#EXTINF:-1 group-title="Argentina" tvg-id="AmericaCanal4Posadas.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSljVS9ROqbqqSgptvTmXRdcsFWqjSAxfIBjtd57ZhEgkTGrpjSjWc-pZ6klEU&s",América Canal 4 Posadas | AR
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-id="ElGarageTV.ar" tvg-logo="https://i.imgur.com/v8Y3p0S.png",GARAGE TV
+#EXTINF:-1 group-title="Argentina" tvg-id="ElGarageTV.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeP-QoOb8qAlpehMiOmwoGkWh3oq81Y7nSFgR2dyDbj1YDoox_urTG8gWhBw&s",GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
 http://190.95.60.228:8500/play/a031
 #EXTINF:-1 group-title="Argentina" tvg-id="TelefeJujuy.ar" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310419663029739824/IZeVtHxrcaOlzblx.png",Telefe Canal 7 Jujuy
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-id="ElGarage.ar" tvg-logo="https://i.imgur.com/v8Y3p0S.png",EL GARAGE TV - VER TV ABIERTA ONLINE
+#EXTINF:-1 group-title="Argentina" tvg-id="ElGarage.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyTgvr7oBMDDm8Gi2W6A2zhgNB0P2g4Gn_AD7Yx3ycdIeD-BFLhmo0LmSbLA&s",EL GARAGE TV - VER TV ABIERTA ONLINE
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-id="Unife.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/unife.png",UNIFE 25.1 - TDA 25.1
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
@@ -335,8 +335,6 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?ads.dpname=distrotv&version=12&id=37&partner=distro&ads.rnd=pc1o&ads.env_i=9f2ed548-6f6a-4b2a-865d-ff516704c20e&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=994&ads.height=559&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=186.18.5.78&ads.geo=AR&ads.lat=-36.00000&ads.long=-59.99640&ads.dma=&ads.geoType=2&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126120&ads.show_id=5059&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CAnimation%20%26%20Anime%2CFamily%2FChildren%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=Pitufo%20TV&ads.episodetitle=Pitufo%20TV&ads.keywords=Smurf%2CSmurfs%2CPitufo&ads.contenturl=&ads.gdprConsent=&ads.paln=&ads.islive=1&ads.streamtype=live&ads.vf=20250401
 #EXTINF:-1 group-title="🎈 Infantil" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/youtube-for-kids.png",✔️ Youtube Kids TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
-#EXTINF:-1 group-title="🤖 Animacion" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/bitme.png",✔️ Bitme
-http://38.44.109.41:8003/play/a00f/index.m3u8
 #EXTINF:-1 group-title="🤖 Animacion" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/locomotion.png",✔️ Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 group-title="🤖 Animacion" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/dreiko.png",✔️ Dreiko TV
