@@ -2,1101 +2,405 @@
 #EXTM3U x-tvg-url="http://lidns.cc/xmltv.php?username=4x6cXF&password=JDqRqj&type=m3u_plus&output=m3u8,https://www.open-epg.com/files/brazil1.xml.gz,https://www.open-epg.com/files/brazil2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.open-epg.com/files/portugal.xml.gz,https://www.open-epg.com/files/portugal2.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/helenfernanda/gratis/main/distrotv.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Stirr/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Singtel/epg.xml"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml"
 #EXTM3U
-#EXTINF:-1 tvg-id="Globo Sao Paulo HD.br" tvg-name="GLOBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest?cb=20220201030422" group-title="TV ABERTA",GLOBO
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo Sao Paulo HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest?cb=20220201030422",GLOBO
 http://limed.cc:80/4x6cXF/ehfxdp/95657.m3u8
-#EXTINF:-1 tvg-id="Loading.br" tvg-name="LOADING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/800px-Canal_Loading.png" group-title="Canais Abertos",X SPORTS
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Loading.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/800px-Canal_Loading.png",X SPORTS
 http://limed.cc:80/4x6cXF/ehfxdp/90149.m3u8
-#EXTINF:-1 tvg-id="RecordTV Sao Paulo HD.br" tvg-name="RECORD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD SP
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV Sao Paulo HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014",RECORD SP
 http://limed.cc:80/4x6cXF/ehfxdp/90266.m3u8
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvBrasil2023.png" group-title="TV ABERTA",TV BRASIL
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Tvbrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvBrasil2023.png",TV BRASIL
 http://limed.cc:80/4x6cXF/ehfxdp/90409.m3u8
-#EXTINF:-1 tvg-id="RedeTV!.br" tvg-name="REDE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png?20191113234216" group-title="TV ABERTA",REDE TV
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RedeTV!.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png?20191113234216",REDE TV
 http://limed.cc:80/4x6cXF/ehfxdp/95470.m3u8
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20241224170303" group-title="TV ABERTA",VIVA
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Viva.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20241224170303",VIVA
 http://limed.cc:80/4x6cXF/ehfxdp/90440.m3u8
-#EXTINF:-1 tvg-id="Cultura HD.br" tvg-name="CULTURA" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="TV ABERTA",CULTURA
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Cultura HD.br" tvg-logo="https://i.imgur.com/zmheeSl.png",CULTURA
 http://limed.cc:80/4x6cXF/ehfxdp/89900.m3u8
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title="TV ABERTA",MULTISHOW
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Multishow.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png",MULTISHOW
 http://limed.cc:80/4x6cXF/ehfxdp/90173.m3u8
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png" group-title="TV ABERTA",GNT
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="GNT.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png",GNT
 http://limed.cc:80/4x6cXF/ehfxdp/90084.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-2.png" group-title="TV ABERTA",CANAL BRASIL
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Canalbrasil.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-2.png",CANAL BRASIL
 http://limed.cc:80/4x6cXF/ehfxdp/89840.m3u8
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/120px-Canal_Futura.png" group-title="TV ABERTA",FUTURA
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Futura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/120px-Canal_Futura.png",FUTURA
 http://limed.cc:80/4x6cXF/ehfxdp/89846.m3u8
-#EXTINF:-1 tvg-id="TV Gazeta.br" tvg-name="GAZETA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/120px-TV_Gazeta.svg.png" group-title="TV ABERTA",GAZETA
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TV Gazeta.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/120px-TV_Gazeta.svg.png",GAZETA
 http://limed.cc:80/4x6cXF/ehfxdp/90010.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Juara HD
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png",RecordTV Juara HD
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="Canais | RECORD TV",Record SicTV (RO)
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTV" tvg-logo="https://i.imgur.com/mHxQyB2.png",Record SicTV (RO)
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6UoUybZ.png" group-title="Canais Abertos",TV VERDADE
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://i.imgur.com/6UoUybZ.png",TV VERDADE
 https://acesso.ecast.site:3104/hybrid/play.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://yt3.ggpht.com/Nw3Wmvgdcm9xOQK-UzAcfjSZnu4zho3Mrkeb4KwztlZBTQx8zuEz0C17bGYJLvvYdN57omljiw=s48-c-k-c0x00ffffff-no-rj", TVCB (Campos Belos-GO)
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://yt3.ggpht.com/Nw3Wmvgdcm9xOQK-UzAcfjSZnu4zho3Mrkeb4KwztlZBTQx8zuEz0C17bGYJLvvYdN57omljiw=s48-c-k-c0x00ffffff-no-rj",TVCB (Campos Belos-GO)
 https://stmv2.samcast.com.br/dermeval8653/dermeval8653/playlist.m3u8
-#EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="TV OESTE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV OESTE - BA
-http://limed.cc:80/4x6cXF/ehfxdp/117329.m3u8
-#EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="TV SUBAÉ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV SUBAÉ - BA
-http://limed.cc:80/4x6cXF/ehfxdp/117327.m3u8
-#EXTINF:-1  group-title="Canais Abertos" tvg-id="N/A" tvg-logo="https://www.dancetv.net/img/DTlogo.png",24/7 ELETRÔNICA 1
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="TV VERDES MARES CARIRI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV SÃO FRANCISCO - BA
-http://limed.cc:80/4x6cXF/ehfxdp/117326.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="N/A" tvg-logo="https://www.dancetv.net/img/DTlogo.png",24/7 ELETRÔNICA 2
-https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCidadedePetropolis.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/00bb19faeb0ea5b2ca8adcfcbaa1249c.webp",TV Cidade de Petrópolis
 https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/a10.png",TV Antena 10 (PI)
-https://video01.logicahost.com.br/a10maisadap/smil:transcoder.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV GRANDE RIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV GRANDE RIO - PE
-http://limed.cc:80/4x6cXF/ehfxdp/117330.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="TV ABERTA",NGT
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Undefined" tvg-logo="https://i.imgur.com/u6DuMQk.png",NGT
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TV Sergipe HD.br" tvg-name="TV SERGIPE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV SERGIPE - SE
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TV Sergipe HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350",TV SERGIPE - SE
 http://limed.cc:80/4x6cXF/ehfxdp/95484.m3u8
-#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-logo="https://i.imgur.com/RCPEpPc.png" group-title="Canais Abertos",REDE FAMÍLIA
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeFamilia.br" tvg-logo="https://i.imgur.com/RCPEpPc.png",REDE FAMÍLIA
 https://tv03.zas.media:1936/rftv/rftv/chunklist_w1301797576.m3u8
-#EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-name="TV GLOBO PERNAMBUCO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV GLOBO PERNAMBUCO - PE
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo Nordeste HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350",TV GLOBO PERNAMBUCO - PE
 http://limed.cc:80/4x6cXF/ehfxdp/91463.m3u8
-#EXTINF:-1 tvg-id="InterTV Cabugi HD.br" tvg-name="INTERTV CABUGI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",INTERTV CABUGI - RN
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="InterTV Cabugi HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350",INTERTV CABUGI - RN
 http://limed.cc:80/4x6cXF/ehfxdp/91405.m3u8
-#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA CATALÃO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA CATALÃO - GO
-http://limed.cc:80/4x6cXF/ehfxdp/117325.m3u8
-#EXTINF:-1 tvg-id="RedeSuper.br" tvg-logo="https://i.imgur.com/rNizzxd.png" group-title="Canais Abertos",REDE SUPER
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeSuper.br" tvg-logo="https://i.imgur.com/rNizzxd.png",REDE SUPER
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1553191580.m3u8
-#EXTINF:-1 tvg-id="TV Morena HD.br" tvg-name="TV MORENA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV MORENA - MS
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TV Morena HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649",TV MORENA - MS
 http://limed.cc:80/4x6cXF/ehfxdp/91461.m3u8
-#EXTINF:-1 tvg-id="TVE Bahia.br" tvg-name="TVE BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVE_Bahia_logo_%282022%29.svg/120px-TVE_Bahia_logo_%282022%29.svg.png" group-title="TV ABERTA",TVE BAHIA
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVE Bahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVE_Bahia_logo_%282022%29.svg/120px-TVE_Bahia_logo_%282022%29.svg.png",TVE BAHIA
 http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA PARINTINS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZÔNICA PARINTINS - AM
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724",REDE AMAZÔNICA PARINTINS - AM
 http://limed.cc:80/4x6cXF/ehfxdp/117332.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA MACAPÁ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZÔNICA MACAPÁ - AP
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724",REDE AMAZÔNICA MACAPÁ - AP
 http://limed.cc:80/4x6cXF/ehfxdp/90015.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD²
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="AMAZONICA ARIQUEMES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZÔNICA ARIQUEMES - RO
-http://limed.cc:80/4x6cXF/ehfxdp/120082.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA PORTO VELHO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZÔNICA PORTO VELHO - RO
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724",REDE AMAZÔNICA PORTO VELHO - RO
 http://limed.cc:80/4x6cXF/ehfxdp/90052.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ FHD
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13
-#EXTINF:-1 tvg-id="Globo SP.br" tvg-name="TV GLOBO - SP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GLOBO - SP
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo SP.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706",TV GLOBO - SP
 http://limed.cc:80/4x6cXF/ehfxdp/90059.m3u8
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="SBT.br" tvg-logo="https://i.imgur.com/srURmsi.png",SBT
 http://limed.cc:80/4x6cXF/ehfxdp/95666.m3u8
-#EXTINF:-1 tvg-id="Rede Brasil HD.br" tvg-name="REDE BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rede_Brasil_de_Televis%C3%A3o_Logo2023.png/113px-Rede_Brasil_de_Televis%C3%A3o_Logo2023.png" group-title="TV ABERTA",REDE BRASIL
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Rede Brasil HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rede_Brasil_de_Televis%C3%A3o_Logo2023.png/113px-Rede_Brasil_de_Televis%C3%A3o_Logo2023.png",REDE BRASIL
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w466484883.m3u8
-#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band Sao Paulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png",BAND
 http://limed.cc:80/4x6cXF/ehfxdp/95649.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV TEM SOROCABA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TEM SOROCABA - SP
-http://limed.cc:80/4x6cXF/ehfxdp/91471.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV TEM BAURU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TEM BAURU - SP
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706",TV TEM BAURU - SP
 http://limed.cc:80/4x6cXF/ehfxdp/91469.m3u8
-#EXTINF:-1 tvg-id="combrasil.br" tvg-name="COM BRASIL" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="TV ABERTA",COM BRASIL
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="combrasil.br" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png",COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
-#EXTINF:-1 tvg-id="Globo TV Tribuna.br" tvg-name="TV TRIBUNA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TRIBUNA - SP
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo TV Tribuna.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706",TV TRIBUNA - SP
 http://limed.cc:80/4x6cXF/ehfxdp/91473.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV VANG. TAUBATE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV VANGUARDA TAUBATÉ - SP
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706",TV VANGUARDA TAUBATÉ - SP
 http://limed.cc:80/4x6cXF/ehfxdp/91477.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="EPTV CAMPINAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",EPTV CAMPINAS - SP
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706",EPTV CAMPINAS - SP
 http://limed.cc:80/4x6cXF/ehfxdp/91397.m3u8
-#EXTINF:-1 tvg-id="Globo Rio HD.br" tvg-name="TV GLOBO - RJ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GLOBO - RJ
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo Rio HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706",TV GLOBO - RJ
 http://limed.cc:80/4x6cXF/ehfxdp/91431.m3u8
-#EXTINF:-1 tvg-id="Rede Minas HD.br" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png" group-title="TV ABERTA",REDE MINAS
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Rede Minas HD.br" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png",REDE MINAS
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w1642350627_b2771072.m3u8
-#EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="TV BAHIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV BAHIA - BA
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo TV Bahia.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350",TV BAHIA - BA
 http://limed.cc:80/4x6cXF/ehfxdp/90064.m3u8
-#EXTINF:-1 tvg-id="TV Santa Cruz HD.br" tvg-name="TV SANTA CRUZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV SANTA CRUZ - BA
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TV Santa Cruz HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350",TV SANTA CRUZ - BA
 http://limed.cc:80/4x6cXF/ehfxdp/117328.m3u8
-#EXTINF:-1 tvg-id="TV Verdes Mares HD.br" tvg-name="TV VERDES MARES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV VERDES MARES - CE
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TV Verdes Mares HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350",TV VERDES MARES - CE
 http://limed.cc:80/4x6cXF/ehfxdp/90072.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV GAZETA DE ALAGOAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV GAZETA DE ALAGOAS - AL
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350",TV GAZETA DE ALAGOAS - AL
 http://limed.cc:80/4x6cXF/ehfxdp/91444.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO ARAXÁ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV INTEGRAÇÃO ARAXÁ - MG
-http://limed.cc:80/4x6cXF/ehfxdp/91456.m3u8
-#EXTINF:-1 tvg-id="TV Cabo Branco HD.br" tvg-name="TV CABO BRANCO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV CABO BRANCO - PB
-http://limed.cc:80/4x6cXF/ehfxdp/97260.m3u8
-#EXTINF:-1 tvg-id="TV Mirante Sao Luis HD.br" tvg-name="TV MIRANTE SÃO LUÍS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV MIRANTE SÃO LUÍS - MA
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TV Mirante Sao Luis HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350",TV MIRANTE SÃO LUÍS - MA
 http://limed.cc:80/4x6cXF/ehfxdp/90032.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="INTERTV GRANDE MINAS MG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTER TV GRANDE MINAS - MG
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="InterTV Grande Minas HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706",INTER TV GRANDE MINAS - MG
 http://limed.cc:80/4x6cXF/ehfxdp/91409.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO JUIZ DE FORA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV INTEGRAÇÃO JUIZ DE FORA - MG
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="InterTV Grande Minas HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706",TV INTEGRAÇÃO JUIZ DE FORA - MG
 http://limed.cc:80/4x6cXF/ehfxdp/91459.m3u8
-#EXTINF:-1 tvg-id="RPC Ponta Grossa HD.br" tvg-name="RPC TV PONTA GROSSA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",RPC TV PONTA GROSSA - PR
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RPC Ponta Grossa HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706",RPC TV PONTA GROSSA - PR
 http://limed.cc:80/4x6cXF/ehfxdp/91442.m3u8
-#EXTINF:-1 tvg-id="RPC Curitiba HD.br"  tvg-name="RPC FOZ DO IGUAÇU"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",RPC FOZ DO IGUAÇU - PR
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RPC Curitiba HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706",RPC FOZ DO IGUAÇU - PR
 http://limed.cc:80/4x6cXF/ehfxdp/91435.m3u8
-#EXTINF:-1 tvg-id="NSC TV Chapeco HD.br" tvg-name="NSC TV CHAPECÓ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV CHAPECÓ - SC
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="NSC TV Chapeco HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706",NSC TV CHAPECÓ - SC
 http://limed.cc:80/4x6cXF/ehfxdp/91413.m3u8
-#EXTINF:-1 tvg-id="NSC TV Joinville HD.br" tvg-name="NSC JOINVILLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV JOINVILLE - SC
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="NSC TV Joinville HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706",NSC TV JOINVILLE - SC
 http://limed.cc:80/4x6cXF/ehfxdp/91418.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="INTERTV DOS VALES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTER TV DOS VALES - MG
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="InterTV Grande Minas HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706",INTER TV DOS VALES - MG
 http://limed.cc:80/4x6cXF/ehfxdp/91408.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO UBERLÂNDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV INTEGRAÇÃO UBERLÂNDIA - MG
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="InterTV Grande Minas HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706",TV INTEGRAÇÃO UBERLÂNDIA - MG
 http://limed.cc:80/4x6cXF/ehfxdp/119725.m3u8
-#EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-name="RPC PARANAVAI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",RPC PARANAVAI - PR
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RPC Curitiba HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706",RPC PARANAVAI - PR
 http://limed.cc:80/4x6cXF/ehfxdp/91440.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CAPITAL",GLOBO AL - GAZETA DE ALAGOAS FHD
-http://newoneblack.site:80/888999/888999/234197
-#EXTINF:-1 tvg-id="TV Gazeta Sul.br" tvg-name="TV GAZETA SUL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GAZETA SUL - ES
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TV Gazeta Sul.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706",TV GAZETA SUL - ES
 http://limed.cc:80/4x6cXF/ehfxdp/91452.m3u8
-#EXTINF:-1 tvg-id="TV Gazeta Sul.br" tvg-name="TV GAZETA VITÓRIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GAZETA VITÓRIA - ES
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TV Gazeta Sul.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706",TV GAZETA VITÓRIA - ES
 http://limed.cc:80/4x6cXF/ehfxdp/90073.m3u8
-#EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-name="RPC CURITIBA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",RPC CURITIBA - PR
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RPC Curitiba HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706",RPC CURITIBA - PR
 http://limed.cc:80/4x6cXF/ehfxdp/91434.m3u8
-#EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="NSC TV FLORIANÓPOLIS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV FLORIANÓPOLIS - SC
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="NSC TV Florianopolis HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706",NSC TV FLORIANÓPOLIS - SC
 http://limed.cc:80/4x6cXF/ehfxdp/90031.m3u8
-#EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="NSC TV CRICIUMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV CRICIÚMA - SC
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="NSC TV Florianopolis HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706",NSC TV CRICIÚMA - SC
 http://limed.cc:80/4x6cXF/ehfxdp/91415.m3u8
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS TV PORTO ALEGRE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",RBS TV PORTO ALEGRE - RS
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RBS TV Porto Alegre HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706",RBS TV PORTO ALEGRE - RS
 http://limed.cc:80/4x6cXF/ehfxdp/90046.m3u8
-#EXTINF:-1 tvg-id="NSC TV Blumenau HD.br" tvg-name="NSC TV BLUMENAU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV BLUMENAU - SC
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="NSC TV Blumenau HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706",NSC TV BLUMENAU - SC
 http://limed.cc:80/4x6cXF/ehfxdp/95461.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CAPITAL",GLOBO SP - TV GLOBO SAO PAULO FHD
-http://newoneblack.site:80/888999/888999/234261
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CAPITAL",GLOBO PI - TV CLUBE SD
-http://newoneblack.site:80/888999/888999/234242
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CAPITAL",GLOBO PR - RPC CURITIBA FHD
-http://newoneblack.site:80/888999/888999/732573
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CAPITAL",GLOBO PR - RPC CURITIBA HD
-http://newoneblack.site:80/888999/888999/732574
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CAPITAL",GLOBO PR - RPC CURITIBA SD
-http://newoneblack.site:80/888999/888999/732575
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CAPITAL",GLOBO RO - AMAZONICA PORTO VELHO FHD
-http://newoneblack.site:80/888999/888999/234247
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CAPITAL",GLOBO SE - TV SERGIPE FHD
-http://newoneblack.site:80/888999/888999/234258
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV CAXIAS DO SUL FHD
-http://newoneblack.site:80/888999/888999/235323
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV CAXIAS DO SUL HD
-http://newoneblack.site:80/888999/888999/235322
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV CRUZ ALTA FHD
-http://newoneblack.site:80/888999/888999/235327
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV CRUZ ALTA SD
-http://newoneblack.site:80/888999/888999/235325
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV DOS VALES FHD
-http://newoneblack.site:80/888999/888999/235331
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV PELOTAS FHD
-http://newoneblack.site:80/888999/888999/235343
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV PELOTAS HD
-http://newoneblack.site:80/888999/888999/235342
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV DOS VALES SD
-http://newoneblack.site:80/888999/888999/235329
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO PR - RPC FOZ DO IGUAÇU HD
-http://newoneblack.site:80/888999/888999/235294
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV PORTO ALEGRE FHD
-http://newoneblack.site:80/888999/888999/235347
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV ERECHIM FHD
-http://newoneblack.site:80/888999/888999/235335
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV ERECHIM SD
-http://newoneblack.site:80/888999/888999/235333
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV ERECHIM HD
-http://newoneblack.site:80/888999/888999/235334
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV PASSO FUNDO FHD
-http://newoneblack.site:80/888999/888999/235339
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV PORTO ALEGRE HD
-http://newoneblack.site:80/888999/888999/235346
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV PASSO FUNDO HD
-http://newoneblack.site:80/888999/888999/235338
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV PASSO FUNDO SD
-http://newoneblack.site:80/888999/888999/235337
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV PORTO ALEGRE SD
-http://newoneblack.site:80/888999/888999/235345
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO PR - RPC GUARAPUAVA FHD
-http://newoneblack.site:80/888999/888999/235299
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV SANTA CRUZ FHD
-http://newoneblack.site:80/888999/888999/235351
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV SANTA CRUZ HD
-http://newoneblack.site:80/888999/888999/235350
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV SANTA CRUZ SD
-http://newoneblack.site:80/888999/888999/235349
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV SANTA MARIA FHD
-http://newoneblack.site:80/888999/888999/235355
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV SANTA MARIA HD
-http://newoneblack.site:80/888999/888999/235354
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV SANTA MARIA SD
-http://newoneblack.site:80/888999/888999/235353
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV PELOTAS SD
-http://newoneblack.site:80/888999/888999/235341
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV SANTA ROSA FHD
-http://newoneblack.site:80/888999/888999/235359
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV SANTA ROSA HD
-http://newoneblack.site:80/888999/888999/235358
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV URUGUAIANA FHD
-http://newoneblack.site:80/888999/888999/235363
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV SANTA ROSA SD
-http://newoneblack.site:80/888999/888999/235357
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV URUGUAIANA HD
-http://newoneblack.site:80/888999/888999/235362
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO RS - RBS TV URUGUAIANA SD
-http://newoneblack.site:80/888999/888999/235361
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO SC - NSC TV BLUMENAU HD
-http://newoneblack.site:80/888999/888999/235366
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO SC - NSC TV BLUMENAU SD
-http://newoneblack.site:80/888999/888999/235365
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO SC - NSC TV CENTRO OESTE FHD
-http://newoneblack.site:80/888999/888999/235371
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO SC - NSC TV CENTRO OESTE HD
-http://newoneblack.site:80/888999/888999/235370
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO SC - NSC TV CENTRO OESTE SD
-http://newoneblack.site:80/888999/888999/235369
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO SC - NSC TV CHAPECÓ FHD
-http://newoneblack.site:80/888999/888999/235375
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO SC - NSC TV CHAPECÓ HD
-http://newoneblack.site:80/888999/888999/235374
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO SC - NSC TV CHAPECÓ SD
-http://newoneblack.site:80/888999/888999/235373
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO SC - NSC TV CRICIÚMA FHD
-http://newoneblack.site:80/888999/888999/235379
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO SC - NSC TV CRICIÚMA HD
-http://newoneblack.site:80/888999/888999/235378
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO SC - NSC TV CRICIÚMA SD
-http://newoneblack.site:80/888999/888999/235377
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO SC - NSC TV JOINVILLE FHD
-http://newoneblack.site:80/888999/888999/235383
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUL",GLOBO SC - NSC TV JOINVILLE HD
-http://newoneblack.site:80/888999/888999/235382
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO ES - TV GAZETA NOROESTE FHD
-http://newoneblack.site:80/888999/888999/235387
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO ES - TV GAZETA NOROESTE HD
-http://newoneblack.site:80/888999/888999/235386
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO ES - TV GAZETA NOROESTE SD
-http://newoneblack.site:80/888999/888999/235385
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTERTV DOS VALES HD
-http://newoneblack.site:80/888999/888999/235389
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTERTV DOS VALES SD
-http://newoneblack.site:80/888999/888999/235388
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTERTV GRANDE MINAS FHD
-http://newoneblack.site:80/888999/888999/235393
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTERTV GRANDE MINAS HD
-http://newoneblack.site:80/888999/888999/235392
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO MG - INTERTV GRANDE MINAS SD
-http://newoneblack.site:80/888999/888999/235391
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO MG - TV INTEGRAÇAO ARAXÁ FHD
-http://newoneblack.site:80/888999/888999/235396
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO MG - TV INTEGRAÇAO ARAXÁ HD
-http://newoneblack.site:80/888999/888999/235395
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO MG - TV INTEGRAÇAO ARAXÁ SD
-http://newoneblack.site:80/888999/888999/235394
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO MG - TV INTEGRAÇAO ITUIUTABA FHD
-http://newoneblack.site:80/888999/888999/235399
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO MG - TV INTEGRAÇAO ITUIUTABA HD
-http://newoneblack.site:80/888999/888999/235398
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO MG - TV INTEGRAÇAO ITUIUTABA SD
-http://newoneblack.site:80/888999/888999/235397
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO MG - TV INTEGRAÇÃO JUIZ DE FORA FHD
-http://newoneblack.site:80/888999/888999/235405
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO MG - TV INTEGRAÇÃO JUIZ DE FORA HD
-http://newoneblack.site:80/888999/888999/235404
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO MG - TV INTEGRAÇAO UBERLANDIA FHD
-http://newoneblack.site:80/888999/888999/235402
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO MG - TV INTEGRAÇAO UBERLANDIA HD
-http://newoneblack.site:80/888999/888999/235401
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO MG - TV INTEGRAÇAO UBERLANDIA SD
-http://newoneblack.site:80/888999/888999/235400
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO RJ - INTERTV ALTO LITORAL FHD
-http://newoneblack.site:80/888999/888999/235408
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO RJ - INTERTV ALTO LITORAL HD
-http://newoneblack.site:80/888999/888999/235407
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO RJ - INTERTV ALTO LITORAL SD
-http://newoneblack.site:80/888999/888999/235406
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO RJ - INTERTV SERRA MAR FHD
-http://newoneblack.site:80/888999/888999/235411
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO RJ - INTERTV SERRA MAR HD
-http://newoneblack.site:80/888999/888999/235410
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO RJ - INTERTV SERRA MAR SD
-http://newoneblack.site:80/888999/888999/235409
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - EPTV CAMPINAS FHD
-http://newoneblack.site:80/888999/888999/235414
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - EPTV CAMPINAS HD
-http://newoneblack.site:80/888999/888999/235413
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - EPTV RIBEIRAO PRETO FHD
-http://newoneblack.site:80/888999/888999/235417
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - EPTV RIBEIRAO PRETO HD
-http://newoneblack.site:80/888999/888999/235416
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - EPTV RIBEIRAO PRETO SD
-http://newoneblack.site:80/888999/888999/235415
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV DIARIO FHD
-http://newoneblack.site:80/888999/888999/235420
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV DIARIO HD
-http://newoneblack.site:80/888999/888999/235419
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV DIARIO SD
-http://newoneblack.site:80/888999/888999/235418
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV FRONTREIRA PAULISTA FHD
-http://newoneblack.site:80/888999/888999/235423
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV FRONTREIRA PAULISTA HD
-http://newoneblack.site:80/888999/888999/235422
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV FRONTRIRA PAULISTA SD
-http://newoneblack.site:80/888999/888999/235421
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - EPTV CAMPINAS SD
-http://newoneblack.site:80/888999/888999/235412
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV TEM BAURU FHD
-http://newoneblack.site:80/888999/888999/235426
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV TEM BAURU HD
-http://newoneblack.site:80/888999/888999/235425
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV TEM BAURU SD
-http://newoneblack.site:80/888999/888999/235424
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV TEM ITAPETINGA FHD
-http://newoneblack.site:80/888999/888999/235429
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV TEM ITAPETINGA HD
-http://newoneblack.site:80/888999/888999/235428
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV TEM ITAPETINGA SD
-http://newoneblack.site:80/888999/888999/235427
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV TEM SAO JOSÉ DO RIO PRETO FHD
-http://newoneblack.site:80/888999/888999/235432
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV TEM SAO JOSÉ DO RIO PRETO HD
-http://newoneblack.site:80/888999/888999/235431
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV TEM SAO JOSÉ DO RIO PRETO SD
-http://newoneblack.site:80/888999/888999/235430
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV TEM SOROCABA FHD
-http://newoneblack.site:80/888999/888999/235435
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV TEM SOROCABA HD
-http://newoneblack.site:80/888999/888999/235434
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV TEM SOROCABA SD
-http://newoneblack.site:80/888999/888999/235433
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV TRIBUNA SANTOS HD
-http://newoneblack.site:80/888999/888999/671524
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV TRIBUNA SANTOS SD
-http://newoneblack.site:80/888999/888999/671525
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV VANGUARDA TAUBATÉ FHD
-http://newoneblack.site:80/888999/888999/235437
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBO SP - TV VANGUARDA TAUBATÉ SD
-http://newoneblack.site:80/888999/888999/235436
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBOO MG - TV INTEGRAÇAO UBERABA FHD
-http://newoneblack.site:80/888999/888999/235440
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBOO MG - TV INTEGRAÇAO UBERABA HD
-http://newoneblack.site:80/888999/888999/235439
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO SUDESTE",GLOBOO MG - TV INTEGRAÇAO UBERABA SD
-http://newoneblack.site:80/888999/888999/235438
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORDESTE",GLOBO BA - TV OESTE HD
-http://newoneblack.site:80/888999/888999/235499
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORDESTE",GLOBO PE - TV GRANDE RIO HD
-http://newoneblack.site:80/888999/888999/235535
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO AC - REDE AMAZONICA CRUZEIRO DO SUL FHD
-http://newoneblack.site:80/888999/888999/235443
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO AC - REDE AMAZONICA CRUZEIRO DO SUL HD
-http://newoneblack.site:80/888999/888999/235442
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO AC - REDE AMAZONICA CRUZEIRO DO SUL SD
-http://newoneblack.site:80/888999/888999/235441
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO AM - REDE AMAZONICA COARI FHD
-http://newoneblack.site:80/888999/888999/235446
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO AM - REDE AMAZONICA COARI HD
-http://newoneblack.site:80/888999/888999/235445
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO AM - REDE AMAZONICA COARI SD
-http://newoneblack.site:80/888999/888999/235444
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO AM - REDE AMAZONICA HUMAITA FHD
-http://newoneblack.site:80/888999/888999/235449
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORDESTE",GLOBO BA - TV OESTE FHD
-http://newoneblack.site:80/888999/888999/235500
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORDESTE",GLOBO RN - INTERTV COSTA BRANCA SD
-http://newoneblack.site:80/888999/888999/235540
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO AM - REDE AMAZONICA ITACOATIARA FHD
-http://newoneblack.site:80/888999/888999/235452
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO AM - REDE AMAZONICA ITACOATIARA HD
-http://newoneblack.site:80/888999/888999/235451
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO AM - REDE AMAZONICA ITACOATIARA SD
-http://newoneblack.site:80/888999/888999/235450
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO AM - REDE AMAZONICA PARINTINS FHD
-http://newoneblack.site:80/888999/888999/235455
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO AM - REDE AMAZONICA PARINTINS HD
-http://newoneblack.site:80/888999/888999/235454
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORDESTE",GLOBO MA - TV MIRANTE IMPERATRIZ SD
-http://newoneblack.site:80/888999/888999/235522
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO AM - REDE AMAZONICA PARINTINS SD
-http://newoneblack.site:80/888999/888999/235453
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO PA - TV LIBERAL ALTAMIRA FHD
-http://newoneblack.site:80/888999/888999/235458
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO PA - TV LIBERAL ALTAMIRA HD
-http://newoneblack.site:80/888999/888999/235457
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO PA - TV LIBERAL ALTAMIRA SD
-http://newoneblack.site:80/888999/888999/235456
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO PA - TV LIBERAL BELÉM FHD
-http://newoneblack.site:80/888999/888999/235461
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO PA - TV LIBERAL CASTANHAL FHD
-http://newoneblack.site:80/888999/888999/235464
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO PA - TV LIBERAL CASTANHAL HD
-http://newoneblack.site:80/888999/888999/235463
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORDESTE",GLOBO PI - TV ALVORADA SD
-http://newoneblack.site:80/888999/888999/235537
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO PA - TV LIBERAL CASTANHAL SD
-http://newoneblack.site:80/888999/888999/235462
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO PA - TV LIBERAL MARABÁ SD
-http://newoneblack.site:80/888999/888999/235465
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO PA - TV TAPAJOS SD
-http://newoneblack.site:80/888999/888999/235474
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORDESTE",GLOBO RN - INTERTV COSTA BRANCA FHD
-http://newoneblack.site:80/888999/888999/235542
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO GO - TV ANHANGUERA ANÁPOLIS FHD
-http://newoneblack.site:80/888999/888999/235545
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO GO - TV ANHANGUERA ANÁPOLIS HD
-http://newoneblack.site:80/888999/888999/235544
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO GO - TV ANHANGUERA ANÁPOLIS SD
-http://newoneblack.site:80/888999/888999/235543
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO RO - REDE AMAZONICA VILHENA FHD
-http://newoneblack.site:80/888999/888999/235488
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO GO - TV ANHANGUERA CATALAO HD
-http://newoneblack.site:80/888999/888999/235547
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO GO - TV ANHANGUERA ITUMBIARA FHD
-http://newoneblack.site:80/888999/888999/235551
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO TO - TV ANHANGUERA ARAGUAINA FHD
-http://newoneblack.site:80/888999/888999/235494
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO GO - TV ANHANGUERA ITUMBIARA HD
-http://newoneblack.site:80/888999/888999/235550
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO GO - TV ANHANGUERA ITUMBIARA SD
-http://newoneblack.site:80/888999/888999/235549
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO GO - TV ANHANGUERA JATAI FHD
-http://newoneblack.site:80/888999/888999/235554
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO GO - TV ANHANGUERA CATALAO FHD
-http://newoneblack.site:80/888999/888999/235548
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO TO - TV ANHANGUERA GURUPI SD
-http://newoneblack.site:80/888999/888999/235495
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO GO - TV ANHANGUERA JATAI HD
-http://newoneblack.site:80/888999/888999/235553
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO GO - TV ANHANGUERA JATAI SD
-http://newoneblack.site:80/888999/888999/235552
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO GO - TV ANHANGUERA LUZIANIA FHD
-http://newoneblack.site:80/888999/888999/235557
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO RR - REDE AMAZONICA RORAINOPOLIS SD
-http://newoneblack.site:80/888999/888999/235489
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO GO - TV ANHANGUERA LUZIANIA HD
-http://newoneblack.site:80/888999/888999/235556
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO GO - TV ANHANGUERA LUZIANIA SD
-http://newoneblack.site:80/888999/888999/235555
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO RO - REDE AMAZONICA JI-PARANÁ SD
-http://newoneblack.site:80/888999/888999/235483
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO NORTE",GLOBO TO - TV ANHANGUERA GURUPI FHD
-http://newoneblack.site:80/888999/888999/235497
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO GO - TV ANHANGUERA RIO VERDE SD
-http://newoneblack.site:80/888999/888999/235558
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO MS - TV MORENA TRES LAGOAS FHD
-http://newoneblack.site:80/888999/888999/235572
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO MS - TV MORENA TRES LAGOAS HD
-http://newoneblack.site:80/888999/888999/235571
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO MS - TV MORENA TRES LAGOAS SD
-http://newoneblack.site:80/888999/888999/235570
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD AL - PAJUÇARA FHD
-http://newoneblack.site:80/888999/888999/234667
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD AL - PAJUÇARA HD
-http://newoneblack.site:80/888999/888999/676604
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD AM - TV MANAUS FHD
-http://newoneblack.site:80/888999/888999/235871
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO MS - TV MORENA CORUMBÁ SD
-http://newoneblack.site:80/888999/888999/235561
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO MT - TV CENTRO AMÉRICA TANGARÁ HD
-http://newoneblack.site:80/888999/888999/235586
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD AM - TV MANAUS HD
-http://newoneblack.site:80/888999/888999/235870
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD BA - TV CABRÁLIA FHD
-http://newoneblack.site:80/888999/888999/235874
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD BA - TV CABRÁLIA HD
-http://newoneblack.site:80/888999/888999/235873
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD BA - TV ITAPOAN FHD
-http://newoneblack.site:80/888999/888999/235877
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD BA - TV ITAPOAN HD
-http://newoneblack.site:80/888999/888999/235876
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD DF - TV BRASÍLIA FHD
-http://newoneblack.site:80/888999/888999/235880
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD DF - TV BRASÍLIA HD
-http://newoneblack.site:80/888999/888999/235879
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD GO - TV GOÍAS FHD
-http://newoneblack.site:80/888999/888999/235886
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO GO - TV ANHANGUERA RIO VERDE HD
-http://newoneblack.site:80/888999/888999/235559
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO MT - TV CENTRO AMÉRICA CÁCERES SD
-http://newoneblack.site:80/888999/888999/235576
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD GO - TV GOÍAS HD
-http://newoneblack.site:80/888999/888999/235885
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO MT - TV CENTRO AMÉRICA TANGARÁ SD
-http://newoneblack.site:80/888999/888999/235585
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO MT - TV CENTRO AMÉRICA CÁCERES HD
-http://newoneblack.site:80/888999/888999/235577
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO GO - TV ANHANGUERA RIO VERDE FHD
-http://newoneblack.site:80/888999/888999/235560
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD MG - TV MINAS FHD
-http://newoneblack.site:80/888999/888999/235889
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD MG - TV MINAS HD
-http://newoneblack.site:80/888999/888999/235888
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD ES - TV ESPIRO SANTO FHD
-http://newoneblack.site:80/888999/888999/235883
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD ES - TV ESPIRO SANTO HD
-http://newoneblack.site:80/888999/888999/235882
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD PA - TV BELÉM FHD
-http://newoneblack.site:80/888999/888999/235892
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD PA - TV BELÉM HD
-http://newoneblack.site:80/888999/888999/235891
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD PAULISTA BAURU FHD
-http://newoneblack.site:80/888999/888999/673350
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD PAULISTA BAURU HD
-http://newoneblack.site:80/888999/888999/234668
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD PE - TV GUARARAPES FHD
-http://newoneblack.site:80/888999/888999/235894
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD PB - CORREIO HD
-http://newoneblack.site:80/888999/888999/234657
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD PIAUI HD
-http://newoneblack.site:80/888999/888999/234670
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD PR - RIC TV FHD
-http://newoneblack.site:80/888999/888999/235897
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD PR - RIC TV HD
-http://newoneblack.site:80/888999/888999/235896
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD REMANSO MA FHD
-http://newoneblack.site:80/888999/888999/676609
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD REMANSO MA HD
-http://newoneblack.site:80/888999/888999/234673
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD RIBEIRÃO PRETO FHD
-http://newoneblack.site:80/888999/888999/235902
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD RIBEIRÃO PRETO HD
-http://newoneblack.site:80/888999/888999/235901
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD RJ - TV RIO DE JANEIRO FHD
-http://newoneblack.site:80/888999/888999/235900
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD RJ - TV RIO DE JANEIRO HD
-http://newoneblack.site:80/888999/888999/235899
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD PE - TV GUARARAPES HD
-http://newoneblack.site:80/888999/888999/676562
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD RJ- CAMPOS DOS GOYTACAZES FHD
-http://newoneblack.site:80/888999/888999/235905
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO MT - TV CENTRO AMÉRICA TANGARÁ FHD
-http://newoneblack.site:80/888999/888999/235587
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD RJ- CAMPOS DOS GOYTACAZES HD
-http://newoneblack.site:80/888999/888999/235904
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO MT - TV CENTRO AMÉRICA BARRA DAS GARÇAS SD
-http://newoneblack.site:80/888999/888999/235573
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD RN - TV TROPICAL FHD
-http://newoneblack.site:80/888999/888999/235907
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD RN - TV TROPICAL HD
-http://newoneblack.site:80/888999/888999/235906
-#EXTINF:0 tvg-id="ext" group-title="⭐ GLOBO CENTRO-OESTE",GLOBO MT - TV CENTRO AMÉRICA CÁCERES FHD
-http://newoneblack.site:80/888999/888999/235578
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD RS - TV GUAIBA FHD
-http://newoneblack.site:80/888999/888999/235910
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD RS - TV GUAIBA HD
-http://newoneblack.site:80/888999/888999/235909
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD RS - TV PORTO ALEGRE FHD
-http://newoneblack.site:80/888999/888999/235913
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD RS - TV PORTO ALEGRE HD
-http://newoneblack.site:80/888999/888999/235912
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD SC - NDTV FLORIANÓPOLIS FHD
-http://newoneblack.site:80/888999/888999/235916
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD SC - NDTV FLORIANÓPOLIS HD
-http://newoneblack.site:80/888999/888999/235915
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD SE - TV ATALAIA FHD
-http://newoneblack.site:80/888999/888999/235918
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD SE - TV ATALAIA HD
-http://newoneblack.site:80/888999/888999/235917
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD SIC TV RONDONIA FHD
-http://newoneblack.site:80/888999/888999/676531
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD SIC TV RONDONIA HD
-http://newoneblack.site:80/888999/888999/676532
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD SP - TH+ CAMPINAS FHD
-http://newoneblack.site:80/888999/888999/235921
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD SP - TH+ CAMPINAS HD
-http://newoneblack.site:80/888999/888999/235920
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD SP - TV LITORAL DE SANTOS FHD
-http://newoneblack.site:80/888999/888999/235924
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD SP - TV LITORAL DE SANTOS HD
-http://newoneblack.site:80/888999/888999/235923
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD SP - TV PAULISTA FHD
-http://newoneblack.site:80/888999/888999/235927
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD SP - TV PAULISTA HD
-http://newoneblack.site:80/888999/888999/235926
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD SP - TV RIO PRETO FHD
-http://newoneblack.site:80/888999/888999/235930
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD SP - TV RIO PRETO HD
-http://newoneblack.site:80/888999/888999/235929
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD SP -TV SÃO PAULO FHD
-http://newoneblack.site:80/888999/888999/235933
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD SP -TV SÃO PAULO HD
-http://newoneblack.site:80/888999/888999/235932
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD TO HD
-http://newoneblack.site:80/888999/888999/234695
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD TV CIDADE VERDE FHD
-http://newoneblack.site:80/888999/888999/676539
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD TV CIDADE VERDE HD
-http://newoneblack.site:80/888999/888999/234697
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD TV JUARA HD
-http://newoneblack.site:80/888999/888999/234699
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD TV JUINA HD
-http://newoneblack.site:80/888999/888999/234700
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD VILA REAL FHD
-http://newoneblack.site:80/888999/888999/676544
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD VILA REAL HD
-http://newoneblack.site:80/888999/888999/234703
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND BA - BAND BAHIA FHD
-http://newoneblack.site:80/888999/888999/235997
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND BA - BAND BAHIA HD
-http://newoneblack.site:80/888999/888999/235998
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND CE - BAND CEARÁ FHD
-http://newoneblack.site:80/888999/888999/235999
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND CE - BAND CEARÁ HD
-http://newoneblack.site:80/888999/888999/236000
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND DF - BSB DISTRITO FEDERAL FHD
-http://newoneblack.site:80/888999/888999/236001
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND DF - BSB DISTRITO FEDERAL HD
-http://newoneblack.site:80/888999/888999/236002
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND GO - TV SUCESSO HD
-http://newoneblack.site:80/888999/888999/236005
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND MG - MINAS GERAIS FHD
-http://newoneblack.site:80/888999/888999/236006
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND MG - MINAS GERAIS HD
-http://newoneblack.site:80/888999/888999/236007
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD TV CONQUISTA MT FHD
-http://newoneblack.site:80/888999/888999/676629
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND PA - RBA TV FHD
-http://newoneblack.site:80/888999/888999/236008
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND PA - RBA TV HD
-http://newoneblack.site:80/888999/888999/236009
-#EXTINF:0 tvg-id="ext" group-title="⭐ RECORD",RECORD TV CONQUISTA MT HD
-http://newoneblack.site:80/888999/888999/234698
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND PR - BAND MARINGA FHD
-http://newoneblack.site:80/888999/888999/236010
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND PR - BAND MARINGA HD
-http://newoneblack.site:80/888999/888999/236011
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND RJ - BAND RIO FHD
-http://newoneblack.site:80/888999/888999/236012
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND RJ - BAND RIO HD
-http://newoneblack.site:80/888999/888999/236013
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND RN - BAND NATAL FHD
-http://newoneblack.site:80/888999/888999/236014
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND RN - BAND NATAL HD
-http://newoneblack.site:80/888999/888999/236015
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND RS - BAND RIO GRANDE DO SUL FHD
-http://newoneblack.site:80/888999/888999/236016
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND ES - BAND TRIBUNA FHD
-http://newoneblack.site:80/888999/888999/236003
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND RS - BAND RIO GRANDE DO SUL HD
-http://newoneblack.site:80/888999/888999/236017
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND SP - BAND CAMPINAS FHD
-http://newoneblack.site:80/888999/888999/236019
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND SP - BAND CAMPINAS HD
-http://newoneblack.site:80/888999/888999/236020
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND SP - BAND SAO PAULO FHD
-http://newoneblack.site:80/888999/888999/236021
-#EXTINF:0 tvg-id="ext" group-title="⭐ BAND",BAND SP - BAND SAO PAULO HD
-http://newoneblack.site:80/888999/888999/236022
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT AL - TV PONTA VERDE HD
-http://newoneblack.site:80/888999/888999/676682
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT BA - TV ALTEROSA FHD
-http://newoneblack.site:80/888999/888999/235956
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT BA - TV ALTEROSA HD
-http://newoneblack.site:80/888999/888999/235957
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT BA - TV ARATU FHD
-http://newoneblack.site:80/888999/888999/235958
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT BA - TV ARATU HD
-http://newoneblack.site:80/888999/888999/235959
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT CE - TV JANGADEIRO FHD
-http://newoneblack.site:80/888999/888999/235960
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT CE - TV JANGADEIRO HD
-http://newoneblack.site:80/888999/888999/235961
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT DF - SBT BRASILIA FHD
-http://newoneblack.site:80/888999/888999/235962
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT DF - SBT BRASILIA HD
-http://newoneblack.site:80/888999/888999/235963
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT GO - TV SERRA DOURADA FHD
-http://newoneblack.site:80/888999/888999/235966
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT GO - TV SERRA DOURADA HD
-http://newoneblack.site:80/888999/888999/235967
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT PA - SBT PARÁ FHD
-http://newoneblack.site:80/888999/888999/235970
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT PA - SBT PARÁ HD
-http://newoneblack.site:80/888999/888999/235971
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT AM - AMAZONAS FHD
-http://newoneblack.site:80/888999/888999/676767
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT AM - AMAZONAS HD
-http://newoneblack.site:80/888999/888999/676684
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT PA - TV GUAJARÁ HD
-http://newoneblack.site:80/888999/888999/235972
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT BA - ITAPOAN FHD
-http://newoneblack.site:80/888999/888999/676689
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT PB - TAMBAU HD
-http://newoneblack.site:80/888999/888999/676749
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT PE - TV JORNAL FHD
-http://newoneblack.site:80/888999/888999/235973
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT PE - TV JORNAL HD
-http://newoneblack.site:80/888999/888999/235974
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT PI - CIDADE VERDE HD
-http://newoneblack.site:80/888999/888999/676720
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT PI - PIAUI HD
-http://newoneblack.site:80/888999/888999/676772
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT PR - REDE MASSA FHD
-http://newoneblack.site:80/888999/888999/235975
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT MA - TV DIFUSORA FHD
-http://newoneblack.site:80/888999/888999/235968
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT PR - REDE MASSA HD
-http://newoneblack.site:80/888999/888999/235976
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT MA - TV DIFUSORA HD
-http://newoneblack.site:80/888999/888999/235969
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT RJ - SBT  RIO FHD
-http://newoneblack.site:80/888999/888999/235978
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT RJ - SBT  RIO HD
-http://newoneblack.site:80/888999/888999/235979
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT RS - SBT PORTO ALEGRE FHD
-http://newoneblack.site:80/888999/888999/235981
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT RS - SBT PORTO ALEGRE HD
-http://newoneblack.site:80/888999/888999/235982
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT SC - SBT SCC FHD
-http://newoneblack.site:80/888999/888999/235983
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT SC - SBT SCC HD
-http://newoneblack.site:80/888999/888999/676773
-#EXTINF:-1 tvg-id="Record TV.br" tvg-name="TV VILA REAL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",TV VILA REAL - MT
-http://limed.cc:80/4x6cXF/ehfxdp/100543.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT SP - SBT SAO PAULO FHD
-http://newoneblack.site:80/888999/888999/235984
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT SP - SBT SAO PAULO HD
-http://newoneblack.site:80/888999/888999/235985
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT PI - CIDADE VERDE FHD
-http://newoneblack.site:80/888999/888999/676721
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT SP - VTV CAMPINAS HD
-http://newoneblack.site:80/888999/888999/671526
-#EXTINF:-1 tvg-id="Record TV.br" tvg-name="RECORD LITORAL E VALE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD LITORAL E VALE - SP
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Record TV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014",RECORD LITORAL E VALE - SP
 http://limed.cc:80/4x6cXF/ehfxdp/123216.m3u8
-#EXTINF:-1 tvg-id="Record TV.br" tvg-name="RECORD BELÉM" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD BELÉM - PA
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Record TV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014",RECORD BELÉM - PA
 http://limed.cc:80/4x6cXF/ehfxdp/100400.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT+",+NOVELAS FHD
-http://newoneblack.site:80/888999/888999/235989
-#EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="TV PAJUÇARA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",TV PAJUÇARA - AL
-http://limed.cc:80/4x6cXF/ehfxdp/116880.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT+",+NOVELAS HD
-http://newoneblack.site:80/888999/888999/235990
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT SP - CENTRAL HD
-http://newoneblack.site:80/888999/888999/676686
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT+",+TVZYN FHD
-http://newoneblack.site:80/888999/888999/235995
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT+",+TVZYN HD
-http://newoneblack.site:80/888999/888999/235996
-#EXTINF:-1 tvg-id="SIC TV HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",SIC TV - RO
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="SIC TV HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014",SIC TV - RO
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
-#EXTINF:-1 tvg-id="RecordTV Sao Paulo HD.br" tvg-name="RECORD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD - SP
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV Sao Paulo HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014",RECORD - SP
 http://limed.cc:80/4x6cXF/ehfxdp/90265.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT PB - TAMBAU FHD
-http://newoneblack.site:80/888999/888999/676713
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT SP - VTV CAMPINAS FHD
-http://newoneblack.site:80/888999/888999/676714
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="TV DIFUSORA SÃO LUÍS" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV DIFUSORA SÃO LUÍS - MA
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="SBT HD.br" tvg-logo="https://i.imgur.com/srURmsi.png",TV DIFUSORA SÃO LUÍS - MA
 http://limed.cc:80/4x6cXF/ehfxdp/90292.m3u8
-#EXTINF:-1 tvg-id="TV Jornal HD.br" tvg-name="TV JORNAL" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV JORNAL - PE
-http://limed.cc:80/4x6cXF/ehfxdp/90302.m3u8
-#EXTINF:-1 tvg-id="TV Jangadeiro HD.br" tvg-name="TV JANGADEIRO" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV JANGADEIRO - CE
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TV Jangadeiro HD.br" tvg-logo="https://i.imgur.com/srURmsi.png",TV JANGADEIRO - CE
 http://limed.cc:80/4x6cXF/ehfxdp/95493.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT+",+SAUDADE FHD
-http://newoneblack.site:80/888999/888999/235991
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT PARÁ" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT PARÁ - PA
-http://limed.cc:80/4x6cXF/ehfxdp/90288.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT+",+SAUDADE HD
-http://newoneblack.site:80/888999/888999/235992
-#EXTINF:-1 tvg-id="TV Alterosa HD.br" tvg-name="TV ALTEROSA" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV ALTEROSA - MG
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TV Alterosa HD.br" tvg-logo="https://i.imgur.com/srURmsi.png",TV ALTEROSA - MG
 http://limed.cc:80/4x6cXF/ehfxdp/97414.m3u8
-#EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="TV TROPICAL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",TV TROPICAL - RN
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Record TV HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014",TV TROPICAL - RN
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist_w675410568.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT+",+SILVIO SANTOS FHD
-http://newoneblack.site:80/888999/888999/235993
-#EXTINF:-1 tvg-id="SBT TV Ponta Verde HD.br" tvg-name="TV PONTA VERDE" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV PONTA VERDE - AL
-http://limed.cc:80/4x6cXF/ehfxdp/90302.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT+",+SILVIO SANTOS HD
-http://newoneblack.site:80/888999/888999/235994
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="TV DIFUSORA SÃO LUÍS" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV DIFUSORA SÃO LUÍS - MA
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="SBT HD.br" tvg-logo="https://i.imgur.com/srURmsi.png",TV DIFUSORA SÃO LUÍS - MA
 http://limed.cc:80/4x6cXF/ehfxdp/90301.m3u8
-#EXTINF:-1 tvg-id="SBT Sao Paulo HD.br" tvg-name="SBT - SP" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT - SP
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="SBT Sao Paulo HD.br" tvg-logo="https://i.imgur.com/srURmsi.png",SBT - SP
 http://limed.cc:80/4x6cXF/ehfxdp/90296.m3u8
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SCC SBT" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SCC SBT - SC
-http://limed.cc:80/4x6cXF/ehfxdp/90293.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT PI - PIAUI FHD
-http://newoneblack.site:80/888999/888999/676771
-#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND - SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND - SP
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band Sao Paulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png",BAND - SP
 http://limed.cc:80/4x6cXF/ehfxdp/89823.m3u8
-#EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND MAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND MAIS - SP
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png",BAND MAIS - SP
 http://limed.cc:80/4x6cXF/ehfxdp/89817.m3u8
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT INTERIOR" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT INTERIOR - SP
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="SBT HD.br" tvg-logo="https://i.imgur.com/srURmsi.png",SBT INTERIOR - SP
 http://limed.cc:80/4x6cXF/ehfxdp/90287.m3u8
-#EXTINF:-1 tvg-id="SBT Rio HD.br" tvg-name="SBT RJ" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT RIO - RJ
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="SBT Rio HD.br" tvg-logo="https://i.imgur.com/srURmsi.png",SBT RIO - RJ
 http://limed.cc:80/4x6cXF/ehfxdp/90290.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⭐ SBT",SBT SP - CENTRAL FHD
-http://newoneblack.site:80/888999/888999/676768
-#EXTINF:-1 tvg-id="Record TV Bahia.br" tvg-name="RECORD BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD BAHIA - BA
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Record TV Bahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014",RECORD BAHIA - BA
 http://limed.cc:80/4x6cXF/ehfxdp/90245.m3u8
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT BRASÍLIA" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT BRASÍLIA - DF
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="SBT HD.br" tvg-logo="https://i.imgur.com/srURmsi.png",SBT BRASÍLIA - DF
 http://limed.cc:80/4x6cXF/ehfxdp/90285.m3u8
-#EXTINF:-1 tvg-id="SBT RS HD.br" tvg-name="SBT RS" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT - RS
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="SBT RS HD.br" tvg-logo="https://i.imgur.com/srURmsi.png",SBT - RS
 http://limed.cc:80/4x6cXF/ehfxdp/90291.m3u8
-#EXTINF:-1 tvg-id="Band Belem.br" tvg-name="RBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",RBA TV - PA
-http://limed.cc:80/4x6cXF/ehfxdp/101482.m3u8
-#EXTINF:-1 tvg-id="TV Tribuna HD.br" tvg-name="TV TRIBUNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",TV TRIBUNA - PE
-http://limed.cc:80/4x6cXF/ehfxdp/116878.m3u8
-#EXTINF:-1 tvg-id="Record TV.br" tvg-name="RECORD MANAUS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD MANAUS - AM
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Record TV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014",RECORD MANAUS - AM
 http://limed.cc:80/4x6cXF/ehfxdp/90255.m3u8
-#EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND PAULISTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND CAMPINAS - SP
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png",BAND CAMPINAS - SP
 http://limed.cc:80/4x6cXF/ehfxdp/110231.m3u8
-#EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="RECORD GOIÁS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD GOIÁS - GO
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Record TV HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014",RECORD GOIÁS - GO
 http://limed.cc:80/4x6cXF/ehfxdp/90253.m3u8
-#EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="RECORD CAMPINAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",TV THATHI CAMPINAS - SP
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Record TV HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014",TV THATHI CAMPINAS - SP
 http://limed.cc:80/4x6cXF/ehfxdp/90252.m3u8
-#EXTINF:-1 tvg-id="TV GuarÃ¡ HD.br" tvg-name="TV GUARÁ CAXIAS" tvg-logo="https://ugc.production.linktr.ee/ac8b3e63-c6b0-49be-a73d-6818df55ad2a_LOGO-TV-GUARA--1-.png?io=true&size=avatar-v3_0" group-title="TV ABERTA",TV GUARÁ CAXIAS - MA
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TV GuarÃ¡ HD.br" tvg-logo="https://ugc.production.linktr.ee/ac8b3e63-c6b0-49be-a73d-6818df55ad2a_LOGO-TV-GUARA--1-.png?io=true&size=avatar-v3_0",TV GUARÁ CAXIAS - MA
 https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="62e010e6cd663f0007e57dc8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcE3z-QtWvhdP1Ps_ZKQuYPahyJTKVrJqR1ZvpYC5wOSfKqCbJhtOUmkXmZaI&s",TV CULTURA SP HD
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1027478611.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-name="TV Câmera" tvg-id="TV Câmera" tvg-logo="https://i.imgur.com/TlqB0Uo.png",TV Câmara
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TV Câmera" tvg-logo="https://i.imgur.com/TlqB0Uo.png",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8?ManoTV
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCamara.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfx1E2YGvr_VLO-aUNQZh1kVjvONNaRpCb8GN0f_FS-N6vbcxAP6be6VM5mw&s",TV CÂMARA DOS DEPUTADOS HD
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/98/81/MEVJO8Y_t.png" group-title="Canais Abertos",TV CÂMARA
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://thumbs4.imagebam.com/18/98/81/MEVJO8Y_t.png",TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND VALE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND VALE - SP
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png",BAND VALE - SP
 http://limed.cc:80/4x6cXF/ehfxdp/110232.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-name="TV Câmera" tvg-id="TV Câmera" tvg-logo="https://i.imgur.com/duy6waL.png",TV Câmara²
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TV Câmera" tvg-logo="https://i.imgur.com/duy6waL.png",TV Câmara²
 https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF:-1 tvg-id="Band RJ HD.br" tvg-name="BAND RIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND RIO - RJ
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band RJ HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png",BAND RIO - RJ
 http://limed.cc:80/4x6cXF/ehfxdp/101480.m3u8
-#EXTINF:-1 tvg-id="Record TV Minas HD.br" tvg-name="RECORD MINAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD MINAS - MG
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Record TV Minas HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014",RECORD MINAS - MG
 http://limed.cc:80/4x6cXF/ehfxdp/90257.m3u8
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="VTV" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",VTV - SP
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="SBT HD.br" tvg-logo="https://i.imgur.com/srURmsi.png",VTV - SP
 http://limed.cc:80/4x6cXF/ehfxdp/90305.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/64/c0/71/MEVJO8R_t.png" group-title="Canais Abertos",TV ALEAL
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://thumbs4.imagebam.com/64/c0/71/MEVJO8R_t.png",TV ALEAL
 https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/chunklist_w1993324451.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-name="Canal GOV" tvg-id="Canal GOV" tvg-logo="https://i.imgur.com/9KwUxmX.png",Canal GOV
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Canal GOV" tvg-logo="https://i.imgur.com/9KwUxmX.png",Canal GOV
 https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d4/d9/65/MEVJO8U_t.png" group-title="Canais Abertos",TV CAMARA TUPÃ
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://thumbs4.imagebam.com/d4/d9/65/MEVJO8U_t.png",TV CAMARA TUPÃ
 http://video.sinoinformatica.com.br:1935/cmtupa-live/sessaoaovivo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a5/31/68/MEVJO8S_t.png" group-title="Canais Abertos",TV A OITAVA
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://thumbs4.imagebam.com/a5/31/68/MEVJO8S_t.png",TV A OITAVA
 https://video05.logicahost.com.br/tvoitava/tvoitava/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8e/07/79/MEVJO90_t.png" group-title="Canais Abertos",TV CAMARA JOAO PESSOA
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://thumbs4.imagebam.com/8e/07/79/MEVJO90_t.png",TV CAMARA JOAO PESSOA
 https://video05.logicahost.com.br/camarajp/camarajp/playlist.m3u8
-#EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="NDTV JOINVILLE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",NDTV JOINVILLE - SC
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Record TV HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014",NDTV JOINVILLE - SC
 http://limed.cc:80/4x6cXF/ehfxdp/123212.m3u8
-#EXTINF:-1 tvg-id="Record TV.br" tvg-name="TV GUARARAPES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",TV GUARARAPES - PE
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Record TV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014",TV GUARARAPES - PE
 http://limed.cc:80/4x6cXF/ehfxdp/100401.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/52/b1/41/MEVJO9E_t.png" group-title="Canais Abertos",TV ALEGO
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://thumbs4.imagebam.com/52/b1/41/MEVJO9E_t.png",TV ALEGO
 https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Band Minas.br" tvg-name="BAND MINAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND MINAS - MG
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band Minas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png",BAND MINAS - MG
 http://limed.cc:80/4x6cXF/ehfxdp/110234.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://images4.imagebam.com/70/5d/0f/MEVIHF3_o.png",SBT TV Cidade Verde PI
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://images4.imagebam.com/70/5d/0f/MEVIHF3_o.png",SBT TV Cidade Verde PI
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1196569154.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ab/45/9d/MEVJO92_t.png" group-title="Canais Abertos",TV ALBA
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://thumbs4.imagebam.com/ab/45/9d/MEVJO92_t.png",TV ALBA
 https://live.mediastreaming.com.br/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://images4.imagebam.com/08/78/7c/MEVIHF4_o.png",SBT TV Difusora MA
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://images4.imagebam.com/08/78/7c/MEVIHF4_o.png",SBT TV Difusora MA
 https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://imgur.com/ehWOLXa.png",TV Oitava (São Gonçalo-RJ)
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://imgur.com/ehWOLXa.png",TV Oitava (São Gonçalo-RJ)
 https://video05.logicahost.com.br/tvoitava/tvoitava/chunklist_w1967152207.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://images4.imagebam.com/07/b9/4e/MEVIHEX_o.png",SBT TV Guajará PA
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://images4.imagebam.com/07/b9/4e/MEVIHEX_o.png",SBT TV Guajará PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w505069364.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/band.png",Band (PE)
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/band.png",Band (PE)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVBrasilCentral.br" tvg-logo="https://www.tvbrasilcentral.com.br/wp-content/uploads/2022/07/logo-tbc-azul.png",TV Brasil Central (GO)
 https://tbc.zoeweb.tv/tbc/ngrp:tbc_all/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeMeioNorte.br" tvg-logo="(logo Meio Norte)",Rede Meio Norte
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/71/50/MEVIHT4_t.png" group-title="Canais | ABERTO",RECORD TV MS TV CONQUISTA
+#EXTINF:-1 group-title="Canais | ABERTO" tvg-id="Undefined" tvg-logo="https://thumbs4.imagebam.com/e5/71/50/MEVIHT4_t.png",RECORD TV MS TV CONQUISTA
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/recordtv.png",Record TV MT
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/14/a7/59/MEVIHT2_t.png" group-title="Canais Abertos",RECORD TV - TV VILA REAL
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://thumbs4.imagebam.com/14/a7/59/MEVIHT2_t.png",RECORD TV - TV VILA REAL
 https://5a2b083e9f360.streamlock.net:443/tvmt/tvmt.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="RBATV.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/df0c35517ab2f2e9e6c1808730694.webp",Band Belém (RBA TV)
 https://streaming.gruporba.com.br/rba.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/recordtv.png",Record TV (PB)
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/recordtv.png",Record TV (PB)
 https://video07.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png",RecordTV Conquista HD
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png",RecordTV Conquista HD
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/dc/2b/90/MEVIHSZ_t.png" group-title="Canais Abertos",RECORD TV Amplitude Juara MT
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://thumbs4.imagebam.com/dc/2b/90/MEVIHSZ_t.png",RECORD TV Amplitude Juara MT
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/71/50/MEVIHT4_t.png" group-title="Canais | ABERTO",RECORD TVR MT
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="Band Amazonas HD.br" tvg-name="BAND AMAZONAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND AMAZONAS - AM
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band Amazonas HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png",BAND AMAZONAS - AM
 http://limed.cc:80/4x6cXF/ehfxdp/110233.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="SBT" tvg-logo="https://imgur.com/KO1v3pS.png",SBT CIDADE VERDE FHD
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png",Record SicTV (RO)
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png",Record SicTV (RO)
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e9/23/93/MEVIHT0_t.png" ggroup-title="Canais Abertos",RECORD TV Tropical RN
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://thumbs4.imagebam.com/e9/23/93/MEVIHT0_t.png",RECORD TV Tropical RN
 https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://i.imgur.com/wKpiAOj.png",CATVE TV Cultura HD
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/band.png",Band (PE)
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/band.png",Band (PE)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://i.imgur.com/zdnMTtl.png",TV Tropical
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://i.imgur.com/zdnMTtl.png",TV Tropical
 https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8
-#EXTINF:-1 tvg-id="Band Bahia HD.br" tvg-name="BAND BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND BAHIA - BA
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band Bahia HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png",BAND BAHIA - BA
 http://limed.cc:80/4x6cXF/ehfxdp/110228.m3u8
-#EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND CEARÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND CEARÁ - CE
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png",BAND CEARÁ - CE
 http://limed.cc:80/4x6cXF/ehfxdp/101479.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="SBT" tvg-logo="https://i.imgur.com/oOhk9Gg.png",SBT Guajará
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="SBT" tvg-logo="https://i.imgur.com/oOhk9Gg.png",SBT Guajará 2
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/40/1a/39/MEVIIZR_t.png" group-title="Canais Abertos",REDE TV! SÃO LUIS
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://thumbs4.imagebam.com/40/1a/39/MEVIIZR_t.png",REDE TV! SÃO LUIS
 https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/c8ztQnF.png" tvg-id="COMBrasil.br",COM Brasil
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="COMBrasil.br" tvg-logo="https://i.imgur.com/c8ztQnF.png",COM Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png",TVE Bahia HD
-http://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/32/ef/47/MEVIIZV_t.png" group-title="Canais Abertos",REDE TV! NE GUARA CAXIAS
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://thumbs4.imagebam.com/32/ef/47/MEVIIZV_t.png",REDE TV! NE GUARA CAXIAS
 https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="VARIEDADES",SERTÃO TV - CE
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://i.imgur.com/b5xOCsC.png",SERTÃO TV - CE
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/63/06/8b/MEVIIZX_t.png" group-title="Canais Abertos",REDE TV! MT PANTANAL
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://thumbs4.imagebam.com/63/06/8b/MEVIIZX_t.png",REDE TV! MT PANTANAL
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTV!.br" group-title="Canais Abertos" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/redetv.png",RedeTV! RS
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeTV!.br" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/redetv.png",RedeTV! RS
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTV!.br" group-title="Canais Abertos" tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png",RedeTV! PR
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeTV!.br" tvg-logo="https://m.media-amazon.com/images/I/6158UlSOByL.png",RedeTV! PR
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.netlinetelecom.com.br/wp-content/uploads/tv-diario-do-sertao-150x150.png" group-title="VARIEDADES",TV DIÁRIO DO SERTÃO - PB
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://www.netlinetelecom.com.br/wp-content/uploads/tv-diario-do-sertao-150x150.png",TV DIÁRIO DO SERTÃO - PB
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w2127823782.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/7lrPkhk.png" group-title="VARIEDADES",ABC BRASIL - SP
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://i.imgur.com/7lrPkhk.png",ABC BRASIL - SP
 https://stmv1.srvstm.com/abc7891/abc7891/playlist.m3u8?1756473665
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/fa/ad/94/MEVIIZS_t.png" group-title="Canais Abertos",TV Pampa RS
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://thumbs4.imagebam.com/fa/ad/94/MEVIIZS_t.png",TV Pampa RS
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
-#EXTINF:-1 tvg-id="Band Curitiba HD.br" tvg-name="BAND PARANÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND PARANÁ - PR
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band Curitiba HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png",BAND PARANÁ - PR
 http://limed.cc:80/4x6cXF/ehfxdp/110229.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/40/1a/39/MEVIIZR_t.png" group-title="Canais Abertos",REDE TV! PARANÁ
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://thumbs4.imagebam.com/40/1a/39/MEVIIZR_t.png",REDE TV! PARANÁ
 https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.adessotv.com.br/images/layout/logo.png" group-title="VARIEDADES",ADESSO TV - RS
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://www.adessotv.com.br/images/layout/logo.png",ADESSO TV - RS
 https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/40/1a/39/MEVIIZR_t.png" group-title="Canais Abertos",REDE TV! GO
-https://fast-channels-t.b-cdn.net/redetv/aovivo_abr/redetv/aovivo_1080p/chunks.m3u8?bpkio_serviceid=9978b7063e297d840436d3b981ac63cc&bpkio
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png?20190524213932" group-title="VARIEDADES",TV METRÓPOLE - CE
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png?20190524213932",TV METRÓPOLE - CE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="VARIEDADES",TV PADRE CICERO - CE
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://i.imgur.com/Y7b29VG.png",TV PADRE CICERO - CE
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal do Boi.br" tvg-name="CANAL DO BOI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/752px-Logo_Canal_do_Boi_-_PNG.png" group-title="VARIEDADES",CANAL DO BOI - MS
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Canal do Boi.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/752px-Logo_Canal_do_Boi_-_PNG.png",CANAL DO BOI - MS
 http://limed.cc:80/4x6cXF/ehfxdp/89843.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/d4binkS.png" group-title="VARIEDADES",BRAZITV - EUA
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://i.imgur.com/d4binkS.png",BRAZITV - EUA
 https://cbtvnow.com:5866/hls/livest2024.m3u8
-#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Canal_Rural_logo_2019.png/revision/latest?cb=20210115023530" group-title="VARIEDADES",CANAL RURAL - SP
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Canalrural.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Canal_Rural_logo_2019.png/revision/latest?cb=20210115023530",CANAL RURAL - SP
 http://limed.cc:80/4x6cXF/ehfxdp/100034.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="VARIEDADES",BR SUPER TV - MG
-http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-language="Portuguese" tvg-logo="https://auge1.com/wp-content/uploads/2024/02/logo-a1-noticias-1-1-e1710340888647.png" group-title="VARIEDADES",AUGE TV
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://auge1.com/wp-content/uploads/2024/02/logo-a1-noticias-1-1-e1710340888647.png",AUGE TV
 https://video01.logicahost.com.br/canalaugetv/canalaugetv/chunklist_w1875588192.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="VARIEDADES",ASTRAL TV - SP
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Undefined" tvg-logo="https://i.imgur.com/V4pVaA9.png",ASTRAL TV - SP
 https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
-#EXTINF:-1 tvg-id="Band Rio Grande do Sul HD.br" tvg-name="BAND RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND - RS
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band Rio Grande do Sul HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png",BAND - RS
 http://limed.cc:80/4x6cXF/ehfxdp/100660.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="VARIEDADES",CATVE - PR
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://i.imgur.com/r18rHyH.png",CATVE - PR
 http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_Reduz.png" group-title="VARIEDADES",BEM MELHOR - SC
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_Reduz.png",BEM MELHOR - SC
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
-#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="FASHION TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJ5sitKO_o4HQUovP_hKKoyIFJysaY086IA&s" group-title="VARIEDADES",FASHION TV BRASIL
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Fashiontv.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJ5sitKO_o4HQUovP_hKKoyIFJysaY086IA&s",FASHION TV BRASIL
 http://limed.cc:80/4x6cXF/ehfxdp/89982.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-language="Portuguese" tvg-logo="https://websitenoar.net/contents/773/cover/logo_1621772608.png" group-title="VARIEDADES",AG TV - RS
-https://video01.kshost.com.br/grezzana1839/grezzana1839/playlist.m3u8?t=1756473992
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/640px-Canal_Gov_Logo.png" group-title="VARIEDADES",CANAL GOV
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/640px-Canal_Gov_Logo.png",CANAL GOV
 https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="5f1ef23020a5ac0007e5e8ea" tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="VARIEDADES",COZINHA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e8ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/iWPpWzW.png" group-title="VARIEDADES",CANAL SAÚDE
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://i.imgur.com/iWPpWzW.png",CANAL SAÚDE
 https://eitv2.cdn.broadpeak.io/account351-i1495/event/canalsaude/auto.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/7kRysMu.png?1" group-title="VARIEDADES",CANAL LIBRAS
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://i.imgur.com/7kRysMu.png?1",CANAL LIBRAS
 https://canallibras-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/Cj6kg2X.png" group-title="VARIEDADES",CBTV NOW
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://i.imgur.com/Cj6kg2X.png",CBTV NOW
 https://cbtvnow.com:5866/hls/livest2024.m3u8
-#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="VARIEDADES",NOVA ERA TV - SC
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="NovaEraTV.br" tvg-logo="https://i.imgur.com/IK3F9Uq.png",NOVA ERA TV - SC
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 tvg-id="CentralTVBrasil" tvg-logo="https://i.imgur.com/LNLVIwF.png" group-title="VARIEDADES",CENTRAL TV - PR
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="CentralTVBrasil" tvg-logo="https://i.imgur.com/LNLVIwF.png",CENTRAL TV - PR
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
-#EXTINF:-1 tvg-id="https://poop.tv.br/programas/" tvg-logo="https://poop.tv.br/wp-content/uploads/2024/06/cropped-logo-pooptv-142x108.png" group-title="VARIEDADES",POOP TV
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="https://poop.tv.br/programas/" tvg-logo="https://poop.tv.br/wp-content/uploads/2024/06/cropped-logo-pooptv-142x108.png",POOP TV
 http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:-1 tvg-id="demaistv.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a0ca2ab1c68adcde7bf577af87071b8.jpg" group-title="VARIEDADES",D+ TV - SP
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="demaistv.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a0ca2ab1c68adcde7bf577af87071b8.jpg",D+ TV - SP
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://coletiva.net/sites/coletiva/assets/images/coletiva_tv.png" group-title="VARIEDADES",COLETIVA TV
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Undefined" tvg-logo="https://coletiva.net/sites/coletiva/assets/images/coletiva_tv.png",COLETIVA TV
 https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
-#EXTINF:-1 tvg-id="Primertv.br" tvg-logo="https://i.imgur.com/VZaj5Oc.png" group-title="VARIEDADES",PRIMER TV - SC
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Primertv.br" tvg-logo="https://i.imgur.com/VZaj5Oc.png",PRIMER TV - SC
 https://stream.ichibantv.com:3522/stream/play.m3u8
-#EXTINF:-1 tvg-id="SaboreArte.br" tvg-name="SABOR & ARTE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/98/Saborearte.png/120px-Saborearte.png?20210703164655" group-title="VARIEDADES",SABOR & ARTE
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="SaboreArte.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/98/Saborearte.png/120px-Saborearte.png?20210703164655",SABOR & ARTE
 http://limed.cc:80/4x6cXF/ehfxdp/91388.m3u8
-#EXTINF:-1 vg-id="Like.br" tvg-logo="https://i.imgur.com/3Aal0o2.png" group-title="VARIEDADES",UMISS TV
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Undefined" tvg-logo="https://i.imgur.com/3Aal0o2.png",UMISS TV
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
-#EXTINF:-1 tvg-id="hollywire.com" https://hollywire.com/tvg-logo="https://i.imgur.com/LPyQKCi.png" group-title="VARIEDADES",HOLLYWIRE
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="hollywire.com" tvg-logo="https://i.imgur.com/LPyQKCi.png",HOLLYWIRE
 https://hwusassai.bozztv.com/HD3400/HD3400.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/12468/thumb_WhatsApp_Image_2021-12-28_at_15.jpeg" group-title="VARIEDADES",REDE CANAL 10
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/12468/thumb_WhatsApp_Image_2021-12-28_at_15.jpeg",REDE CANAL 10
 https://video05.logicahost.com.br/ararutv/ararutv/chunklist_w1006447719.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0HK61zq.png" group-title="VARIEDADES",REDE UTV
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Undefined" tvg-logo="https://i.imgur.com/0HK61zq.png",REDE UTV
 https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SOLTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/11467/thumb_Group_4.png" group-title="VARIEDADES",SOU TV
-https://vdo1.audiostream.com.br:3010/live/soutvlive.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="VARIEDADES",RS TV - RS
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png",RS TV - RS
 https://video03.logicahost.com.br/rstv/rstv/chunklist_w1194207943.m3u8
-#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="https://w7.pngwing.com/pngs/596/939/png-transparent-tastemade-logo-company-marketing-media-avocado-miscellaneous-text-public-relations.png" group-title="VARIEDADES",TASTEMADE BRASIL
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/1JqP03l.png" group-title="VARIEDADES",REDE SPTV
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://i.imgur.com/1JqP03l.png",REDE SPTV
 https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/LuvJMBp.png" group-title="VARIEDADES",TOP MIX TV
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://i.imgur.com/LuvJMBp.png",TOP MIX TV
 https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVBoqueirao.br" tvg-logo="https://i.imgur.com/1XrArrG.png" group-title="VARIEDADES",TV BOQUEIRÃO - PR
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVBoqueirao.br" tvg-logo="https://i.imgur.com/1XrArrG.png",TV BOQUEIRÃO - PR
 https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.canaldez.com.br/res/site/images/icons/logoCanalDezMod.png" group-title="VARIEDADES",TV CANAL DEZ
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://www.canaldez.com.br/res/site/images/icons/logoCanalDezMod.png",TV CANAL DEZ
 https://canaldez.acessaradios.com.br/canaldez/canaldez/chunklist_w1649768698.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/Zcrcwhy.png" group-title="VARIEDADES",TV A FOLHA
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://i.imgur.com/Zcrcwhy.png",TV A FOLHA
 https://video01.logicahost.com.br/tvafolha/tvafolha/master.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69cf38e0cd65c06291dc072f3f9270b1.webp" group-title="VARIEDADES",TV ARACATI
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69cf38e0cd65c06291dc072f3f9270b1.webp",TV ARACATI
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w328778514.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/V9jVgsc.png" group-title="VARIEDADES",TV BRASIL CENTRAL - GO
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://i.imgur.com/V9jVgsc.png",TV BRASIL CENTRAL - GO
 https://tbc.zoeweb.tv/tbc/tbc/master.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/29912/logo_256.png" group-title="VARIEDADES",TV CULTURAL HD
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/29912/logo_256.png",TV CULTURAL HD
 https://cdn.technettv.com/channel/29912/logo_256.png
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/6aTV1bY.png" group-title="VARIEDADES",TV CNB
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://i.imgur.com/6aTV1bY.png",TV CNB
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVCarioca.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqRwY6MrCFDnQBvoGfzwnLwA1q2Bosvkqz5w&s" group-title="VARIEDADES",TV CLUBE WEB
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVCarioca.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqRwY6MrCFDnQBvoGfzwnLwA1q2Bosvkqz5w&s",TV CLUBE WEB
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w1063983608.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://www.tvbrusque.com.br/img/2b2e679d09412a8c4f529aea8d0a1970.png" group-title="VARIEDADES",TV BRUSQUE
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="RedeBrasil.br" tvg-logo="https://www.tvbrusque.com.br/img/2b2e679d09412a8c4f529aea8d0a1970.png",TV BRUSQUE
 https://video01.logicahost.com.br/tvbrusque/tvbrusque/chunklist_w345107382.m3u8
-#EXTINF:-1 tvg-id="TVEscola.br" tvg-logo="https://i.imgur.com/77Vszxq.png" group-title="VARIEDADES",TV ESCOLA
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVEscola.br" tvg-logo="https://i.imgur.com/77Vszxq.png",TV ESCOLA
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:-1 tvg-id="SOLTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gSSGWXx.png" group-title="VARIEDADES",SOL BRASIL
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="SOLTV.br" tvg-logo="https://i.imgur.com/gSSGWXx.png",SOL BRASIL
 https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LYKZr34.png" group-title="VARIEDADES",TV GRAMADO - RS
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Undefined" tvg-logo="https://i.imgur.com/LYKZr34.png",TV GRAMADO - RS
 https://isaocorp.cloudecast.com/tvgramado/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/11866/thumb_TV_METROPOLITANA_RIO_new.png" group-title="VARIEDADES",TV METROPOLITANA
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Undefined" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/11866/thumb_TV_METROPOLITANA_RIO_new.png",TV METROPOLITANA
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLondres.br" tvg-logo="https://i.imgur.com/pTe8pbr.png" group-title="VARIEDADES",TV LONDRES
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVLondres.br" tvg-logo="https://i.imgur.com/pTe8pbr.png",TV LONDRES
 https://w6oy7eg3dxrg-hls-live.5centscdn.com/8744_push_3653_001/05a4e5d3c1769a61f8350e4fc677a4a5.sdp/live/8744_push_3653_001Tvlondres/chunks.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJB8-c4CpGnztmOxok4_etk1Lyw0_-AiLr24c2GYzzJVmllJKu" group-title="VARIEDADES",TV ITAPÊ
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJB8-c4CpGnztmOxok4_etk1Lyw0_-AiLr24c2GYzzJVmllJKu",TV ITAPÊ
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/11922/logo_256_1684131815.png" group-title="VARIEDADES",TV GUARULHOS
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/11922/logo_256_1684131815.png",TV GUARULHOS
 https://br5093.streamingdevideo.com.br/tvguarulhos/tvguarulhos/chunklist_w1676600778.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br" tvg-logo="https://i.imgur.com/fSnOawT.png" group-title="VARIEDADES",TERRA VIVA
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TerraViva.br" tvg-logo="https://i.imgur.com/fSnOawT.png",TERRA VIVA
 http://limed.cc:80/4x6cXF/ehfxdp/90385.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://tvjsid.com.br/wp-content/uploads/2021/11/Simbolo-tv-Jsid-sem-fundo-2-144x144-1.png" group-title="VARIEDADES",TV J.SID
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://tvjsid.com.br/wp-content/uploads/2021/11/Simbolo-tv-Jsid-sem-fundo-2-144x144-1.png",TV J.SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1649396603.m3u8
-#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e6629476fb91a6975d4cc2f6f6955223.webp" group-title="VARIEDADES",TV GALEGA - RS
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/k0JG2Pr.png" group-title="VARIEDADES",TV LUZILÂNDIA - PI
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://i.imgur.com/k0JG2Pr.png",TV LUZILÂNDIA - PI
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w666875693.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/13658/logo_256_1683895351.png" group-title="VARIEDADES",TV ENTORNO DO SUL - SP
-https://video01.kshost.com.br/manoel2072/manoel2072/chunklist_w1078844844.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj"group-title="VARIEDADES",TV PARANÁ TURISMO - PR
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj",TV PARANÁ TURISMO - PR
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.tvpantanalms.com.br/wp-content/uploads/elementor/thumbs/logo_menor-qn90vhk6eujpy4tg6uhaljhie0azq2swir4unijri8.png" group-title="VARIEDADES",TV PANTANAL - MS
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://www.tvpantanalms.com.br/wp-content/uploads/elementor/thumbs/logo_menor-qn90vhk6eujpy4tg6uhaljhie0azq2swir4unijri8.png",TV PANTANAL - MS
 https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w1997466154.m3u8
-#EXTINF:-1 tvg-id="TVMAX.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="VARIEDADES",TV MAX
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVMAX.br" tvg-logo="https://i.imgur.com/2Pg0baJ.png",TV MAX
 https://video09.logicahost.com.br/tvmax/tvmax/chunklist_w1126990452.m3u8
-#EXTINF:-1 tvg-id="TvNovaNordeste.br" tvg-logo="https://i.imgur.com/lSuo08k.png" group-title="VARIEDADES",TV NOVA NORDESTE - PE
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TvNovaNordeste.br" tvg-logo="https://i.imgur.com/lSuo08k.png",TV NOVA NORDESTE - PE
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/13721/logo_256_1683892167.png" group-title="VARIEDADES",TV PORTAL FALA LITORAL
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/13721/logo_256_1683892167.png",TV PORTAL FALA LITORAL
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w221710006.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.tvpajeu.com.br/wp-content/uploads/elementor/thumbs/LOGO-PERFIL-INSTAGRAM-pv3udv2jbwcxkhunjy63pdlgfabfgkf5nkw3a4ug9c.png" group-title="VARIEDADES",TV PAJEÚ
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://www.tvpajeu.com.br/wp-content/uploads/elementor/thumbs/LOGO-PERFIL-INSTAGRAM-pv3udv2jbwcxkhunjy63pdlgfabfgkf5nkw3a4ug9c.png",TV PAJEÚ
 https://video05.logicahost.com.br/tvpajeu/tvpajeu/chunklist_w913234747.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logotipo_da_TV_Pampa_%282021%29.png" group-title="VARIEDADES",TV PAMPA - RS
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logotipo_da_TV_Pampa_%282021%29.png",TV PAMPA - RS
 https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w114853363.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://tvrsul.audiobras.net/admin/assets/img/logo.png?March242025545pm01" group-title="VARIEDADES",TVR SUL - SC
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://tvrsul.audiobras.net/admin/assets/img/logo.png?March242025545pm01",TVR SUL - SC
 https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/chunklist_w1525695506.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/CP37H9k.png" group-title="VARIEDADES",TV VOTORANTIM
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://i.imgur.com/CP37H9k.png",TV VOTORANTIM
 https://stmv1.paineldevideo.com.br/tvvotorantim/tvvotorantim/chunklist_w1385653592.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/12286/logo_256_1683876549.png" group-title="VARIEDADES",TV VIDEONEWS - SP
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/12286/logo_256_1683876549.png",TV VIDEONEWS - SP
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/12059/logo_256_1683877015.png" group-title="VARIEDADES",TV SOL
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/12059/logo_256_1683877015.png",TV SOL
 https://video05.logicahost.com.br/tvsol/tvsol/chunklist_w702936774.m3u8
-#EXTINF:-1 tvg-id="63eba66da8b2270008436b10" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="VARIEDADES",WORLD POKER TOUR
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBGAAYPoZ7noW-3w85A2XRT5sT_JgVIgUvbA&s" group-title="VARIEDADES",TV WTJ - MG
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBGAAYPoZ7noW-3w85A2XRT5sT_JgVIgUvbA&s",TV WTJ - MG
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/13063/thumb_VIAMORENA_new.png" group-title="VARIEDADES",VIAMORENA
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/13063/thumb_VIAMORENA_new.png",VIAMORENA
 https://video01.logicahost.com.br/viamorena01/viamorena01/chunklist_w38565330.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.vrtchannel.tv.br/wp-content/uploads/2022/08/VRT_LOGO_PRETO-01.png" group-title="VARIEDADES",VRT CHANNEL
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://www.vrtchannel.tv.br/wp-content/uploads/2022/08/VRT_LOGO_PRETO-01.png",VRT CHANNEL
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gNt3xcI.png" group-title="VARIEDADES",ZOOM
-https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSPE.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zTaRKN7.png" group-title="VARIEDADES",TVS SURUBIM - PE
-https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="VARIEDADES",VINTAGE TV
-https://video01.kshost.com.br/rogerio7271/rogerio7271/chunklist_w401909589.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://spaceks.net/sites/vv8.tv.br/images/pubs/user_709036470.jpg" group-title="VARIEDADES",VV8 TV
-https://video01.kshost.com.br/seap8272/seap8272/chunklist_w1014680645.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.panorama.tv.br/wp-content/uploads/sites/15/2021/11/open-graph.jpg" group-title="VARIEDADES",TVC PANORAMA
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Like.br" tvg-logo="https://www.panorama.tv.br/wp-content/uploads/sites/15/2021/11/open-graph.jpg",TVC PANORAMA
 https://tv02.zas.media:1936/panorama/panorama/chunklist_w1485483103.m3u8
