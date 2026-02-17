@@ -152,50 +152,91 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/555507.m3u8
 #EXTINF:-1 group-title="Reality Show's Live" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu4YS4CcKefG5L-8xUZUq0yOAkgdooKhQYus3tlWRQx0dVimBNzPMrmC9u_g&s",Univision WGBO Chicago HD
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/555502.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="Reality Show's Live",* APOSTARIAS POR MI? *
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597678.m3u8
+#EXTINF:0 type="stream" channelId="1954", group-title="Reality Show's Live", 1 Las estrellas
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://45.186.106.220:5550/play/a00y/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967ee663f622e5734649255/06032a6defef1ade3018c6f7591d5c23?tr=q-80&w=1920" group-title="Reality Show's Live",Villa en vivo
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597679.m3u8
+#EXTINF:0 type="stream" channelId="1954", group-title="Reality Show's Live", 2 Las estrellas
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://45.186.106.207:8000/play/a098/index.m3u88
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967eefc942ecbaf66898723/b4e74320a11c2b2d7b15ff44c115ba98?tr=q-80&w=1920" group-title="Reality Show's Live",Habitación Corazón
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597680.m3u8
+#EXTINF:0 type="stream" channelId="1954", group-title="Reality Show's Live", 3 Las estrellas
+http://200.115.120.1:8000/play/ca014/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967ef8826e61e0bc8bb2e01/ad6997175d1757290b94dacc2160c77a?tr=q-80&w=1920" group-title="Reality Show's Live",Habitación Trébol
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597681.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", group-title="Reality Show's Live",Canal 5
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://45.5.119.43:4000/play/a05o/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967effd5b1678140785ca80/5873749f08f911c814888d16db439121?tr=q-80&w=1920" group-title="Reality Show's Live",Baños
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597682.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", group-title="Reality Show's Live",Canal 5
+http://177.10.184.60:8002/play/a01n/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967f09fe557e6c0782706b9/4e3936c97bda29d3d5509bae082ad485?tr=q-80&w=1920" group-title="Reality Show's Live",Cocina
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597683.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", group-title="Reality Show's Live",Canal 5
+http://38.49.128.38:8000/play/a0n6/index.m3u8
+http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967f0f3f25c6ad4a1d9cbd4/493526d0948001373749842dc7011421?tr=q-80&w=1920" group-title="Reality Show's Live",Sala
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597684.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", group-title="Reality Show's Live",Canal 5
+http://200.115.120.1:8000/play/ca0105/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967f1a7ebef4d5efd06875f/e0b88e99f4f71af55b075803370f4f81?tr=q-80&w=1920" group-title="Reality Show's Live",Multicámaras
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597685.m3u8
+#EXTINF:0 type="stream" channelId="3209", group-title="Reality Show's Live", 1 Univisión
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://190.92.10.66:4000/play/a005/index.m3u8
+http://cord-cutter.net:8080/wY96uK/850378/15336
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="Reality Show's Live",APM 24/7
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597686.m3u8
+#EXTINF:0 type="stream" channelId="3209", group-title="Reality Show's Live", 2 Univisión
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://172.93.102.112:8989/158765_.m3u8
+https://e4.thetvapp.to/hls/UnivisionEast/index.m3u8
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1099/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="Reality Show's Live",APM VILLA EN VIVO
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597687.m3u8
+#EXTINF:0 type="stream" channelId="3209", group-title="Reality Show's Live", 3 Univisión
+http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/8395
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="Reality Show's Live",APM BAÑOS
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597689.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHOgAfm932xrC8h57zApK8k33gfNS8wnaSpry4Yf-gQ&s=10", group-title="Reality Show's Live", 1 Unimas
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/57969
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="Reality Show's Live",APM COCINA
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597690.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-yl63zZKG2zwmCEwPzvzzcuvLAnvnvi1frUL_D3lHA&s=10", group-title="Reality Show's Live", 2 Unimas
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/8384
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="Reality Show's Live",APM HABITACION CORAZON
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597691.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjMhVH4ShcGj34bMboM0d_7eTGGZXFHOJIyHKqjm0Lg&s=10", group-title="Reality Show's Live", 3 Unimas
+http://172.93.102.112:8989/158753_.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="Reality Show's Live",APM HABITACION TREBOL
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597692.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjMhVH4ShcGj34bMboM0d_7eTGGZXFHOJIyHKqjm0Lg&s=10", group-title="Reality Show's Live", 4 Unimas
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1100/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="Reality Show's Live",APM SALA
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597693.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NNA1PtioIudXluo13qD-RFMkblih4RTzkw&s", group-title="Reality Show's Live", APM 24/7
+http://live.detodotvplay.com:8080/Risario8/Pineda13/460828
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NNA1PtioIudXluo13qD-RFMkblih4RTzkw&s", group-title="Reality Show's Live", APM VILLA
+http://live.detodotvplay.com:8080/Risario8/Pineda13/460829
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NNA1PtioIudXluo13qD-RFMkblih4RTzkw&s", group-title="Reality Show's Live", APM H CORAZON
+http://live.detodotvplay.com:8080/Risario8/Pineda13/460830
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NNA1PtioIudXluo13qD-RFMkblih4RTzkw&s", group-title="Reality Show's Live", APM H TREBOL
+http://live.detodotvplay.com:8080/Risario8/Pineda13/460831
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NNA1PtioIudXluo13qD-RFMkblih4RTzkw&s", group-title="Reality Show's Live", APM BAÑOS
+http://live.detodotvplay.com:8080/Risario8/Pineda13/460832
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NNA1PtioIudXluo13qD-RFMkblih4RTzkw&s", group-title="Reality Show's Live", APM COCINA
+http://live.detodotvplay.com:8080/Risario8/Pineda13/460832
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NNA1PtioIudXluo13qD-RFMkblih4RTzkw&s", group-title="Reality Show's Live", APM SALA
+http://live.detodotvplay.com:8080/Risario8/Pineda13/460834
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NNA1PtioIudXluo13qD-RFMkblih4RTzkw&s", group-title="Reality Show's Live", APM MULTICAMARA
+http://live.detodotvplay.com:8080/Risario8/Pineda13/460835
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6yAsmu3.png" group-title="Reality Show's Live",RCN
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/314633.m3u8
