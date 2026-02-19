@@ -158,7 +158,7 @@ http://45.186.106.220:5550/play/a00y/index.m3u8
 #EXTINF:0 type="stream" channelId="1954", group-title="Reality Show's Live", 2 Las estrellas
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.186.106.207:8000/play/a098/index.m3u88
+http://45.186.106.207:8000/play/a098/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1954", group-title="Reality Show's Live", 3 Las estrellas
 http://200.115.120.1:8000/play/ca014/index.m3u8
