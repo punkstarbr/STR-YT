@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mx/izzi.mx.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/rs/mts.rs.epg.xml,https://iptv-org.github.io/epg/guides/il/yes.co.il.epg.xml,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
+
 #EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://www.telefe.com/wp-content/uploads/2022/07/gran-hermano-logo.jpg",GRAN HERMANO ARGENTINA
 https://cablered.iptvperu.tv:1936/stream/gh24hs/playlist.m3u8
 #EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://www.telefe.com/wp-content/uploads/2022/07/gran-hermano-logo.jpg",GRAN HERMANO ARGENTINA CAM 1
