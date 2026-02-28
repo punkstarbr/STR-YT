@@ -1,56 +1,446 @@
-#EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Colombia",RCN ² 🇨🇴
-http://181.118.156.46:8000/play/a03r/index.m3u8
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mx/izzi.mx.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/rs/mts.rs.epg.xml,https://iptv-org.github.io/epg/guides/il/yes.co.il.epg.xml,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 
-#EXTINF:-1 tvg-chno="240" tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Colombia",RCN 2 ² 🇨🇴
-http://181.78.7.90:12500/play/a06l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UY | Canal 10" tvg-logo="https://images.zetatv.com.uy/getimageurl/800x1200/center/zpapi.zetatv.com.uy/media/images/saeta_NsDTfHp.png" group-title="Reality Show's Live",UY | Canal 10
+http://live.detodotvplay.com:8080/Risario8/Pineda13/20895
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 (Principal) 🇨🇴
-http://domestipo1.online:80/live/ser682mun/5w49evr21/736727.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 (Sala) 🇨🇴
-http://domestipo1.online:80/live/ser682mun/5w49evr21/736728.m3u8
+#EXTINF:-1 tvg-id="Acompanhe a casa" tvg-logo="https://live.video.globo.com/thumbs/bbb01.jpg" group-title="Reality Show's Live",Acompanhe a casa
+http://209.14.88.42:80/10203470/68892705/3800440.ts
+#EXTINF:-1 tvg-id="Acompanhe a Casa 2" tvg-logo="https://live.video.globo.com/thumbs/bbb11.jpg" group-title="Reality Show's Live",Acompanhe a Casa 2
+http://209.14.88.42:80/10203470/68892705/4681016.ts
+#EXTINF:-1 tvg-id="Mosaico" tvg-logo="https://live.video.globo.com/thumbs/bbb12.jpg" group-title="Reality Show's Live",Mosaico
+https://live-tvg-df-06.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTA2LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc3MTMxMDg5MiwiaWF0IjoxNzcxMjg5MjkyLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjRiOTBjZjcxLTJiZWItNDJmMi1hNWU0LTliZmQzYzg4YWE2MyIsInBhdGgiOiIvbGl2ZS9mKGk9MikvYmJiMTIvcGxheWxpc3QubTN1OCJ9.NInuDx_S_QPT34pBFvsMmAVyB9bMrIOhY2N1QfNxIjMroeDJhLB2K9oBgjL2luTqgFoVIDMtq4ehYEGkQOahBqa3wK6EcY3VSKJglWm_QhXGvHNkb4_Ti9TbzQRT68KPDu2GiRmi1kFnHyNYSsbNOg2fBe9lSuBRx4_lakH_Gk01Pp7Oo3uHqbEFMC0eO2-Lq9ZyUnRtzGfSsjKWm1NJdi_SjNzoaJlrwqpe1S6uemg5x4Oct-QcuuflCzZRL0fWPIQhtZdJd8IOOFW71WOKPuXrLhCTZ1WnVDeOye6E6AhN0Uwqjz6H6UOSZy2jimx60HT1US-ztoGqCJmbRPA6sw/live/f(i=2)/bbb12/playlist.m3u8
+#EXTINF:-1 tvg-id="Segue o Líder" tvg-logo="https://live.video.globo.com/thumbs/bbb10.jpg" group-title="Reality Show's Live",Segue o Líder
+https://live-tvg-df-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTA3LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc3MTMxMDkyOSwiaWF0IjoxNzcxMjg5MzI5LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjRiOTBjZjcxLTJiZWItNDJmMi1hNWU0LTliZmQzYzg4YWE2MyIsInBhdGgiOiIvbGl2ZS9mKGk9MikvYmJiMTAvcGxheWxpc3QubTN1OCJ9.Z8TEVC8qNsRrca7C07yenlWyaBHDYNlP5jYwU921oFX51tNhKMQN-Xfh7KW9er9qqPIf1ZXNjzui-K1xDLoIf6L-5rutrg9MMr1vcLHqFdi3iRtcf0EHc7EErz4WfkmlR4CtqQYFjb2lMsQB6LBhjPwH5j0m8wrOrYBOoPV3ErdKHS9qKa5MKnb9xCOFxSIaZjUEG391CM52ZQbhZrGawiEWx-WR3UpuF6xwpfaO-WEexxIQ4V8W1TLIN-GcPNeS_Q2V9_P0mPO_kLkxka96zkthN_xxkOWv-XqgC0qFpMRrT3C3ydGGPcwRjYa_EUZo2e-79zeOUKOZsi08Knujfw/live/f(i=2)/bbb10/playlist.m3u8
+#EXTINF:-1 tvg-id="Quarto Sonho de Eternidade" tvg-logo="https://live.video.globo.com/thumbs/bbb02.jpg" group-title="Reality Show's Live",Quarto Sonho de Eternidade
+http://209.14.88.42:80/10203470/68892705/4681019.ts
+#EXTINF:-1 tvg-id="Quarto Sonho de Voar" tvg-logo="https://live.video.globo.com/thumbs/bbb03.jpg" group-title="Reality Show's Live",Quarto Sonho de Voar
+https://live-tvg-df-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTA3LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc3MTMxMDk4NywiaWF0IjoxNzcxMjg5Mzg3LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjRiOTBjZjcxLTJiZWItNDJmMi1hNWU0LTliZmQzYzg4YWE2MyIsInBhdGgiOiIvbGl2ZS9mKGk9MikvYmJiMDMvcGxheWxpc3QubTN1OCJ9.QZAiHAOHj56rPI0BiIwwZ7CUhkQequ7hb188UTBIFICdaNoWXI8VelBOkOpfIFqzICfUQIsKQVpkkeS47Q3ag8q2WNg3a1rcVIp_y7ufOP_TBGOf0bnECx5wsX6IMaB0Q7SckYfbHHcGY6qfTnHuLyWzu5v-Ch6TR_bfasiLBP5wsJyW7936mMk94Lym1H1Z-7cvyKOSTjUbRMCpWeHiwpZxrPDTUtso_NAizvkgc-02h-rDOECH5X4VemxjVmO8XEmibC-K5u7bry1mjmWt2DCyKZXmbShe0csATl32WWNVDDO3pUEW2eitJfKky_ai3nibuevR9avtcn2fDXP3QA/live/f(i=2)/bbb03/playlist.m3u8
+#EXTINF:-1 tvg-id="Quarto Sonho do Grande Amor" tvg-logo="https://live.video.globo.com/thumbs/bbb04.jpg" group-title="Reality Show's Live",Quarto Sonho do Grande Amor
+https://live-01.edge-vtal-gyn-go.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12dGFsLWd5bi1nby52aWRlby5nbG9iby5jb20iLCJleHAiOjE3NzEzMTEwMzUsImlhdCI6MTc3MTI4OTQzNSwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI0YjkwY2Y3MS0yYmViLTQyZjItYTVlNC05YmZkM2M4OGFhNjMiLCJwYXRoIjoiL2xpdmUvZihpPTIpL2JiYjA0L3BsYXlsaXN0Lm0zdTgifQ.MAGbQLH_u1UUnSzBBjMV32bIskzvygqLom4KoW54Gn_G7F5d49MlXCYCFq7vQ9ImVhGVYuSahyJmiqhWdmIhw3gb-X8fl3_4ZFvIbrF6Y0a-nDlbY5c61eSjNZuIBtaNVjauV05IH9ywPwwbf8ejITj6WL3zhvQnQsgKzjvhztBRQ7ZsvCtw5J7AB434kgFdP-CKPhJmABVHMjbWzmC3OpheMgU1KAO6FAhw4SzQNdXWmBQnsY_FUSWGmwg2KUczHiNNAlF-2tfkIdP8DxyDD2Io1C-A18cYkMeFO5FC3loWB6w-qR-zrdbAOjA-mCsbByP28Zd0Y6sSnRZfr9TMgQ/live/f(i=2)/bbb04/playlist.m3u8
+#EXTINF:-1 tvg-id="Cozinha" tvg-logo="https://live.video.globo.com/thumbs/bbb07.jpg" group-title="Reality Show's Live",Cozinha
+https://live-01.edge-vtal-gyn-go.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12dGFsLWd5bi1nby52aWRlby5nbG9iby5jb20iLCJleHAiOjE3NzEzMTEwNTEsImlhdCI6MTc3MTI4OTQ1MSwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI0YjkwY2Y3MS0yYmViLTQyZjItYTVlNC05YmZkM2M4OGFhNjMiLCJwYXRoIjoiL2xpdmUvZihpPTIpL2JiYjA3L3BsYXlsaXN0Lm0zdTgifQ.vaR3cQgtnvnMRGu-UTxf5gTmhq9wnbqwNQGvVjFYRKLz2csAM3MZT-i8CYS7nEUDFh-PNF9QVVveAjUtvXTKSHcJ_fypo9LQtG4ITxQ6dvtnelUmwP857yAT-TU-xq1fBQ0uUEbqeMuoluHo_EQutHns_Lp73iEtJbiqNdDz8Odp53GOr0-KzIBwZtfLgTSdnWunpHtMB-xLq75F9GqgtOg1uZJZMgoQHTlZmlxibHAvXpCnCoiOCel6YhBDN1nIaHqoY857tjyBomql1KiDGF2kJiDtKXDt-0jYvrfFVA07jaTY_NCixVoyzPHzeyV9Qk3-VsS3X56HvNB9Y7ZXsA/live/f(i=2)/bbb07/playlist.m3u8
+#EXTINF:-1 tvg-id="Banheiro SUPER CIMED" tvg-logo="https://live.video.globo.com/thumbs/bbb08.jpg" group-title="Reality Show's Live",Banheiro SUPER CIMED
+http://209.14.88.42:80/10203470/68892705/4795365.ts
+#EXTINF:-1 tvg-id="Sala Sonho de Ser Milionário" tvg-logo="https://live.video.globo.com/thumbs/bbb05.jpg" group-title="Reality Show's Live",Sala Sonho de Ser Milionário
+https://live-tvg-df-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTA3LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc3MTMxMTEwNiwiaWF0IjoxNzcxMjg5NTA2LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjRiOTBjZjcxLTJiZWItNDJmMi1hNWU0LTliZmQzYzg4YWE2MyIsInBhdGgiOiIvbGl2ZS9mKGk9MikvYmJiMDUvcGxheWxpc3QubTN1OCJ9.YqglKj_hvWAdPq-bQmLeEvkE3cf9REYiOdSHxNNDxu5GmEnKMyltzydesMzHzS-evQnvI_7UP88yf6RHUU7NLMCnzq2Z-gbaBG9LNVnPBLDYzYsH20_ifE4-RvTjqnkLUgZ5vyl3lUuubM50p6-hGlLZvFMnfFI0msJ9XXCjRobLS3IFP6CCFNBbL7Ayb5bZiH93VZz_o6dIUQbGN1jJKjoIz9YJ4SfAmzGrIiyHeAK43fEXBDkVfsxAU_vYnQsBSpcSlijkkxOM1AHY-oB89JHabnwq9FT4x7uk5mGdp_kuATBkXrnOF1FDT1wWd_-C38mNrpGWunJtEg8TtkCvPw/live/f(i=2)/bbb05/playlist.m3u8
+#EXTINF:-1 tvg-id="Piscina" tvg-logo="https://live.video.globo.com/thumbs/bbb06.jpg" group-title="Reality Show's Live",Piscina
+https://live-tvg-df-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAxLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc3MTMxMTE0MSwiaWF0IjoxNzcxMjg5NTQxLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjRiOTBjZjcxLTJiZWItNDJmMi1hNWU0LTliZmQzYzg4YWE2MyIsInBhdGgiOiIvbGl2ZS9mKGk9MikvYmJiMDYvcGxheWxpc3QubTN1OCJ9.PuYXXJOx02ksn8K0I-_-5fVaisj4NbecNq3q5uV1g-Lc4iyeyyqQzx3UaaFg4kE54Dro0XRIpazWbmU9YH9Tkuq5dCmPb-SqyX32j0iWms77SUjiIKpOqXN24o4w14HtcD9q7BoT-pImhGzaCYfK1QYSEkpMJCN-rJsgndwv8aMEaK67dSqMBfheX_Svalcxm60J7HKkYmsMDhxj4Uxfa4iBro4dkTIsiRn_0t3MJVHUp08W6izIQqAcJgPJhCoC-Z5hugNtlGCFWr9qqNwhYFHrZQxoZYoke6XdyUW57dFHuTQXDfenx5Ev1YlOb87KS_MGespEuQgPnrOavlHyOA/live/f(i=2)/bbb06/playlist.m3u8
+#EXTINF:-1 tvg-id="Academia NIVEA" tvg-logo="https://live.video.globo.com/thumbs/bbb09.jpg" group-title="Reality Show's Live",Academia NIVEA
+https://live-tvg-df-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAxLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc3MTMxMTE2NSwiaWF0IjoxNzcxMjg5NTY1LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjRiOTBjZjcxLTJiZWItNDJmMi1hNWU0LTliZmQzYzg4YWE2MyIsInBhdGgiOiIvbGl2ZS9mKGk9MikvYmJiMDkvcGxheWxpc3QubTN1OCJ9.KepWc7z6XR5f8Uh5h7K-X5BTG6o0bou7qrLgGgEPloVST6fyHfT9EaxJrk64iNhQcWffZFjb5mfA8NpjT7mwCmT3-ePBHeIXtFPOUBkX2mIDq29DheeMhaeDDbYhr4P1u7eX0KKjLlVcPG2RSuA6ck_JIRacAWKh8XS-HqnyYvVCqnmUINPZIJ1X-SZaBXg7i1JXpOhcepTBly1HItbZ5UbBlkWNhp_dXRBAqp_ErR4ORegXonZrKBjvHufAzBRtA7TcwONvlrmFGnr71DyMVtq-MgjY0yNvXjT8HC9o2W1YmCF1ZjA6rI22PBnoMB-n9W1Ks-HIsD4wtMeK2Zy59g/live/f(i=2)/bbb09/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 (Comedor) 🇨🇴
-http://domestipo1.online:80/live/ser682mun/5w49evr21/736729.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 (Beauty) 🇨🇴
-http://domestipo1.online:80/live/ser682mun/5w49evr21/736732.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 (Hab. Calma) 🇨🇴
-http://domestipo1.online:80/live/ser682mun/5w49evr21/736730.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 (Hab. Tormenta) 🇨🇴
-http://domestipo1.online:80/live/ser682mun/5w49evr21/736731.m3u8
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Acompanhe a Casa
+http://krmbr.com:80/0aiylfn2e1/2z7vtl9eo7/1624.ts
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://www.laopinion.co/sites/default/files/styles/portada_principal_mobile_376x211/public/2025-09/LCDLF-3.jpg?itok=wD9eFKBG" group-title="Reality",LCDLF 3 (Baños) 🇨🇴
-http://domestipo1.online:80/live/ser682mun/5w49evr21/736733.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://periodicocorreo.com.mx/core/correo/assets/images/2026/01/19/middle-g-bwnplxcaan42l-Xe3FRAPQV.jpg" group-title="Reality",Apostarias por Mí (Villa) 🇺🇸
-http://domestipo1.online:80/live/ser682mun/5w49evr21/738700.m3u8
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Acompanhe a Casa
+http://krmbr.com:80/live/11983083256danilo2/vfdklghj8541/1624.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Acompanhe a Casa
+http://krmbr.com:80/live/11999890163roberto3/2gfrh8f7usm/1624.ts
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://periodicocorreo.com.mx/core/correo/assets/images/2026/01/19/middle-g-bwnplxcaan42l-Xe3FRAPQV.jpg" group-title="Reality",Apostarias por Mí (Conexión Total 24/7) 🇺🇸
-http://domestipo1.online:80/live/ser682mun/5w49evr21/738699.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://periodicocorreo.com.mx/core/correo/assets/images/2026/01/19/middle-g-bwnplxcaan42l-Xe3FRAPQV.jpg" group-title="Reality",Apostarias por Mí (Sala) 🇺🇸
-http://domestipo1.online:80/live/ser682mun/5w49evr21/738705.m3u8
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Acompanhe a Casa 2
+http://applaytv.site:80/2005665225/0574483657/1739124.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Acompanhe a Casa 2
+http://krmbr.com:80/0aiylfn2e1/2z7vtl9eo7/1625.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Acompanhe a Casa 2
+http://krmbr.com:80/5197464030josiel2/gtsd967kc/1625.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Acompanhe a Casa 2
+http://krmbr.com:80/11976060220ricardo/ppvkbm987456/1625.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Cozinha
+http://209.14.88.42:80/10203470/68892705/4681018.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Cozinha
+http://209.14.88.42:80/10203470/68892705/4795364.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Cozinha
+http://38.91.106.197:80/Marcio/123456/310399
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Cozinha
+http://38.91.106.197:80/Luciana1/123456/310399
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Cozinha
+http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/310403
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Cozinha
+http://38.91.106.197:80/maxtvbr/Promax207/310403
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Cozinha
+http://38.91.106.197:80/Marcio/123456/310403
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Cozinha
+http://38.91.106.197:80/Luciana1/123456/310403
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Cozinha
+http://38.91.106.197:80/20238790/maxpro7890/310403
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Cozinha
+http://38.91.106.197:80/20238790/maxpro7890/310399
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Cozinha
+http://applaytv.site:80/2005665225/0574483657/1739134.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Cozinha
+http://cldnew.com:80/SjmCMw/NyAEt7/179429
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Cozinha
+http://otrasbx.com:80/77WvhA/4pCWt8/179429
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Mozaico
+http://209.14.88.42:80/10203470/68892705/4681017.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Piscina
+http://applaytv.site:80/2005665225/0574483657/1739126.ts
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://periodicocorreo.com.mx/core/correo/assets/images/2026/01/19/middle-g-bwnplxcaan42l-Xe3FRAPQV.jpg" group-title="Reality",Apostarias por Mí (Cocina) 🇺🇸
-http://domestipo1.online:80/live/ser682mun/5w49evr21/738704.m3u8
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Quarto Sonho de Eternidade
+http://applaytv.site:80/2005665225/0574483657/1739128.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Quarto Sonho de Voar
+http://209.14.88.42:80/10203470/68892705/4681020.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Quarto Sonho de Voar
+http://209.14.88.42:80/10203470/68892705/4681021.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Quarto Sonho de Voar
+http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/310401
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Quarto Sonho de Voar
+http://38.91.106.197:80/Luciana1/123456/310401
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Quarto Sonho de Voar
+http://38.91.106.197:80/20238790/maxpro7890/310401
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Quarto Sonho de Voar
+http://38.91.106.197:80/Marcio/123456/310401
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Quarto Sonho do Grande Amor
+http://209.14.88.42:80/10203470/68892705/4795363.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Quarto Sonho do Grande Amor
+http://38.91.106.197:80/Luciana1/123456/310402
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Quarto Sonho do Grande Amor
+http://38.91.106.197:80/20238790/maxpro7890/310402
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Quarto Sonho do Grande Amor
+http://9822ko909.us:80/f6eJt9sE/hxS9bvaF/3490131.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Quarto Sonho do Grande Amor
+http://38.91.106.197:80/Marcio/123456/310402
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Quarto Sonho do Grande Amor
+http://38.91.106.197:80/maxtvbr/Promax207/310402
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Piscina
+http://209.14.88.42:80/10203470/68892705/4795361.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Sala
+http://brazilzao.top:80/269292359/347543126/2153838.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Sala
+http://38.91.106.197:80/20238790/maxpro7890/310405
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Sala
+http://38.91.106.197:80/Marcio/123456/310405
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Sala
+http://38.91.106.197:80/maxtvbr/Promax207/310405
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Sala
+http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/310405
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Sala Sonho de Ser Milionário
+http://krmbr.com:80/5197464030josiel2/gtsd967kc/85456.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Sala Sonho de Ser Milionário
+http://otrasbx.com:80/77WvhA/4pCWt8/147671
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Sala Sonho de Ser Milionário
+http://krmbr.com:80/11976060220ricardo/ppvkbm987456/85456.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Sala Sonho de ser milionario
+http://krmbr.com:80/live/11983083256danilo2/vfdklghj8541/85457.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Academia NIVEA
+http://209.14.88.42:80/10203470/68892705/4795362.ts
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg",Academia NIVEA
+http://applaytv.site:80/2005665225/0574483657/1739142.ts
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://periodicocorreo.com.mx/core/correo/assets/images/2026/01/19/middle-g-bwnplxcaan42l-Xe3FRAPQV.jpg" group-title="Reality",Apostarias por Mí (Hab. Corazón) 🇺🇸
-http://domestipo1.online:80/live/ser682mun/5w49evr21/738701.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://periodicocorreo.com.mx/core/correo/assets/images/2026/01/19/middle-g-bwnplxcaan42l-Xe3FRAPQV.jpg" group-title="Reality",Apostarias por Mí (Hab. Trébol) 🇺🇸
-http://domestipo1.online:80/live/ser682mun/5w49evr21/738702.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://periodicocorreo.com.mx/core/correo/assets/images/2026/01/19/middle-g-bwnplxcaan42l-Xe3FRAPQV.jpg" group-title="Reality",Apostarias por Mí (Baños) 🇺🇸
-http://domestipo1.online:80/live/ser682mun/5w49evr21/738703.m3u8
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaEZjACp2gNRjpN7T3EO0SInnfOFlrFx4rM8UJSg3ELD1drQm7aX0NaaUzyw&s",196 Univision Los Angeles
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/555458.m3u8
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIcr7-V_2CAur4p_dc9WRzQ8Vkot5WsgcXB0xqxNWcDm0pfka7rIoTGKnjwlc&s",Univision KMEX-TV
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/555480.m3u8
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Undefined" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kmex_los_angeles.png",Univision 34 KMEX-TV
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/555488.m3u8
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu4YS4CcKefG5L-8xUZUq0yOAkgdooKhQYus3tlWRQx0dVimBNzPMrmC9u_g&s",UNIVISION CHICAGO (WGBO) Local
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/555506.m3u8
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu4YS4CcKefG5L-8xUZUq0yOAkgdooKhQYus3tlWRQx0dVimBNzPMrmC9u_g&s",HD | Univision Chicago (WGBO)
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/555507.m3u8
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu4YS4CcKefG5L-8xUZUq0yOAkgdooKhQYus3tlWRQx0dVimBNzPMrmC9u_g&s",Univision WGBO Chicago HD
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/555502.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://periodicocorreo.com.mx/core/correo/assets/images/2026/01/19/middle-g-bwnplxcaan42l-Xe3FRAPQV.jpg" group-title="Reality",Apostarias por Mí (Multicámaras) 🇺🇸
-http://domestipo1.online:80/live/ser682mun/5w49evr21/738706.m3u8
+#EXTINF:0 type="stream" channelId="1954", group-title="Reality Show's Live", 1 Las estrellas
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://45.186.106.220:5550/play/a00y/index.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://deadline.com/wp-content/uploads/2026/02/la-casa-de-los-famosos-season-6-2026-telemundo-cast-photos.jpg?w=681&h=383&crop=1" group-title="Reality",LCDLF 6 USA (24/7 - 1) 🇺🇸
-http://domestipo1.online:80/live/ser682mun/5w49evr21/747415.m3u8
+#EXTINF:0 type="stream" channelId="1954", group-title="Reality Show's Live", 2 Las estrellas
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://45.186.106.207:8000/play/a098/index.m3u8
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="https://deadline.com/wp-content/uploads/2026/02/la-casa-de-los-famosos-season-6-2026-telemundo-cast-photos.jpg?w=681&h=383&crop=1" group-title="Reality",LCDLF 6 USA (24/7 - 2) 🇺🇸
-http://domestipo1.online:80/live/ser682mun/5w49evr21/747416.m3u8
+#EXTINF:0 type="stream" channelId="1954", group-title="Reality Show's Live", 3 Las estrellas
+http://200.115.120.1:8000/play/ca014/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", group-title="Reality Show's Live",Canal 5
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://45.5.119.43:4000/play/a05o/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", group-title="Reality Show's Live",Canal 5
+http://177.10.184.60:8002/play/a01n/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", group-title="Reality Show's Live",Canal 5
+http://38.49.128.38:8000/play/a0n6/index.m3u8
+http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", group-title="Reality Show's Live",Canal 5
+http://200.115.120.1:8000/play/ca0105/index.m3u8
+
+#EXTINF:0 type="stream" channelId="3209", group-title="Reality Show's Live", 1 Univisión
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://190.92.10.66:4000/play/a005/index.m3u8
+http://cord-cutter.net:8080/wY96uK/850378/15336
+
+#EXTINF:0 type="stream" channelId="3209", group-title="Reality Show's Live", 2 Univisión
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://172.93.102.112:8989/158765_.m3u8
+https://e4.thetvapp.to/hls/UnivisionEast/index.m3u8
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1099/index.m3u8
+
+#EXTINF:0 type="stream" channelId="3209", group-title="Reality Show's Live", 3 Univisión
+http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/8395
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHOgAfm932xrC8h57zApK8k33gfNS8wnaSpry4Yf-gQ&s=10", group-title="Reality Show's Live", 1 Unimas
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/57969
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-yl63zZKG2zwmCEwPzvzzcuvLAnvnvi1frUL_D3lHA&s=10", group-title="Reality Show's Live", 2 Unimas
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/8384
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjMhVH4ShcGj34bMboM0d_7eTGGZXFHOJIyHKqjm0Lg&s=10", group-title="Reality Show's Live", 3 Unimas
+http://172.93.102.112:8989/158753_.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjMhVH4ShcGj34bMboM0d_7eTGGZXFHOJIyHKqjm0Lg&s=10", group-title="Reality Show's Live", 4 Unimas
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1100/index.m3u8
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NNA1PtioIudXluo13qD-RFMkblih4RTzkw&s", group-title="Reality Show's Live", APM 24/7
+http://live.detodotvplay.com:8080/Risario8/Pineda13/460828
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NNA1PtioIudXluo13qD-RFMkblih4RTzkw&s", group-title="Reality Show's Live", APM VILLA
+http://live.detodotvplay.com:8080/Risario8/Pineda13/460829
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NNA1PtioIudXluo13qD-RFMkblih4RTzkw&s", group-title="Reality Show's Live", APM H CORAZON
+http://live.detodotvplay.com:8080/Risario8/Pineda13/460830
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NNA1PtioIudXluo13qD-RFMkblih4RTzkw&s", group-title="Reality Show's Live", APM H TREBOL
+http://live.detodotvplay.com:8080/Risario8/Pineda13/460831
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NNA1PtioIudXluo13qD-RFMkblih4RTzkw&s", group-title="Reality Show's Live", APM BAÑOS
+http://live.detodotvplay.com:8080/Risario8/Pineda13/460832
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NNA1PtioIudXluo13qD-RFMkblih4RTzkw&s", group-title="Reality Show's Live", APM COCINA
+http://live.detodotvplay.com:8080/Risario8/Pineda13/460832
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NNA1PtioIudXluo13qD-RFMkblih4RTzkw&s", group-title="Reality Show's Live", APM SALA
+http://live.detodotvplay.com:8080/Risario8/Pineda13/460834
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NNA1PtioIudXluo13qD-RFMkblih4RTzkw&s", group-title="Reality Show's Live", APM MULTICAMARA
+http://live.detodotvplay.com:8080/Risario8/Pineda13/460835
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yAsmu3.png" group-title="Reality Show's Live",RCN
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/314633.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/rr/rcn_co.png" group-title="Reality Show's Live",RCN
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/314634.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="Reality Show's Live",* LA CASA DE LOS FAMOSOS COLOMBIA *
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/596996.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gWClxvl.png" group-title="Reality Show's Live",LA CASA EN VIVO
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/596997.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gWClxvl.png" group-title="Reality Show's Live",BEAUTY
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/596998.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gWClxvl.png" group-title="Reality Show's Live",BAÑOS
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/596999.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gWClxvl.png" group-title="Reality Show's Live",COMEDOR
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gWClxvl.png" group-title="Reality Show's Live",HABITACION CALMA
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597001.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gWClxvl.png" group-title="Reality Show's Live",HABITACION TORMENTA
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597002.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gWClxvl.png" group-title="Reality Show's Live",SALA
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597003.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Mozaico
+http://krmbr.com:80/live/11983083256danilo2/vfdklghj8541/85447.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Quarto branco | Piscina
+http://krmbr.com:80/live/11983083256danilo2/vfdklghj8541/85449.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Acompanhe a casa 1
+http://krmbr.com:80/live/11983083256danilo2/vfdklghj8541/1624.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Acompanhe a casa 2
+http://krmbr.com:80/live/11983083256danilo2/vfdklghj8541/81853.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Cozinha 1
+http://krmbr.com:80/live/11983083256danilo2/vfdklghj8541/81886.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Cozinha 2
+http://krmbr.com:80/live/11983083256danilo2/vfdklghj8541/85445.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Academia Nivea
+http://krmbr.com:80/live/11983083256danilo2/vfdklghj8541/1337.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Banheiro Super Cimed
+http://krmbr.com:80/live/11983083256danilo2/vfdklghj8541/81880.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Quarto Sonho de eternidade
+http://krmbr.com:80/live/11983083256danilo2/vfdklghj8541/85451.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Quarto Sonho de voar
+http://krmbr.com:80/live/11983083256danilo2/vfdklghj8541/85453.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Quarto Sonho do grande amor
+http://krmbr.com:80/live/11983083256danilo2/vfdklghj8541/85455.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Sala Sonho de ser milionario
+http://krmbr.com:80/live/11983083256danilo2/vfdklghj8541/85457.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Mozaico
+http://krmbr.com:80/live/11999890163roberto3/2gfrh8f7usm/85447.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Quarto branco | Piscina
+http://krmbr.com:80/live/11999890163roberto3/2gfrh8f7usm/85449.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Acompanhe a casa 1
+http://krmbr.com:80/live/11999890163roberto3/2gfrh8f7usm/1624.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Acompanhe a casa 2
+http://krmbr.com:80/live/11999890163roberto3/2gfrh8f7usm/81853.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Cozinha 1
+http://krmbr.com:80/live/11999890163roberto3/2gfrh8f7usm/81886.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Cozinha 2
+http://krmbr.com:80/live/11999890163roberto3/2gfrh8f7usm/85445.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Academia Nivea
+http://krmbr.com:80/live/11999890163roberto3/2gfrh8f7usm/1337.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Banheiro Super Cimed
+http://krmbr.com:80/live/11999890163roberto3/2gfrh8f7usm/81880.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Quarto Sonho de eternidade
+http://krmbr.com:80/live/11999890163roberto3/2gfrh8f7usm/85451.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Quarto Sonho de voar
+http://krmbr.com:80/live/11999890163roberto3/2gfrh8f7usm/85453.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Quarto Sonho do grande amor
+http://krmbr.com:80/live/11999890163roberto3/2gfrh8f7usm/85455.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Sala Sonho de ser milionario
+http://krmbr.com:80/live/11999890163roberto3/2gfrh8f7usm/85457.ts
+
+
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",BBB 01
+http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1271892.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",BBB 02
+http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1271891.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",BBB 03
+http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1271890.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",Quarto Sonho de Eternidade
+http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1271889.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",Quarto Sonho de Voar
+http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1271888.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",Quarto Sonho do Grande Amor
+http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1271887.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",Cozinha
+http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1278716.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",Banheiro Super Cimed
+http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1278717.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",Sala Sonho de Ser Milionário
+http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1278718.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",Quarto Branco
+http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1278719.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",Academia Nivea
+http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1278720.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",Mosaico
+http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1278721.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",BBB 01
+http://gjrctv.com:8080/live/josechagas1/8muRH8/1271892.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",BBB 02
+http://gjrctv.com:8080/live/josechagas1/8muRH8/1271891.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",BBB 03
+http://gjrctv.com:8080/live/josechagas1/8muRH8/1271890.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",Quarto Sonho de Eternidade
+http://gjrctv.com:8080/live/josechagas1/8muRH8/1271889.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",Quarto Sonho de Voar
+http://gjrctv.com:8080/live/josechagas1/8muRH8/1271888.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",Quarto Sonho do Grande Amor
+http://gjrctv.com:8080/live/josechagas1/8muRH8/1271887.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",Cozinha
+http://gjrctv.com:8080/live/josechagas1/8muRH8/1278716.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",Banheiro Super Cimed
+http://gjrctv.com:8080/live/josechagas1/8muRH8/1278717.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",Sala Sonho de Ser Milionário
+http://gjrctv.com:8080/live/josechagas1/8muRH8/1278718.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",Quarto Branco
+http://gjrctv.com:8080/live/josechagas1/8muRH8/1278719.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",Academia Nivea
+http://gjrctv.com:8080/live/josechagas1/8muRH8/1278720.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="Reality Show's Live",Mosaico
+http://gjrctv.com:8080/live/josechagas1/8muRH8/1278721.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Mozaico
+http://209.14.88.42:80/10203470/68892705/4681017.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Acompanhe a casa 2
+http://209.14.88.42:80/10203470/68892705/4681016.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Cozinha 2
+http://209.14.88.42:80/10203470/68892705/4795364.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Quarto Sonho de eternidade
+http://209.14.88.42:80/10203470/68892705/4681019.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Quarto Sonho de voar 1
+http://209.14.88.42:80/10203470/68892705/4681020.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Quarto Sonho de voar 2
+http://209.14.88.42:80/10203470/68892705/4681021.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Quarto Sonho do grande amor
+http://209.14.88.42:80/10203470/68892705/4795363.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="Reality Show's Live",Banheiro Super Cimed
+http://209.14.88.42:80/10203470/68892705/4795365.ts
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMgq7muz8q6emSSdZR0h3kcTMrxeaSpsQ09DNS4sBi_JijLFSSGNTM3i2tPA&s",TVI REALITY CAMARA 1 sd
+http://vm4youallsos.securityservice.cyou:8080/AndreNovais25/ascmUEAyUTtDdRC/83164
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwldVnDFQ2BoXx1kG0nNl0zLLNFoYXz7aSbbjDAMZAGxLh3pIQz5sJeLTyA&s",TVI REALITY CAMARA 2
+http://vm4youallsos.securityservice.cyou:8080/AndreNovais25/ascmUEAyUTtDdRC/83165
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQLrZJkugnYS7YMCCW5ExdS4lum0MMJI00HbCraT9um_FGOw9Dxy8LllJrbQ&s",TVI REALITY CAMARA 3
+http://vm4youallsos.securityservice.cyou:8080/AndreNovais25/ascmUEAyUTtDdRC/83166
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQETyAFKgS12N-qIJoZNEqO5Nai6SaKu1n5T_t01P6ChJuCfR8tfA2p8Zbkdg&s",TVI REALITY CAMARA 4
+http://vm4youallsos.securityservice.cyou:8080/AndreNovais25/ascmUEAyUTtDdRC/83167
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="TVI.Reality.HD.pt" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
+https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
+
+#EXTINF:-1 group-title="Reality Show's Live",BBVIP AL 1
+https://dmca5112s.sksktotun.xyz/memfs/d55b1c70-d814-4f04-81b8-00942f3e5998_output_0.m3u8
+
+#EXTINF:-1 group-title="Reality Show's Live",BBVIP AL 2
+https://fvb34v2.sksktotun.xyz/memfs/532701dd-1912-4c13-b9a3-3325c2652888_output_0.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Canal.5.(XHPNH).mx" tvg-logo="https://i.imgur.com/jJ6v5ea.png",CANAL 5
+http://181.78.106.127:9000/play/ca012/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png",Canal Estrellas
+http://181.78.106.127:9000/play/ca011/index.m3u8
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png",Canal Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png",Canal Estrellas
+http://181.205.130.194:4000/play/a07r
+
+
+#EXTINF:-1 group-title="Reality Show's Live",CANAL 10 AUSTRALIA
+https://pod.lnt.sh/efh6eg76eglD/efhTcwxIbQhKqj1Dd2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjUgNTo1Mjo1MSBBTSZoYXNoX3ZhbHVlPTJhZUJyYkROV2V4U1AzeFVkczFmanc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbhg_yJyms3Y21jxx3Q0j4FizlewTj2oU0dfA_2EfhI53wSR9j_6ADeZn48qc&s",Pink TV
+https://edge8.pink.rs/pinktv/index.m3u8
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Zadruga.Live.1.ba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc4slncpzSOyjUVU-xNJFy8CCY_2BSwRzGrVzvNRSFwd3wHINhTdgxRSwHXg&s",Zadruga Live 1
+https://webtvstream.bhtelecom.ba/hls19/zadruga_live1_1200.m3u8
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Zadruga.Live.2.ba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB0gFnv6opRW1WOd0tqYm3gmJOd2BJkdl-Q5_hprM6dV_OZ7_6A0MlKkF-cYQ&s",Zadruga Live 2
+https://webtvstream.bhtelecom.ba/hls19/zadruga_live2_1200.m3u8
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Zadruga.Live.3.ba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3_ZwvmBi2-zAQvwP1umtFJlSoexjqu8N-2qkq0akGjEUjvjrh_86_Hygewgc&s",Zadruga Live 3
+https://webtvstream.bhtelecom.ba/hls19/zadruga_live3_1200.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Big%20Brother.png",BIG BROTHER ISRAEL (VPN)
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Big%20Brother.png",BIG BROTHER ISRAEL (VPN) 2
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_6fr5xbw2/deliveryProfileId/672/protocol/https/format/applehttp/index_3.m3u8
+
+
+
