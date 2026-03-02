@@ -14,6 +14,8 @@ https://gg.hls2.xyz/live/irib-tv1/chunks.m3u8
 https://gg.hls2.xyz/live/irib-tv2/chunks.m3u8
 #EXTINF:-1 group-title="NEWS WORLD",IRIB 3
 https://gg.hls2.xyz/live/irib-tv3/chunks.m3u8
+#EXTINF:-1 group-title="NEWS WORLD",IRINN
+https://gg.hls2.xyz/live/irib-khabar/playlist.m3u8
 
 #EXTM3U
 
