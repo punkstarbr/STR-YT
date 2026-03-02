@@ -8,14 +8,17 @@
 
 #EXTM3U url-tvg="https://i.mjh.nz/Roku/mx.xml.gz,https://timbiriche.me/epg/mexico.xml.gz,https://raw.githubusercontent.com/LITUATUI/Geral/master/EPG/Geral.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_doble_m/master/guia.xml.gz,https://raw.githubusercontent.com/HelmerLous/EPG/main/Guia.xml.gz"
 
-#EXTINF:-1 group-title="NEWS WORLD",IRIB 1
+#EXTM3U
+#EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/IRIB_TV1_Logo_%282025%29.svg/512px-IRIB_TV1_Logo_%282025%29.svg.png" tvg-name="WORLD,IRIB 1" tvg-url="",WORLD,IRIB 1
 https://gg.hls2.xyz/live/irib-tv1/chunks.m3u8
-#EXTINF:-1 group-title="NEWS WORLD",IRIB 2
+#EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IRIB_Logo.svg/512px-IRIB_Logo.svg.png" tvg-name="WORLD,IRIB 2" tvg-url="",WORLD,IRIB 2
 https://gg.hls2.xyz/live/irib-tv2/chunks.m3u8
-#EXTINF:-1 group-title="NEWS WORLD",IRIB 3
+#EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/IRIB_TV3_Logo.png/640px-IRIB_TV3_Logo.png" tvg-name="WORLD,IRIB 3" tvg-url="",WORLD,IRIB 3
 https://gg.hls2.xyz/live/irib-tv3/chunks.m3u8
-#EXTINF:-1 group-title="NEWS WORLD",IRINN
+#EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/IRINN_logo.svg/440px-IRINN_logo.svg.png" tvg-name="WORLD,IRINN" tvg-url="",WORLD,IRINN
 https://gg.hls2.xyz/live/irib-khabar/playlist.m3u8
+
+
 
 #EXTM3U
 
