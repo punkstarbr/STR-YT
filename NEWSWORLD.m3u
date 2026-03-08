@@ -8,14 +8,13 @@
 
 #EXTM3U url-tvg="https://i.mjh.nz/Roku/mx.xml.gz,https://timbiriche.me/epg/mexico.xml.gz,https://raw.githubusercontent.com/LITUATUI/Geral/master/EPG/Geral.xml.gz,https://github.com/roisiano/miEPG-v3.6/raw/refs/heads/main/miEPG.xml.gz,https://raw.githubusercontent.com/HelmerLous/EPG/main/Guia.xml.gz"
 
-#EXTM3U
-#EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/IRIB_TV1_Logo_%282025%29.svg/512px-IRIB_TV1_Logo_%282025%29.svg.png" tvg-name="WORLD,IRIB 1" tvg-url="",WORLD,IRIB 1
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB1.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/IRIB_TV1_Logo_%282025%29.svg/512px-IRIB_TV1_Logo_%282025%29.svg.png" tvg-name="IRIB 1",IRIB 1
 https://gg.hls2.xyz/live/irib-tv1/chunks.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IRIB_Logo.svg/512px-IRIB_Logo.svg.png" tvg-name="WORLD,IRIB 2" tvg-url="",WORLD,IRIB 2
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB2.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IRIB_Logo.svg/512px-IRIB_Logo.svg.png" tvg-name="IRIB 2",IRIB 2
 https://gg.hls2.xyz/live/irib-tv2/chunks.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/IRIB_TV3_Logo.png/640px-IRIB_TV3_Logo.png" tvg-name="WORLD,IRIB 3" tvg-url="",WORLD,IRIB 3
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB3.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/IRIB_TV3_Logo.png/640px-IRIB_TV3_Logo.png" tvg-name="IRIB 3",IRIB 3
 https://gg.hls2.xyz/live/irib-tv3/chunks.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/IRINN_logo.svg/440px-IRINN_logo.svg.png" tvg-name="WORLD,IRINN" tvg-url="",WORLD,IRINN
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRINN.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/IRINN_logo.svg/440px-IRINN_logo.svg.png" tvg-name="IRINN",IRINN
 https://gg.hls2.xyz/live/irib-khabar/playlist.m3u8
 
 
