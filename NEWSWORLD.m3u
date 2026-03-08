@@ -153,75 +153,73 @@ https://streaming-a-806.cdn.nextologies.com/38dafadc68316650d32c7e974332e5b8/pla
 
 
 
-#EXTINF:-1 group-title="NEWS WORLD",ABC News (Australia)
+#EXTINF:-1 tvg-id="ABCNewsAustralia.au" group-title="NEWS WORLD",ABC News (Australia)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",ABC Radio (Australia)
+#EXTINF:-1 tvg-id="ABCRadioAustralia.au" group-title="NEWS WORLD",ABC Radio (Australia)
 https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/index.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",Al Arabiya
+#EXTINF:-1 tvg-id="AlArabiya.ae" group-title="NEWS WORLD",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",Al Araby
+#EXTINF:-1 tvg-id="AlAraby.tv" group-title="NEWS WORLD",Al Araby
 https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",Al Jazeera Arabic
+#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" group-title="NEWS WORLD",Al Jazeera Arabic
 https://live-hls-web-aja-fa.getaj.net/AJA/master.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",Al Jazeera English
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" group-title="NEWS WORLD",Al Jazeera English
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",Al Jazeera Mubasher
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" group-title="NEWS WORLD",Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",Al-Manar
+#EXTINF:-1 tvg-id="AlManar.lb" group-title="NEWS WORLD",Al-Manar
 https://edge.fastpublish.me/live/index.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",Alhurra
+#EXTINF:-1 tvg-id="Alhurra.iq" group-title="NEWS WORLD",Alhurra
 https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/merge.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",AnewZ
+#EXTINF:-1 tvg-id="AnewZ.com" group-title="NEWS WORLD",AnewZ
 https://cdn.target-video.com/livestream/eu/83ac8fe07ddd10cf/out/v1/b9c4c59c1c4c4b1697bf9ea8d81e1f5e/30355_1872539_index.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",Arirang
+#EXTINF:-1 tvg-id="Arirang.kr" group-title="NEWS WORLD",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",BBC News Radio
+#EXTINF:-1 tvg-id="BBCWorldService.uk" group-title="NEWS WORLD",BBC News Radio
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=96000.norewind.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",BBC News TV
+#EXTINF:-1 tvg-id="BBCNews.uk" group-title="NEWS WORLD",BBC News TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-646fab0e43d6d6838db81a6a.m3u8?includeAllStreams=1
 
-#EXTINF:-1 group-title="NEWS WORLD",BBC Arabic
+#EXTINF:-1 tvg-id="BBCArabic.uk" group-title="NEWS WORLD",BBC Arabic
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 
-
-
-#EXTINF:-1 group-title="NEWS WORLD",CBS News
+#EXTINF:-1 tvg-id="CBSNews.us" group-title="NEWS WORLD",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",CGTN
+#EXTINF:-1 tvg-id="CGTN.cn" group-title="NEWS WORLD",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",CGTN Arabic
+#EXTINF:-1 tvg-id="CGTNArabic.cn" group-title="NEWS WORLD",CGTN Arabic
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",CGTN Documentary
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="NEWS WORLD",CGTN Documentary
 https://news.cgtn.com/resource/live/wx/cgtn-doc.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",Current Time TV
+#EXTINF:-1 tvg-id="CurrentTimeTV.us" group-title="NEWS WORLD",Current Time TV
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",DW Arabic
+#EXTINF:-1 tvg-id="DWArabic.de" group-title="NEWS WORLD",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",DW English
+#EXTINF:-1 tvg-id="DWEnglish.de" group-title="NEWS WORLD",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD",DW Español
+#EXTINF:-1 tvg-id="DWEspanol.de" group-title="NEWS WORLD",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="DWEspanol.de" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/dw.png",DW Español
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/dw.png" group-title="NEWS WORLD",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="NEWS WORLD",Deutsche Welle Español
@@ -230,7 +228,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="NEWS WORLD",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="DWDEUTSCHPLUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPKKi31T-cpbQpBKDo3Qblf-6Joj8DEtQxjjmoY3d6uD838_ix2Z7PWyXUxzQ&s",DW Español 2
+#EXTINF:-1 tvg-id="DWDEUTSCHPLUS" group-title="NEWS WORLD",DW Español 2
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD",Global News Canada
