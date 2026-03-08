@@ -6,7 +6,7 @@
 
 
 
-#EXTM3U url-tvg="https://i.mjh.nz/Roku/mx.xml.gz,https://timbiriche.me/epg/mexico.xml.gz,https://raw.githubusercontent.com/LITUATUI/Geral/master/EPG/Geral.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_doble_m/master/guia.xml.gz,https://raw.githubusercontent.com/HelmerLous/EPG/main/Guia.xml.gz"
+#EXTM3U url-tvg="https://i.mjh.nz/Roku/mx.xml.gz,https://timbiriche.me/epg/mexico.xml.gz,https://raw.githubusercontent.com/LITUATUI/Geral/master/EPG/Geral.xml.gz,https://github.com/roisiano/miEPG-v3.6/raw/refs/heads/main/miEPG.xml.gz,https://raw.githubusercontent.com/HelmerLous/EPG/main/Guia.xml.gz"
 
 #EXTM3U
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/IRIB_TV1_Logo_%282025%29.svg/512px-IRIB_TV1_Logo_%282025%29.svg.png" tvg-name="WORLD,IRIB 1" tvg-url="",WORLD,IRIB 1
