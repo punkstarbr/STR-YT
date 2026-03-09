@@ -1,69 +1,25 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml"
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_lite.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
 
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-id="CAM.FOZ.BR277" tvg-name="Foz do Iguaçu - BR277" tvg-logo="https://static.portaldacidade.com/unsafe/1280x720/https://s3.amazonaws.com/fozdoiguacu.portaldacidade.com/img/camera/br277-5a5e6199dd931-5b04548e405cd.jpg",Foz do Iguaçu - BR277
+https://video02.logicahost.com.br/portaldacidade/fozsentidopontedaamizade.stream/chunklist_w781220348.m3u8
 
-#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/clarotv.com.br.channels.xml"
-#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/vivo.com.br.channels.xml"
-#EXTM3U x-tvg-url="http://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/hagah.com.br.channels.xml"
-#EXTM3U x-tvg-url="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
-
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/bitsbb01/webgrabplus-siteinipack/master/siteini.pack/Brazil/clarotv.com.br.channels.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/bitsbb01/webgrabplus-siteinipack/master/siteini.pack/Brazil/redeglobo.globo.com.channels.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/bitsbb01/webgrabplus-siteinipack/master/siteini.pack/Brazil/vivo.com.br.channels.xml"
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
-
-
-
-
-#EXTM3U url-tvg="http://g-epg.com/brazil.xml"
-
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="OportunidadesTV.br" tvg-name="Oportunidades TV" tvg-logo="https://imgur.com/HhSQN5B.png",Oportunidades TV HD
-http://maistop.net:80/live/free/free/2.m3u8
-
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="OportunidadesTV.br" tvg-name="Oportunidades TV" tvg-logo="https://imgur.com/HhSQN5B.png",Oportunidades TV FHD
-http://maistop.net:80/live/free/free/1.m3u8
-
-
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/250px-Rai_3_-_Logo_2016.svg.png",RAI 3
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Reality Show's Live" tvg-id="RAITRE" tvg-name="IT RAI 3 (D)" tvg-logo="http://fanc.tmsimg.com/assets/s53928_ll_h3_as.png",IT RAI 3 (D)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/79992114901
-
-#EXTINF:-1 group-title="Reality Show's Live" tvg-id="RAITRE" tvg-name="IT: Rai 3" tvg-logo="http://fanc.tmsimg.com/assets/s53928_ll_h3_as.png",IT: Rai 3
-https://dumdumbullet.com/1011454237/bHg8wYxrId/6661979
-
-#EXTINF:-1 group-title="Reality Show's Live" tvg-id="RTLTVI.be" tvg-logo="https://i.imgur.com/2CimAAN.png",RTL-TVI (1080p) [Not 24/7]
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="RTLTVI.be" tvg-name="RTL-TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_TVI.svg/200px-RTL_TVI.svg.png",RTL-TVI (1080p)
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://od.lk/s/M18yOTI2NjczMTZf/france2.png",FRANCE 2
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="RAITRE" tvg-name="IT: Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/200px-Rai_3_-_Logo_2016.svg.png",IT: Rai 3
+https://dumdumbullet.com/1011454237/bHg8wYxrId/79992114901
+
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="FRANCE2.fr" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/France_2.svg/200px-France_2.svg.png",FRANCE 2
 http://69.64.57.208/france2/playlist.m3u8
 
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://od.lk/s/M18yOTI2NjczMTRf/france5.jpeg",FRANCE 5
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="FRANCE3.fr" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/France_3.svg/200px-France_3.svg.png",FRANCE 3
 http://69.64.57.208/france5/playlist.m3u8
 
-#EXTINF:-1 group-title="Reality Show's Live" tvg-id="FRANCE 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmrbOqjG8PomXE86TM5SAMP5_Z30xG2nW1kot6nym9nU63PCzUdpHMrAYwA&s",FRANCE 2 FHD
-http://cord-cutter.net:8080/live/j3McKd/673709/160297.m3u8
-
-#EXTINF:-1 group-title="Reality Show's Live" tvg-id="FRANCE 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQONO80OTwp8oIc8fzLkInbb6ZJ8xondzxrzyVhvYg1hZZOSi99MbV3ifz0Ipg&s",FRANCE 3 FHD
-http://cord-cutter.net:8080/live/j3McKd/673709/160298.m3u8
-
-#EXTINF:-1 group-title="Reality Show's Live" tvg-id="FRANCE 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRrR9BsBZw4zTAzFAAxFQuDp1lm06mXAEU-PnGfC7FTLZEyqnuRWDE-P9C4w&s",FRANCE 4 FHD
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="FRANCE4.fr" tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/France_4.svg/200px-France_4.svg.png",FRANCE 4
 http://cord-cutter.net:8080/live/j3McKd/673709/160299.m3u8
 
-#EXTINF:-1 group-title="Reality Show's Live" tvg-id="FRANCE 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu32fM_Xm6U-85aB1LCxFXx6tYjCCu1SdpmlXj5xLUwdm5dCbriIctZf2QHbk&s",FRANCE 5 FHD
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="FRANCE5.fr" tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/France_5.svg/200px-France_5.svg.png",FRANCE 5
 http://cord-cutter.net:8080/live/j3McKd/673709/160300.m3u8
 
 
