@@ -1,10 +1,13 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://iptv-epg.org/files/epg-ar.xml.gz" deinterlaced="1"
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="Canal13.ar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-13-ar.png",Canal 13 Argentina
-https://stream.claroh.com/canal13/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.eltrecetv.com.ar/
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="ElTrece.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-trece.png",El Trece
-https://stream.claroh.com/trece/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.eltrecetv.com.ar/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="Telefe.ar" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telefe.png",Telefe
 http://190.95.60.228:8500/play/a031
