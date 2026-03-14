@@ -1,10 +1,21 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_DE.xml|https://epg.pw/xmltv/epg_JP.xml|https://epg.pw/xmltv/epg_US.xml|https://epg.pw/xmltv/epg_RU.xml|https://epg.pw/xmltv/epg_GB.xml"
+
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="76697" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/QVC_Logo.svg/512px-QVC_Logo.svg.png",QVC - Germany
+https://qvc.akamaized.net/hls/live/2017383/lsqvc1de/master.m3u8
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="76618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/QVC_Logo.svg/512px-QVC_Logo.svg.png",QVC2 - Germany
+https://qvc.akamaized.net/hls/live/2017383/lsqvc2de/master.m3u8
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="76661" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/HSE24_Logo.svg/512px-HSE24_Logo.svg.png",HSE24 (1080p) (Alemanha)
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="QVCJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/QVC_Logo.svg/512px-QVC_Logo.svg.png",QVC - Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="QVC3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/QVC_Logo.svg/512px-QVC_Logo.svg.png",QVC 3 (1080p) (Estados Unidos)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="10777" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/QVC_Logo.svg/512px-QVC_Logo.svg.png",QVC 4K (Japan)
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://i.imgur.com/ssf1GfC.png",Italia Channel LCN 123 - Italy
 https://stream1.aswifi.it/italiachannel/stream/index.m3u8
 #EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",QVC - Italy
-https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",QVC - Japan
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+https://qvc.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://i.malimarcdn.com/ningtvHDF.jpg",NING TV - Laos
 https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://i.malimarcdn.com/airtvchannelHDF.jpg",AIR TV - Laos
@@ -21,21 +32,19 @@ https://livefta.malimarcdn.com/ftaedge00/lonesinhlao.sdp/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8
 #EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://i.malimarcdn.com/lstv1v3HDF.jpg",LS TV 1 - Laos
 https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://i.imgur.com/HCzlTR0.png",Juwelo - Germany
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8?latency=low
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://i.imgur.com/YKx8IXY.png",Good Idea TV (GTV) - USA Thai (Estados Unidos da América)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Juwelo_TV_logo.svg/512px-Juwelo_TV_logo.svg.png",Juwelo - Germany
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Juwelo_TV_logo.svg/512px-Juwelo_TV_logo.svg.png",Good Idea TV (GTV) - USA Thai (Estados Unidos da América)
 http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",QVC - Japan
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",Shop LC (KCKS-LD10) - USA (STK)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_of_Liquidation_Channel.svg/512px-Logo_of_Liquidation_Channel.svg.png",Shop LC (KCKS-LD10) - USA (STK)
 https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://i.imgur.com/S0IK0mB.jpg",Shopping 21TV - Israel
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Shopping_21_logo.svg/512px-Shopping_21_logo.svg.png",Shopping 21TV - Israel
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://i.imgur.com/En7RSKE.jpg",The Craft Store Hochanda - UK
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hochanda_logo.svg/512px-Hochanda_logo.svg.png",The Craft Store Hochanda - UK
 https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://i.imgur.com/cNgwmz3.jpg",Tommy Teleshopping - Netherlands
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Tommy_Teleshopping_logo.svg/512px-Tommy_Teleshopping_logo.svg.png",Tommy Teleshopping - Netherlands
 http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://i.imgur.com/k0kyRSM.png",TV Warehouse - UK
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/TV_Warehouse_logo.svg/512px-TV_Warehouse_logo.svg.png",TV Warehouse - UK
 https://tvwarehouse.r.worldssl.net/mystream.m3u8
 #EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://i.malimarcdn.com/TeaTvLaoHDF.jpg",TEA TV - Laos
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
@@ -59,51 +68,45 @@ https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://i.malimarcdn.com/UniquelyThaiHDF.jpg",UNIQUELY THAI - Laos
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn1JZ0jmqPxmOYP1BLVy0JkMu38bMh4EmAt5CXKhb2DSsFrQm8J0KIOU4CpSk&s",telfar
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Telfar_logo.svg/512px-Telfar_logo.svg.png",Telfar
 https://install.telfarcontrol.com/speed/broadcast/12/file-4692k.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="HSE24Extra.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd9d6EuIAXhjooVyCS53ulHjzTCBAnQJUV7mcpPEFOfXxlbLnA2wQ5YIZ6_YI&s",HSE24 Extra (1080p) (Alemanha)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="76737" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/HSE24_Logo.svg/512px-HSE24_Logo.svg.png",HSE24 Extra (1080p) (Alemanha)
 https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="HSE24Trend.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3JrOTrL2J2A6WxD8qpgHbJr2DI7RPCEAYoFlizz7dZ_LcvBQNW9TqqDA3g&s",HSE24 Trend (576p) (Alemanha)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/HSE24_Logo.svg/512px-HSE24_Logo.svg.png",HSE24 Trend (576p) (Alemanha)
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="HSE.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFyvjxQXC8uW9BkxFwDr4vS6ziJOxcQlxtETif13Nq3EIIdq_ekJgn29_oe0&s",HSE (1080p) (Alemanha)
-https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="Juwelo.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutNAZaRcGwuXsi4clfmy_1Z_UrOIk_5xZ3GWpv7gC-hiNpyhlWJy3p-W-9Q&s",Juwelo (720p) (Alemanha)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="Juwelo.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Juwelo_TV_logo.svg/512px-Juwelo_TV_logo.svg.png",Juwelo (720p) (Alemanha)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="KaufBeiTV.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuy07ePxASgeKtDht2E8Bs4qJSXuJu-U5YB9s_v7iQJsCEHTNyOSLpBfQLsQ&s",KaufBei TV (576p) (Alemanha)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/KaufBei_TV_logo.svg/512px-KaufBei_TV_logo.svg.png",KaufBei TV (576p) (Alemanha)
 https://api.alpaca.t62a.com/hls/9103/index.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="CasaItalia53.it" tvg-logo="https://i.imgur.com/X8BI1Md.png",Casa Italia 53 (720p) (Itália)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="CasaItalia53.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Casa_Italia_logo.svg/512px-Casa_Italia_logo.svg.png",Casa Italia 53 (720p) (Itália)
 https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="GemShoppingNetwork.us" tvg-logo="https://i.imgur.com/WlHEpAu.png",Gem Shopping Network (720p) (Estados Unidos)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="GemShoppingNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gem_Shopping_Network_logo.svg/512px-Gem_Shopping_Network_logo.svg.png",Gem Shopping Network (720p) (Estados Unidos)
 https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="LaoSVTV.vn" tvg-logo="https://i.imgur.com/ZIXtazI.png",Lao SV TV (480p) (Vietnã)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="LaoSVTV.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lao_SV_TV_logo.svg/512px-Lao_SV_TV_logo.svg.png",Lao SV TV (480p) (Vietnã)
 https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="LaoThaiTV.us" tvg-logo="https://i.imgur.com/q6cQzbv.png",Lao-Thai TV (720p) (Estados Unidos)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="LaoThaiTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Lao-Thai_TV_logo.svg/512px-Lao-Thai_TV_logo.svg.png",Lao-Thai TV (720p) (Estados Unidos)
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="LaosPlanetTV.la" tvg-logo="https://i.imgur.com/u4ynifa.png",Laos Planet TV (720p) (Laos)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="LaosPlanetTV.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Laos_Planet_TV_logo.svg/512px-Laos_Planet_TV_logo.svg.png",Laos Planet TV (720p) (Laos)
 https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="LSTV.la" tvg-logo="https://i.imgur.com/fs3dQ6J.png",LS TV (480p) (Laos)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="LSTV.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/LS_TV_logo.svg/512px-LS_TV_logo.svg.png",LS TV (480p) (Laos)
 https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="NATTV.th" tvg-logo="https://i.imgur.com/a7tNaD5.png",NAT TV (1080p) (Tailândia)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="NATTV.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/NAT_TV_logo.svg/512px-NAT_TV_logo.svg.png",NAT TV (1080p) (Tailândia)
 https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="QVC3.us" tvg-logo="https://i.imgur.com/edswdOO.png",QVC 3 (1080p) (Estados Unidos)
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="QVCJapan.jp" tvg-logo="https://i.imgur.com/xWSzQ34.png",QVC Japan (720p) (Japão)
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 group-title="HOME SHOPPING" tvg-id="KCKSLD10.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_of_Liquidation_Channel.svg/512px-Logo_of_Liquidation_Channel.svg.png",Shop LC (KCKS-LD10) (480p) [Not 24/7] (Estados Unidos)
 https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="ShoppingLive.ru" tvg-logo="https://i.imgur.com/EMmGnjV.png",Shopping Live (576p) [Not 24/7] (Rússia)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="ShoppingLive.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Shopping_Live_logo.svg/512px-Shopping_Live_logo.svg.png",Shopping Live (576p) [Not 24/7] (Rússia)
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="TeaTVKhmer.vn" tvg-logo="https://i.imgur.com/u6SMbOQ.jpg",Tea TV 2 (720p) (Camboja)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="TeaTVKhmer.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tea_TV_logo.svg/512px-Tea_TV_logo.svg.png",Tea TV 2 (720p) (Camboja)
 https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="TeaTV.vn" tvg-logo="https://i.imgur.com/WorbnyD.jpg",Tea TV (720p) (Vietnã)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="TeaTV.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tea_TV_logo.svg/512px-Tea_TV_logo.svg.png",Tea TV (720p) (Vietnã)
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="TSC.ca" tvg-logo="https://i.imgur.com/XBbisjT.png",Today's Shopping Choice (TSC) (720p) (Canadá)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="TSC.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/TSC_logo.svg/512px-TSC_logo.svg.png",Today's Shopping Choice (TSC) (720p) (Canadá)
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="TommyTeleshopping.nl" tvg-logo="https://i.imgur.com/zxyYP7y.png",Tommy Teleshopping (480p) (Países Baixos)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="TommyTeleshopping.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Tommy_Teleshopping_logo.svg/512px-Tommy_Teleshopping_logo.svg.png",Tommy Teleshopping (480p) (Países Baixos)
 https://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="UniquelyThai.vn" tvg-logo="https://i.imgur.com/cTSDB8O.png",Uniquely Thai (720p) (Tailândia)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="UniquelyThai.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Uniquely_Thai_logo.svg/512px-Uniquely_Thai_logo.svg.png",Uniquely Thai (720p) (Tailândia)
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="VatiLao.la" tvg-logo="https://i.imgur.com/NwxXABV.png",Vati Lao TV (720p) (Laos)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="VatiLao.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Vati_Lao_TV_logo.svg/512px-Vati_Lao_TV_logo.svg.png",Vati Lao TV (720p) (Laos)
 https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="Yuvelirochka.ru" tvg-logo="https://i.imgur.com/IcWtXCZ.png",Ювелирочка ТВ (576p) (Rússia)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="Yuvelirochka.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Yuvelirochka_TV_logo.svg/512px-Yuvelirochka_TV_logo.svg.png",Ювелирочка ТВ (576p) (Rússia)
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
