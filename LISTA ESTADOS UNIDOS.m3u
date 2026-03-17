@@ -1,18 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml"
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_all.xml"
-
-
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz"
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_all.xml"
 
 #EXTINF:-1 group-title="USA" tvg-id="ABC.us" tvg-name="ABC_EAST" tvg-logo="https://iili.io/JmoUd6g.png",ABC East
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
@@ -124,13 +110,13 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="fox-news-us" tvg-logo="https://iptvx.one/picons/fox-news-us.png" group-title="USA",Fox News (HD ready)
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="USA",TBS (HD ready)
+#EXTINF:-1 tvg-id="TBS.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="USA",TBS (HD ready)
 http://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://iptvx.one/picons/tennis-cnl-us.png" group-title="USA",The Tennis Channel (HD ready)
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W0Jvi5o.png" group-title="USA",Scripps News (HD ready)
+#EXTINF:-1 tvg-id="Scripps.News.Channel.us" tvg-logo="https://i.imgur.com/W0Jvi5o.png" group-title="USA",Scripps News (HD ready)
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="USA",USA TODAY (HD ready)
+#EXTINF:-1 tvg-id="USA.Today.us" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="USA",USA TODAY (HD ready)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="newsmax-us" tvg-logo="https://epg.iptvx.one/picons/newsmax-us.png" group-title="USA",Newsmax TV (HD)
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
@@ -140,7 +126,7 @@ http://ufospeeds.com:2095/73622931496/7122224796/138
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" group-title="Entretenimiento" user-agent="iPhone", Telemundo Florida
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist720.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="Undefined" tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png",ABC 7 Los Angeles 24/7
+#EXTINF:-1 group-title="USA" tvg-id="" tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png",ABC 7 Los Angeles 24/7
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://image.roku.com/developer_channels/prod/02a36bdaed8d449bae35208a64241ab8a81fb5064c9d1d1c7cf8b14bfdf76355.png" group-title="Entretenimiento" user-agent="iPhone", Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -148,239 +134,239 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
 #EXTINF:-1 tvg-id="euronews" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="Информационные",Euronews (HD)
 https://www.youtube.com/euronewsru/live
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO5iv5EwCyK7r6ASjP92iiiZtJBA8K2wKo2BNnktvNgm1MNAAh5AvAkZJF1us&s",ABC 7 Los Angeles CA (KABC-TV) (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="KABC-TV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO5iv5EwCyK7r6ASjP92iiiZtJBA8K2wKo2BNnktvNgm1MNAAh5AvAkZJF1us&s",ABC 7 Los Angeles CA (KABC-TV) (720p)
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5U6z17XJ-PbPAlZzmybboh2Q2HAShGXs5g_Qet9RGLuUQzD0u-y-6br2Znw&s",ABC 7 Denver CO (KMGH) (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="KMGH-TV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5U6z17XJ-PbPAlZzmybboh2Q2HAShGXs5g_Qet9RGLuUQzD0u-y-6br2Znw&s",ABC 7 Denver CO (KMGH) (720p)
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ohTNelk6gDTiPpX8JCF8qmrZ3nNvSvkK_VH6HANto5h1fpqq_UtFIGJGZSY&s",ABC 13 Las Vegas NV (KTNV) (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ohTNelk6gDTiPpX8JCF8qmrZ3nNvSvkK_VH6HANto5h1fpqq_UtFIGJGZSY&s",ABC 13 Las Vegas NV (KTNV) (720p)
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH069iJmqeZOJT2Qhj02Pr7NnSAHSymBA4yQP2DOaBiOVqUrwKSYcGTZs6XFI&s",ABC 15 Phoenix AZ (KNXV-TV) (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH069iJmqeZOJT2Qhj02Pr7NnSAHSymBA4yQP2DOaBiOVqUrwKSYcGTZs6XFI&s",ABC 15 Phoenix AZ (KNXV-TV) (720p)
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT59-cOUMCQyuIl2sqrYaYpaC1v13jcQPIZf_UDIXavD-uBM_m0CTM-A8yXKQ&s",Al Horreya TV (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT59-cOUMCQyuIl2sqrYaYpaC1v13jcQPIZf_UDIXavD-uBM_m0CTM-A8yXKQ&s",Al Horreya TV (720p)
 http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ZqQT5cCOCt2CNEjUqAMKJD0M4Cm8nOXllUCRV3o4Zuo82shcjS00jxZMQHo&s",Aliento Vision (720p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ZqQT5cCOCt2CNEjUqAMKJD0M4Cm8nOXllUCRV3o4Zuo82shcjS00jxZMQHo&s",Aliento Vision (720p) [Not 24/7]
 http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoTy_Er9DujHJ-s8TF0P9qthnjssw7VCZyy3EElxnP1rPsrn2_MV0LNNDJg&s",Action (KCKS-LD4) (480p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoTy_Er9DujHJ-s8TF0P9qthnjssw7VCZyy3EElxnP1rPsrn2_MV0LNNDJg&s",Action (KCKS-LD4) (480p)
 https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1r1Hgryn70kkwtxoNO5utFJ4jEaSf1JnBp7oVYBGBUOk2K-YELb2AFzTlnns&s",Adult Swim Robot Chicken (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1r1Hgryn70kkwtxoNO5utFJ4jEaSf1JnBp7oVYBGBUOk2K-YELb2AFzTlnns&s",Adult Swim Robot Chicken (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc2X7zQdKfMC7Mn9oHYLHiUBMOOntKM8qX4Awl2vOi2N8M9pnXN_txlk2T0g&s",Ace TV (KCKS-LD3) (480p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc2X7zQdKfMC7Mn9oHYLHiUBMOOntKM8qX4Awl2vOi2N8M9pnXN_txlk2T0g&s",Ace TV (KCKS-LD3) (480p)
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRIzq4nMbSAN_nhLRh2DEKhgu6bL0SMu3qogxBaBsUtl9CUcF-xtRaw-VBdnI&s",Adult Swim Dream Corp LLC (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRIzq4nMbSAN_nhLRh2DEKhgu6bL0SMu3qogxBaBsUtl9CUcF-xtRaw-VBdnI&s",Adult Swim Dream Corp LLC (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTExagI6_ju90tRTFvwAiJMaCgiIppIY7HcibKFjT86H1qMPkGYDaCMBlx0xg&s",Atlanta Channel (720p) [Timeout]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTExagI6_ju90tRTFvwAiJMaCgiIppIY7HcibKFjT86H1qMPkGYDaCMBlx0xg&s",Atlanta Channel (720p) [Timeout]
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34FvSGEkwFxQyHdv9-06zr5f6v98hh_rZQA8VEu60v2XW9bUynwHqxDkhb6M&s",AKC TV (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34FvSGEkwFxQyHdv9-06zr5f6v98hh_rZQA8VEu60v2XW9bUynwHqxDkhb6M&s",AKC TV (1080p)
 https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWMlliFO_bULOAyFcJ1glyl0nEeqs0beVutsK4FlNmwYbzKDAnXza6A0-mKQ&s",Adult Swim Rick and Morty (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWMlliFO_bULOAyFcJ1glyl0nEeqs0beVutsK4FlNmwYbzKDAnXza6A0-mKQ&s",Adult Swim Rick and Morty (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYvBkCygiosPIcZ61OO2R3IdRE_5avnkEz4u-zx8I_a4xZiHjQZhRgwaRC9J4&s",Alkarma TV Middle East (1080p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYvBkCygiosPIcZ61OO2R3IdRE_5avnkEz4u-zx8I_a4xZiHjQZhRgwaRC9J4&s",Alkarma TV Middle East (1080p) [Not 24/7]
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd3eXf1XlwNs7vcQGXKWSqj2seST63T4tAcQeqcfnjxVJ_yNq6UwTjGozHvA&s",Beach TV Florida & Alabama (720p) [Timeout]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd3eXf1XlwNs7vcQGXKWSqj2seST63T4tAcQeqcfnjxVJ_yNq6UwTjGozHvA&s",Beach TV Florida & Alabama (720p) [Timeout]
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYvBkCygiosPIcZ61OO2R3IdRE_5avnkEz4u-zx8I_a4xZiHjQZhRgwaRC9J4&s",Alkarma TV Family (1080p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYvBkCygiosPIcZ61OO2R3IdRE_5avnkEz4u-zx8I_a4xZiHjQZhRgwaRC9J4&s",Alkarma TV Family (1080p) [Not 24/7]
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9nR1nr-p9rUQwU_NsL3G9ez0BJ4ePrtOk0ngQnzx1gjC3ZZcXlUymR6ychw&s",Beach TV Panama City (720p) [Offline]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9nR1nr-p9rUQwU_NsL3G9ez0BJ4ePrtOk0ngQnzx1gjC3ZZcXlUymR6ychw&s",Beach TV Panama City (720p) [Offline]
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZegPT5xlyxvYI7EG0fckc_5jABug7NmYHgReUBWfhJxzlqs2C4ZIJW0Q6hw&s",Beach TV Myrtle Beach & The Grand Strand (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZegPT5xlyxvYI7EG0fckc_5jABug7NmYHgReUBWfhJxzlqs2C4ZIJW0Q6hw&s",Beach TV Myrtle Beach & The Grand Strand (720p)
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsGMWWRr6T_UojeKimXg6T4ewdTgsJ-j-GvpixZKZeFLiE__n1QLadkpt6JAE&s",Black News Channel (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsGMWWRr6T_UojeKimXg6T4ewdTgsJ-j-GvpixZKZeFLiE__n1QLadkpt6JAE&s",Black News Channel (1080p)
 http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkg-_DQt30VSdf1C7uGyiNPCt7FPSV5LU7zy6iWw6XbOfgbq-n9EVBw46ncc&s",Alkarma TV Praise (720p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkg-_DQt30VSdf1C7uGyiNPCt7FPSV5LU7zy6iWw6XbOfgbq-n9EVBw46ncc&s",Alkarma TV Praise (720p) [Not 24/7]
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYvBkCygiosPIcZ61OO2R3IdRE_5avnkEz4u-zx8I_a4xZiHjQZhRgwaRC9J4&s",Alkarma TV Australia (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYvBkCygiosPIcZ61OO2R3IdRE_5avnkEz4u-zx8I_a4xZiHjQZhRgwaRC9J4&s",Alkarma TV Australia (1080p)
 https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAh3ehMuChk_LelHDhsoAVvWJPYJ2-XiFK5ZTkiLLbKi_zzKOIF9-b4Q5zsQ&s",AMG TV (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAh3ehMuChk_LelHDhsoAVvWJPYJ2-XiFK5ZTkiLLbKi_zzKOIF9-b4Q5zsQ&s",AMG TV (1080p)
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRduzcHEB63RLSD-BUfoZL74ZqE-0EY2Kz5_OKj8aS7z6tKnavk0fkDNJwQpQ&s",Christian Youth Channel (CYC) (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRduzcHEB63RLSD-BUfoZL74ZqE-0EY2Kz5_OKj8aS7z6tKnavk0fkDNJwQpQ&s",Christian Youth Channel (CYC) (1080p)
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfwNanDw_sovsmRSs-d2fIbhK66uknWz9JQopyryKYrm4ZjuS8LxZMOYvLCg&s",bon appétit (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfwNanDw_sovsmRSs-d2fIbhK66uknWz9JQopyryKYrm4ZjuS8LxZMOYvLCg&s",bon appétit (1080p)
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYvBkCygiosPIcZ61OO2R3IdRE_5avnkEz4u-zx8I_a4xZiHjQZhRgwaRC9J4&s",Alkarma TV Talmaza (Discipleship) (1080p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYvBkCygiosPIcZ61OO2R3IdRE_5avnkEz4u-zx8I_a4xZiHjQZhRgwaRC9J4&s",Alkarma TV Talmaza (Discipleship) (1080p) [Not 24/7]
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDEFiUS5V9AmOpDlYG371nfgAhvj2rY8XDSvMpKxjGCZBGcyBYMNma22ltfYM&s",AWE Encore (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDEFiUS5V9AmOpDlYG371nfgAhvj2rY8XDSvMpKxjGCZBGcyBYMNma22ltfYM&s",AWE Encore (720p)
 https://aweencore-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLiSplFXgq79qt4LlusDfbDJ8bee225qsQ3Na9rqWsVI1aMfl6mvCu_R-kVyk&s",America's Voice (KCKS-LD5) (480p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLiSplFXgq79qt4LlusDfbDJ8bee225qsQ3Na9rqWsVI1aMfl6mvCu_R-kVyk&s",America's Voice (KCKS-LD5) (480p) [Not 24/7]
 https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN4XZNgpWmntBkxJiE29UTnl7ZNxzJwIk0ML2H5kbc-q5igmGSUQvqxQgeqQ&s",CSat TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN4XZNgpWmntBkxJiE29UTnl7ZNxzJwIk0ML2H5kbc-q5igmGSUQvqxQgeqQ&s",CSat TV (1080p) [Not 24/7]
 http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlO-uHbcQ5xsL8XOfUT2QgJZahZB36lfk-cEhsmkeBW4gCPeiyI8ILucKcpEc&s",CT-N Live Stream 2 (360p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlO-uHbcQ5xsL8XOfUT2QgJZahZB36lfk-cEhsmkeBW4gCPeiyI8ILucKcpEc&s",CT-N Live Stream 2 (360p) [Not 24/7]
 http://video.ct-n.com/live/web2stream/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvGuym2xCQFSgp41fc_6R0K9wrFjJ87Qg8y0aD6zNov91SJhSRlAUUOg49XA&s",CT-N TV Conneticut (720p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvGuym2xCQFSgp41fc_6R0K9wrFjJ87Qg8y0aD6zNov91SJhSRlAUUOg49XA&s",CT-N TV Conneticut (720p) [Not 24/7]
 http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN4XZNgpWmntBkxJiE29UTnl7ZNxzJwIk0ML2H5kbc-q5igmGSUQvqxQgeqQ&s",Elbeshara GTV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN4XZNgpWmntBkxJiE29UTnl7ZNxzJwIk0ML2H5kbc-q5igmGSUQvqxQgeqQ&s",Elbeshara GTV (1080p) [Not 24/7]
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxFwYQA-gSFfeDVAeJ1puslUTXLxveiNEwWalfeqSEK-VucfOA4EG_p1N0bNg&s",CBS 3 Omaha NE (KMTV-TV) (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxFwYQA-gSFfeDVAeJ1puslUTXLxveiNEwWalfeqSEK-VucfOA4EG_p1N0bNg&s",CBS 3 Omaha NE (KMTV-TV) (720p)
 https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD-nHvddxJfm-Lxt8Gxb-UIqe64mZH8awPacVExsrPxdLckkX2ohlCebAhWA&s",Circle (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Circle.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD-nHvddxJfm-Lxt8Gxb-UIqe64mZH8awPacVExsrPxdLckkX2ohlCebAhWA&s",Circle (1080p)
 https://circle-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrLfiD0wrw6zdq5CLCLWLpev2DRouemPIED8qcdAdYt1waXVrNN6A6jtDr9bQ&s",Buzzr (KCKS-LD1) (480p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrLfiD0wrw6zdq5CLCLWLpev2DRouemPIED8qcdAdYt1waXVrNN6A6jtDr9bQ&s",Buzzr (KCKS-LD1) (480p)
 https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIZeGnVrst7aFHyp38Jup9VVU294NOtQSAlVzM5WhX6Eu-TU3PL-sY2uLlBg&s",Biz TV (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIZeGnVrst7aFHyp38Jup9VVU294NOtQSAlVzM5WhX6Eu-TU3PL-sY2uLlBg&s",Biz TV (1080p)
 https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmuIAB9YH2IPVD1PgTj44tuqT5TQVL83wiE0pHeQ3MCce6mlnOjGFNtmtboA&s",Extrema TV (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmuIAB9YH2IPVD1PgTj44tuqT5TQVL83wiE0pHeQ3MCce6mlnOjGFNtmtboA&s",Extrema TV (720p)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7gZjQSdRZxl4fVY_Roi-G51Iws1VBJJRB5Gop6I2YV9bEltG7QaRpRiKQ7u4&s",Cooking Panda (576p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7gZjQSdRZxl4fVY_Roi-G51Iws1VBJJRB5Gop6I2YV9bEltG7QaRpRiKQ7u4&s",Cooking Panda (576p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQevmXdRfwB3EiD-TY7LOgqi6EwHBDyW9VjZmehInfy_DJiiVCMMdyqORRzUs&s",Fun Roads (404p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQevmXdRfwB3EiD-TY7LOgqi6EwHBDyW9VjZmehInfy_DJiiVCMMdyqORRzUs&s",Fun Roads (404p)
 http://104.143.4.5:2080/funroads.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxWdPT1BBi6gRqKpJRozEAYXPw3UAGz6U6dBDhrLC-Q2RQEyNQ0KbbjA9WyEk&s",Estrella News (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxWdPT1BBi6gRqKpJRozEAYXPw3UAGz6U6dBDhrLC-Q2RQEyNQ0KbbjA9WyEk&s",Estrella News (1080p)
 https://estrellanews-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx4_SXOLbm1jKj4_WIAJJZ-Cyr4di4Az71P5gXUYqrTU_i5NdfMHxWcUig1H4&s",Cloudflare TV (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx4_SXOLbm1jKj4_WIAJJZ-Cyr4di4Az71P5gXUYqrTU_i5NdfMHxWcUig1H4&s",Cloudflare TV (720p)
 https://cloudflare.tv/hls/live.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZqCoC-Nl9YI7MYBtKR8aQ1ANoOwiQh3B6LLO7cyXb5Xxg4gxlz0O3uHe_rQ&s",EWTN Asia-Pacific (720p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZqCoC-Nl9YI7MYBtKR8aQ1ANoOwiQh3B6LLO7cyXb5Xxg4gxlz0O3uHe_rQ&s",EWTN Asia-Pacific (720p) [Not 24/7]
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQatOvN-zY0yG_W6XV0qUPnQL8qsWROZmR96DoDA-brKyCUYd7ohvkvQO7cIA&s",Fox Weather (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="FOX.Weather.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQatOvN-zY0yG_W6XV0qUPnQL8qsWROZmR96DoDA-brKyCUYd7ohvkvQO7cIA&s",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSccvkCgUJcfh_z9iCGzh313GRVo6Bagk-JjFotr3qbDf_o6o2GfyRb0oRxLw&s",EWTN Europe (720p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSccvkCgUJcfh_z9iCGzh313GRVo6Bagk-JjFotr3qbDf_o6o2GfyRb0oRxLw&s",EWTN Europe (720p) [Not 24/7]
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsb7H_uFrqxwaVVSMIlZqrQJHs6rWCnAiIWSmuX3RrZ9Yd3gaxvbcCFqmEWQ&s",FOX News Now (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsb7H_uFrqxwaVVSMIlZqrQJHs6rWCnAiIWSmuX3RrZ9Yd3gaxvbcCFqmEWQ&s",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYtHHd7ryvh5RMR2ka-9MG0rrFQmn1sZJET3KMiWeuJ4S6njLzLUcI9QqylA&s",HTV 1 Houston Television (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYtHHd7ryvh5RMR2ka-9MG0rrFQmn1sZJET3KMiWeuJ4S6njLzLUcI9QqylA&s",HTV 1 Houston Television (720p)
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQp3nXDLQfFvlRvGa_g2yx-xYfesZmU9P6VvL2fPWReFGAa3vLWgQRZplGTg&s",HTV 2 Houston Television (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQp3nXDLQfFvlRvGa_g2yx-xYfesZmU9P6VvL2fPWReFGAa3vLWgQRZplGTg&s",HTV 2 Houston Television (720p)
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GXmbdbB1zb6YLdDTUeT7AJ2yd8aTm_KReX1dpHt8mOCuF_qJyDcJfdtr-g&s",KBSV/AssyriaSat (720p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GXmbdbB1zb6YLdDTUeT7AJ2yd8aTm_KReX1dpHt8mOCuF_qJyDcJfdtr-g&s",KBSV/AssyriaSat (720p) [Not 24/7]
 http://66.242.170.53/hls/live/temp/index.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO5iv5EwCyK7r6ASjP92iiiZtJBA8K2wKo2BNnktvNgm1MNAAh5AvAkZJF1us&s",KGO-TV News (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO5iv5EwCyK7r6ASjP92iiiZtJBA8K2wKo2BNnktvNgm1MNAAh5AvAkZJF1us&s",KGO-TV News (720p)
 https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_GrmGvLd1D4Ne60_hEIgNRCCfL1Nwavkhx5bEj1DXy2ohoF3RIBoGlrJekaY&s",Lone Star (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_GrmGvLd1D4Ne60_hEIgNRCCfL1Nwavkhx5bEj1DXy2ohoF3RIBoGlrJekaY&s",Lone Star (1080p)
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0PCN6j1tcEHKyTfKXgMBJKEIBVFHuVwZfGCe48noyQLs0Ke6AKG483EhmoY&s",KSBY News San Louis Obispo CA (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0PCN6j1tcEHKyTfKXgMBJKEIBVFHuVwZfGCe48noyQLs0Ke6AKG483EhmoY&s",KSBY News San Louis Obispo CA (720p)
 https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_CUMNDVbEjqYR6ro6A-z_GvDH4XesPkXlYvjSrZyBciYHc8qK7wrLGGRE-Lo&s",Lax Sports Network TV (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_CUMNDVbEjqYR6ro6A-z_GvDH4XesPkXlYvjSrZyBciYHc8qK7wrLGGRE-Lo&s",Lax Sports Network TV (720p)
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgMhnuiQWsSVpWAA_t39UZeUlWJpYiFZgcM6MekAc09wBVcBcb6sKJHulbqA&s",KVVB-TV 33 Victor Valley (1080p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgMhnuiQWsSVpWAA_t39UZeUlWJpYiFZgcM6MekAc09wBVcBcb6sKJHulbqA&s",KVVB-TV 33 Victor Valley (1080p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGSSdGEoDC0ZcrY0FhtyFz6lix-mNYAHT0snHihagFjEvnelxrb1a26Gs3Vo&s",Minecraftv (360p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGSSdGEoDC0ZcrY0FhtyFz6lix-mNYAHT0snHihagFjEvnelxrb1a26Gs3Vo&s",Minecraftv (360p)
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxJg6XAH2aJv3PNC1WMx5Ze0ZUCcb2a5lny2UOH9b9TC7XQyNdbVppjFQGYQ&s",KTRK TV News (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxJg6XAH2aJv3PNC1WMx5Ze0ZUCcb2a5lny2UOH9b9TC7XQyNdbVppjFQGYQ&s",KTRK TV News (720p)
 https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkpxzr56zclAbuPtJO46PvNYrf_-Wc3rGhbRr8ODVVqsBquVB5e9J5xGFV-Vw&s",KidsFlix (1080p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkpxzr56zclAbuPtJO46PvNYrf_-Wc3rGhbRr8ODVVqsBquVB5e9J5xGFV-Vw&s",KidsFlix (1080p) [Not 24/7]
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVS6RehvGuGgZrqiQMRktL4YJS2RwYo76RR_TGUYB8D0XIqL4K7aKSWLlAtg&s",Mohabat TV (540p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVS6RehvGuGgZrqiQMRktL4YJS2RwYo76RR_TGUYB8D0XIqL4K7aKSWLlAtg&s",Mohabat TV (540p)
 http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN4XZNgpWmntBkxJiE29UTnl7ZNxzJwIk0ML2H5kbc-q5igmGSUQvqxQgeqQ&s",MCN6 (1080p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN4XZNgpWmntBkxJiE29UTnl7ZNxzJwIk0ML2H5kbc-q5igmGSUQvqxQgeqQ&s",MCN6 (1080p) [Not 24/7]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0gf9f9fYoXuJytGrFvH8eMcMhOxneSdzs1YffK9_T2KSqxDycT6pJY2GvZA&s",MCN6 Arts Channel (1080p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0gf9f9fYoXuJytGrFvH8eMcMhOxneSdzs1YffK9_T2KSqxDycT6pJY2GvZA&s",MCN6 Arts Channel (1080p) [Not 24/7]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPUpSoYpaSHvb1Yxb2oGaAKN_LTXdRTX11dVZ1CbGIVfxX7TS2iLnWkM83gQ&s",MGM HD USA (576p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPUpSoYpaSHvb1Yxb2oGaAKN_LTXdRTX11dVZ1CbGIVfxX7TS2iLnWkM83gQ&s",MGM HD USA (576p)
 http://c0.cdn.trinity-tv.net/stream/uq2t763988wmx82xs37vrzrtrvaz686y22jd9gcgvgbhu88g6dntdb82kggx9zgvpvwj5wisyi5mgwwgdqzm7d6xbf7yvctwzvhsu3t57ms3wa4qxwyeuqk3ayrdwx3k2b6cdtnrydx9qa3ezqzea===.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxBxA6RBzNlu0M6bUGMfkxRPvW1fxf_LTlnnpbIo6Zq6HmmwIJ5v2q9kxAYQE&s",MyTime movie network Mexico (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxBxA6RBzNlu0M6bUGMfkxRPvW1fxf_LTlnnpbIo6Zq6HmmwIJ5v2q9kxAYQE&s",MyTime movie network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5n0pAtKezRotG6W6psfxtJTGZecd7b-a5iaHrdIOp_e0Nl7mZan5iJQ5SeHk&s",MyTime movie network Spain (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5n0pAtKezRotG6W6psfxtJTGZecd7b-a5iaHrdIOp_e0Nl7mZan5iJQ5SeHk&s",MyTime movie network Spain (1080p)
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSn0EH88g-f94KdznfBLYiE9XZudBFnrvhGt9_7RXUSdBfUeHhehqoqj_GNPQ&s",Mission TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSn0EH88g-f94KdznfBLYiE9XZudBFnrvhGt9_7RXUSdBfUeHhehqoqj_GNPQ&s",Mission TV (1080p) [Not 24/7]
 https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJwLucd8HhTk8RhJ-XHdXRLMcs5CJfOhMeUeVz9j6pDteyFKRepipu0XH0GS4&s",New Orleans Television (NOTV) (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJwLucd8HhTk8RhJ-XHdXRLMcs5CJfOhMeUeVz9j6pDteyFKRepipu0XH0GS4&s",New Orleans Television (NOTV) (720p)
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0gf9f9fYoXuJytGrFvH8eMcMhOxneSdzs1YffK9_T2KSqxDycT6pJY2GvZA&s",MCN6 Music Channel (1080p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0gf9f9fYoXuJytGrFvH8eMcMhOxneSdzs1YffK9_T2KSqxDycT6pJY2GvZA&s",MCN6 Music Channel (1080p) [Not 24/7]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQav5MEu4_dLmEFU4VbUieVH6GyawRhbDWyMdvW3h4pOA0mtcjBgul5Gy26lQ&s",myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQav5MEu4_dLmEFU4VbUieVH6GyawRhbDWyMdvW3h4pOA0mtcjBgul5Gy26lQ&s",myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNwYOCRNyVgrsGuQvTuR2rY6CCCinWOxjUJ1HdvBXWU3jaaerDvXP9P7VhOg&s",Nickelodeon Australia (576p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNwYOCRNyVgrsGuQvTuR2rY6CCCinWOxjUJ1HdvBXWU3jaaerDvXP9P7VhOg&s",Nickelodeon Australia (576p)
 http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZwnmssDCOQFeXZWGrdk_KEcNg31WD5O8saIhaOOaAA6g4dMIGFoFqiFwdYA&s",OAN (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="OAN.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZwnmssDCOQFeXZWGrdk_KEcNg31WD5O8saIhaOOaAA6g4dMIGFoFqiFwdYA&s",OAN (1080p)
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRndwBeJLj77yfdxO58c81SLbN50NS6D5lrCIfQB0x1ZPXzTSlhxZ-7EKg3ezY&s",NASA TV Public (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="NASA.TV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRndwBeJLj77yfdxO58c81SLbN50NS6D5lrCIfQB0x1ZPXzTSlhxZ-7EKg3ezY&s",NASA TV Public (720p)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUxBocNkciQcQ3QmxOycx2EAuIG_2K9Qcu9zCM309ZmzN6XAu9pn4iO2Wp8A&s",NBC 15 Madison WI (WMTV) (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUxBocNkciQcQ3QmxOycx2EAuIG_2K9Qcu9zCM309ZmzN6XAu9pn4iO2Wp8A&s",NBC 15 Madison WI (WMTV) (720p)
 https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS-Dya3snfqyb3LPParzS1SPbvniP3FKPxvKuC1ssnFKj4FMvu7xypqTTUTA&s",NewsNet (720p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS-Dya3snfqyb3LPParzS1SPbvniP3FKPxvKuC1ssnFKj4FMvu7xypqTTUTA&s",NewsNet (720p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTsvcrEjrvU7tj0feznLGDoZFdLo30vMFvwmNz_MJ-GBgsqJ38BTkNjmMWg&s",Paramount Movie Channel (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTsvcrEjrvU7tj0feznLGDoZFdLo30vMFvwmNz_MJ-GBgsqJ38BTkNjmMWg&s",Paramount Movie Channel (720p)
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThvBwELU8j2v_08fx6iMCZ9rVJTcpQZ_ztddT8gTeSnJauXj8TVSWcb4st2A&s",NRB TV (480p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThvBwELU8j2v_08fx6iMCZ9rVJTcpQZ_ztddT8gTeSnJauXj8TVSWcb4st2A&s",NRB TV (480p)
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGA0qenuIPSHy0ZA-EVXuosru5hgqShnF5fW93XdE1BBOhQXWP07R4C2xbbw&s",NewsNet (KCKS-LD2) (480p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGA0qenuIPSHy0ZA-EVXuosru5hgqShnF5fW93XdE1BBOhQXWP07R4C2xbbw&s",NewsNet (KCKS-LD2) (480p) [Not 24/7]
 https://cdn.igocast.com/channel2_hls/channel2_master.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp05TEEoAjjQcUokMxH0R1KNCEhNXdVhAsuSGz34flmFG14mk7ZFGgwU0CsQ&s",Orange TV (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp05TEEoAjjQcUokMxH0R1KNCEhNXdVhAsuSGz34flmFG14mk7ZFGgwU0CsQ&s",Orange TV (720p)
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Se5XijkgvDHbp9xOiGHL8OLhXVFJHR4riypuBfWydZecs00v-V-DRrm-Rg&s",NASA TV Media (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Se5XijkgvDHbp9xOiGHL8OLhXVFJHR4riypuBfWydZecs00v-V-DRrm-Rg&s",NASA TV Media (720p)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSicYp-0OwmcbK54X_Wa73JyDWltlrJl3wo-wNy8RGY0lbwzuxmCJv7-1IfQ_s&s",PBS KET Louisville KY (WKMJ-TV) (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSicYp-0OwmcbK54X_Wa73JyDWltlrJl3wo-wNy8RGY0lbwzuxmCJv7-1IfQ_s&s",PBS KET Louisville KY (WKMJ-TV) (720p)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1d7BW5_5EvlefHVT_R45_E6VxuLpzIuH5z0EB4L1yELfSUFIa71OQo6oP4Fw&s",Party Tyme Karaoke (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1d7BW5_5EvlefHVT_R45_E6VxuLpzIuH5z0EB4L1yELfSUFIa71OQo6oP4Fw&s",Party Tyme Karaoke (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-uktGPIKh5DNXbqAQiRQeF9x_he3nE_YB2D1ZAp81cMbBU8qKCCOO300E74o&s",PBS MPT Baltimore MD (WMPB) (1088p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-uktGPIKh5DNXbqAQiRQeF9x_he3nE_YB2D1ZAp81cMbBU8qKCCOO300E74o&s",PBS MPT Baltimore MD (WMPB) (1088p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWhsBRr_kP3iBZRZHgeTudhHGfTCWng33W2L264WihPY4fX-vF_zDTC1ZsMV4&s",PBS National East (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWhsBRr_kP3iBZRZHgeTudhHGfTCWng33W2L264WihPY4fX-vF_zDTC1ZsMV4&s",PBS National East (1080p) [Geo-blocked]
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-He4jbOjuVmpItzvEPtEHrwRs-ZjqLemJMWHcbVlX4NQPoi-GLowTS88cQA&s",PBS Create Los Angeles CA (KLCS-DT3) (720p) [Geo-blocked]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-He4jbOjuVmpItzvEPtEHrwRs-ZjqLemJMWHcbVlX4NQPoi-GLowTS88cQA&s",PBS Create Los Angeles CA (KLCS-DT3) (720p) [Geo-blocked]
 https://d1mxoeplf1ak5a.cloudfront.net/index.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDFR9aUkpEZAovxg3T62zWjI64152bPR5zr2pPs89qt-yeDufV90Yvz9XpJ0&s",PBS National West (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDFR9aUkpEZAovxg3T62zWjI64152bPR5zr2pPs89qt-yeDufV90Yvz9XpJ0&s",PBS National West (1080p) [Geo-blocked]
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9g216lKdKr3RTmLFk7nmj-U401nOfdArP1zcgSw2txHUNhy1JrohTrio_aqo&s",Shout! Factory TV (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Shout.Factory.TV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9g216lKdKr3RTmLFk7nmj-U401nOfdArP1zcgSw2txHUNhy1JrohTrio_aqo&s",Shout! Factory TV (1080p)
 http://shoutfactory-redbox.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwJ4mapi2xfskbLvSDaXqVkiTMdGZ7JhL9RRM-cyMum7cJuL5Co4lmfjnoF3U&s",Love and Hip Hop (720p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwJ4mapi2xfskbLvSDaXqVkiTMdGZ7JhL9RRM-cyMum7cJuL5Co4lmfjnoF3U&s",Love and Hip Hop (720p) [Not 24/7]
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVSecanUOgoInWaDgdFYytwHJViowkCoOjlkpr1EG4LhpfGx3aB2v2Emc3lA&s",Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVSecanUOgoInWaDgdFYytwHJViowkCoOjlkpr1EG4LhpfGx3aB2v2Emc3lA&s",Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7]
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDrS4jlFOSjI_D9fET74-mwlTh5XwgR8_liuxjsjO2wRYKqWMtW-9JyyYjnU4&s",Retro TV (KCKS-LD9) (480p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDrS4jlFOSjI_D9fET74-mwlTh5XwgR8_liuxjsjO2wRYKqWMtW-9JyyYjnU4&s",Retro TV (KCKS-LD9) (480p)
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4U9BmxpUh24e02aQvjVgc2cNaUCEC6iKBWMwvCb4KhdT5d8qP8gmd6gKpZA&s",Santa and the Three Bears (480p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4U9BmxpUh24e02aQvjVgc2cNaUCEC6iKBWMwvCb4KhdT5d8qP8gmd6gKpZA&s",Santa and the Three Bears (480p)
 https://cloudfront.tubi.video/21df8036-fa23-49ff-9877-8af983546d2b/elw3phlf/stream.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAaLc0wwZ2YZaDjsh8O_4Clr5lHVjHLTQBCvDEJyHGQPbJ4ewfERyH1tv_97w&s",Shop LC (KCKS-LD10) (480p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAaLc0wwZ2YZaDjsh8O_4Clr5lHVjHLTQBCvDEJyHGQPbJ4ewfERyH1tv_97w&s",Shop LC (KCKS-LD10) (480p) [Not 24/7]
 https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs0qMsLfsiYlqtNogs9PMArXYkJjJ3_Z9CwUbrPDyUs4UmE361FEmxsIuDz4k&s",Rev'n (KCKS-LD7) (480p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs0qMsLfsiYlqtNogs9PMArXYkJjJ3_Z9CwUbrPDyUs4UmE361FEmxsIuDz4k&s",Rev'n (KCKS-LD7) (480p)
 https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY_V1K8dP2KGEqJKWYzrzif-6icNC0Hrf9swawoUrgmXIdf6c1KhlAN9z2y2E&s",Spirit TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY_V1K8dP2KGEqJKWYzrzif-6icNC0Hrf9swawoUrgmXIdf6c1KhlAN9z2y2E&s",Spirit TV (720p) [Not 24/7]
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoEDt2YzgzLA8xbwJp2n6bAH1aTdx7lf-VoWa6926MrSTnGaPewmzXJN4pjg&s",Tankee (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoEDt2YzgzLA8xbwJp2n6bAH1aTdx7lf-VoWa6926MrSTnGaPewmzXJN4pjg&s",Tankee (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?app_bundle=com.plexapp.desktop&app_domain=app.plex.tv&app_name=plex&content_series=5f12332eeca6a20040b328e5&content_title=MorUy57ijWhGe4ixZb_T&coppa=1&custom4=plex&device_make=Windows&device_model=Firefox&did=df8e1a36-847d-5096-86a7-3803ed330ede&gdpr=1&h=691&live=1&network_id=39&us_privacy=1---&w=1224
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUKSq2Ne6kmQD1GoPH-5qhsRGXzOK-YY9lV6s2mXW4povewDgzRmodB397T5E&s",TD Ameritrade Network (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="TD.Ameritrade.Network.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUKSq2Ne6kmQD1GoPH-5qhsRGXzOK-YY9lV6s2mXW4povewDgzRmodB397T5E&s",TD Ameritrade Network (1080p)
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7WzFfCGV_ou8REpuAcqySDdNC7hySK1gbxldtrha6YK3TlkTx_8w4VDdnRqc&s",TV Panou (720p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7WzFfCGV_ou8REpuAcqySDdNC7hySK1gbxldtrha6YK3TlkTx_8w4VDdnRqc&s",TV Panou (720p) [Not 24/7]
 http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTANiH6pT4SSIQD4aQXtoB1oNApz1_fubve7YZ1A4kANlcH2-9MJPkctDP0Zpk&s",TG Junior (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTANiH6pT4SSIQD4aQXtoB1oNApz1_fubve7YZ1A4kANlcH2-9MJPkctDP0Zpk&s",TG Junior (1080p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvODT7lGoMnC8axDqEL4iYVm5gwO_5dvlLzi7nz03nTjKVWgQ_HyJGFW8e1Q&s",The Retro Channel (1080p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvODT7lGoMnC8axDqEL4iYVm5gwO_5dvlLzi7nz03nTjKVWgQ_HyJGFW8e1Q&s",The Retro Channel (1080p) [Not 24/7]
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUIzsffRAv4gtEH-xN8gDu6Ppv19HALvkQjL8c02d3iYXm1emLaxj6HWXBvA&s",The Wall Street Journal Live (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUIzsffRAv4gtEH-xN8gDu6Ppv19HALvkQjL8c02d3iYXm1emLaxj6HWXBvA&s",The Wall Street Journal Live (720p)
 https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyM0nZWCdsCg6usaYpyuQ95jh1LPYqjkZeZW_Upi8kFvO7qKj1PRODtahbRw&s",Timeline (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyM0nZWCdsCg6usaYpyuQ95jh1LPYqjkZeZW_Upi8kFvO7qKj1PRODtahbRw&s",Timeline (1080p)
 https://lds-timeline-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQn1eMC0IrEL9aqfMqdQ3Rfu13Ozsi1KvdjwScJCV7P_cphyJ08aVCXfH3qCM&s",Village of Hastings-On-Hudson NY (WHOH-TV) (360p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQn1eMC0IrEL9aqfMqdQ3Rfu13Ozsi1KvdjwScJCV7P_cphyJ08aVCXfH3qCM&s",Village of Hastings-On-Hudson NY (WHOH-TV) (360p)
 http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuiIICl846h_OD4_gws-6chJNFPZ8HJwgMbYhmDcahxsbZ1aL-tl-OIOyvYEI&s",This TV Network (480p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuiIICl846h_OD4_gws-6chJNFPZ8HJwgMbYhmDcahxsbZ1aL-tl-OIOyvYEI&s",This TV Network (480p)
 https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbuUnktGvwA1HCrl4X3xhUfDuZESQTVohpc55iePeGW5-YbhT_IdSG7_MDfVU&s",The New Detectives (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbuUnktGvwA1HCrl4X3xhUfDuZESQTVohpc55iePeGW5-YbhT_IdSG7_MDfVU&s",The New Detectives (720p)
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5aea40b35126c2157123aa64/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtStXUMUL--xzxgkeovZWa2TGxdopSzMBkAcMp9CjHPZCtRyabQr3mhUbawQ&s",Top Gear (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtStXUMUL--xzxgkeovZWa2TGxdopSzMBkAcMp9CjHPZCtRyabQr3mhUbawQ&s",Top Gear (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8cNa_mVsAjmalzOnuirUhah7jnHTIA4IGgjdZM2Ah3r4GSUOPwWklLJXlxw&s",Untamed Sports TV (KCKS-LD8) (480p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8cNa_mVsAjmalzOnuirUhah7jnHTIA4IGgjdZM2Ah3r4GSUOPwWklLJXlxw&s",Untamed Sports TV (KCKS-LD8) (480p) [Not 24/7]
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0_BaTkSZLh2A9Qo0DgGlgX7KJbhb5ZiuToXdcBYmwJufvoshDksFQ0Awu4A&s",WFMZ Dorney Park Camera
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0_BaTkSZLh2A9Qo0DgGlgX7KJbhb5ZiuToXdcBYmwJufvoshDksFQ0Awu4A&s",WFMZ Dorney Park Camera
 https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrCf8jeS_lCm_x3VOciRzD1as4nQJ1cnfYKGJH0oD4NKqQ4_8o8oJGkomRhcQ&s",WFMZ Bird Camera
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrCf8jeS_lCm_x3VOciRzD1as4nQJ1cnfYKGJH0oD4NKqQ4_8o8oJGkomRhcQ&s",WFMZ Bird Camera
 https://cdn.jaybirdtv.com/wfmz/13/live/master.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJceA1ugjD4QAijpa6CJgZQeOekSLVWGUqmBeota0OChPC73y9hJnLc_Zx3aA&s",WLNG Radio (410p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJceA1ugjD4QAijpa6CJgZQeOekSLVWGUqmBeota0OChPC73y9hJnLc_Zx3aA&s",WLNG Radio (410p) [Not 24/7]
 http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBAEQHG3kQWHuO8dd8IYG9jch6N55BcLKp9B2pBOkdF3oB16fvWnPbzZ04d5c&s",WFMZ Traffic
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBAEQHG3kQWHuO8dd8IYG9jch6N55BcLKp9B2pBOkdF3oB16fvWnPbzZ04d5c&s",WFMZ Traffic
 https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU-EpVg21_lq4R1AiP6pBDB0KJLbetLLNN5gmGDnZLMKztoZ0o1eipZ1ZKbJM&s",White Plains Community Media (360p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU-EpVg21_lq4R1AiP6pBDB0KJLbetLLNN5gmGDnZLMKztoZ0o1eipZ1ZKbJM&s",White Plains Community Media (360p)
 https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-id="Undefined" tvg-logo="https://i.imgur.com/UxEzPeX.png",Connecticut Network
+#EXTINF:-1 group-title="USA PUBLIC" tvg-id="" tvg-logo="https://i.imgur.com/UxEzPeX.png",Connecticut Network
 http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3ABvm2MnWkOJkoghhSlPkEB3Bp3ADtAxEgofyxM61RkRwes5VXxeasbv6Q&s",WFMZ PPL Tower Camera
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3ABvm2MnWkOJkoghhSlPkEB3Bp3ADtAxEgofyxM61RkRwes5VXxeasbv6Q&s",WFMZ PPL Tower Camera
 https://cdn.jaybirdtv.com/wfmz/channel/9/master.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-id="Undefined" tvg-logo="https://i.imgur.com/sxxRphV.png",White Plains Community Media
+#EXTINF:-1 group-title="USA PUBLIC" tvg-id="" tvg-logo="https://i.imgur.com/sxxRphV.png",White Plains Community Media
 http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-id="Undefined" tvg-logo="https://i.imgur.com/UxEzPeX.png",Connecticut Network (Instant)
+#EXTINF:-1 group-title="USA PUBLIC" tvg-id="" tvg-logo="https://i.imgur.com/UxEzPeX.png",Connecticut Network (Instant)
 http://video.ct-n.com/live/ctnspare/chunklist_w252238746_DVR.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfINgJ0tOdAfUb0oyI2_U-KW6c1k4mXRoCbHWT4BjPOK3Amy4KKm3B_Fwyrg&s",WeatherNation (KCKS-LD6) (480p) [Not 24/7]
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfINgJ0tOdAfUb0oyI2_U-KW6c1k4mXRoCbHWT4BjPOK3Amy4KKm3B_Fwyrg&s",WeatherNation (KCKS-LD6) (480p) [Not 24/7]
 https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-id="Undefined" tvg-logo="https://i.imgur.com/UxEzPeX.png",Connecticut Network (Live Stream 1)
+#EXTINF:-1 group-title="USA PUBLIC" tvg-id="" tvg-logo="https://i.imgur.com/UxEzPeX.png",Connecticut Network (Live Stream 1)
 http://video.ct-n.com/live/web1stream/chunklist_w1992415243_DVR.m3u8
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuVUYiYgymuAy1nJQSYP1tUT59fyNStnf-9vQi7xhzyyG2JtmgJum0C5S32A&s",Yahoo! Finance (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuVUYiYgymuAy1nJQSYP1tUT59fyNStnf-9vQi7xhzyyG2JtmgJum0C5S32A&s",Yahoo! Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="Undefined" tvg-logo="https://i.imgur.com/GaWiHiz.png",Arkansas - WMC 5
+#EXTINF:-1 group-title="USA" tvg-id="" tvg-logo="https://i.imgur.com/GaWiHiz.png",Arkansas - WMC 5
 https://dai2-playlistserver.aws.syncbak.com/playlist/18497172/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODQ5NzE3MiIsIm1kNSI6IjYzOWYxNjJjOTZjZjJmZWFmYjQ1YWY1NTA4MzhmMGQ4IiwiaWF0IjoxNTk0MDU4Mjc4LCJpc3MiOiJTeW5jYmFrIChURykifQ.m34pXxraDlVLkgkAtFOwXbZ4DqUaAXQjOrumoMi2Fso
-#EXTINF:-1 group-title="USA" tvg-id="Undefined" tvg-logo="https://i.imgur.com/1AkpB2q.jpg",Arkansas - KAIT 8
+#EXTINF:-1 group-title="USA" tvg-id="" tvg-logo="https://i.imgur.com/1AkpB2q.jpg",Arkansas - KAIT 8
 https://dai2-playlistserver.aws.syncbak.com/playlist/18533680/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODUzMzY4MCIsIm1kNSI6Ijg2MTZhMDgxMGU0MjViNmZjMjE0YjcxZmM3N2ViMjU1IiwiaWF0IjoxNTk0NTgzNTc4LCJpc3MiOiJTeW5jYmFrIChURykifQ.iMmFxpzDdyXuuhMVZm1jIN2JZ4B1Cl6ms5RwyuI2P-E
 #EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels",ABC East (Columba)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="Undefined" tvg-logo="https://i.imgur.com/81NqdwB.png",Arkansas - KNOE news 8
+#EXTINF:-1 group-title="USA" tvg-id="" tvg-logo="https://i.imgur.com/81NqdwB.png",Arkansas - KNOE news 8
 https://dai2-playlistserver.aws.syncbak.com/playlist/893553/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjcyMzUsImlzcyI6IldMUyIsIm1kNSI6IjM5YWE1ZjczMTgyYTg0NThiY2QzOTcxMjQzYzVhZDc1IiwibWlkIjoiODkzNTUzIn0.v4oZTq8PnYSg_UAfc_nt9tO2ThQy44A-F8-colQ2Ijg
 #EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.png" group-title="Live Channels",3ABN Kids
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
