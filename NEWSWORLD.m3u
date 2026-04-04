@@ -36,8 +36,18 @@ http://limed.cc:80/4x6cXF/ehfxdp/89820.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNNBrasil.br" tvg-name="CNN Brasil" tvg-logo="https://i.ibb.co/7kD8t97/cnn-brasil.png",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNNBrasil.br" tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png",CNN BRASIL (Alt)
+http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNN_Brasil_Money" tvg-name="CNN Brasil Money" tvg-logo="https://imgur.com/3rHuAWH.png",CNN BRASIL MONEY
 https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w296915124.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNN_Brasil_Money" tvg-name="CNN Brasil Money" tvg-logo="https://imgur.com/3rHuAWH.png",CNN BRASIL MONEY
+https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w296915124.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNN_Brasil_Money" tvg-name="CNN Brasil Money" tvg-logo="https://imgur.com/3rHuAWH.png",CNN BRASIL MONEY
+https://fast-channels.b-cdn.net/9978b7063e297d84e1cd5f21af3a88b1/cnnmoney/aovivo_abr/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Canal.CNN.Chile.sv" tvg-logo="https://monitortv.vercel.app/Monitores/Imagenes/Logo_CNNCHILE2.svg",CNN CHILE
+http://cord-cutter.net:8080/live/j3McKd/673709/57619.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="BMC_News.br" tvg-name="BM&C NEWS" tvg-logo="https://imgur.com/tyW3Ppf.png",BM&C NEWS
+https://video01.logicahost.com.br/bmcnews/bmcnews/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="BloombergTelevision.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bloomberg_L.P.svg/512px-Bloomberg_L.P.svg.png",Bloomberg US
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Fox.News.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",Fox News
@@ -453,16 +463,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia (Alternate)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk0SSW0c9HKhLOEIyVXxYbghdOFUWc5DzHwXV7DFVqcxJZLnl0pNysapwVd1I&s",CNBC Indonesia (Alternate)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNN_Brasil_Money" tvg-name="CNN Brasil Money" tvg-logo="https://imgur.com/3rHuAWH.png",CNN BRASIL MONEY
-https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w296915124.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNN_Brasil_Money" tvg-name="CNN Brasil Money" tvg-logo="https://imgur.com/3rHuAWH.png",CNN BRASIL MONEY
-https://fast-channels.b-cdn.net/9978b7063e297d84e1cd5f21af3a88b1/cnnmoney/aovivo_abr/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="BMC_News.br" tvg-name="BM&C NEWS" tvg-logo="https://imgur.com/tyW3Ppf.png",BM&C NEWS
-https://video01.logicahost.com.br/bmcnews/bmcnews/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNNBrasil.br" tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png",CNN BRASIL (Alt)
-http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Canal.CNN.Chile.sv" tvg-logo="https://monitortv.vercel.app/Monitores/Imagenes/Logo_CNNCHILE2.svg",CNN CHILE
-http://cord-cutter.net:8080/live/j3McKd/673709/57619.m3u8
+
+
+
 #EXTINF:-1 group-title="CNN's" tvg-id="Canal.CNN.Chile.sv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiTkPJC_fKm9WoQ0o0JAf0YWPaYBTgk2QwIEX4Hubnh5A-_tMRAK2XIosyLg&s",CNN CHILE
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8?dpssid=b272750573767297b77e2b13&sid=ba5t1l1xb28311768867297b78a0f50&ndvc=0
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFxp349xLkhA5PCOkEjsKkck0O1yWynuGu0QkS8Om7sQf6NmOjdIgySFMBPw&s" group-title="NEWS WORLD",CNN
