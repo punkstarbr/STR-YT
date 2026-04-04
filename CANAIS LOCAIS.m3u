@@ -1,5 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/MatheusAlves7/Canais_IPTV/refs/heads/main/guide.xml,http://lidns.cc/xmltv.php?username=4x6cXF&password=JDqRqj&type=m3u_plus&output=m3u8,https://www.open-epg.com/files/brazil1.xml.gz,https://www.open-epg.com/files/brazil2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.open-epg.com/files/portugal.xml.gz,https://www.open-epg.com/files/portugal2.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/helenfernanda/gratis/main/distrotv.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Stirr/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Singtel/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml"
 #EXTM3U url-tvg="https://fastly.jsdelivr.net/gh/limaalef/BrazilTVEPG@main/epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml"
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo Sao Paulo HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest?cb=20220201030422",GLOBO
 http://limed.cc:80/4x6cXF/ehfxdp/95657.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV Sao Paulo HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014",RECORD SP
@@ -74,3 +75,319 @@ http://limed.cc:80/4x6cXF/ehfxdp/95666.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Band Sao Paulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png",BAND
 http://limed.cc:80/4x6cXF/ehfxdp/95649.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RedeBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rede_Brasil_de_Televis%C3%A3o_Logo2023.png/480px-Rede_Brasil_de_Televis%C3%A3o_Logo2023.png",REDE BRASIL
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w466484883.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVTEMBauru.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TV_Globo_2024_azul.png/480px-TV_Globo_2024_azul.png",TV TEM BAURU - SP
+http://limed.cc:80/4x6cXF/ehfxdp/91469.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="COMBrasil.br" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png",COM BRASIL
+https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo SP_local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TV_Globo_2024_azul.png/480px-TV_Globo_2024_azul.png",TV TRIBUNA - SP
+http://limed.cc:80/4x6cXF/ehfxdp/91473.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo SP_local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TV_Globo_2024_azul.png/480px-TV_Globo_2024_azul.png",TV VANGUARDA TAUBATÉ - SP
+http://limed.cc:80/4x6cXF/ehfxdp/91477.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo SP_local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TV_Globo_2024_azul.png/480px-TV_Globo_2024_azul.png",EPTV CAMPINAS - SP
+http://limed.cc:80/4x6cXF/ehfxdp/91397.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo SP_local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TV_Globo_2024_azul.png/480px-TV_Globo_2024_azul.png",TV GLOBO - RJ
+http://limed.cc:80/4x6cXF/ehfxdp/91431.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RedeMinas.mg" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.jpg",REDE MINAS
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w1642350627_b2771072.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVBahia.ba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TVGlobo_2024_red.png/480px-TVGlobo_2024_red.png",TV BAHIA - BA
+http://limed.cc:80/4x6cXF/ehfxdp/90064.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVSantaCruz.ba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TVGlobo_2024_red.png/480px-TVGlobo_2024_red.png",TV SANTA CRUZ - BA
+http://limed.cc:80/4x6cXF/ehfxdp/117328.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVVerdesMares.ce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TVGlobo_2024_red.png/480px-TVGlobo_2024_red.png",TV VERDES MARES - CE
+http://limed.cc:80/4x6cXF/ehfxdp/90072.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVGazetaAlagoas.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TVGlobo_2024_red.png/480px-TVGlobo_2024_red.png",TV GAZETA DE ALAGOAS - AL
+http://limed.cc:80/4x6cXF/ehfxdp/91444.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVMirante.ma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TVGlobo_2024_red.png/480px-TVGlobo_2024_red.png",TV MIRANTE SÃO LUÍS - MA
+http://limed.cc:80/4x6cXF/ehfxdp/90032.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="InterTV.mg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TV_Globo_2024_azul.png/480px-TV_Globo_2024_azul.png",INTER TV GRANDE MINAS - MG
+http://limed.cc:80/4x6cXF/ehfxdp/91409.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVIntegracao.mg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TV_Globo_2024_azul.png/480px-TV_Globo_2024_azul.png",TV INTEGRAÇÃO JUIZ DE FORA - MG
+http://limed.cc:80/4x6cXF/ehfxdp/91459.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RPC.parana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVGlobo2021_purple.png/480px-TVGlobo2021_purple.png",RPC TV PONTA GROSSA - PR
+http://limed.cc:80/4x6cXF/ehfxdp/91442.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RPC.parana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVGlobo2021_purple.png/480px-TVGlobo2021_purple.png",RPC FOZ DO IGUAÇU - PR
+http://limed.cc:80/4x6cXF/ehfxdp/91435.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="NSCTV.sc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVGlobo2021_purple.png/480px-TVGlobo2021_purple.png",NSC TV CHAPECÓ - SC
+http://limed.cc:80/4x6cXF/ehfxdp/91413.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="NSCTV.sc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVGlobo2021_purple.png/480px-TVGlobo2021_purple.png",NSC TV JOINVILLE - SC
+http://limed.cc:80/4x6cXF/ehfxdp/91418.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="InterTV.mg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TV_Globo_2024_azul.png/480px-TV_Globo_2024_azul.png",INTER TV DOS VALES - MG
+http://limed.cc:80/4x6cXF/ehfxdp/91408.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVIntegracao.mg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TV_Globo_2024_azul.png/480px-TV_Globo_2024_azul.png",TV INTEGRAÇÃO UBERLÂNDIA - MG
+http://limed.cc:80/4x6cXF/ehfxdp/119725.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RPC.parana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVGlobo2021_purple.png/480px-TVGlobo2021_purple.png",RPC PARANAVAI - PR
+http://limed.cc:80/4x6cXF/ehfxdp/91440.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVGazeta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TVGlobo_2024_red.png/480px-TVGlobo_2024_red.png",TV GAZETA SUL - ES
+http://limed.cc:80/4x6cXF/ehfxdp/91452.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVGazeta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TVGlobo_2024_red.png/480px-TVGlobo_2024_red.png",TV GAZETA VITÓRIA - ES
+http://limed.cc:80/4x6cXF/ehfxdp/90073.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RPC.parana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVGlobo2021_purple.png/480px-TVGlobo2021_purple.png",RPC CURITIBA - PR
+http://limed.cc:80/4x6cXF/ehfxdp/91434.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="NSCTV.sc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVGlobo2021_purple.png/480px-TVGlobo2021_purple.png",NSC TV FLORIANÓPOLIS - SC
+http://limed.cc:80/4x6cXF/ehfxdp/90031.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="NSCTV.sc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVGlobo2021_purple.png/480px-TVGlobo2021_purple.png",NSC TV CRICIÚMA - SC
+http://limed.cc:80/4x6cXF/ehfxdp/91415.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RBSTV.rs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVGlobo2021_purple.png/480px-TVGlobo2021_purple.png",RBS TV PORTO ALEGRE - RS
+http://limed.cc:80/4x6cXF/ehfxdp/90046.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="NSCTV.sc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVGlobo2021_purple.png/480px-TVGlobo2021_purple.png",NSC TV BLUMENAU - SC
+http://limed.cc:80/4x6cXF/ehfxdp/95461.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD LITORAL E VALE - SP
+http://limed.cc:80/4x6cXF/ehfxdp/123216.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD BELÉM - PA
+http://limed.cc:80/4x6cXF/ehfxdp/100400.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="SIC.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",SIC TV - RO
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD - SP
+http://limed.cc:80/4x6cXF/ehfxdp/90265.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVDifusora.ma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV DIFUSORA SÃO LUÍS - MA
+http://limed.cc:80/4x6cXF/ehfxdp/90292.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVJangadeiro.ce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV JANGADEIRO - CE
+http://limed.cc:80/4x6cXF/ehfxdp/95493.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVAlterosa.mg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV ALTEROSA - MG
+http://limed.cc:80/4x6cXF/ehfxdp/97414.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVTropical.rn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",TV TROPICAL - RN
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist_w675410568.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",SBT - SP
+http://limed.cc:80/4x6cXF/ehfxdp/90296.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BAND - SP
+http://limed.cc:80/4x6cXF/ehfxdp/89823.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BAND MAIS - SP
+http://limed.cc:80/4x6cXF/ehfxdp/89817.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",SBT INTERIOR - SP
+http://limed.cc:80/4x6cXF/ehfxdp/90287.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",SBT RIO - RJ
+http://limed.cc:80/4x6cXF/ehfxdp/90290.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD BAHIA - BA
+http://limed.cc:80/4x6cXF/ehfxdp/90245.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",SBT BRASÍLIA - DF
+http://limed.cc:80/4x6cXF/ehfxdp/90285.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",SBT - RS
+http://limed.cc:80/4x6cXF/ehfxdp/90291.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD MANAUS - AM
+http://limed.cc:80/4x6cXF/ehfxdp/90255.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BAND CAMPINAS - SP
+http://limed.cc:80/4x6cXF/ehfxdp/110231.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD GOIÁS - GO
+http://limed.cc:80/4x6cXF/ehfxdp/90253.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVThathi.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",TV THATHI CAMPINAS - SP
+http://limed.cc:80/4x6cXF/ehfxdp/90252.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVGuara.ma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_da_RedeTV%21.svg/480px-Logo_da_RedeTV%21.svg.png",TV GUARÁ CAXIAS - MA
+https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCultura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TV_Cultura_2023_logo.svg/1200px-TV_Cultura_2023_logo.svg.png",TV CULTURA SP HD
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1027478611.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCamara.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg/480px-C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg.png",TV CÂMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCamara.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg/480px-C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg.png",TV CÂMARA DOS DEPUTADOS HD
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BAND VALE - SP
+http://limed.cc:80/4x6cXF/ehfxdp/110232.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BAND RIO - RJ
+http://limed.cc:80/4x6cXF/ehfxdp/101480.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD MINAS - MG
+http://limed.cc:80/4x6cXF/ehfxdp/90257.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="VTV.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",VTV - SP
+http://limed.cc:80/4x6cXF/ehfxdp/90305.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVAleal.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg/480px-C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg.png",TV ALEAL
+https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/chunklist_w1993324451.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="CanalGov.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/480px-Canal_Gov_Logo.png",CANAL GOV
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCamaraJP.pb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg/480px-C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg.png",TV CAMARA TUPÃ
+http://video.sinoinformatica.com.br:1935/cmtupa-live/sessaoaovivo/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVOitava.ce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg/480px-C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg.png",TV A OITAVA
+https://video05.logicahost.com.br/tvoitava/tvoitava/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCamaraJP.pb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg/480px-C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg.png",TV CAMARA JOAO PESSOA
+https://video05.logicahost.com.br/camarajp/camarajp/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="NDTVJoinville.sc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",NDTV JOINVILLE - SC
+http://limed.cc:80/4x6cXF/ehfxdp/123212.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVGuararapes.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",TV GUARARAPES - PE
+http://limed.cc:80/4x6cXF/ehfxdp/100401.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVAlego.go" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg/480px-C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg.png",TV ALEGO
+https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BAND MINAS - MG
+http://limed.cc:80/4x6cXF/ehfxdp/110234.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",SBT TV CIDADE VERDE PI
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1196569154.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVAlba.ba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg/480px-C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg.png",TV ALBA
+https://live.mediastreaming.com.br/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",SBT TV DIFUSORA MA
+https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",SBT TV GUAJARÁ PA
+https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w505069364.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Band.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BAND (PE)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVBrasilCentral.go" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TV_Brasil_2022_logo.svg/480px-TV_Brasil_2022_logo.svg.png",TV BRASIL CENTRAL (GO)
+https://tbc.zoeweb.tv/tbc/ngrp:tbc_all/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeMeioNorte.pi" tvg-logo="https://pbs.twimg.com/profile_images/471169603894882305/yjRoijE8_400x400.jpg",REDE MEIO NORTE
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD TV MS TV CONQUISTA
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD TV - TV VILA REAL
+https://5a2b083e9f360.streamlock.net:443/tvmt/tvmt.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Band.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BAND BELÉM (RBA TV)
+https://streaming.gruporba.com.br/rba.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD TV (PB)
+https://video07.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORDTV CONQUISTA HD
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD TV AMPLITUDE JUAR MT
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BAND AMAZONAS - AM
+http://limed.cc:80/4x6cXF/ehfxdp/110233.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",SBT CIDADE VERDE FHD
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD TV TROPICAL RN
+https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCultura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TV_Cultura_2023_logo.svg/1200px-TV_Cultura_2023_logo.svg.png",CATVE TV CULTURA HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVTropical.rn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",TV TROPICAL
+https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BAND BAHIA - BA
+http://limed.cc:80/4x6cXF/ehfxdp/110228.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BAND CEARÁ - CE
+http://limed.cc:80/4x6cXF/ehfxdp/101479.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",SBT GUAJARÁ
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",SBT GUAJARÁ 2
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_da_RedeTV%21.svg/480px-Logo_da_RedeTV%21.svg.png",REDE TV! SÃO LUIS
+https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="SertaoTV.ce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",SERTÃO TV - CE
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_da_RedeTV%21.svg/480px-Logo_da_RedeTV%21.svg.png",REDE TV! MT PANTANAL
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_da_RedeTV%21.svg/480px-Logo_da_RedeTV%21.svg.png",RedeTV! RS
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_da_RedeTV%21.svg/480px-Logo_da_RedeTV%21.svg.png",RedeTV! PR
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVDiario.pb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV DIÁRIO DO SERTÃO - PB
+https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w2127823782.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="ABC.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",ABC BRASIL - SP
+https://stmv1.srvstm.com/abc7891/abc7891/playlist.m3u8?1756473665
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BAND PARANÁ - PR
+http://limed.cc:80/4x6cXF/ehfxdp/110229.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="AdessoTV.rs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",ADESSO TV - RS
+https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVMetropole.ce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV METRÓPOLE - CE
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVPadreCicero.ce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV PADRE CICERO - CE
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="CanalDoBoi.ms" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",CANAL DO BOI - MS
+http://limed.cc:80/4x6cXF/ehfxdp/89843.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="BraziTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BRAZITV - EUA
+https://cbtvnow.com:5866/hls/livest2024.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="CanalRural.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",CANAL RURAL - SP
+http://limed.cc:80/4x6cXF/ehfxdp/100034.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="AugeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",AUGE TV
+https://video01.logicahost.com.br/canalaugetv/canalaugetv/chunklist_w1875588192.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="AstralTV.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",ASTRAL TV - SP
+https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BAND - RS
+http://limed.cc:80/4x6cXF/ehfxdp/100660.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="CATVE.pr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TV_Cultura_2023_logo.svg/1200px-TV_Cultura_2023_logo.svg.png",CATVE - PR
+http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="BemMelhor.sc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BEM MELHOR - SC
+https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="FashionTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TV_Brasil_2022_logo.svg/480px-TV_Brasil_2022_logo.svg.png",FASHION TV BRASIL
+http://limed.cc:80/4x6cXF/ehfxdp/89982.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="CanalGov.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/480px-Canal_Gov_Logo.png",CANAL SAÚDE
+https://eitv2.cdn.broadpeak.io/account351-i1495/event/canalsaude/auto.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="CanalGov.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/480px-Canal_Gov_Logo.png",CANAL LIBRAS
+https://canallibras-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="NovaEraTV.sc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",NOVA ERA TV - SC
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="CentralTV.pr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",CENTRAL TV - PR
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="PoopTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",POOP TV
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="DMaisTV.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",D+ TV - SP
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="ColetivaTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",COLETIVA TV
+https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="PrimerTV.sc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",PRIMER TV - SC
+https://stream.ichibantv.com:3522/stream/play.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="SaborArte.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",SABOR & ARTE
+http://limed.cc:80/4x6cXF/ehfxdp/91388.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="UmissTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",UMISS TV
+https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Hollywire.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",HOLLYWIRE
+https://hwusassai.bozztv.com/HD3400/HD3400.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="RedeCanal10.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",REDE CANAL 10
+https://video05.logicahost.com.br/ararutv/ararutv/chunklist_w1006447719.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="RedeUTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",REDE UTV
+https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="RSTV.rs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",RS TV - RS
+https://video03.logicahost.com.br/rstv/rstv/chunklist_w1194207943.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="RedeSPTV.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",REDE SPTV
+https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TopMixTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TOP MIX TV
+https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVBoqueirao.pr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV BOQUEIRÃO - PR
+https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVCanalDez.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV CANAL DEZ
+https://canaldez.acessaradios.com.br/canaldez/canaldez/chunklist_w1649768698.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVAFolha.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV A FOLHA
+https://video01.logicahost.com.br/tvafolha/tvafolha/master.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVAracati.ce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV ARACATI
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w328778514.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVBrasilCentral.go" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TV_Brasil_2022_logo.svg/480px-TV_Brasil_2022_logo.svg.png",TV BRASIL CENTRAL - GO
+https://tbc.zoeweb.tv/tbc/tbc/master.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVCultura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TV_Cultura_2023_logo.svg/1200px-TV_Cultura_2023_logo.svg.png",TV CULTURAL HD
+https://cdn.technettv.com/channel/29912/logo_256.png
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVCNB.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV CNB
+https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVClubeWeb.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV CLUBE WEB
+https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w1063983608.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVBrusque.sc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV BRUSQUE
+https://video01.logicahost.com.br/tvbrusque/tvbrusque/chunklist_w345107382.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVEscola.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TV_Cultura_2023_logo.svg/1200px-TV_Cultura_2023_logo.svg.png",TV ESCOLA
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="SolBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",SOL BRASIL
+https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVGramado.rs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV GRAMADO - RS
+https://isaocorp.cloudecast.com/tvgramado/index.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVMetropolitana.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV METROPOLITANA
+https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVLondres.mt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV LONDRES
+https://w6oy7eg3dxrg-hls-live.5centscdn.com/8744_push_3653_001/05a4e5d3c1769a61f8350e4fc677a4a5.sdp/live/8744_push_3653_001Tvlondres/chunks.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVItape.sc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV ITAPÊ
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVGuarulhos.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV GUARULHOS
+https://br5093.streamingdevideo.com.br/tvguarulhos/tvguarulhos/chunklist_w1676600778.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TerraViva.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TERRA VIVA
+http://limed.cc:80/4x6cXF/ehfxdp/90385.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVJSid.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV J.SID
+https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1649396603.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVLuzilandia.pi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV LUZILÂNDIA - PI
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w666875693.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVParanaTurismo.pr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV PARANÁ TURISMO - PR
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVPantanal.ms" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV PANTANAL - MS
+https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w1997466154.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVMax.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV MAX
+https://video09.logicahost.com.br/tvmax/tvmax/chunklist_w1126990452.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVNovaNordeste.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV NOVA NORDESTE - PE
+https://acesso.ecast.site:3675/live/novatvlive.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVPortalLitoral.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV PORTAL FALA LITORAL
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w221710006.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVPajeu.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV PAJEÚ
+https://video05.logicahost.com.br/tvpajeu/tvpajeu/chunklist_w913234747.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVPampa.rs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_da_RedeTV%21.svg/480px-Logo_da_RedeTV%21.svg.png",TV PAMPA - RS
+https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w114853363.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVRSul.sc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TVR SUL - SC
+https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/chunklist_w1525695506.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVVotorantim.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV VOTORANTIM
+https://stmv1.paineldevideo.com.br/tvvotorantim/tvvotorantim/chunklist_w1385653592.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVVideonews.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV VIDEONEWS - SP
+https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVSol.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV SOL
+https://video05.logicahost.com.br/tvsol/tvsol/chunklist_w702936774.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVWTJ.mg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV WTJ - MG
+https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Viamorena.ms" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",VIAMORENA
+https://video01.logicahost.com.br/viamorena01/viamorena01/chunklist_w38565330.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="VRTChannel.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",VRT CHANNEL
+https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="TVCPanorama.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TVC PANORAMA
+https://tv02.zas.media:1936/panorama/panorama/chunklist_w1485483103.m3u8
