@@ -6,8 +6,6 @@
 #EXTM3U url-tvg="https://i.mjh.nz/Roku/mx.xml.gz,https://timbiriche.me/epg/mexico.xml.gz,https://raw.githubusercontent.com/LITUATUI/Geral/master/EPG/Geral.xml.gz,https://github.com/roisiano/miEPG-v3.6/raw/refs/heads/main/miEPG.xml.gz,https://raw.githubusercontent.com/HelmerLous/EPG/main/Guia.xml.gz"
 #EXTM3U url-tvg="https://timbiriche.me/epg/usa.xml.gz,https://raw.githubusercontent.com/LITUATUI/Geral/master/EPG/Geral.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_doble_m/master/guia.xml.gz,https://raw.githubusercontent.com/HelmerLous/EPG/main/Guia.xml.gz,https://raw.githubusercontent.com/Tapiosat/EPG/master/guide.xml.gz"
 
-#EXTINF:-1 group-title="OI TV" tvg-name="--- OI TV LINEUP ---",--- OI TV LINEUP ---
-
 #EXTINF:-1 group-title="SPORTS" tvg-id="465416" tvg-logo="https://imgur.com/N4yF1XS.jpg",SPORTV 3
 https://1zn0of55fj.1zn0of55fj.workers.dev/sportv3/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="465418" tvg-logo="https://imgur.com/gofZHpP.jpg",SPORTV 2
@@ -36,18 +34,18 @@ https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlis
 http://limed.cc:80/4x6cXF/ehfxdp/89820.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="465021" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",CNN INTERNACIONAL
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8?DVR
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNNBrasil.br" tvg-name="CNN Brasil" tvg-logo="https://i.ibb.co/7kD8t97/cnn-brasil.png",CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNN_Brasil_Money" tvg-name="CNN Brasil Money" tvg-logo="https://imgur.com/3rHuAWH.png",CNN BRASIL MONEY
+https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w296915124.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="BloombergTelevision.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bloomberg_L.P.svg/512px-Bloomberg_L.P.svg.png",Bloomberg US
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Fox.News.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",Fox News
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNNBrasil.br" tvg-name="CNN Brasil" tvg-logo="https://i.ibb.co/7kD8t97/cnn-brasil.png",CNN Brasil
-https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="6317ba014d4d040007227f72" tvg-name="JOVEM PAN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logotipo_da_TV_Jovem_Pan_News.png/120px-Logotipo_da_TV_Jovem_Pan_News.png",JOVEM PAN NEWS
 http://limed.cc:80/4x6cXF/ehfxdp/90139.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="otimesbrasil" tvg-name="O Times Brasil",Times Brasil YT LIVE
 https://www.youtube.com/@otimesbrasil/live
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNN_Brasil_Money" tvg-name="CNN Brasil Money" tvg-logo="https://imgur.com/3rHuAWH.png",CNN BRASIL MONEY
-https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w296915124.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="DWEspanol.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/DW_Logo.svg/512px-DW_Logo.svg.png",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
