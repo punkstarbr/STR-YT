@@ -1,10 +1,14 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/MatheusAlves7/Canais_IPTV/refs/heads/main/guide.xml,http://lidns.cc/xmltv.php?username=4x6cXF&password=JDqRqj&type=m3u_plus&output=m3u8,https://www.open-epg.com/files/brazil1.xml.gz,https://www.open-epg.com/files/brazil2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.open-epg.com/files/portugal.xml.gz,https://www.open-epg.com/files/portugal2.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/helenfernanda/gratis/main/distrotv.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Stirr/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Singtel/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml"
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo Sao Paulo HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest?cb=20220201030422",GLOBO
 http://limed.cc:80/4x6cXF/ehfxdp/95657.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="Loading.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/800px-Canal_Loading.png",X SPORTS
-http://limed.cc:80/4x6cXF/ehfxdp/90149.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV Sao Paulo HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014",RECORD SP
 http://limed.cc:80/4x6cXF/ehfxdp/90266.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png",RecordTV Juara HD
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV" tvg-logo="https://i.imgur.com/mHxQyB2.png",Record SicTV (RO)
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Loading.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/800px-Canal_Loading.png",X SPORTS
+http://limed.cc:80/4x6cXF/ehfxdp/90149.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Tvbrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvBrasil2023.png",TV BRASIL
 http://limed.cc:80/4x6cXF/ehfxdp/90409.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="RedeTV!.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png?20191113234216",REDE TV
@@ -23,10 +27,6 @@ http://limed.cc:80/4x6cXF/ehfxdp/89840.m3u8
 http://limed.cc:80/4x6cXF/ehfxdp/89846.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="TV Gazeta.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/120px-TV_Gazeta.svg.png",GAZETA
 http://limed.cc:80/4x6cXF/ehfxdp/90010.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png",RecordTV Juara HD
-https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="RecordTV" tvg-logo="https://i.imgur.com/mHxQyB2.png",Record SicTV (RO)
-https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://i.imgur.com/6UoUybZ.png",TV VERDADE
 https://acesso.ecast.site:3104/hybrid/play.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://yt3.ggpht.com/Nw3Wmvgdcm9xOQK-UzAcfjSZnu4zho3Mrkeb4KwztlZBTQx8zuEz0C17bGYJLvvYdN57omljiw=s48-c-k-c0x00ffffff-no-rj",TVCB (Campos Belos-GO)
