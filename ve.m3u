@@ -118,10 +118,10 @@ https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="UnareTV.ve",Unare TV (392p)
 https://srv.panelcast.net/yohancarlos/yohancarlos/playlist.m3u8
 
-#EXTINF:-1 group-title="VENEZUELA" group-title="VENEZUELA" tvg-id="UniTV.ve",UniTV (720p)
+#EXTINF:-1 group-title="VENEZUELA" tvg-id="UniTV.ve",UniTV (720p)
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
 
-#EXTINF:-1 group-title="VENEZUELA" group-title="VENEZUELA" tvg-id="VTV.ve",Venezolana de Televisión (720p) [Not 24/7]
+#EXTINF:-1 group-title="VENEZUELA" tvg-id="VTV.ve",Venezolana de Televisión (720p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/9ad6390b9047d4c43ea0ae6ca3199a3ef70fc8aa/master.m3u8
 
