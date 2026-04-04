@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://iptv-epg.org/files/epg-ar.xml.gz" deinterlaced="1"
-
+#EXTM3U url-epg="https://iptv-epg.org/files/epg-ar.xml"
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="ElTrece.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-trece.png",El Trece
 #EXTVLCOPT:http-referrer=https://www.eltrecetv.com.ar/
@@ -21,22 +21,22 @@ https://stream.claroh.com/tvpublica/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="C5N.ar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/c5n.png",C5N
 https://stream.claroh.com/c5n/playlist.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="Crónica.ar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cronica-tv.png",Crónica TV
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="CronicaTV.ar" tvg-logo="https://i.imgur.com/cronica.jpg",Crónica TV
 https://stream.claroh.com/cronica/playlist.m3u8
 
-#EXTINF:-1 group-title="Argentina" tvg-id="CamarasVillaGesell.ar" tvg-logo="https://i.imgur.com/camarasgesell.jpg",Camaras de Villa Gesell (Av. 3 y 104)
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="CamarasVillaGesell.ar" tvg-logo="https://i.imgur.com/camarasgesell.jpg",Camaras de Villa Gesell (Av. 3 y 104)
 http://cam104y3.gesell.com.ar/playlist.m3u8
 
-#EXTINF:-1 group-title="Argentina" tvg-id="CamarasVillaGesell.ar" tvg-logo="https://i.imgur.com/camarasgesell.jpg",Camaras de Villa Gesell (La Pinocha)
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="CamarasVillaGesell.ar" tvg-logo="https://i.imgur.com/camarasgesell.jpg",Camaras de Villa Gesell (La Pinocha)
 http://camlapinocha.gesell.com.ar/playlist.m3u8
 
-#EXTINF:-1 group-title="Argentina" tvg-id="CamarasVillaGesell.ar" tvg-logo="https://i.imgur.com/camarasgesell.jpg",Camaras de Villa Gesell (Buenos Aires y Playa)
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="CamarasVillaGesell.ar" tvg-logo="https://i.imgur.com/camarasgesell.jpg",Camaras de Villa Gesell (Buenos Aires y Playa)
 http://cambsasyplaya.gesell.com.ar/playlist.m3u8
 
-#EXTINF:-1 group-title="Argentina" tvg-id="NorteBahiaBlanca.ar" tvg-logo="https://i.imgur.com/nortebahiablanca.jpg",Norte | Bahía Blanca | Argentina
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="NorteBahiaBlanca.ar" tvg-logo="https://i.imgur.com/nortebahiablanca.jpg",Norte | Bahía Blanca | Argentina
 http://icecast.hostingbahia.com.ar:8002/live?28344
 
-#EXTINF:-1 group-title="Argentina" tvg-id="AmericaCanal4Posadas.ar" tvg-logo="https://i.imgur.com/canal4posadas.jpg",América Canal 4 Posadas | AR
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="AmericaTV.ar" tvg-logo="https://i.imgur.com/canal4posadas.jpg",América Canal 4 Posadas | AR
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-id="ElGarageTV.ar" tvg-logo="https://i.imgur.com/garagetv.jpg",GARAGE TV
