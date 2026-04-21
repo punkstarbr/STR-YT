@@ -3,7 +3,7 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml.gz"
 
 #EXTINF:-1 group-title="INTERNATIONAL" tvg-id="NHK_World_Japan" tvg-name="NHK World Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTudMUOp_W9esfXxP4kjduIAXZoQAKliKyj4uirNalhfVp6KvCuJKxrS46lEw&s",NHK World Japan (1080p)
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
 #EXTINF:-1 group-title="INTERNATIONAL" tvg-id="Mekameleen_TV" tvg-name="Mekameleen TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMZu7S7q3DOwIXtf_e9OLBqjhSWESBt7dP8UnixvT7T2P37LPOoFzFfuwLfw&s",Mekameleen TV (1080p)
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
@@ -18,7 +18,7 @@ https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 
 #EXTINF:-1 group-title="INTERNATIONAL" tvg-id="Mir_24" tvg-name="Mir 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTplnJbDxNcX5CSLXOmza8f3WsIGWS137qpkxnDoUS2bjF1sAPQ2q3kbP8Cuw&s",Mir TV - Mir 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+http://5.188.159.128:8070/mir_24/index.m3u8
 
 #EXTINF:-1 group-title="INTERNATIONAL" tvg-id="Rudaw_TV" tvg-name="Rudaw TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRyX5gM1qgKBwvN4jiFD89GjQ4edKxUJ5qvZfBb-s6Pv8pyvIeiF-K8GWf6A&s",Rudaw TV (1080p)
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
