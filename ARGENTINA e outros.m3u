@@ -2,27 +2,27 @@
 #EXTM3U url-epg="https://iptv-epg.org/files/epg-ar.xml"
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="ElTrece.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-trece.png",El Trece
-#EXTVLCOPT:http-referrer=https://www.eltrecetv.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTVLCOPT:http-referrer=https://vodgc.net
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="Telefe.ar" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telefe.png",Telefe
-http://190.95.60.228:8500/play/a031
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="TN.ar" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tn.png",TN
-https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
+https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="A24.ar" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a24.png",A24
-https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone)
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="TVPublica.ar" tvg-logo="https://www.lyngsat.com/logo/tv/tv/tv-publica-ar.png",TV Pública
 https://stream.claroh.com/tvpublica/playlist.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="C5N.ar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/c5n.png",C5N
-https://stream.claroh.com/c5n/playlist.m3u8
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="CronicaTV.ar" tvg-logo="https://i.imgur.com/cronica.jpg",Crónica TV
-https://stream.claroh.com/cronica/playlist.m3u8
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.playlist.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="CamarasVillaGesell.ar" tvg-logo="https://i.imgur.com/camarasgesell.jpg",Camaras de Villa Gesell (Av. 3 y 104)
 http://cam104y3.gesell.com.ar/playlist.m3u8
@@ -43,7 +43,7 @@ http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-id="Telefe.ar" tvg-logo="https://i.imgur.com/telefe.jpg",Telefe
-http://190.95.60.228:8500/play/a031
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-id="TelefeJujuy.ar" tvg-logo="https://i.imgur.com/telefejujuy.jpg",Telefe Canal 7 Jujuy
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
@@ -71,6 +71,15 @@ https://pantera1-100gb-cl-movistar.dps.live/nett.smil/playlistv/nettv.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-id="NetTV.ar" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-tv-ar.png",Canal Net TV (Argentina)
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="Canal26.ar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-26-ar.png",Canal 26 HD
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="Telemax.ar" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemax.png",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="AmericaTV.ar" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-tv-ar.png",América TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 
 
