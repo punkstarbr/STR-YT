@@ -5,24 +5,35 @@
 #EXTVLCOPT:http-referrer=https://vodgc.net
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="Telefe.ar" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telefe.png",Telefe
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
-
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="TN.ar" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tn.png",TN
 https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="A24.ar" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a24.png",A24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone)
-https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="TVPublica.ar" tvg-logo="https://www.lyngsat.com/logo/tv/tv/tv-publica-ar.png",TV Pública
 https://stream.claroh.com/tvpublica/playlist.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="C5N.ar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/c5n.png",C5N
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="Canal26.ar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-26-ar.png",Canal 26 HD
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="CronicaTV.ar" tvg-logo="https://i.imgur.com/cronica.jpg",Crónica TV
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="Telemax.ar" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemax.png",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="GarageTV.ar" tvg-logo="https://i.imgur.com/garagetv.jpg",GARAGE TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="NetTV.ar" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-tv-ar.png",NET TV 27.2 - TDA 27.2
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="5tv.ar" tvg-logo="https://i.imgur.com/5tvcorrientes.png",5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="247CanaldeNoticias.ar" tvg-logo="https://i.imgur.com/247cn.png",24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="Canal7Jujuy.ar" tvg-logo="https://i.imgur.com/telefejujuy.jpg",Telefe Canal 7 Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="Canal4Posadas.ar" tvg-logo="https://i.imgur.com/canal4posadas.jpg",América Canal 4 Posadas | AR
+http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="CamarasVillaGesell.ar" tvg-logo="https://i.imgur.com/camarasgesell.jpg",Camaras de Villa Gesell (Av. 3 y 104)
 http://cam104y3.gesell.com.ar/playlist.m3u8
@@ -36,58 +47,59 @@ http://cambsasyplaya.gesell.com.ar/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="NorteBahiaBlanca.ar" tvg-logo="https://i.imgur.com/nortebahiablanca.jpg",Norte | Bahía Blanca | Argentina
 http://icecast.hostingbahia.com.ar:8002/live?28344
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="AmericaTV.ar" tvg-logo="https://i.imgur.com/canal4posadas.jpg",América Canal 4 Posadas | AR
-http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-id="ElGarageTV.ar" tvg-logo="https://i.imgur.com/garagetv.jpg",GARAGE TV
-https://stream1.sersat.com/hls/garagetv.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-id="Telefe.ar" tvg-logo="https://i.imgur.com/telefe.jpg",Telefe
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-id="TelefeJujuy.ar" tvg-logo="https://i.imgur.com/telefejujuy.jpg",Telefe Canal 7 Jujuy
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-id="ElGarageTV.ar" tvg-logo="https://i.imgur.com/garagetv.jpg",EL GARAGE TV - VER TV ABIERTA ONLINE
-https://stream1.sersat.com/hls/garagetv.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-id="Unife.ar" tvg-logo="https://i.imgur.com/unife.jpg",UNIFE 25.1 - TDA 25.1
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="Unife.ar" tvg-logo="https://i.imgur.com/unife.jpg",UNIFE 25.1 - TDA 25.1
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 
-#EXTINF:-1 group-title="Argentina" tvg-id="NetTV.ar" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-tv-ar.png",NET TV 27.2 - TDA 27.2
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/argentinisima.png",Argentinísima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 group-title="Argentina" tvg-id="NetTV.ar" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-tv-ar.png",NET TV 27.2 - TDA 27.2
-https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="Canal13Jujuy.ar" tvg-logo="https://i.imgur.com/canal13jujuy.png",Canal 13 Jujuy TV
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
-#EXTINF:-1 group-title="Argentina" tvg-id="NetTV.ar" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-tv-ar.png",NET TV | Argentina - TDA 27.2
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.imgur.com/canal10cordoba.png",Canal 10 Cordoba
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 
-#EXTINF:-1 group-title="Argentina" tvg-id="NetTV.ar" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-tv-ar.png",Net TV SD1
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream3/chunks.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="Canal7Neuquen.ar" tvg-logo="https://i.imgur.com/canal7neuquen.png",Canal 7 Neuquén
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
-#EXTINF:-1 group-title="Argentina" tvg-id="NetTV.ar" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-tv-ar.png",Net TV FHD
-https://pantera1-100gb-cl-movistar.dps.live/nett.smil/playlistv/nettv.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="Canal9Litoral.ar" tvg-logo="https://i.imgur.com/canal9litoral.png",Canal 9 Litoral
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
-#EXTINF:-1 group-title="Argentina" tvg-id="NetTV.ar" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-tv-ar.png",Canal Net TV (Argentina)
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="AiredeSantaFe.ar" tvg-logo="https://i.imgur.com/airesantafe.png",Aire de Santa Fe
+https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="Canal26.ar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-26-ar.png",Canal 26 HD
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="CanalE.ar" tvg-logo="https://i.imgur.com/canale.png",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="Telemax.ar" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemax.png",Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="TVUniversidad.ar" tvg-logo="https://i.imgur.com/tvuniversidad.png",TV Universidad
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="AmericaTV.ar" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-tv-ar.png",América TV
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="MusicTop.ar" tvg-logo="https://i.imgur.com/musictop.png",MusicTop
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/deportv.png",DeporTV
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8
 
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="Pakapaka.ar" tvg-logo="https://i.imgur.com/pakapaka.png",Pakapaka
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/encuentro.png",Encuentro
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-19.playlist.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="CineAr.ar" tvg-logo="https://i.imgur.com/cinear.png",Cine.Ar
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-20.playlist.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="ElNueve.ar" tvg-logo="https://i.imgur.com/elnueve.png",El Nueve
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/ciudadmagazine.png",Ciudad Magazine
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/ciudadmagazine_720.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-id="CanalRural.ar" tvg-logo="https://i.imgur.com/canalrural.png",Canal Rural
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8
 
 #EXTINF:-1 group-title="Serie" tvg-id="Tumberos.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 01
 https://ucarecdn.com/c09b923c-c939-49d9-b9a0-7efa105159c0/
-
-#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="NTV.ru" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/%D0%9D%D0%A2%D0%92.png",НТВ HD (RUS)
-http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 
 #EXTINF:-1 group-title="Serie" tvg-id="Tumberos.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 02
 https://ucarecdn.com/411d9ad6-7aea-4fa1-98a6-8044d9531745/
@@ -98,14 +110,14 @@ https://ucarecdn.com/9337f42c-bd79-44a4-ae27-94cb74ef5de2/
 #EXTINF:-1 group-title="Serie" tvg-id="Tumberos.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 04
 https://ucarecdn.com/6cc66deb-ef68-486b-ba76-df3994e0f7ca/
 
-#EXTINF:-1 group-title="🌐 Otros Idiomas" tvg-id="CBSNBoston.us" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CBSNBoston.png",CBS News Boston (EEUU)
-https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8
+#EXTINF:-1 group-title="Serie" tvg-id="Tumberos.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 05
+https://ucarecdn.com/12d39b3a-5e69-45a3-ae6e-790fe396cfa1/
 
 #EXTINF:-1 group-title="Serie" tvg-id="Tumberos.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 06
 https://ucarecdn.com/ba2df284-a29c-480b-b874-1d979dbb2610/
 
-#EXTINF:-1 group-title="Serie" tvg-id="Tumberos.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 05
-https://ucarecdn.com/12d39b3a-5e69-45a3-ae6e-790fe396cfa1/
+#EXTINF:-1 group-title="Serie" tvg-id="Tumberos.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 07
+https://ucarecdn.com/b93f5f4c-a8ff-4750-8610-47d42803e33a/
 
 #EXTINF:-1 group-title="Serie" tvg-id="Tumberos.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 08
 https://ucarecdn.com/c4d7e748-5da7-4045-ad23-bb1d294e792f/
@@ -113,32 +125,29 @@ https://ucarecdn.com/c4d7e748-5da7-4045-ad23-bb1d294e792f/
 #EXTINF:-1 group-title="Serie" tvg-id="Tumberos.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 09
 https://ucarecdn.com/cdb0f081-be25-4bd1-9c73-b3774eabd19b/
 
-#EXTINF:-1 group-title="Serie" tvg-id="Tumberos.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 07
-https://ucarecdn.com/b93f5f4c-a8ff-4750-8610-47d42803e33a/
+#EXTINF:-1 group-title="Serie" tvg-id="Tumberos.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 10
+https://ucarecdn.com/054bacca-988d-4707-a656-483315fa2aca/
 
 #EXTINF:-1 group-title="Serie" tvg-id="Tumberos.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 11
 https://ucarecdn.com/157e4e7c-645d-4852-914a-1465ea2bd8c9/
 
-#EXTINF:-1 group-title="Serie" tvg-id="Tumberos.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg",Tumberos Cap 10
-https://ucarecdn.com/054bacca-988d-4707-a656-483315fa2aca/
-
-#EXTINF:-1 group-title="Serie" tvg-id="ElEternauta.ar" tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg",El Eternauta cap 4 (2025)
-https://archive.org/download/el-eternauta-capitulo-4/EL%20ETERNAUTA%20Capitulo%204.mp4
-
-#EXTINF:-1 group-title="Serie" tvg-id="ElEternauta.ar" tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg",El Eternauta cap 3 (2025)
-https://archive.org/download/el-eternauta-capitulo-3/EL%20ETERNAUTA%20Capitulo%203.mp4
+#EXTINF:-1 group-title="Serie" tvg-id="ElEternauta.ar" tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg",El Eternauta cap 1 (2025)
+https://archive.org/download/el-eternauta-capitulo-1/EL%20ETERNAUTA%20Capitulo%201.mp4
 
 #EXTINF:-1 group-title="Serie" tvg-id="ElEternauta.ar" tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg",El Eternauta cap 2 (2025)
 https://archive.org/download/el-eternauta-capitulo-2/EL%20ETERNAUTA%20Capitulo%202.mp4
 
-#EXTINF:-1 group-title="Serie" tvg-id="ElEternauta.ar" tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg",El Eternauta cap 6 (2025)
-https://archive.org/download/el-eternauta-capitulo-6/EL%20ETERNAUTA%20Capitulo%206.mp4
+#EXTINF:-1 group-title="Serie" tvg-id="ElEternauta.ar" tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg",El Eternauta cap 3 (2025)
+https://archive.org/download/el-eternauta-capitulo-3/EL%20ETERNAUTA%20Capitulo%203.mp4
+
+#EXTINF:-1 group-title="Serie" tvg-id="ElEternauta.ar" tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg",El Eternauta cap 4 (2025)
+https://archive.org/download/el-eternauta-capitulo-4/EL%20ETERNAUTA%20Capitulo%204.mp4
 
 #EXTINF:-1 group-title="Serie" tvg-id="ElEternauta.ar" tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg",El Eternauta cap 5 (2025)
 https://archive.org/download/el-eternauta-capitulo-5/EL%20ETERNAUTA%20Capitulo%205.mp4
 
-#EXTINF:-1 group-title="Serie" tvg-id="ElEternauta.ar" tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg",El Eternauta cap 1 (2025)
-https://archive.org/download/el-eternauta-capitulo-1/EL%20ETERNAUTA%20Capitulo%201.mp4
+#EXTINF:-1 group-title="Serie" tvg-id="ElEternauta.ar" tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg",El Eternauta cap 6 (2025)
+https://archive.org/download/el-eternauta-capitulo-6/EL%20ETERNAUTA%20Capitulo%206.mp4
 
 #EXTINF:-1 group-title="Movies" tvg-id="ElAsesino.2023" tvg-logo="https://pics.filmaffinity.com/el_asesino-609845433-large.jpg",El Asesino (2023 Accion)
 https://od.lk/s/NV8xODkyMzgxNjZf/VER%20El%20asesino%202023.mp4
@@ -180,7 +189,7 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20Ghostbusters-%20Apocalipsis%20fantasma%20online%20HD%20-%20Cuevana%202.mp4
 
 #EXTINF:-1 group-title="Movies" tvg-id="SociedadDeLaNieve.2023" tvg-logo="https://pics.filmaffinity.com/La_sociedad_de_la_nieve-826551508-mmed.jpg",La sociedad de la nieve (2023 Drama)
-https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/Ver%20La%20sociedad%20de%20la%20nieve%20online%20HD%20-%20Cuevana%202.mp4
+https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/Ver%20La%20sociedad%20de%20la%20nieve%20online%20HD%20-%20HDFull.mp4
 
 #EXTINF:-1 group-title="Movies" tvg-id="ElijoCreer.2023" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/4172f6d8eca7f41074bf7efcdd7c29d0d11cdd7d79dd9f7fbfd68916ae54452a.jpg",Elijo Creer - El Camino del Campeón (2023 Documental)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Elijo%20Creer-%20El%20Camino%20del%20Campe%C3%B3n%20online%20HD%20-%20Cuevana%202.mp4
