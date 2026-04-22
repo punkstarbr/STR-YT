@@ -2,6 +2,26 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mx/izzi.mx.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/rs/mts.rs.epg.xml,https://iptv-org.github.io/epg/guides/il/yes.co.il.epg.xml,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 
+#EXTINF:-1 tvg-name="Grande Fratello Vip Regia 1 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/PBTdU4G.png" tvg-chno="4" group-title="VOD Italy",Grande Fratello Vip Regia 1 Ⓢ Ⓖ
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd
+#EXTINF:-1 tvg-name="Grande Fratello Vip Regia 2 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/FKfwbHD.png" tvg-chno="5" group-title="VOD Italy",Grande Fratello Vip Regia 2 Ⓢ Ⓖ
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b8)/manifest.mpd
+#EXTINF:-1 tvg-name="Grande Fratello Vip Regia un'ora fa Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/fFZeBnc.png" tvg-chno="6" group-title="VOD Italy",Grande Fratello Vip Regia un'ora fa Ⓢ Ⓖ
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b9)/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Grande Fratello Vip" tvg-logo="http://service.myvisio.life:80/images/de43ba5ef17acd5a3fac8fa4466b6b1a.png" group-title="Italia",Grande Fratello Vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://sirena.mare7.co:80/live/veliero/240223/51526.ts
+#EXTINF:-1 tvg-id="" tvg-name="Grande Fratello Vip 2" tvg-logo="http://service.myvisio.life:80/images/de43ba5ef17acd5a3fac8fa4466b6b1a.png" group-title="Italia",Grande Fratello Vip 2.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://sirena.mare7.co:80/live/veliero/240223/51527.ts
+#EXTINF:-1 tvg-id="" tvg-name="Grande Fratello Vip Party" tvg-logo="http://service.fullapple.me:8000/images/de43ba5ef17acd5a3fac8fa4466b6b1a.png" group-title="Italia",Grande Fratello Vip Party
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://sirena.mare7.co:80/live/veliero/240223/186435.ts
+#EXTINF:-1 tvg-id="" tvg-name="Grande Fratello Vip 1 Ora Fa" tvg-logo="http://service.myvisio.life:80/images/de43ba5ef17acd5a3fac8fa4466b6b1a.png" group-title="Italia",Grande Fratello Vip 1 Ora Fa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://sirena.mare7.co:80/live/veliero/240223/76162.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB MOSAICO FHD
 http://primevido.asia:80/EdelamarG24/EGomes@24/10262052
 #EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO HD [P]" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/bbb2026.jpg" group-title="BBB 2026",BBB MOSAICO HD [P]
