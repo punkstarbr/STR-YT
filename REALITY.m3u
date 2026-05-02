@@ -113,6 +113,26 @@ http://applaytv.site:80/2005665225/0574483657/1739142.ts
 
 #EXTINF:-1 group-title="Reality Show's Live" tvg-id="tv-globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png",GLOBO (VIVO)
 http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/cesar3377/cse3377/12723.ts
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRAO | MULTICAM 01 HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2037-s-1777308998074.png" , CASA DO PATRAO | MULTICAM 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://popcornplay.xyz/live/27863039/53722401/815145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRAO | MULTICAM 02 HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2037-s-1777308998074.png" , CASA DO PATRAO | MULTICAM 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://popcornplay.xyz/live/27863039/53722401/815144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRAO | SALA E COZINHA HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2037-s-1777308998074.png" , CASA DO PATRAO | SALA E COZINHA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://popcornplay.xyz/live/27863039/53722401/815143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRAO | QUARTO COLETIVO HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2037-s-1777308998074.png" , CASA DO PATRAO | QUARTO COLETIVO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://popcornplay.xyz/live/27863039/53722401/815142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRAO | SUITE DO PATRAO HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2037-s-1777308998074.png" , CASA DO PATRAO | SUITE DO PATRAO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://popcornplay.xyz/live/27863039/53722401/815141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRAO | QUARTO DOS PARCAS HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2037-s-1777308998074.png" , CASA DO PATRAO | QUARTO DOS PARCAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://popcornplay.xyz/live/27863039/53722401/815140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRAO | CASA CONVENIENCIA HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2037-s-1777308998074.png" , CASA DO PATRAO | CASA CONVENIENCIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://popcornplay.xyz/live/27863039/53722401/815139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRAO | PISCINA HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2037-s-1777308998074.png" , CASA DO PATRAO | PISCINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://popcornplay.xyz/live/27863039/53722401/815138.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="Reality Show's Live",GH PRINCIPAL
 https://tv.nousiptv.com:8443/mparodi/6900/1285296
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="Reality Show's Live",GH CAM 1
@@ -124,8 +144,102 @@ https://tv.nousiptv.com:8443/mparodi/6900/1285663
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="Reality Show's Live",GH MULTICÁMARA
 https://tv.nousiptv.com:8443/mparodi/6900/1285664
 
-#EXTINF:-1 tvg-id="" tvg-name="UY | Canal 10" tvg-logo="https://images.zetatv.com.uy/getimageurl/800x1200/center/zpapi.zetatv.com.uy/media/images/saeta_NsDTfHp.png" group-title="Reality Show's Live",UY | Canal 10
-http://live.detodotvplay.com:8080/Risario8/Pineda13/20895
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 2",PRINCIPAL
+https://tv.nousiptv.com:8443/nelsonr/nr099391093/1285296
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 2",CAM 1
+https://tv.nousiptv.com:8443/nelsonr/nr099391093/1285661
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 2",CAM 2
+https://tv.nousiptv.com:8443/nelsonr/nr099391093/1285662
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 2",CAM 3
+https://tv.nousiptv.com:8443/nelsonr/nr099391093/1285663
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 2",MULTICÁMARA
+https://tv.nousiptv.com:8443/nelsonr/nr099391093/1285664
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/330px-Telefe_%28nuevo_logo%29.png" group-title="EL GRAN HERMANO (ARGENTINA) 2",TELEFE (VIVO)
+https://tv.nousiptv.com:8443/nelsonr/nr099391093/1155824
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 1",CAM 1
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1652946.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 1",CAM 2
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1652949.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 1",CAM 3
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1652952.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 1",CAM 4
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1652955.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 1",CAM 5
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1652961.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 1",CAM 6
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1652988.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 1",CAM 7
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1652991.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 1",CAM 8
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1652992.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CASA DO PATRÃO (BRASIL) 1",RECORD (VIVO)
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/902.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 2",CAM 1
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/4792916/8539232/1652946.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 2",CAM 2
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/4792916/8539232/1652949.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 2",CAM 3
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/4792916/8539232/1652952.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 2",CAM 4
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/4792916/8539232/1652955.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 2",CAM 5
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/4792916/8539232/1652961.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 2",CAM 6
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/4792916/8539232/1652988.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 2",CAM 7
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/4792916/8539232/1652991.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 2",CAM 8
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/4792916/8539232/1652992.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CASA DO PATRÃO (BRASIL) 2",RECORD (VIVO)
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/4792916/8539232/902.m3u
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 3",CAM 1
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/4846140/5740524/1652946.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 3",CAM 2
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/4846140/5740524/1652949.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 3",CAM 3
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/4846140/5740524/1652952.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 3",CAM 4
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/4846140/5740524/1652955.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 3",CAM 5
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/4846140/5740524/1652961.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 3",CAM 6
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/4846140/5740524/1652988.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 3",CAM 7
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/4846140/5740524/1652991.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 3",CAM 8
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/4846140/5740524/1652992.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CASA DO PATRÃO (BRASIL) 3",RECORD (VIVO)
+http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/4846140/5740524/902.m3u
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="Reality Show's Live",CAM 1
+http://172.110.219.252:80/85836530/57158922/5144915.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="Reality Show's Live",CAM 2
+http://172.110.219.252:80/85836530/57158922/5144916.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="Reality Show's Live",CAM 3
+http://172.110.219.252:80/85836530/57158922/5144917.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="Reality Show's Live",CAM 4
+http://172.110.219.252:80/85836530/57158922/5144918.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="Reality Show's Live",CAM 5
+http://172.110.219.252:80/85836530/57158922/5144919.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="Reality Show's Live",CAM 6
+http://172.110.219.252:80/85836530/57158922/5144920.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="Reality Show's Live",CAM 7
+http://172.110.219.252:80/85836530/57158922/5144921.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="Reality Show's Live",CAM 8
+http://172.110.219.252:80/85836530/57158922/5144922.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Reality Show's Live",RECORD (VIVO)
+http://172.110.219.252:80/85836530/57158922/127585.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/330px-Telefe_%28nuevo_logo%29.png" group-title="Reality Show's Live",TELEFE (VIVO)
+https://tv.nousiptv.com:8443/mparodi/6900/1155824
 
 
 
