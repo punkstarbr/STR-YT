@@ -2,28 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="USA" tvg-id="CBS.(KCTV).Kansas.City,.MO.us" tvg-name="CBS - Kansas.City",CBS - Kansas.City
-https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="ABC.(KMIZ).Columbia,.MO.us" tvg-name="ABC - Columbia",ABC - Columbia
-https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="ABC.(KMBC).Kansas.City,.MO.us" tvg-name="ABC - Kansas City",ABC - Kansas City
-https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="ABC.(KTVO).Kirskville,.MO.us" tvg-name="ABC - Kirskville",ABC - Kirskville
-https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="CBS.(KTVO-DT2).Kirskville,.MO.us" tvg-name="CBS - Kirskville",CBS - Kirskville
-https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="FOX.(KQFX).Columbia,.MO.us" tvg-name="FOX - Columbia",FOX - Columbia
-https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="FOX.(WDAF).Kansas.City,.MO.us" tvg-name="FOX - Kansas City",FOX - Kansas City
-https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="NBC.(KYOU-DT2).Ottumwa,.IA.us" tvg-name="NBC - Ottumwa",NBC - Ottumwa
-https://cvtv.cvalley.net/hls/KYOUNBC/KYOUNBC.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="NBC.(KOMU).Columbia,.MO.us" tvg-name="NBC - Columbia",NBC - Columbia
-https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="NBC.(KSHB).Kansas.City,.MO.us" tvg-name="NBC - Kansas City",NBC - Kansas City
-https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="PBS.(KCPT).Kansas.City,.MO.us" tvg-name="PBS - Kansas City",PBS - Kansas City
-https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
+
 #EXTINF:-1 group-title="USA" tvg-id="PBS.(WKLE).Lexington-Richmond,.KY.us" tvg-name="PBS - Lexington",PBS - Lexington
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="PBS.(KMOS).Warrensburg,.MO.us" tvg-name="PBS - Warrensburg",PBS - Warrensburg
