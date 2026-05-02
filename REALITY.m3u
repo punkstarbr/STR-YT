@@ -116,22 +116,35 @@ http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/cesar3377/cse3377/12723.ts
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRAO | MULTICAM 01 HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2037-s-1777308998074.png" , CASA DO PATRAO | MULTICAM 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://popcornplay.xyz/live/27863039/53722401/815145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRAO | MULTICAM 02 HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2037-s-1777308998074.png" , CASA DO PATRAO | MULTICAM 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://popcornplay.xyz/live/27863039/53722401/815144.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRAO | SALA E COZINHA HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2037-s-1777308998074.png" , CASA DO PATRAO | SALA E COZINHA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://popcornplay.xyz/live/27863039/53722401/815143.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRAO | QUARTO COLETIVO HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2037-s-1777308998074.png" , CASA DO PATRAO | QUARTO COLETIVO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://popcornplay.xyz/live/27863039/53722401/815142.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRAO | SUITE DO PATRAO HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2037-s-1777308998074.png" , CASA DO PATRAO | SUITE DO PATRAO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://popcornplay.xyz/live/27863039/53722401/815141.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRAO | QUARTO DOS PARCAS HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2037-s-1777308998074.png" , CASA DO PATRAO | QUARTO DOS PARCAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://popcornplay.xyz/live/27863039/53722401/815140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRAO | CASA CONVENIENCIA HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2037-s-1777308998074.png" , CASA DO PATRAO | CASA CONVENIENCIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://popcornplay.xyz/live/27863039/53722401/815139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRAO | PISCINA HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2037-s-1777308998074.png" , CASA DO PATRAO | PISCINA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://popcornplay.xyz/live/27863039/53722401/815138.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Reality Show's Live",Casa do Patrao: Casa Convivencia (B)
+http://play.1list.vip/live/8gZav5kQe2/duoiptv/1009226.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Reality Show's Live",Casa do Patrao: Piscina (B)
+http://play.1list.vip/live/8gZav5kQe2/duoiptv/1009227.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Reality Show's Live",Casa do Patrao: Quarto Coletivo (B)
+http://play.1list.vip/live/8gZav5kQe2/duoiptv/1009223.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Reality Show's Live",Casa do Patrao: Quarto dos Parças (B)
+http://play.1list.vip/live/8gZav5kQe2/duoiptv/1009225.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Reality Show's Live",Casa do Patrao: Sala e Cozinha (B)
+http://play.1list.vip/live/8gZav5kQe2/duoiptv/1009222.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Reality Show's Live",Casa do Patrao: Suite do Patrao (B)
+http://play.1list.vip/live/8gZav5kQe2/duoiptv/1009224.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do Patrão | Multicam 1" tvg-logo="http://lgfp.one/SWV3" group-title="Reality Show's Live",Casa do Patrão | Multicam 1
+http://cdc55.cc:80/live/7125938483/5158/385857.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Multicam 2" tvg-logo="http://lgfp.one/SWW2" group-title="Reality Show's Live",Casa do patrão | Multicam 2
+http://cdc55.cc:80/live/7125938483/5158/385966.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Piscina" tvg-logo="http://lgfp.one/SWV6" group-title="Reality Show's Live",Casa do patrão | Piscina
+http://cdc55.cc:80/live/7125938483/5158/385960.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Casa Convivência" tvg-logo="http://lgfp.one/SWV7" group-title="Reality Show's Live",Casa do patrão | Casa Convivência
+http://cdc55.cc:80/live/7125938483/5158/385961.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Suíte do patrão" tvg-logo="http://lgfp.one/SWV9" group-title="Reality Show's Live",Casa do patrão | Suíte do patrão
+http://cdc55.cc:80/live/7125938483/5158/385963.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Quarto dos Parças" tvg-logo="http://lgfp.one/SWV8" group-title="Reality Show's Live",Casa do patrão | Quarto dos Parças
+http://cdc55.cc:80/live/7125938483/5158/385962.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Quarto coletivo (Casa trampo)" tvg-logo="http://lgfp.one/SWW0" group-title="Reality Show's Live",Casa do patrão | Quarto coletivo (Casa trampo)
+http://cdc55.cc:80/live/7125938483/5158/385964.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa do patrão | Sala e Cozinha (Casa Trampo)" tvg-logo="http://lgfp.one/SWW1" group-title="Reality Show's Live",Casa do patrão | Sala e Cozinha (Casa Trampo)
+http://cdc55.cc:80/live/7125938483/5158/385965.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="Reality Show's Live",GH PRINCIPAL
 https://tv.nousiptv.com:8443/mparodi/6900/1285296
