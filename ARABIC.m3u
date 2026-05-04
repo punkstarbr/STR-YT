@@ -1,16 +1,10 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IL1.xml.gz"
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-chno="1302" tvg-id="כאן.11.il" tvg-logo="https://i.imgur.com/LG4FkYF.jpeg" , ערוץ כאן 11 לצפייה ישירה
-https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
-
-#EXTINF:0 tvg-id="קשת.il" tvg-logo="http://epg.one/img2/2670.png" group-title="NEWS WORLD",קשת 12
-plugin://plugin.video.vod/?handler=Play&livetv=keshet
-
-#EXTINF:-1 group-title="NEWS WORLD" tvg-chno="1303" tvg-id="רשת.il" tvg-logo="https://gurutv.online/wp-content/uploads/ch13.jpg" , ערוץ רשת 13 לצפייה ישירה
+#EXTINF:-1 group-title="NEWS WORLD" tvg-chno="1303" tvg-id="רשת.il" tvg-logo="https://gurutv.online/wp-content/uploads/ch13.jpg",רשת 13
 https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-chno="1304" tvg-id="עברית.i24.il" tvg-logo="https://gurutv.online/wp-content/uploads/xi24news.jpg.pagespeed.ic.fhjsHkCDzf.webp" , ערוץ I24News לצפייה ישירה
-https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-chno="1306" tvg-id="DW.English.HD.il" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3e0472dc1a6645b69a64c8300539c53e/version/3",DW English HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-chno="1305" tvg-id="" tvg-logo="https://gurutv.online/wp-content/uploads/xcnn.jpg.pagespeed.ic.DU_bdJEA5F.webp" , ערוץ CNN News לצפייה ישירה
-https://live-manifests-aka.warnermediacdn.com/csmp/cmaf/live/2028716/cnnfast-international/master_de.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-chno="1307" tvg-id="ערוץ.הכנסת.il" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/2c7f02e3c7914dd7bcdc5e57a0efbb8c/version/2",ערוץ הכנסת
+https://main.knesset.gov.il/tv/live/knesset_hls_high.isml/hls/live.m3u8
