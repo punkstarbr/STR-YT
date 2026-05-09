@@ -67,7 +67,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 group-title="OTHER" tvg-name="--- OTHER CHANNELS ---",--- OTHER CHANNELS ---
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="DWEnglish.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/DW_Logo.svg/512px-DW_Logo.svg.png",DW English
+#EXTINF:-1 tvg-id="369766" tvg-name="DW-TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dw-english-int.png" group-title="NEWS WORLD",DW News English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="RT.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia_today_logo.svg/512px-Russia_today_logo.svg.png",RT English
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
@@ -241,16 +241,12 @@ https://news.cgtn.com/resource/live/wx/cgtn-doc.m3u8
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="DWArabic.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/DW_Logo.svg/512px-DW_Logo.svg.png",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="DWEnglish.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/DW_Logo.svg/512px-DW_Logo.svg.png",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="DWEspanol.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/DW_Logo.svg/512px-DW_Logo.svg.png",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="DWEspanol.de" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/dw.png",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png",Deutsche Welle Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png",DW English (1080p)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="DWDEUTSCHPLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/DW_Logo.svg/512px-DW_Logo.svg.png",DW Español 2
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="GlobalNewsCanada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Global_News_Logo.svg/512px-Global_News_Logo.svg.png",Global News Canada
