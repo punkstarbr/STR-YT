@@ -9,7 +9,7 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="TVPublica.ar" tvg-logo="https://www.lyngsat.com/logo/tv/tv/tv-publica-ar.png",TV Pública
-https://stream.claroh.com/tvpublica/playlist.m3u8
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/tvpublica_720.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="Canal26.ar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-26-ar.png",Canal 26 HD
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
