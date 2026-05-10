@@ -5,7 +5,7 @@
 #EXTVLCOPT:http-referrer=https://vodgc.net
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id=Telefe.ar",Telefe
+#EXTINF:-1 group-title="ARGENTINA" tvg-id=Telefe.ar",Telefe
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="TN.ar" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tn.png",TN
