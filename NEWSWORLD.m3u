@@ -7,7 +7,7 @@
 #EXTM3U url-tvg="https://timbiriche.me/epg/usa.xml.gz,https://raw.githubusercontent.com/LITUATUI/Geral/master/EPG/Geral.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_doble_m/master/guia.xml.gz,https://raw.githubusercontent.com/HelmerLous/EPG/main/Guia.xml.gz,https://raw.githubusercontent.com/Tapiosat/EPG/master/guide.xml.gz"
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="SPORTV" tvg-name="SPORTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",SPORTV 1
-http://limed.cc:80/4x6cXF/ehfxdp/90316.m3u8
+http://limed.cc:80/4x6cXF/ehfxdp/90327.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="SPORTV2" tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png",SPORTV 2
 http://limed.cc:80/4x6cXF/ehfxdp/90320.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="SPORTV3" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png",SPORTV 3
