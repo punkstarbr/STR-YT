@@ -7,6 +7,10 @@ http://limed.cc:80/4x6cXF/ehfxdp/95657.m3u8
 http://limed.cc:80/4x6cXF/ehfxdp/90266.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV Sao Paulo HD.br" tvg-logo="https://i.imgur.com/lyQ1v9M.png",RecordTV Juara HD
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="SBT.br" tvg-logo="https://i.imgur.com/srURmsi.png",SBT
+http://limed.cc:80/4x6cXF/ehfxdp/95666.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band Sao Paulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png",BAND
+http://limed.cc:80/4x6cXF/ehfxdp/95649.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Loading.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/800px-Canal_Loading.png",X SPORTS
 http://limed.cc:80/4x6cXF/ehfxdp/90149.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Tvbrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvBrasil2023.png",TV BRASIL
@@ -68,10 +72,7 @@ http://limed.cc:80/4x6cXF/ehfxdp/90052.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="tv-globo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",TV GLOBO - SP
 http://limed.cc:80/4x6cXF/ehfxdp/90059.m3u8
-#EXTINF:-1 group-title="TV ABERTA" tvg-id="SBT.br" tvg-logo="https://i.imgur.com/srURmsi.png",SBT
-http://limed.cc:80/4x6cXF/ehfxdp/95666.m3u8
-#EXTINF:-1 group-title="TV ABERTA" tvg-id="Band Sao Paulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png",BAND
-http://limed.cc:80/4x6cXF/ehfxdp/95649.m3u8
+
 
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="RedeBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rede_Brasil_de_Televis%C3%A3o_Logo2023.png/480px-Rede_Brasil_de_Televis%C3%A3o_Logo2023.png",REDE BRASIL
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w466484883.m3u8
