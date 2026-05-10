@@ -207,8 +207,6 @@ https://streaming-a-806.cdn.nextologies.com/38dafadc68316650d32c7e974332e5b8/pla
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="ABCRadioAustralia.au",ABC Radio (Australia)
 https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/index.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AlArabiya.ae",Al Arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="AlAraby.tv",Al Araby
 https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="AlJazeeraArabic.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png",Al Jazeera Arabic
@@ -776,6 +774,10 @@ https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="AlArabiya.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOFxyDXvMqzluYDtpAGClZQ2Rl7SWcurIjsz2rg8F71u4sJLxnxvJfeegYL24&s",Al Arabiya (Arabic)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlArabiya.ae" tvg-logo="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://alarabiya.net&size=128" group-title="NEWS WORLD",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/AlArabiya2020.png",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="AlJazeeraArabic.qa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_D9WOAaoPC8yyCvYzHJpvW8L72lbzeA_1Rk2-f3J4P3pczmQXR1UyFtSehA&s",Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="Ameritrade.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png",Ameritrade (1080p) [Not 24/7]
@@ -916,8 +918,6 @@ https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e5
 https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9/live.isml/.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="62cbfbd6ad95670007f567af" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS19ztpvT3Z2jFNJqqQ-HgS4oH19laxpBm4hYz6S4PMZMNnnvnJou0DjCmUsw&s",Global News Montreal (720p)
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/AlArabiya2020.png",Al Arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="62cbf7439cb58900088dc77b" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAvW3jNxfG0yNDtCXeVK_3JIrELiHorvVTymjjoz6y2PZqWcyjD8QVJ9MRmw&s",Global News Lethbridge (720p)
 https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc0/live.isml/.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="62cbef9ebb857100072fc187" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj_frvclHtk__jRwgkQ6hId3lakX94mKm0Uw-KE3PFiRHyzxW1AL26e2q1lg&s",Global News National (720p)
