@@ -1,5 +1,14 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml"
 
+#EXTINF:-1  tvg-id="NBCWest.us" group-title="NEWS WORLD" tvg-logo="https://creativecloud.adobe.com/content/dam/2017/8/evolution-of-nbc-logo/article-marquee.jpg",NBC 7 San Diego
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+
+#EXTINF:-1  tvg-id="Canal.Punto.2.Puerto.Rico.pt" group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Puerto_Rico_TV_logo.svg/1200px-Puerto_Rico_TV_logo.svg.png",Telemundo Puerto Rico (WKAQ) 2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+#EXTINF:-1  tvg-id="Telemundo.(WKAQ).San.Juan,.PR.us" group-title="NEWS WORLD" tvg-logo="https://media.telemundopr.com/2020/12/Telemundo-Puerto-Rico-Julio-2020.png?resize=850%2C478&quality=85&strip=all",Telemundo Puerto Rico (WKAQ)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
 #EXTINF:-1 group-title="USA" tvg-id="PBS.(WKLE).Lexington-Richmond,.KY.us" tvg-name="PBS - Lexington",PBS - Lexington
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 
@@ -21,12 +30,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwor
 #EXTINF:-1 tvg-id="TelemundoKVEA.us" tvg-name="Telemundo West (Los Angeles)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="USA",Telemundo West
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
 
-#EXTINF:-1  tvg-id="NBCWest.us" group-title="NEWS WORLD" tvg-logo="https://creativecloud.adobe.com/content/dam/2017/8/evolution-of-nbc-logo/article-marquee.jpg",NBC 7 San Diego
-https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
-
-#EXTINF:-1  tvg-id="Canal.Punto.2.Puerto.Rico.pt" group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Puerto_Rico_TV_logo.svg/1200px-Puerto_Rico_TV_logo.svg.png",Telemundo Puerto Rico (WKAQ) 2
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-
 #EXTINF:-1 group-title="USA" tvg-id="bloomberg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1kltagitQcwkA-Swoye2NcTBiLqKUTQfaAMEkhrjDCZKAQtA5B7jTRXgUAQ&s",Bloomberg TV US Live Event (720p)
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
 
@@ -35,9 +38,6 @@ https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-id="bloomberg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzy1jzUXJ0oMTPEddnPwD3Jp8wG8pu9Cp_q1Po9j2gwMo3a-Y61OxGb0KIMw&s",Bloomberg TV US Politics Live Event (720p)
 https://www.bloomberg.com/media-manifest/streams/politics.m3u8
-
-#EXTINF:-1  tvg-id="Telemundo.(WKAQ).San.Juan,.PR.us" group-title="NEWS WORLD" tvg-logo="https://media.telemundopr.com/2020/12/Telemundo-Puerto-Rico-Julio-2020.png?resize=850%2C478&quality=85&strip=all",Telemundo Puerto Rico (WKAQ)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.(WKAQ).San.Juan,.PR.us" tvg-name="Telemundo Puerto Rico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="USA",Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
