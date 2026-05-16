@@ -1,229 +1,208 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz"
 
-#EXTINF:-1  tvg-id="NBCWest.us" group-title="NEWS WORLD" tvg-logo="https://creativecloud.adobe.com/content/dam/2017/8/evolution-of-nbc-logo/article-marquee.jpg",NBC 7 San Diego
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="NBCWest.us" tvg-logo="https://creativecloud.adobe.com/content/dam/2017/8/evolution-of-nbc-logo/article-marquee.jpg",NBC 7 San Diego
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 
-#EXTINF:-1  tvg-id="Canal.Punto.2.Puerto.Rico.pt" group-title="NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Puerto_Rico_TV_logo.svg/1200px-Puerto_Rico_TV_logo.svg.png",Telemundo Puerto Rico (WKAQ) 2
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Canal.Punto.2.Puerto.Rico.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Puerto_Rico_TV_logo.svg/1200px-Puerto_Rico_TV_logo.svg.png",Telemundo Puerto Rico (WKAQ) 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-#EXTINF:-1  tvg-id="Telemundo.(WKAQ).San.Juan,.PR.us" group-title="NEWS WORLD" tvg-logo="https://media.telemundopr.com/2020/12/Telemundo-Puerto-Rico-Julio-2020.png?resize=850%2C478&quality=85&strip=all",Telemundo Puerto Rico (WKAQ)
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Telemundo.(WKAQ).San.Juan,.PR.us" tvg-logo="https://media.telemundopr.com/2020/12/Telemundo-Puerto-Rico-Julio-2020.png?resize=850%2C478&quality=85&strip=all",Telemundo Puerto Rico (WKAQ)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-id="PBS.(WKLE).Lexington-Richmond,.KY.us" tvg-name="PBS - Lexington",PBS - Lexington
+#EXTINF:-1 group-title="USA" tvg-id="PBS.(WKLE).Lexington-Richmond,.KY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/PBS_logo_%282019%29.svg/1200px-PBS_logo_%282019%29.svg.png",PBS - Lexington
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-id="PBS.(WMPT).Annapolis,.MD.us" tvg-name="PBS Baltimore",PBS - Baltimore
+#EXTINF:-1 group-title="USA" tvg-id="PBS.(WMPT).Annapolis,.MD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/PBS_logo_%282019%29.svg/1200px-PBS_logo_%282019%29.svg.png",PBS - Baltimore
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-id="PBS.World.us" tvg-name="PBS World",PBS World
+#EXTINF:-1 group-title="USA" tvg-id="PBS.World.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/PBS_logo_%282019%29.svg/1200px-PBS_logo_%282019%29.svg.png",PBS World
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-id="PBS.Kids.us" tvg-name="PBS Kids",PBS Kids
+#EXTINF:-1 group-title="USA" tvg-id="USBC3600013PC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600013PC_20260421T133744SQUARE.png",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-id="Create.TV.us" tvg-name="PBS Create",PBS Create
+#EXTINF:-1 group-title="USA" tvg-id="Create.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/PBS_logo_%282019%29.svg/1200px-PBS_logo_%282019%29.svg.png",PBS Create
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-id="Weather.Network.ca" tvg-name="The Weather Network",The Weather Network
+#EXTINF:-1 group-title="USA" tvg-id="Weather.Network.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Weather_Network_Logo.svg/1200px-The_Weather_Network_Logo.svg.png",The Weather Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TelemundoKVEA.us" tvg-name="Telemundo West (Los Angeles)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="USA",Telemundo West
+#EXTINF:-1 group-title="USA" tvg-id="TelemundoKVEA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg",Telemundo West
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
 
-#EXTINF:-1 group-title="USA" tvg-id="bloomberg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1kltagitQcwkA-Swoye2NcTBiLqKUTQfaAMEkhrjDCZKAQtA5B7jTRXgUAQ&s",Bloomberg TV US Live Event (720p)
+#EXTINF:-1 group-title="USA" tvg-id="USAJ3400011A8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bloomberg_logo_%28October_2023%29.svg/1200px-Bloomberg_logo_%28October_2023%29.svg.png",Bloomberg TV US Live Event (720p)
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
 
-#EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://iptvx.one/picons/bloomberg.png" group-title="USA",Bloomberg (EU) (HD ready)
+#EXTINF:-1 group-title="USA" tvg-id="USAJ3400011A8" tvg-logo="https://iptvx.one/picons/bloomberg.png",Bloomberg (EU) (HD ready)
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-id="bloomberg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzy1jzUXJ0oMTPEddnPwD3Jp8wG8pu9Cp_q1Po9j2gwMo3a-Y61OxGb0KIMw&s",Bloomberg TV US Politics Live Event (720p)
+#EXTINF:-1 group-title="USA" tvg-id="USAJ3400011A8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bloomberg_logo_%28October_2023%29.svg/1200px-Bloomberg_logo_%28October_2023%29.svg.png",Bloomberg TV US Politics Live Event (720p)
 https://www.bloomberg.com/media-manifest/streams/politics.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo.(WKAQ).San.Juan,.PR.us" tvg-name="Telemundo Puerto Rico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="USA",Telemundo Puerto Rico
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-id="france24-en" tvg-logo="https://iptvx.one/picons/france24.png" group-title="Информационные",France 24 English (HD ready)
+#EXTINF:-1 group-title="Информационные" tvg-id="france24-en" tvg-logo="https://iptvx.one/picons/france24.png",France 24 English (HD ready)
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-id="espn-us" tvg-logo="https://epg.iptvx.one/picons/espn-us.png" group-title="USA",ESPN 1 (HD ready)
+#EXTINF:-1 group-title="USA" tvg-id="espn-us" tvg-logo="https://epg.iptvx.one/picons/espn-us.png",ESPN 1 (HD ready)
 http://41.205.93.154/ESPN/index.m3u8
 
-#EXTINF:-1 tvg-id="Scripps.News.Channel.us" tvg-logo="https://i.imgur.com/W0Jvi5o.png" group-title="USA",Scripps News (HD ready)
+#EXTINF:-1 group-title="USA" tvg-id="USBD3000073N" tvg-logo="https://i.imgur.com/W0Jvi5o.png",Scripps News (HD ready)
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 
-#EXTINF:-1 tvg-id="USA.Today.us" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="USA",USA TODAY (HD ready)
+#EXTINF:-1 group-title="USA" tvg-id="USBB1500001GD" tvg-logo="https://i.imgur.com/37K0AZX.png",USA TODAY (HD ready)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 
-#EXTINF:-1 tvg-id="newsmax-us" tvg-logo="https://epg.iptvx.one/picons/newsmax-us.png" group-title="USA",Newsmax TV (HD)
+#EXTINF:-1 group-title="USA" tvg-id="newsmax-us" tvg-logo="https://epg.iptvx.one/picons/newsmax-us.png",Newsmax TV (HD)
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-id="MTVPacific.us" tvg-name="MTV West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="USA",MTV West
+#EXTINF:-1 group-title="USA" tvg-id="MTVPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png",MTV West
 http://ufospeeds.com:2095/73622931496/7122224796/138
 
-#EXTINF:-1 tvg-id="euronews" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="Информационные",Euronews (HD)
+#EXTINF:-1 group-title="Информационные" tvg-id="euronews" tvg-logo="https://iptvx.one/picons/euronews.png",Euronews (HD)
 https://www.youtube.com/euronewsru/live
 
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="KMGH-TV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5U6z17XJ-PbPAlZzmybboh2Q2HAShGXs5g_Qet9RGLuUQzD0u-y-6br2Znw&s",ABC 7 Denver CO (KMGH) (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="KMGH-TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ABC_logo_2023.svg/1200px-ABC_logo_2023.svg.png",ABC 7 Denver CO (KMGH) (720p)
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Circle.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD-nHvddxJfm-Lxt8Gxb-UIqe64mZH8awPacVExsrPxdLckkX2ohlCebAhWA&s",Circle (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="USBA300035FV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300035FV_20250410T184712SQUARE.png",Circle (1080p)
 https://circle-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="FOX.Weather.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQatOvN-zY0yG_W6XV0qUPnQL8qsWROZmR96DoDA-brKyCUYd7ohvkvQO7cIA&s",Fox Weather (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="USBD700003L7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20260421T133804SQUARE.png",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
 
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="OAN.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZwnmssDCOQFeXZWGrdk_KEcNg31WD5O8saIhaOOaAA6g4dMIGFoFqiFwdYA&s",OAN (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="OAN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/OAN_logo.svg/1200px-OAN_logo.svg.png",OAN (1080p)
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="NASA.TV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRndwBeJLj77yfdxO58c81SLbN50NS6D5lrCIfQB0x1ZPXzTSlhxZ-7EKg3ezY&s",NASA TV Public (720p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="NASA.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1200px-NASA_logo.svg.png",NASA TV Public (720p)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="Shout.Factory.TV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9g216lKdKr3RTmLFk7nmj-U401nOfdArP1zcgSw2txHUNhy1JrohTrio_aqo&s",Shout! Factory TV (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="USBD1200021JM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20260421T133807SQUARE.png",Shout! Factory TV (1080p)
 http://shoutfactory-redbox.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="TD.Ameritrade.Network.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUKSq2Ne6kmQD1GoPH-5qhsRGXzOK-YY9lV6s2mXW4povewDgzRmodB397T5E&s",TD Ameritrade Network (1080p)
+#EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="TD.Ameritrade.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TD_Ameritrade_logo_2019.svg/1200px-TD_Ameritrade_logo_2019.svg.png",TD Ameritrade Network (1080p)
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 
-#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.png" group-title="Live Channels",3ABN Kids
+#EXTINF:-1 group-title="Live Channels" tvg-id="3ABNKids.us" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.png",3ABN Kids
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Adult Swim East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Live Channels",Adult Swim East
+#EXTINF:-1 group-title="Live Channels" tvg-id="CartoonNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png",Adult Swim East
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aseast.us.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Adult Swim West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Live Channels",Adult Swim West
+#EXTINF:-1 group-title="Live Channels" tvg-id="CartoonNetworkPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png",Adult Swim West
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aswest.us.m3u8
 
-#EXTINF:-1 tvg-id="AMCPacific.us" tvg-name="AMC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="Live Channels",AMC West
+#EXTINF:-1 group-title="Live Channels" tvg-id="AMCPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png",AMC West
 http://ufospeeds.com:2095/73622931496/7122224796/167
 
-#EXTINF:-1 tvg-id="BETHerPacific.us" tvg-name="BET Her West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" group-title="Live Channels",BET Her West
+#EXTINF:-1 group-title="Live Channels" tvg-id="BETHerPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png",BET Her West
 http://ufospeeds.com:2095/73622931496/7122224796/146
 
-#EXTINF:-1 tvg-id="BUZZR.us" tvg-name="Buzzr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/800px-Buzzr_logo.svg.png" group-title="Live Channels",Buzzr
+#EXTINF:-1 group-title="Live Channels" tvg-id="USBD700021WG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/800px-Buzzr_logo.svg.png",Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CMTPacific.us" tvg-name="CMT West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="Live Channels",CMT West
+#EXTINF:-1 group-title="Live Channels" tvg-id="CMTPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png",CMT West
 http://ufospeeds.com:2095/73622931496/7122224796/171
 
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN (Adaptive)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="Live Channels",CNN (Adaptive)
+#EXTINF:-1 group-title="Live Channels" tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN (Adaptive)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/cnn.us.m3u8
 
-#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Live Channels",Court TV East
+#EXTINF:-1 group-title="Live Channels" tvg-id="USBA34000049Z" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png",Court TV East
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 
-#EXTINF:-1 tvg-id="CourtTVPacific.us" tvg-name="Court TV West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Live Channels",Court TV West
-https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?delay=10800
-
-#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="Live Channels",FOX Weather
-https://247wlive.foxweather.com/stream/index.m3u8
-
-#EXTINF:-1 tvg-id="FXPacific.us" tvg-name="FX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Live Channels",FX West
+#EXTINF:-1 group-title="Live Channels" tvg-id="FXPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FX West
 http://ufospeeds.com:2095/73622931496/7122224796/174
 
-#EXTINF:-1 tvg-id="FYIChannelPacific.us" tvg-name="FYI West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="Live Channels",FYI West
+#EXTINF:-1 group-title="Live Channels" tvg-id="FYIChannelPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png",FYI West
 http://ufospeeds.com:2095/73622931496/7122224796/176
 
-#EXTINF:-1 tvg-id="HallmarkChannelPacific.us" tvg-name="Hallmark Channel West" tvg-logo="https://roost.nbcuni.com/bin/viewasset.html/content/dam/Peacock/Landing-Pages/collections/hallmark/hallmark-channel-min.png/_jcr_content/renditions/original.PNG" group-title="Live Channels",Hallmark Channel West
+#EXTINF:-1 group-title="Live Channels" tvg-id="HallmarkChannelPacific.us" tvg-logo="https://roost.nbcuni.com/bin/viewasset.html/content/dam/Peacock/Landing-Pages/collections/hallmark/hallmark-channel-min.png/_jcr_content/renditions/original.PNG",Hallmark Channel West
 http://ufospeeds.com:2095/73622931496/7122224796/178
 
-#EXTINF:-1 tvg-id="HallmarkMoviesAndMysteriesPacific.us" tvg-name="Hallmark Movies & Mysteries West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Live Channels",Hallmark Movies & Mysteries West
+#EXTINF:-1 group-title="Live Channels" tvg-id="USBD270001633" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png",Hallmark Movies & Mysteries West
 http://ufospeeds.com:2095/73622931496/7122224796/185
 
-#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN (Adaptive)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/HLNLogo2023.svg" group-title="Live Channels",HLN (Adaptive)
+#EXTINF:-1 group-title="Live Channels" tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/HLNLogo2023.svg",HLN (Adaptive)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/hln.us.m3u8
 
-#EXTINF:-1 tvg-id="HSNPacific.us" tvg-name="HSN West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="Live Channels",HSN West
+#EXTINF:-1 group-title="Live Channels" tvg-id="HSNPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png",HSN West
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 
-#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="Live Channels",HSN East
+#EXTINF:-1 group-title="Live Channels" tvg-id="HSN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png",HSN East
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 
-#EXTINF:-1 tvg-id="HSN2.us" tvg-name="HSN 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/HSN2_2018.svg/revision/latest?cb=20221114163129" group-title="Live Channels",HSN 2
+#EXTINF:-1 group-title="Live Channels" tvg-id="HSN2.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/HSN2_2018.svg/revision/latest?cb=20221114163129",HSN 2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 
-#EXTINF:-1 tvg-id="JewelryTV.us" tvg-name="Jewelry TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png" group-title="Live Channels",Jewelry TV
+#EXTINF:-1 group-title="Live Channels" tvg-id="JewelryTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png",Jewelry TV
 https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 
-#EXTINF:-1 tvg-id="LifetimePacific.us" tvg-name="Lifetime West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Live Channels",Lifetime West
+#EXTINF:-1 group-title="Live Channels" tvg-id="LifetimePacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg",Lifetime West
 http://ufospeeds.com:2095/73622931496/7122224796/188
 
-#EXTINF:-1 tvg-id="LogoPacific.us" tvg-name="Logo West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" group-title="Live Channels",Logo West
+#EXTINF:-1 group-title="Live Channels" tvg-id="LogoPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png",Logo West
 http://ufospeeds.com:2095/73622931496/7122224796/25
 
-#EXTINF:-1 tvg-id="MTVPacific.us" tvg-name="MTV West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Live Channels",MTV West
-http://ufospeeds.com:2095/73622931496/7122224796/138
-
-#EXTINF:-1 tvg-id="Newsmax2.us" tvg-name="Newsmax 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/2560px-Newsmax_logo.svg.png" group-title="Live Channels",Newsmax 2
+#EXTINF:-1 group-title="Live Channels" tvg-id="USBA300028QU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/2560px-Newsmax_logo.svg.png",Newsmax 2
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-id="NicktoonsPacific.us" tvg-name="NickToons West" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8d/Nicktoons_US_2023.png/revision/latest/scale-to-width-down/1200?cb=20231203212939" group-title="Live Channels",NickToons West
+#EXTINF:-1 group-title="Live Channels" tvg-id="NicktoonsPacific.us" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8d/Nicktoons_US_2023.png/revision/latest/scale-to-width-down/1200?cb=20231203212939",NickToons West
 http://ufospeeds.com:2095/73622931496/7122224796/163
 
-#EXTINF:-1 tvg-id="OWNPacific.us" tvg-name="Oprah Winfrey Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="Live Channels",Oprah Winfrey Network (OWN) West
+#EXTINF:-1 group-title="Live Channels" tvg-id="OWNPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png",Oprah Winfrey Network (OWN) West
 http://ufospeeds.com:2095/73622931496/7122224796/140
 
-#EXTINF:-1 tvg-id="ParamountNetworkPacific.us" tvg-name="Paramount Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="Live Channels",Paramount Network West
+#EXTINF:-1 group-title="Live Channels" tvg-id="ParamountNetworkPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png",Paramount Network West
 http://ufospeeds.com:2095/73622931496/7122224796/141
 
-#EXTINF:-1 tvg-id="PBSCreateMPT.us" tvg-name="PBS Create" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Create_TV_2006.svg/revision/latest?cb=20240205233457" group-title="Live Channels",PBS Create
-https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg" group-title="Live Channels",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
-#EXTINF:-1 tvg-id="POPPacific.us" tvg-name="PopTV West" tvg-logo="https://seeklogo.com/images/P/pop-tv-logo-741352277F-seeklogo.com.png" group-title="Live Channels",PopTV West
+#EXTINF:-1 group-title="Live Channels" tvg-id="POPPacific.us" tvg-logo="https://seeklogo.com/images/P/pop-tv-logo-741352277F-seeklogo.com.png",PopTV West
 http://ufospeeds.com:2095/73622931496/7122224796/191
 
-#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243" group-title="Live Channels",QVC East
+#EXTINF:-1 group-title="Live Channels" tvg-id="QVC.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243",QVC East
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 
-#EXTINF:-1 tvg-id="QVCPacific.us" tvg-name="QVC West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243" group-title="Live Channels",QVC West
+#EXTINF:-1 group-title="Live Channels" tvg-id="QVCPacific.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243",QVC West
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 
-#EXTINF:-1 tvg-id="QVC2.us" tvg-name="QVC2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest?cb=20210225125729" group-title="Live Channels",QVC2
+#EXTINF:-1 group-title="Live Channels" tvg-id="QVC2.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest?cb=20210225125729",QVC2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 
-#EXTINF:-1 tvg-id="QVC3.us" tvg-name="QVC3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/QVC_Logo.svg/615px-QVC_Logo.svg.png" group-title="Live Channels",QVC3
+#EXTINF:-1 group-title="Live Channels" tvg-id="QVC3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/QVC_Logo.svg/615px-QVC_Logo.svg.png",QVC3
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 
-#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="NickJr PlutoTV" tvg-logo="https://static.wikia.nocookie.net/c7185340-7b20-463b-b5a4-7a7aa4c90122" group-title="Live Channels",NickJr PlutoTV
+#EXTINF:-1 group-title="Live Channels" tvg-id="NickJrPlutoTV.us" tvg-logo="https://static.wikia.nocookie.net/c7185340-7b20-463b-b5a4-7a7aa4c90122",NickJr PlutoTV
 https://dai.google.com/linear/hls/event/_Ath2237RR2QfYlKfSa9hQ/master.m3u8
 
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS East (Adaptive)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg" group-title="Live Channels",TBS East (Adaptive)
+#EXTINF:-1 group-title="Live Channels" tvg-id="TBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg",TBS East (Adaptive)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tbseast.us.m3u8
 
-#EXTINF:-1 tvg-id="TBSPacific.us" tvg-name="TBS West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg" group-title="Live Channels",TBS West (Adaptive)
+#EXTINF:-1 group-title="Live Channels" tvg-id="TBSPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg",TBS West (Adaptive)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tbswest.us.m3u8
 
-#EXTINF:-1 tvg-id="TCM.us" tvg-name="TCM East (Adaptive)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg" group-title="Live Channels",TCM (Turner Classic Movies) East (Adaptive)
+#EXTINF:-1 group-title="Live Channels" tvg-id="TCM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg",TCM (Turner Classic Movies) East (Adaptive)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcmeast.us.m3u8
 
-#EXTINF:-1 tvg-id="TCMPacific.us" tvg-name="TCM West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg" group-title="Live Channels",TCM (Turner Classic Movies) West
+#EXTINF:-1 group-title="Live Channels" tvg-id="TCMPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg",TCM (Turner Classic Movies) West
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcmwest.us.m3u8
 
-#EXTINF:-1 tvg-id="TeenNickPacific.us" tvg-name="TeenNick West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest/scale-to-width-down/1000?cb=20231121172422" group-title="Live Channels",TeenNick West
+#EXTINF:-1 group-title="Live Channels" tvg-id="TeenNickPacific.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest/scale-to-width-down/1000?cb=20231121172422",TeenNick West
 http://ufospeeds.com:2095/73622931496/7122224796/164
 
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Live Channels",Telemundo East (Corpus Christi)
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-
-#EXTINF:-1 tvg-id="TelemundoKVEA.us" tvg-name="Telemundo West (Los Angeles)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Live Channels",Telemundo West
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
-
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT East (Adaptive)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="Live Channels",TNT East (Adaptive)
+#EXTINF:-1 group-title="Live Channels" tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png",TNT East (Adaptive)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tnteast.us.m3u8
 
-#EXTINF:-1 tvg-id="TNTPacific.us" tvg-name="TNT West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="Live Channels",TNT West (Adaptive)
+#EXTINF:-1 group-title="Live Channels" tvg-id="TNTPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png",TNT West (Adaptive)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tntwest.us.m3u8
 
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Live Channels",Trace Urban
+#EXTINF:-1 group-title="Live Channels" tvg-id="TraceUrban.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",Trace Urban
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV East (Adaptive)" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels",truTV East (Adaptive)
+#EXTINF:-1 group-title="Live Channels" tvg-id="truTV.us" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp",truTV East (Adaptive)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/trutveast.us.m3u8
 
-#EXTINF:-1 tvg-id="truTVPacific.us" tvg-name="truTV West" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels",truTV West
+#EXTINF:-1 group-title="Live Channels" tvg-id="truTVPacific.us" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp",truTV West
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/trutvwest.us.m3u8
 
-#EXTINF:-1 tvg-id="USBA370000104" tvg-name="CBS News 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/CBS_logo.svg" group-title="NEWS WORLD",CBS News 24/7
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="USBA370000104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/CBS_logo.svg",CBS News 24/7
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="USBB2200014DK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20250410T184758SQUARE.png",NBC News NOW (HD)
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
