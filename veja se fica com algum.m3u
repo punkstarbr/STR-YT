@@ -4,13 +4,13 @@ https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ABERTOS" tvg-id="CNNBrasil.br" tvg-logo="https://imgur.com/lNRgeYH.jpg",CNN BRASIL (STV)
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1920x1080/playlist.m3u8
 #EXTINF:-1 group-title="ABERTOS" tvg-id="Jovem.Pan.News.br" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/featuredImage.jpg",JOVEN PAN NEWS (TCLTV)
-https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist.m3u8
+http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
 #EXTINF:-1 group-title="ABERTOS" tvg-id="RecordNews.br" tvg-logo="https://imgur.com/prZDV41.jpg",RECORD NEWS
 https://rnw-rn-tcl-roku-syndication.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 group-title="ABERTOS" tvg-id="New.Brasil.br" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/featuredImage.jpg",NEW BRASIL (TCLTV)
-https://amg01391-sbtinfast-amg01391c5-tcl-us-5080.playouts.now.amagi.tv/playlist.m3u8
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
 #EXTINF:-1 group-title="ABERTOS" tvg-id="New.Brasil.br" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/featuredImage.jpg",NEW BRASIL (LGTV)
-https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist.m3u8
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
 #EXTINF:-1 group-title="ABERTOS" tvg-id="TV.Pampa.br" tvg-logo="https://imgur.com/khkkkuk.jpg",TV PAMPA
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:-1 group-title="ABERTOS" tvg-id="Masper.TV.br" tvg-logo="https://imgur.com/C3sZsX8.jpg",MASPER TV
