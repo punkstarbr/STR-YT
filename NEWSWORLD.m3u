@@ -462,6 +462,9 @@ http://limed.cc:80/4x6cXF/ehfxdp/90259.m3u8
 http://limed.cc:80/4x6cXF/ehfxdp/89820.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Band.News.HD.br" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png",Band News HD
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120587
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Band.News.HD.br" tvg-name="BAND NEWS HD (ALT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Band_News_TV_2021_Logo.png/800px-Band_News_TV_2021_Logo.png",BAND NEWS HD (ALT)
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="6317ba014d4d040007227f72" tvg-name="JOVEM PAN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logotipo_da_TV_Jovem_Pan_News.png/120px-Logotipo_da_TV_Jovem_Pan_News.png",JOVEM PAN NEWS
 http://limed.cc:80/4x6cXF/ehfxdp/90139.m3u8
 #EXTINF:-1 tvg-id="417187" tvg-name="Jovem Pan News" tvg-logo="https://i.imgur.com/aqgaka0.jpg" group-title="NEWS WORLD",Jovem Pan News
