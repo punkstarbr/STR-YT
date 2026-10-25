@@ -17,10 +17,10 @@ http://limed.cc:80/4x6cXF/ehfxdp/95649.m3u8
 http://limed.cc:80/4x6cXF/ehfxdp/89900.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Tvbrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvBrasil2023.png",TV BRASIL
 http://limed.cc:80/4x6cXF/ehfxdp/90409.m3u8
-#EXTINF:-1 group-title="TV ABERTA" tvg-id="Loading.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/800px-Canal_Loading.png",X SPORTS
-http://limed.cc:80/4x6cXF/ehfxdp/90149.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Xsports.br" tvg-logo="https://www.xsports.com.br/static/assets/images/x-sports-vem-chegando.jpg",X SPORTS
+https://pb-r54iiecsw1gj5.akamaized.net/XSports.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="RedeTV!.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png?20191113234216",REDE TV
-http://limed.cc:80/4x6cXF/ehfxdp/95470.m3u8
+http://45.162.64.114/REDE_TV/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Viva.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20241224170303",VIVA
 http://limed.cc:80/4x6cXF/ehfxdp/90440.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Multishow.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png",MULTISHOW
@@ -39,8 +39,6 @@ https://acesso.ecast.site:3104/hybrid/play.m3u8
 https://stmv2.samcast.com.br/dermeval8653/dermeval8653/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCidadedePetropolis.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/00bb19faeb0ea5b2ca8adcfcbaa1249c.webp",TV Cidade de Petrópolis
 https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA" tvg-id="TVSergipe.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",TV SERGIPE - SE
-https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="RFTV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-tv-br.png",REDE FAMÍLIA
 https://tv03.zas.media:1936/rftv/rftv/chunklist_w1301797576.m3u8
