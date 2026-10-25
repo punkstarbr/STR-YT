@@ -55,6 +55,8 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_
 https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo SP_local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TV_Globo_2024_azul.png/480px-TV_Globo_2024_azul.png",TV GLOBO - RJ
 http://iptv.vivatele.com:80/live/viva_padrao/viva2384/1.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo.br" tvg-name="GLOBO HD (NOVA)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",GLOBO HD (NOVA)
+http://streaming.sattvgo.com.br/GLOBO_HD/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="RedeMinas.mg" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.jpg",REDE MINAS
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w1642350627_b2771072.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD LITORAL E VALE - SP
