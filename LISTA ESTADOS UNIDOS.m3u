@@ -16,10 +16,10 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-id="PBS.World.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/PBS_logo_%282019%29.svg/1200px-PBS_logo_%282019%29.svg.png",PBS World
-https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+https://world.lls.pbs.org/index.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-id="USBC3600013PC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600013PC_20260421T133744SQUARE.png",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-id="Create.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/PBS_logo_%282019%29.svg/1200px-PBS_logo_%282019%29.svg.png",PBS Create
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
@@ -43,7 +43,7 @@ https://www.bloomberg.com/media-manifest/streams/politics.m3u8
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-id="USBD3000073N" tvg-logo="https://i.imgur.com/W0Jvi5o.png",Scripps News (HD ready)
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-id="USBB1500001GD" tvg-logo="https://i.imgur.com/37K0AZX.png",USA TODAY (HD ready)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8

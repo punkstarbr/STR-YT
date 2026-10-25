@@ -40,16 +40,16 @@ https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 
 #EXTINF:-1 group-title="Buddy TV" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true",FOX (WNYW) 1
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
 
 #EXTINF:-1 group-title="Buddy TV" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true",FOX (WNYW) 2
-http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
 
 #EXTINF:-1 group-title="Buddy TV" tvg-id="NBC.(KOMU).Columbia,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true",NBC (KOMU)
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 
 #EXTINF:-1 group-title="Buddy TV" tvg-id="NBC.(KSHB).Kansas.City,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true",NBC (KSHB)
-https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
+https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
 
 #EXTINF:-1 group-title="Buddy TV" tvg-id="NBC.(KYOU-DT2).Ottumwa,.IA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true",NBC (KYOU)
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
@@ -64,7 +64,7 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 http://143.244.60.30/CBSEAST/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX (WNYW)
-http://143.244.60.30/FOX_EAST/index.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" tvg-name="NBC",NBC
 http://143.244.60.30/NBC_EAST/index.m3u8
@@ -124,7 +124,7 @@ http://143.244.60.30/BLOOMBERG/index.m3u8
 http://143.244.60.30/BOOMERANG/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="BounceTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="Bounce",Bounce
-http://143.244.60.30/BOUNCE_TV/index.m3u8
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" tvg-name="BRAVO",BRAVO
 http://143.244.60.30/BRAVO/index.m3u8
@@ -172,7 +172,7 @@ http://143.244.60.30/CNN_INTERNATIONAL/index.m3u8
 http://143.244.60.30/Comedy_Central/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Comet.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comet-us.png" tvg-name="COMET",COMET
-http://143.244.60.30/COMET/index.m3u8
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="The.Cooking.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" tvg-name="COOKING",COOKING
 http://143.244.60.30/COOKING_CHANNEL/index.m3u8
@@ -619,7 +619,7 @@ http://143.244.60.30/REELZ/index.m3u8
 http://143.244.60.30/REVOLT/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Scripps.News.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/scripps-news-us.png?raw=true" tvg-name="Scripps News",Scripps News
-https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
+https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="SEC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" tvg-name="SEC Network",SEC Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/295
@@ -769,7 +769,7 @@ https://tvsen6.aynaott.com/cnn/index.m3u8
 https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
 
 #EXTINF:-1 group-title="Buddy TV" tvg-id="Comet.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true",Comet
-https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
 #EXTINF:-1 group-title="Buddy TV" tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/food-network-us.png?raw=true",FOOD
 https://streamer1.nexgen.bz//FOOD/index.m3u8
