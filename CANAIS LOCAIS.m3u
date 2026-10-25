@@ -14,9 +14,9 @@ http://limed.cc:80/4x6cXF/ehfxdp/95666.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Band Sao Paulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png",BAND
 http://limed.cc:80/4x6cXF/ehfxdp/95649.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Cultura HD.br" tvg-logo="https://i.imgur.com/zmheeSl.png",CULTURA
-http://limed.cc:80/4x6cXF/ehfxdp/89900.m3u8
+http://45.162.64.114/TV_CULTURA/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Tvbrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvBrasil2023.png",TV BRASIL
-http://limed.cc:80/4x6cXF/ehfxdp/90409.m3u8
+http://45.162.64.114/TV_BRASIL/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Xsports.br" tvg-logo="https://www.xsports.com.br/static/assets/images/x-sports-vem-chegando.jpg",X SPORTS
 https://pb-r54iiecsw1gj5.akamaized.net/XSports.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="RedeTV!.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png?20191113234216",REDE TV
@@ -30,15 +30,15 @@ http://limed.cc:80/4x6cXF/ehfxdp/90084.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Canalbrasil.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-2.png",CANAL BRASIL
 http://limed.cc:80/4x6cXF/ehfxdp/89840.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Futura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/120px-Canal_Futura.png",FUTURA
-http://limed.cc:80/4x6cXF/ehfxdp/89846.m3u8
+http://170.83.49.66:8083/FUTURAHD/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="TV Gazeta.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/120px-TV_Gazeta.svg.png",GAZETA
-http://limed.cc:80/4x6cXF/ehfxdp/90010.m3u8
+http://45.162.64.114/TV_GAZETA/index.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://i.imgur.com/6UoUybZ.png",TV VERDADE
 https://acesso.ecast.site:3104/hybrid/play.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://yt3.ggpht.com/Nw3Wmvgdcm9xOQK-UzAcfjSZnu4zho3Mrkeb4KwztlZBTQx8zuEz0C17bGYJLvvYdN57omljiw=s48-c-k-c0x00ffffff-no-rj",TVCB (Campos Belos-GO)
 https://stmv2.samcast.com.br/dermeval8653/dermeval8653/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCidadedePetropolis.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/00bb19faeb0ea5b2ca8adcfcbaa1249c.webp",TV Cidade de Petrópolis
-https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="RFTV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-tv-br.png",REDE FAMÍLIA
 https://tv03.zas.media:1936/rftv/rftv/chunklist_w1301797576.m3u8
@@ -80,7 +80,7 @@ http://limed.cc:80/4x6cXF/ehfxdp/89823.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BAND MAIS - SP
 http://limed.cc:80/4x6cXF/ehfxdp/89817.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",SBT INTERIOR - SP
-http://limed.cc:80/4x6cXF/ehfxdp/90287.m3u8
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",SBT RIO - RJ
 http://limed.cc:80/4x6cXF/ehfxdp/90290.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD BAHIA - BA
@@ -102,7 +102,7 @@ https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCultura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TV_Cultura_2023_logo.svg/1200px-TV_Cultura_2023_logo.svg.png",TV CULTURA SP HD
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1027478611.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCamara.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg/480px-C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg.png",TV CÂMARA
-https://stream3.camara.gov.br/tv1/manifest.m3u8?ManoTV
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCamara.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg/480px-C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg.png",TV CÂMARA DOS DEPUTADOS HD
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BAND VALE - SP
@@ -116,7 +116,7 @@ http://limed.cc:80/4x6cXF/ehfxdp/90305.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVAleal.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg/480px-C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg.png",TV ALEAL
 https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/chunklist_w1993324451.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="CanalGov.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/480px-Canal_Gov_Logo.png",CANAL GOV
-https://canalgov-stream.ebc.com.br/index.m3u8
+http://45.177.114.115/TV_BRASIL_2/index.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCamaraJP.pb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg/480px-C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg.png",TV CAMARA TUPÃ
 http://video.sinoinformatica.com.br:1935/cmtupa-live/sessaoaovivo/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVOitava.ce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg/480px-C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg.png",TV A OITAVA
