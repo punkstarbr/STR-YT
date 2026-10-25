@@ -22,7 +22,7 @@ https://www.grupoliberalmedia.com.br/rdcastanhal/liveradio/playlist.m3u8
 https://www.grupoliberalmedia.com.br/rdcastanhal/liveradio/chunklist_w317712096.m3u8
 
 #EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="Undefined" tvg-logo="https://i.imgur.com/pdM5uH7.jpg" radio="true",EXECUTIVA FM
-https://live.ojc.com.br/c2f4/myStream.m3u8
+http://live.ojc.com.br:8000/c2f4/myStream/playlist
 
 #EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="BandNewsFM.br" tvg-name="BandNews FM FAST" tvg-logo="https://d1hiif9y3rkpbt.cloudfront.net/Images/S3/LG_artwork/Logo-400x200.png" radio="true",BANDNEWS FM (FAST)
 https://amg29547-amg29547c2-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg29547-amg29547c2-amgplt0026/playlist.m3u8
