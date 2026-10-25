@@ -1,21 +1,21 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml,https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/germanypremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml"
 
 #EXTINF:-1 group-title="ULUSAL" tvg-id="TRT.1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
-http://stream.tvcdn.net/ulusal/trt-1.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="teve2.tr" tvg-name="TEVE2" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
 http://stream.tvcdn.net/eglence/teve2.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="360.tr" tvg-name="360" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
-http://hw1.jemtv.com/app/360tv/playlist.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="NTV.uk" tvg-name="NTV" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
-http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 #EXTINF:-1 group-title="HABER" tvg-id="Haber.Turk.al" tvg-name="HABER TÜRK" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
 http://stream.tvcdn.net/haber/haberturk.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="CNN.HD.vn" tvg-name="CNN TÜRK HD" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
 http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TRT.Haber.tr" tvg-name="TRT HABER" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" ,TRT HABER
-http://stream.tvcdn.net/haber/trt-haber.m3u8
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="A.Haber.tr" tvg-name="A HABER" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" ,A HABER
-http://stream.tvcdn.net/haber/a-haber.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="Bloomberg.HT.tr" tvg-name="BLOOMBERG HT" tvg-logo="https://i.ibb.co/PTNvZkD/bloomberg-ht.png" ,BLOOMBERG HT
 http://hw1.jemtv.com/app/bloomberght/playlist.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="24.tr" tvg-name="24" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" ,24
@@ -23,7 +23,7 @@ http://stream.tvcdn.net/haber/24-tv.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="NET.TV.id" tvg-name="TV NET" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" ,TV NET
 http://stream.tvcdn.net/haber/tvnet.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TGRT.Haber.tr" tvg-name="TGRT HABER HD" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
-http://stream.tvcdn.net/haber/tgrt-haber.m3u8
+https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="Sinema.TV.tr" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA TV
 http://tp.nxdns6.com:8080/Xtreamstore100con/BeonJBTzcHUFKotNNbXiW1tb4E/95
 #EXTINF:-1 group-title="SINEMA" tvg-id="Sinema.TV.2.tr" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA TV 2
@@ -73,9 +73,9 @@ http://hw1.jemtv.com/app/trtspor/playlist.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TV.8,5.tr" tvg-name="TV 8,5" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
 http://hw1.jemtv.com/app/tv85/playlist.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="A.Spor.tr" tvg-name="A SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" ,A SPOR
-http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TRT.Spor.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
-http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
 http://tp.nxdns6.com:8080/Xtreamstore100con/BeonJBTzcHUFKotNNbXiW1tb4E/44
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2

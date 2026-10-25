@@ -13,7 +13,7 @@ https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
 
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1920px-Rai_Movie_-_Logo_2017.svg.png" group-title="Italia",Rai Movie
-http://45.59.149.54:8032/play/s1886
+http://team-tv.co:81/raimovie/index.m3u8
 
 #EXTINF:-1 tvg-id="RaiWorldPremium.it" tvg-logo="https://tvprofil.com/img/kanali-logo/RAI_World_Premium_IT_logo_v2.png" group-title="Italia",Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
@@ -301,7 +301,7 @@ https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWQdg9LYK_WOZcklQi3Vd-QCzy5AALnJlsPWTruwOnROaUDGoPwPVf1nztmw&s",Aurora Arte
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-HsnWuWDG_48nGLWHDAurYkudfV0l6bKPsqPoMRh7teHm5q18ormCcIf5HQ&s",Azzurra Tv Vco
-https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8
+https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2fnqSfi9wFZ6CtzXq17hFYCHX-knQBdXEReOdMU2TRWDccWQ32RAVLb7hYw&s",Aurora Arte (480p)
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPwZnhTg6IUJdA0_2Xxb3hqI14rf6df8JaH0d5lZhBZDJbkp1or_O-9XNww2k&s",Camera dei Deputati (via RR) (240p)

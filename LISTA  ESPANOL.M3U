@@ -20,7 +20,7 @@ https://gitlab.com/movrey/movrel/-/raw/main/telecinco.m3u8
 https://gitlab.com/movrey/movrel/-/raw/main/sexta.m3u8
 
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="Chilevisión" group-title="CHILE - NACIONAIS" tvg-logo="https://www.chilevision.cl/_templates/globals/img/logo.png",Chilevisión
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+http://15.204.246.24:8080/CHVHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN Chile" group-title="CHILE - NACIONAIS" tvg-logo="https://www.tvn.cl/tvn/site/artic/20260909/imag/foto_0000000220260909181136/logo-tvn.svg",TVN Chile (1080p)
 http://45.173.231.22:8000/play/a06l/index.m3u8
@@ -38,7 +38,7 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" group-title="ESPANHA - NACIONAIS" tvg-logo="https://graph.facebook.com/tracesportstars/picture?width=200&height=200",Trace Sport Stars
-http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" group-title="ESPANHA - NACIONAIS" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
