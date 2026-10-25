@@ -19,6 +19,12 @@ https://gitlab.com/movrey/movrel/-/raw/main/telecinco.m3u8
 #EXTINF:-1 tvg-id="laSexta.es" tvg-name="La Sexta" group-title="ESPANHA - NACIONAIS" tvg-logo="https://graph.facebook.com/lasextatv/picture?width=200&height=200",La Sexta
 https://gitlab.com/movrey/movrel/-/raw/main/sexta.m3u8
 
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="Chilevisión" group-title="CHILE - NACIONAIS" tvg-logo="https://www.chilevision.cl/_templates/globals/img/logo.png",Chilevisión
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN Chile" group-title="CHILE - NACIONAIS" tvg-logo="https://www.tvn.cl/tvn/site/artic/20260909/imag/foto_0000000220260909181136/logo-tvn.svg",TVN Chile (1080p)
+http://45.173.231.22:8000/play/a06l/index.m3u8
+
 #EXTINF:-1 tvg-id="Trece.es" tvg-name="Trece TV" group-title="ESPANHA - NACIONAIS" tvg-logo="https://graph.facebook.com/13tv/picture?width=200&height=200",Trece TV
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
 
