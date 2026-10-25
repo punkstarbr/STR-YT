@@ -456,10 +456,10 @@ https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x
 #EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="BloombergTelevision.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBAMx5ocyi-5mmkLQHwD0w1vteFbhZwme0iLwR4F1Aos64MpycYMYVHThM_Ic&s",Bloomberg Television
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="465497" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/120px-Record_News_logo_2022.svg.png",RECORD NEWS
-http://limed.cc:80/4x6cXF/ehfxdp/90259.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Band.News.br" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Band_News_TV_2021_Logo.png/800px-Band_News_TV_2021_Logo.png",BAND NEWS
 http://limed.cc:80/4x6cXF/ehfxdp/89820.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="RecordNews.br" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/120px-Record_News_logo_2022.svg.png",RECORD NEWS
+http://limed.cc:80/4x6cXF/ehfxdp/90259.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Band.News.HD.br" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png",Band News HD
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120587
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Band.News.HD.br" tvg-name="BAND NEWS HD (ALT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Band_News_TV_2021_Logo.png/800px-Band_News_TV_2021_Logo.png",BAND NEWS HD (ALT)
@@ -1503,7 +1503,7 @@ https://live.i-news.tv/hls/stream.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="sicnoticias.pt" tvg-logo="https://i.imgur.com/Gi6Q26M.png",SIC Notícias (1080p)
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="465497" tvg-logo="https://i.imgur.com/HZDRG0K.png",Record News (720p)
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/HZDRG0K.png",Record News (720p)
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="TCM10HD.br" tvg-logo="https://i.imgur.com/aMuMVvB.png",TCM 10 HD (1080p)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
