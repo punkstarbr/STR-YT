@@ -67,7 +67,7 @@ http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 #EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="USBD1200021JM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20260421T133807SQUARE.png",Shout! Factory TV (1080p)
-http://shoutfactory-redbox.amagi.tv/playlist.m3u8
+https://d1s1wrpgemt9re.cloudfront.net/Shout_TV.m3u8
 
 #EXTINF:-1 group-title="ESTADOS UNIDOS" tvg-id="TD.Ameritrade.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TD_Ameritrade_logo_2019.svg/1200px-TD_Ameritrade_logo_2019.svg.png",TD Ameritrade Network (1080p)
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
@@ -79,7 +79,7 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/ase
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aswest.us.m3u8
 
 #EXTINF:-1 group-title="Live Channels" tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN (Adaptive)
-https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/cnn.us.m3u8
+https://tvsen6.aynaott.com/cnn/index.m3u8
 
 #EXTINF:-1 group-title="Live Channels" tvg-id="USBA34000049Z" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png",Court TV East
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8

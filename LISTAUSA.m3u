@@ -163,7 +163,7 @@ http://143.244.60.30/CMT/index.m3u8
 http://143.244.60.30/CNBC/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="CNN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" tvg-name="CNN",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+https://tvsen6.aynaott.com/cnn/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Cable.News.Network.International.(CNNI).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" tvg-name="CNN INTERNATIONAL",CNN INTERNATIONAL
 http://143.244.60.30/CNN_INTERNATIONAL/index.m3u8
@@ -232,10 +232,10 @@ http://143.244.60.30/DIY/index.m3u8
 http://143.244.60.30/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" tvg-name="ESPN",ESPN
-http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/133.m3u8
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="ESPN2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" tvg-name="ESPN 2",ESPN 2
-http://143.244.60.30/ESPN_2/index.m3u8
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="ESPN.News.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" tvg-name="ESPN NEWS",ESPN NEWS
 http://143.244.60.30/ESPN_NEWS/index.m3u8
@@ -247,7 +247,7 @@ http://143.244.60.30/ESPN_U/index.m3u8
 http://143.244.60.30/FOOD_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Fox.Business.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" tvg-name="FOX Business Network",FOX Business Network
-http://143.244.60.30/FOX_Business_Network/index.m3u8
+https://tvsen6.aynaott.com/foxbusiness/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Fox.News.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" tvg-name="FOX News Channel",FOX News Channel
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/267.m3u8
@@ -283,7 +283,7 @@ http://143.244.60.30/FXX/index.m3u8
 http://143.244.60.30/FYI/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Game.Show.Network.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" tvg-name="GAME SHOW NETWORK",GAME SHOW NETWORK
-http://143.244.60.30/GAME_SHOW_NETWORK/index.m3u8
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="get.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/get-tv-us.png?raw=true" tvg-name="getTV",getTV
 http://143.244.60.30/GET_TV/index.m3u8
@@ -292,7 +292,7 @@ http://143.244.60.30/GET_TV/index.m3u8
 http://143.244.60.30/GRIT_TV/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Hallmark.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" tvg-name="Hallmark Channel",Hallmark Channel
-http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
+http://41.205.93.154/HALLMARK/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" tvg-name="Hallmark Family",Hallmark Family
 http://143.244.60.30/HALLMARK_DRAMA/index.m3u8
@@ -325,7 +325,7 @@ http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/153.m3u8
 http://143.244.60.30/HLN/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="HSN..-.Home.Shopping.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hsn-us.png" tvg-name="HSN",HSN
-http://143.244.60.30/HSN/index.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Investigation.Discovery.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" tvg-name="ID (Investigation Discovery)",ID (Investigation Discovery)
 http://143.244.60.30/INVESTIGATION_DISCOVERY/index.m3u8
@@ -607,10 +607,10 @@ http://143.244.60.30/PPV_5/index.m3u8
 http://143.244.60.30/PPV_6/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Pursuit.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" tvg-name="Pursuit Channel",Pursuit Channel
-http://143.244.60.30/Pursuit_Channel/index.m3u8
+https://a-cdn.klowdtv.com/live3/pursuit_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="QVC.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/qvc-us.png" tvg-name="QVC",QVC
-http://143.244.60.30/QVC/index.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="ReelzChannel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" tvg-name="ReelzChannel",ReelzChannel
 http://143.244.60.30/REELZ/index.m3u8
@@ -763,7 +763,7 @@ https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Singl
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/aswest.us.m3u8
 
 #EXTINF:-1 group-title="Buddy TV" tvg-id="CNN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://tvsen6.aynaott.com/cnn/index.m3u8
 
 #EXTINF:-1 group-title="Buddy TV" tvg-id="Charge.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/charge-us.png?raw=true",Charge
 https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
