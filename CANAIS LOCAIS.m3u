@@ -184,7 +184,7 @@ https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_da_RedeTV%21.svg/480px-Logo_da_RedeTV%21.svg.png",REDE TV! SÃO LUIS
 https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="SertaoTV.ce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",SERTÃO TV - CE
-http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+https://video11.logicahost.com.br/sertaotv/sertaotv/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_da_RedeTV%21.svg/480px-Logo_da_RedeTV%21.svg.png",REDE TV! MT PANTANAL
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_da_RedeTV%21.svg/480px-Logo_da_RedeTV%21.svg.png",RedeTV! RS
@@ -218,7 +218,7 @@ http://limed.cc:80/4x6cXF/ehfxdp/100660.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="CATVE.pr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TV_Cultura_2023_logo.svg/1200px-TV_Cultura_2023_logo.svg.png",CATVE - PR
 http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="BemMelhor.sc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BEM MELHOR - SC
-https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="FashionTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TV_Brasil_2022_logo.svg/480px-TV_Brasil_2022_logo.svg.png",FASHION TV BRASIL
 http://limed.cc:80/4x6cXF/ehfxdp/89982.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="CanalGov.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/480px-Canal_Gov_Logo.png",CANAL SAÚDE
@@ -264,7 +264,7 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w328778514.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVBrasilCentral.go" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TV_Brasil_2022_logo.svg/480px-TV_Brasil_2022_logo.svg.png",TV BRASIL CENTRAL - GO
 https://tbc.zoeweb.tv/tbc/tbc/master.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVCultura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TV_Cultura_2023_logo.svg/1200px-TV_Cultura_2023_logo.svg.png",TV CULTURAL HD
-https://cdn.technettv.com/channel/29912/logo_256.png
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVCNB.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV CNB
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVClubeWeb.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV CLUBE WEB
@@ -280,7 +280,7 @@ https://isaocorp.cloudecast.com/tvgramado/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVMetropolitana.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV METROPOLITANA
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVLondres.mt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV LONDRES
-https://w6oy7eg3dxrg-hls-live.5centscdn.com/8744_push_3653_001/05a4e5d3c1769a61f8350e4fc677a4a5.sdp/live/8744_push_3653_001Tvlondres/chunks.m3u8
+https://cdn.tvlondres.com/8744_push_3653_001/05a4e5d3c1769a61f8350e4fc677a4a5.sdp/8744_push_3653_001/Tvlondres/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVItape.sc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV ITAPÊ
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVGuarulhos.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV GUARULHOS
@@ -308,7 +308,7 @@ https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w114853363.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVRSul.sc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TVR SUL - SC
 https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/chunklist_w1525695506.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVVotorantim.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV VOTORANTIM
-https://stmv1.paineldevideo.com.br/tvvotorantim/tvvotorantim/chunklist_w1385653592.m3u8
+https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVVideonews.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV VIDEONEWS - SP
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVSol.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV SOL
