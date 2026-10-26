@@ -450,9 +450,9 @@ https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
 #EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="BLOOMBERG TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Brasil
 https://bloomberg-bloomberg-3-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="6110" tvg-name="Blomberg US" tvg-logo="https://i.imgur.com/idRFfhY.png",Blomberg US
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="BloombergTelevision.us" tvg-name="Bloomberg Politics" tvg-logo="https://i.imgur.com/WdpIGAF.png",Bloomberg Politics
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
+https://www.bloomberg.com/media-manifest/streams/politics.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="ABC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSByudCbCLNVmjaJFPHKZ7aKWNp_xbG1-kvVBFJdPg373zsAvwoQ2egSS5p8KE&s",ABC7_NY_WABC
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8?DVR
 #EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="BloombergTelevision.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBAMx5ocyi-5mmkLQHwD0w1vteFbhZwme0iLwR4F1Aos64MpycYMYVHThM_Ic&s",Bloomberg Television
@@ -766,7 +766,7 @@ https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="ABC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSByudCbCLNVmjaJFPHKZ7aKWNp_xbG1-kvVBFJdPg373zsAvwoQ2egSS5p8KE&s",ABC7 NY WABC LIVE 1
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/WABCLive1.m3u8?DVR
 #EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="FRBD4100006OC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Business_2020.png",BFM Business
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNA.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/CNA_logo.svg/512px-CNA_logo.svg.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="492874" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/cna-int.png" group-title="NEWS WORLD",CNA
@@ -846,7 +846,7 @@ https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png",ARB 24 (1080p)
 http://85.132.81.184:8080/arb/live/index.m3u8
 #EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="RBKTV.ru" tvg-logo="https://i.imgur.com/CwhmJby.png",РБК (560p)
-http://92.50.128.180/utv/1358/index.m3u8
+https://online-video.rbc.ru/online/rbctv.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIbfM4Bv_G96pIjvIJxDZ4i4kc6y-IafQzBRKxTkhfxfQCdRALicR-GA0r-Q&s",Al Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://flagcdn.com/us.svg",PENTAGONO USA
@@ -866,7 +866,7 @@ http://live.gtrk.tv/hls/b24-hls.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Bashkortostan24.ru" tvg-logo="https://i.imgur.com/s34Wtz6.png",Башкортостан 24 (1080p)
 http://live.gtrk.tv/hls/b24-hls.m3u8
 #EXTINF:-1 group-title="BUSINESS NEWS" tvg-id="AsharqNewsPortrait.sa" tvg-logo="https://i.imgur.com/bqRC3sl.png",Asharq News Portrait (1280p)
-https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
+https://live-news.asharq.com/asharq.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CTV.ca" tvg-logo="https://ainmcl.github.io/MonitorTV/Monitores/imagenes/Logo_GOB.svg",CCTV +3 SERVIÇO
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL3.smil/chunklist_w1502015261_b1000000.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CTV.ca" tvg-logo="https://ainmcl.github.io/MonitorTV/Monitores/imagenes/Logo_GOB.svg",CCTV +4 SERVIÇO
