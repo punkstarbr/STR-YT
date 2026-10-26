@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="TV#Korea" tvg-id="PBSKids.us" tvg-logo="https://static.skylife.co.kr/upload/channel/201309/1378973199000.gif",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8?cc
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 
 #EXTINF:-1 group-title="TV#Korea" tvg-id="EBS.kr" tvg-logo="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_113.gif",EBS 2 (400p)
 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8

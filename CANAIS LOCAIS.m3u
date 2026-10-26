@@ -49,10 +49,10 @@ https://tv03.zas.media:1936/rftv/rftv/chunklist_w1301797576.m3u8
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1553191580.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="TVEBahia.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-bahia-br.png",TVE BAHIA
-http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="RedeBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rede_Brasil_de_Televis%C3%A3o_Logo2023.png/480px-Rede_Brasil_de_Televis%C3%A3o_Logo2023.png",REDE BRASIL
-https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w466484883.m3u8
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="COMBrasil.br" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png",COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo SP_local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TV_Globo_2024_azul.png/480px-TV_Globo_2024_azul.png",TV GLOBO - RJ
@@ -106,7 +106,7 @@ http://limed.cc:80/4x6cXF/ehfxdp/90252.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="TVGuara.ma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_da_RedeTV%21.svg/480px-Logo_da_RedeTV%21.svg.png",TV GUARÁ CAXIAS - MA
 https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCultura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TV_Cultura_2023_logo.svg/1200px-TV_Cultura_2023_logo.svg.png",TV CULTURA SP HD
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1027478611.m3u8
+http://45.162.64.114/TV_CULTURA/index.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCamara.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg/480px-C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg.png",TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCamara.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg/480px-C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg.png",TV CÂMARA DOS DEPUTADOS HD
@@ -138,7 +138,7 @@ https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BAND MINAS - MG
 http://limed.cc:80/4x6cXF/ehfxdp/110234.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",SBT TV CIDADE VERDE PI
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1196569154.m3u8
+https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVAlba.ba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg/480px-C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg.png",TV ALBA
 https://live.mediastreaming.com.br/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",SBT TV DIFUSORA MA
@@ -188,7 +188,7 @@ https://video11.logicahost.com.br/sertaotv/sertaotv/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_da_RedeTV%21.svg/480px-Logo_da_RedeTV%21.svg.png",REDE TV! MT PANTANAL
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_da_RedeTV%21.svg/480px-Logo_da_RedeTV%21.svg.png",RedeTV! RS
-https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+http://45.162.64.114/REDE_TV/index.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_da_RedeTV%21.svg/480px-Logo_da_RedeTV%21.svg.png",RedeTV! PR
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVDiario.pb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV DIÁRIO DO SERTÃO - PB

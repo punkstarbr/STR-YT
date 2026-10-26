@@ -121,7 +121,7 @@ http://143.244.60.30/BIG_TEN_NETWORK/index.m3u8
 http://143.244.60.30/BLOOMBERG/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Boomerang.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" tvg-name="Boomerang",Boomerang
-http://143.244.60.30/BOOMERANG/index.m3u8
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="BounceTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="Bounce",Bounce
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
@@ -322,7 +322,7 @@ http://143.244.60.30/HGTV/index.m3u8
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/153.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="HLN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" tvg-name="HLN",HLN
-http://143.244.60.30/HLN/index.m3u8
+http://23.237.104.106:8080/USA_HLN/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="HSN..-.Home.Shopping.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hsn-us.png" tvg-name="HSN",HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
