@@ -39,6 +39,10 @@ https://acesso.ecast.site:3104/hybrid/play.m3u8
 https://stmv2.samcast.com.br/dermeval8653/dermeval8653/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCidadedePetropolis.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/00bb19faeb0ea5b2ca8adcfcbaa1249c.webp",TV Cidade de Petrópolis
 https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVMetropole.br@SD" tvg-logo="https://i.imgur.com/bJyjLpg.png",TV METRÓPOLE NEWS (CMN) - GO
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="NovaTVIPetropolis.br" tvg-name="Nova TVI Petrópolis" tvg-logo="https://pa-str.srvsite.com/arquivos/7140/cabecalho-7140-20240911033310.png",NOVA TVI PETRÓPOLIS
+https://stmv8.samcast.com.br/novatvi2098/novatvi2098/playlist.m3u8
 
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="RFTV.br" tvg-logo="https://www.rftv.com.br/wp-content/uploads/2023/08/og-1.jpg",REDE FAMÍLIA
 https://tv03.zas.media:1936/rftv/rftv/chunklist_w1301797576.m3u8
