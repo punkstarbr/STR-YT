@@ -224,7 +224,7 @@ https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="FashionTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TV_Brasil_2022_logo.svg/480px-TV_Brasil_2022_logo.svg.png",FASHION TV BRASIL
 http://limed.cc:80/4x6cXF/ehfxdp/89982.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="CanalGov.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/480px-Canal_Gov_Logo.png",CANAL SAÚDE
-https://eitv2.cdn.broadpeak.io/account351-i1495/event/canalsaude/auto.m3u8
+https://cdn.aws.eitvcloud.com/account351-i1495/event/canalsaude/auto.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="CanalGov.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/480px-Canal_Gov_Logo.png",CANAL LIBRAS
 https://canallibras-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="NovaEraTV.sc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",NOVA ERA TV - SC
