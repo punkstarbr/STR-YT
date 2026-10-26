@@ -618,7 +618,7 @@ https://unlimited1-cl-isp.dps.live/emoltv/emoltv.smil/playlist.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="EmolTV2.cl" tvg-name="Emol TV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-X1Kh6H1Nqk_XpDR66Fyib432arS_LEYAsV9jxs2zwhnx269ijdUCa1GuWA&s",Emol TV 2
 https://unlimited1-cl-isp.dps.live/emoltv2/emoltv2.smil/playlist.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="NTVNews24.jp" tvg-name="NTV NEWS 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCk9M-xyXeFce8DN38L__ZLpJNreia4yHOtrUsMF_GORTWye3x49bv2vKSKFI&s",NTV NEWS 24 (Japan)
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8?DVR
+https://n24-cdn-live-x.ntv.co.jp/ch01/index.m3u8?pta=40d64b6b80211e62ecd700b683ca646716e493cd0088d1003668f9f2b8a48cfe
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="NASA.TV.pl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Se5XijkgvDHbp9xOiGHL8OLhXVFJHR4riypuBfWydZecs00v-V-DRrm-Rg&s",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcaHMYLdc4PYFnUgVyc-NgXRfDmVzNVcCifhiZuUtGZhy6OWD25pspnfrvZyI&s",ONDA DIGITAL
@@ -642,7 +642,7 @@ https://v2.tustreaming.cl/alingeproducciones/index.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="SubelaRadio.cl" tvg-name="Súbela Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvsnuRyFMq7rPmcjP-fqtZ34flu1vmBNbEjKgUtx9emg-qIGMoOux52LQdEQ&s",RADIO SUBELA
 https://mdstrm.com/live-stream-playlist/6580414b99f9d36397019551.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="TeleSur.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBhMNO1E6J2UkNpN_0mByNsuWyrpHJLLrvm1MpVMygK8BsqxirWnAZL2Q-ZnY&s",TELESUR
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?DVR
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="TelesurEnglish.ve" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqtu8c9GZXS6eyyHTJVp-032XeEsB3vuJP4c0OUbFsFbE4Y9ad5UIaCwp4_KM&s",TELESUR ENG
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2918vsmBn-tVz3w9ohA3NB9rqh76VvFFZyjXCBg_EN2ZPmCcexE6CpRRKBu8&s",TELEPACIFICO
@@ -1066,7 +1066,7 @@ https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="WJCLDT1.us" tvg-logo="https://i.imgur.com/Q4B9h5L.png",ABC 22 Savannah GA (WJCL) (720p)
 https://apollo.production-public.tubi.io/live/ac-wjcl.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="WPBFDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",ABC 25 West Palm Beach FL (WPBF) (720p)
-https://apollo.production-public.tubi.io/live/ac-wpbf.m3u8
+https://content.uplynk.com/channel/c0e57ea974a4476f99d76c3130c8ab62.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="KABCDT1247News.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png",ABC 7 Los Angeles CA (KABC-TV) (720p)
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Channel24.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png",24 Канал (1080p)
@@ -1726,7 +1726,7 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?of
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="KCKSLD7.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rev%27n_logo.jpg/512px-Rev%27n_logo.jpg",Rev'n (KCKS-LD7) (480p)
 https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="ReportTV.al" tvg-logo="https://i.imgur.com/C9lM1KP.png",Report TV (720p)
-https://deb10stream.duckdns.org/hls/stream.m3u8
+https://deb20stream.duckdns.org/signed/stream.m3u8?ttl=5400
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="PTV.ua" tvg-logo="https://i.imgur.com/WDHoSVz.png",PTV (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="RTMASEAN.my" tvg-logo="https://i.imgur.com/skAiUxg.png",RTM ASEAN
@@ -1768,7 +1768,7 @@ https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="SudarshanNews.in" tvg-logo="https://i.imgur.com/7AV1VI9.png",Sudarshan News (720p)
 https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/SvjU4h6.png",Sky News Arabia (1080p) [Not 24/7]
-https://stream.skynewsarabia.com/ott/ott.m3u8
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="65e9dcd81803650008303d00" tvg-logo="https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg",Start TV (480p)
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="TelesurEnglish.ve" tvg-logo="https://comteco.com.bo/img/upload/canales/1yD2hc.png",TeleSUR English (1080p) [Not 24/7]

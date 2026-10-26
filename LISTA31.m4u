@@ -296,11 +296,11 @@ http://185.210.20.13:8080/0.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="turcomenistosport.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA4b32v0sRURPF0dptNhJ82-X3NhGwkipKKmlfRofHg9FphAb39Aw7dZ4R5w&s",Turcomenistão Sport
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="tvcosmos151pe.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjj9qCd4sMvAvRjlb_HhzScrzMBLQKyBvhrWyi8-zchkjBeV-agyX05G_BKZc&s",TV Cosmos 15.1 | PE
-https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
+https://videoserver.tmcreativos.com:2020/hls/tvcosmos/tvcosmos.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="tvbrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm81u-8R2UBHG4Ib_oraBNDFn30M4lJqZpauLibmoF4GlSqy6jK-namE3LS8A&s",TV Brasil² HD
 https://www.dailymotion.com/video/x82pp99
 #EXTINF:-1 group-title="Undefined" tvg-id="tvcamara.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_7d8hDlOVWL6aJXd3XGz7DpsTNnynT4Otwkh36WnuIXj9GK4nDRFNBevtvw&s",TV Câmara Canal 1¹ (DF)
-http://stream3.camara.gov.br/tv1/manifest.m3u8
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="novotempo.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKq6l1wn6-s0ZJCzrGcAbjbRF98EWkGgJatI_RsEHMYLw-4mkYC7GrcKerskw&s",TV Novo Tempo HD (Jacareí-SP)
 http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="novotempo.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKq6l1wn6-s0ZJCzrGcAbjbRF98EWkGgJatI_RsEHMYLw-4mkYC7GrcKerskw&s",TV Novo Tempo HD (Jacareí-SP)
@@ -556,9 +556,9 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="band.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnS5k9UbVQWGUUUXsT31TBmI7Wb5NjBWxkRXkLUOlRe1WlepHLXBqxN4eI4uA&s",BAND
 http://168.205.87.198:8555/live/michele/123456/19.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-id="badentvhdalemanha.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Lrm4uJ3EV7GtG7vdFsR3WOkmrsIYcBsPHw-o7wimrZd-ubcJgt-om2ZWwmI&s",Baden TV² HD (Alemanha)
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w550637166.m3u8
+https://stream04.welocal.stream/stream/fhd-badentv_231351/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="badentvhdalemanha.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-J7LmZawT_nW1zMjjmi7FvnPgkvIJ3bhW4H169OqcHyxsOgwnLga6H5NYy8&s",Baden TV¹ HD (Alemanha)
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+https://stream04.welocal.stream/stream/fhd-badentv_231351/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="baadecascais.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8WEk-EJi2MFARJ9449kuCoJ4wFxlf5i07SGEIoSDCC8_yivRNA9Cg91WKw&s",Baía de Cascais
 https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="band.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnS5k9UbVQWGUUUXsT31TBmI7Wb5NjBWxkRXkLUOlRe1WlepHLXBqxN4eI4uA&s",BAND
@@ -778,7 +778,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 #EXTINF:-1 group-title="N/A" tvg-id="publicauseast3.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOnLKGnde0FW_Y_cY9J6A8gidk1fLo6Jc5AqmXTtvbNdzSUWyaglU2GRwBA&s",Publica US East 3
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
 #EXTINF:-1 group-title="N/A" tvg-id="fashiontvparis.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-kgYHdDuvaMTjfF-paCCNE08KoaMIlWlfn6eDBjP8H4_et5Dtt69YH4PkfA&s",Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8?wowzasessionid=inspiration
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 group-title="Local Now" tvg-id="localnowchannel80.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Local Now Channel 80
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="publicauseast4.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5LwsA2LhuP5nwkUu5dJf0HHIXrLQIIfb5WgS7UJN8Ks_i6kRR5Vt1Upi-Ew&s",Publica US East 4
@@ -961,7 +961,7 @@ https://estrellanews-plex.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="NEWS EUROPE" tvg-id="ertnews720pgeoblocked.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLXbF4jREVY3t5JsDe-c3SB1u4ogr4ieAP1yHUc_G0X5uwSURZx91pLTEpMgo&s",ERT News (720p) [Geo-blocked]
-http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 
 #EXTINF:-1 group-title="NEWS ASIA" tvg-id="ekusheytv480p.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIN2CBtkY8BymEmggMyZabPXl1OImBP4m3uZfbD7OkmR8s33MP1Gfw4Gl0jg&s",Ekushey TV (480p)
 https://ekusheyserver.com/etvlivesn.m3u8
