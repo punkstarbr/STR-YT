@@ -1634,7 +1634,7 @@ https://edge.essastream.com/noticias16/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Newsy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/512px-Newsy_2021.svg.png",Newsy (1080p)
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="NRTTV.iq" tvg-logo="https://i.imgur.com/uGKGtbW.png",NRT TV (720p) [Not 24/7]
-https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+https://hlspackager.akamaized.net/live/DB/NRT_HD/HLS/NRT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="NotiUnoTV.pr" tvg-logo="https://i.imgur.com/qNdywBT.png",NotiUno TV (854p) [Not 24/7]
 https://59a564764e2b6.streamlock.net/notiunotv/notiunotv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="NuevoMundoTV.gt" tvg-logo="https://i.imgur.com/j3OGO3V.png",Nuevo Mundo TV (720p)
@@ -1712,7 +1712,7 @@ https://159.69.221.56/panorama/livestream/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="RadioAncon.pa" tvg-logo="https://i.imgur.com/xum8PNe.jpg",Radio Ancón (720p)
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="RDXGoa.in" tvg-logo="https://rdxgoa.com/news/wp-content/uploads/2018/07/cropped-RDX-NW-LOGO-8-1.png",RDX Goa (720p)
-https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist_dvr.m3u8
+https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="RaajjeTV.mv" tvg-logo="https://i.imgur.com/NvYCCGl.png",Raajje TV (480p)
 https://stream.raajje.mv/live/stream_c95ravtr7cyk/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="RelevantTV.il" tvg-logo="https://i.imgur.com/jCZ5gFO.png",Relevant TV (1080p)

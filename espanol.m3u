@@ -43,7 +43,7 @@ https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalMalaga.es" tvg-logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200",Andalucía: Canal Málaga
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMCordoba.es" tvg-logo="https://graph.facebook.com/TVM.Cordoba/picture?width=200&height=200",Andalucía: TVM Córdoba
-https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8
+https://d16pwlnz9msuji.cloudfront.net/wct-dad9c712-1c61-4a61-aeee-8be9f5c9e6e9/continuous/8fbfd2f5-30c2-4d48-a24e-73f5d35ba491/index.m3u8
 #EXTINF:-1 tvg-id="8TVCadiz.es" tvg-logo="https://graph.facebook.com/8tvcadiz/picture?width=200&height=200",Andalucía: 8 TV Cádiz
 https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8
 #EXTINF:-1 tvg-id="MirameTVCanarias.es" tvg-logo="https://graph.facebook.com/MirameTVCanarias/picture?width=200&height=200",Canarias: Mírame TV
@@ -63,7 +63,7 @@ https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
 #EXTINF:-1 tvg-id="ImasTV.es" tvg-logo="https://graph.facebook.com/television.imas/picture?width=200&height=200",Castilla-La Mancha: Imás TV
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 #EXTINF:-1 tvg-id="AlcarriaTV.es" tvg-logo="https://graph.facebook.com/AlcarriaTV/picture?width=200&height=200",Castilla-La Mancha: Alcarria TV
-https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlcarriaTV2.es" tvg-logo="https://graph.facebook.com/AlcarriaTV/picture?width=200&height=200",Castilla-La Mancha: Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-id="Canal4ManchaCentro.es" tvg-logo="https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200",Castilla-La Mancha: Canal 4 Mancha Centro
@@ -83,7 +83,7 @@ http://iptv.services.everywan.net:8080/martv-web/video.m3u8
 #EXTINF:-1 tvg-id="IntercomarcalTV.es" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200",C. Valenciana: Intercomarcal TV
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 #EXTINF:-1 tvg-id="IntercomarcalTV.es" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200",C. Valenciana: Intercomarcal TV
-https://streamingtvi.gestec-video.com/hls/tvixa1.m3u8
+https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 #EXTINF:-1 tvg-id="IntercomarcalTV.es" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200",C. Valenciana: Intercomarcal TV
 https://streamingtvi.gestec-video.com/hls/tvixa3.m3u8
 #EXTINF:-1 tvg-id="RiberaTV.es" tvg-logo="https://graph.facebook.com/grup.televisio/picture?width=200&height=200",C. Valenciana: Ribera TV
@@ -260,7 +260,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="QMusic.nl" tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200",Musicales: QMusic Holanda NL
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 tvg-id="4FUN.tv" tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200",Musicales: 4FUN TV Polonia PL
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8
 #EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200",Musicales: Radio Italia TV IT
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-id="Ocko.cz" tvg-logo="https://graph.facebook.com/tvocko/picture?width=200&height=200",Musicales: Ocko Chequia CZ
@@ -272,11 +272,11 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-id="ONTV.pt" tvg-logo="https://graph.facebook.com/ONFM93.8/picture?width=200&height=200",Musicales: ON TV Portugal
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
 #EXTINF:-1 tvg-id="NRG91.gr" tvg-logo="https://graph.facebook.com/NRG91/picture?width=200&height=200",Musicales: NRG91 Grecia
-https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-id="V2Beat.tv" tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=200&height=200",Musicales: V2Beat TV EN
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="https://graph.facebook.com/powerapp/picture?width=200&height=200",Musicales: Power TV Turquía
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200",Musicales: First Music Channel Bielorrusia
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200",Musicales: First Music Channel Bielorrusia
@@ -334,7 +334,7 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EWTN.us" tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200",Religiosos: EWTN España EN
-https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ecclesia.es" tvg-logo="https://graph.facebook.com/ecclesiacope/picture?width=200&height=200",Religiosos: Ecclesia COPE España
 https://cope-religion-video.flumotion.com/playlist.m3u8
