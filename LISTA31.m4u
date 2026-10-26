@@ -230,7 +230,7 @@ http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlis
 #EXTINF:-1 group-title="Undefined" tvg-id="riberatv.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0U05x5mW8f-dTRFV-DTQn53Vmb-o-YwM6-WDABozRZgKDcU-iKujpgXEKg&s",RiberaTV
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="sertotvquixeramobimce.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ7_rBRAS0lQa1i20EITW8e3JHOKmvflKV2CHoFA4utN4hVh3safPQesyL1FM&s",Sertão TV³ (Quixeramobim-CE)
-http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w1802821028.m3u8
+https://video11.logicahost.com.br/sertaotv/sertaotv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="salvaciontvpr.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4wVlKk28f_NpoXgDqzGUvMBSV2f2q4sBIXnfrAKiqw_18ez9RN82lJIJ7wQ&s",Salvacion TV | PR
 https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="sizartcanal24zacatecasmx.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTve4cmr4twAJp9RzE_h896ver8m-vvQjK0-lBkfW9VUoFIYVnwKZRyt17y374&s",SIZART Canal 24 Zacatecas | MX
@@ -918,7 +918,7 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="abpmajha720p.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIYRkzJw0xa78grsFtmchVF3E8XJJrqwncnfPWg9wI0wdcmS271LK-qLAN3c&s",ABP Majha (720p)
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
 #EXTINF:-1 group-title="NEWS ARABIC" tvg-id="alarabytv1080p.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXccI7BMbuz4FoMy1JPqUJcjZZ7nncNfZe5LS79So46DHd3HmtrTY75aJedTI&s",Alaraby TV (1080p)
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS USA" tvg-id="americasvoice720p.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkPND-_SYX_3CUXykyLHeMQFcTWkBP-GO2bgXUWzzcb5HAOIiZ0e503sVx2OA&s",America's Voice (720p)
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8

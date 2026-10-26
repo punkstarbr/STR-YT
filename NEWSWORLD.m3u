@@ -1648,7 +1648,7 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="NDTVIndia.in" tvg-logo="https://i.imgur.com/PyDjUZB.png",NDTV India (480p) [Not 24/7]
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTVIndia.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="IN3900001YE" tvg-logo="https://i.imgur.com/x72O77X.png",News 24 (720p)
-https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+https://news24cdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Makan33.il" tvg-logo="https://i.imgur.com/RVtQTed.png",Makan 33 (1080p)
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",NHK World-Japan (720p)
@@ -1712,9 +1712,9 @@ http://198.244.188.94/panorama/livestream/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="RadioAncon.pa" tvg-logo="https://i.imgur.com/xum8PNe.jpg",Radio Ancón (720p)
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="RDXGoa.in" tvg-logo="https://rdxgoa.com/news/wp-content/uploads/2018/07/cropped-RDX-NW-LOGO-8-1.png",RDX Goa (720p)
-https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist_dvr.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="RaajjeTV.mv" tvg-logo="https://i.imgur.com/NvYCCGl.png",Raajje TV (480p)
-https://stream.raajje.mv/live/rtv_live/index.m3u8
+https://stream.raajje.mv/live/stream_c95ravtr7cyk/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="RelevantTV.il" tvg-logo="https://i.imgur.com/jCZ5gFO.png",Relevant TV (1080p)
 https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="RedseatTheFirst.us" tvg-logo="https://i.imgur.com/t794qkT.png",Redseat The First (720p)
@@ -1726,7 +1726,7 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?of
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="KCKSLD7.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rev%27n_logo.jpg/512px-Rev%27n_logo.jpg",Rev'n (KCKS-LD7) (480p)
 https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="ReportTV.al" tvg-logo="https://i.imgur.com/C9lM1KP.png",Report TV (720p)
-https://deb20stream.duckdns.org/signed/stream.m3u8?ttl=5400
+https://deb20stream.duckdns.org/signed/stream.m3u8?ttl=1800
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="PTV.ua" tvg-logo="https://i.imgur.com/WDHoSVz.png",PTV (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="RTMASEAN.my" tvg-logo="https://i.imgur.com/skAiUxg.png",RTM ASEAN
