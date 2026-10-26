@@ -54,7 +54,7 @@ https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/1080p-cc/ind
 #EXTINF:-1 group-title="ESPORTE" tvg-id="ge-tv" tvg-logo="https://imgur.com/Zgt0eel.jpg",GE TV (LGTV)
 https://amg00716-globo-amg00716c1-lg-br-9609.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 group-title="ESPORTE" tvg-id="CazeTV.br" tvg-logo="https://imgur.com/aoVzWYh.jpg",CAZÉTV (STV)
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTE" tvg-id="Nsports.br" tvg-logo="https://imgur.com/QgtDIaX.jpg",N SPORTS FAST
 https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt.m3u8
 #EXTINF:-1 group-title="ESPORTE INT" tvg-id="beINSportsXtra.us" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/featuredImage.jpg",beIN SPORTS XTRA (FIRETV)

@@ -35,7 +35,7 @@ https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="MAXAnime.ve",MAX Anime (720p)
-https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="MDATelevision.ve",MDA Televisión (720p)
 https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
@@ -104,7 +104,7 @@ https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
 https://oracle.streaminghd.cl/torococotelevision/torococotelevision/playlist.m3u8
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="TRT.ve",TRT (410p)
-https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="TRV.ve",TRV (480p)
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
