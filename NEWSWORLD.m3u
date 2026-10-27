@@ -88,6 +88,8 @@ https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlis
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="sbt-news-br" tvg-name="SBT News — Roku Channel" tvg-logo="https://i.imgur.com/LnApLKd.png",SBT News — Roku Channel
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="NCNews.br" tvg-name="NC News 24h" tvg-logo="https://yt3.googleusercontent.com/QJGPXOhanIl97bSuxt-Qz2fULeYOb7dZ87DQ3n7yrZq9j3qQW9pjr70ZzHNQfgBMiMHozs1I_Q=s160-c-k-c0x00ffffff-no-rj",NC NEWS 24H (YouTube oficial)
+https://www.youtube.com/watch?v=3h1RkPCsIDo
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Band.News.br" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Band_News_TV_2021_Logo.png/800px-Band_News_TV_2021_Logo.png",BAND NEWS
 http://170.83.49.66:8083/BANDNEWSHD/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="465021" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",CNN INTERNACIONAL
