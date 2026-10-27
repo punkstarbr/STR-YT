@@ -1310,7 +1310,7 @@ http://45.186.106.147:8880/play/a06f/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CGTNRussian.cn" tvg-logo="https://i.imgur.com/nDWkCmL.png",CGTN Русский (1080p)
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CGTNFrench.cn" tvg-logo="https://i.imgur.com/BwhledK.png",CGTN Français (1080p) [Not 24/7]
-http://145.239.5.177/214/index.m3u8
+https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CA1500002Q4" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png",CityNews Toronto (720p)
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CityNewsCalgary.ca" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png",CityNews Calgary (720p)
@@ -1748,7 +1748,7 @@ https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="SadhnaPlusNews.in" tvg-logo="https://i.imgur.com/h4UehKC.png",Sadhna Plus News (720p)
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="SCCurrents.us" tvg-logo="https://i.imgur.com/8FZsNyK.png",SC Currents
-https://reflect-communitytv.cablecast.tv/live-5/live/live.m3u8
+https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="ShamsTV.iq" tvg-logo="https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg",Shams TV (1080p)
 https://stream.shams.tv/hls/stream.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="RudawTV.iq" tvg-logo="https://i.imgur.com/Zo3IWOn.png",Rudaw TV (1080p)

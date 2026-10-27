@@ -70,7 +70,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist
 http://143.244.60.30/NBC_EAST/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
-http://23.237.104.106:8080/USA_AE/index.m3u8
+http://23.239.31.26:8989/aande/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="ACC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC NETWORK",ACC NETWORK
 http://143.244.60.30/ACC_NETWORK/index.m3u8
@@ -247,7 +247,7 @@ http://143.244.60.30/ESPN_U/index.m3u8
 http://143.244.60.30/FOOD_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Fox.Business.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" tvg-name="FOX Business Network",FOX Business Network
-https://tvsen6.aynaott.com/foxbusiness/index.m3u8
+https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Fox.News.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" tvg-name="FOX News Channel",FOX News Channel
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/267.m3u8

@@ -83,7 +83,7 @@ https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
 http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="Telebocono.ve",Teleboconó (720p) [Not 24/7]
-https://rpn3.bozztv.com/ssh101/ssh101/tcbstreaming/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="Telecentro.ve",Telecentro (480p)
 https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8

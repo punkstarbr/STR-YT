@@ -184,7 +184,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?IMDSFULL
 #EXTINF:-1 group-title="Undefined" tvg-id="radiotvneuquen720pnot247.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkvtf_pDO2RXYbBFcw5rXpNrOszlZY9QlYBPJmbB6B6qcotGP_vgs5ixNgvA&s",Radio TV Neuquen (720p) [Not 24/7]
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="redebrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlr-_m9NRfU0fPx-0ErGtIbFTtKfQLfGdyLaNF6_nCJLA3OSqjdPCfPNr_plU&s",Rede Brasil TV (RBC TV)
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="restauraciontvhoustonus.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ42cyTlL3Df0Kb92Telzmc5lM7z5knaUsCPXtZiFwGQEgEXK4Ozbwdje-Uy6I&s",Restauracion TV Houston | US
 https://2-fss-2.themediacdn.com/pl_138/amlst:200836-1357134/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="radiopicaria.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkhOF8c6B09TZs0sRGwF7DAH2qZzZumhtdMpxjrtBZOFDRfUGgk7Z2d024IQ&s",Radio Picariña
@@ -428,7 +428,7 @@ https://30a-tv.com:443/music.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="agrobrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR45EY3Ide3IjFU_5Yd-PS1AMbkJivb5G-hWFBgW2im906NaJnFWyiTEcbhYQ&s",AGRO BRASIL
 http://168.205.87.198:8555/live/JOSEE/123456/7.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-id="4funtv.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-eDbfZbb7safN4yUC2JJ1Ug3JYZSaH-aIYk7f7pQXSqtZJOg8zL_KC7PxQ&s",4FunTV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="agrobrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR45EY3Ide3IjFU_5Yd-PS1AMbkJivb5G-hWFBgW2im906NaJnFWyiTEcbhYQ&s",AGRO BRASIL
 http://168.205.87.198:8555/live/michele/123456/7.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-id="agrobrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR45EY3Ide3IjFU_5Yd-PS1AMbkJivb5G-hWFBgW2im906NaJnFWyiTEcbhYQ&s",AGRO BRASIL
