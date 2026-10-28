@@ -27,6 +27,27 @@ http://live.ojc.com.br:8000/c2f4/myStream/playlist
 #EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="BandNewsFM.br" tvg-name="BandNews FM FAST" tvg-logo="https://d1hiif9y3rkpbt.cloudfront.net/Images/S3/LG_artwork/Logo-400x200.png" radio="true",BANDNEWS FM (FAST)
 https://amg29547-amg29547c2-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg29547-amg29547c2-amgplt0026/playlist.m3u8
 
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="RadioBandeirantes.br" tvg-name="Rádio Bandeirantes São Paulo" radio="true",RÁDIO BANDEIRANTES - SÃO PAULO
+https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC.m3u8
+
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="BandNewsFM.br" tvg-name="BandNews FM São Paulo" tvg-logo="https://d1hiif9y3rkpbt.cloudfront.net/Images/S3/LG_artwork/Logo-400x200.png" radio="true",BANDNEWS FM - SÃO PAULO
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.m3u8
+
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="BandFM.br" tvg-name="Band FM São Paulo" radio="true",BAND FM - SÃO PAULO
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC.m3u8
+
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="NativaFM.br" tvg-name="Nativa FM São Paulo" radio="true",NATIVA FM - SÃO PAULO
+https://playerservices.streamtheworld.com/api/livestream-redirect/NATIVA_SPAAC.m3u8
+
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="EducadoraFM.br" tvg-name="Educadora FM Campinas" radio="true",EDUCADORA FM - CAMPINAS
+https://stm22.xcast.com.br:11282/stream
+
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="StereoValeFM.br" tvg-name="Stereo Vale FM" tvg-logo="https://stereovale.com.br/uploads/media/69fb53a1cbd56_1778078625.png" radio="true",STEREO VALE FM
+https://stm11.xcast.com.br:12086/stream
+
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="PlayFM.br" tvg-name="Play FM Campinas" tvg-logo="https://playradio.app/uploads/media/6a7230b1ebcdd_1785868465.png" radio="true",PLAY FM - CAMPINAS
+https://stm1.xcast.com.br:9696/stream
+
 #EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="Undefined" tvg-logo="https://i.imgur.com/td9XjvR.jpg" radio="true",GAUCHA FM
 https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8
 
