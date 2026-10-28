@@ -1,10 +1,10 @@
 #EXTINF:-1 group-title="RELIGIOSOS" tvg-id="novotempo.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWxziZyRGayp6li_3ZrvNwXzGpaobt4Cuazck_xT1SDc4t-Me5sMU1bkNGB8w&s",Novo Tempo (720p)
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="REGIONAL" tvg-id="novaeratvlagessc.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-o5m7Qi5ZPSL9xHEvPLIy31fJWul718HB509cWO83fo1EoFPcRApI6cMVazc&s",Nova Era TV² (Lages-SC)
+#EXTINF:-1 group-title="REGIONAL" tvg-id="novaeratvlagessc.br" tvg-logo="https://play-lh.googleusercontent.com/KrDkS1CatpiRPVjMXELq8dlngFrLXqGAa7af31JFEB8YS-Ea4Cnrycvi5QeEQIOKhq1dI6Nuc0fYY3_nlMPT-ro=s512",Nova Era TV² (Lages-SC)
 http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="REGIONAL" tvg-id="novaeratvlagessc.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-o5m7Qi5ZPSL9xHEvPLIy31fJWul718HB509cWO83fo1EoFPcRApI6cMVazc&s",Nova Era TV³ (Lages-SC)
+#EXTINF:-1 group-title="REGIONAL" tvg-id="novaeratvlagessc.br" tvg-logo="https://play-lh.googleusercontent.com/KrDkS1CatpiRPVjMXELq8dlngFrLXqGAa7af31JFEB8YS-Ea4Cnrycvi5QeEQIOKhq1dI6Nuc0fYY3_nlMPT-ro=s512",Nova Era TV³ (Lages-SC)
 http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w973096972.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS" tvg-id="novotempo.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShLktLUH00ZpMwkzI_BPfmE0i2OftQab6XgDi8LdXx-KCwpxNswQeXYKyszg&s",Nuevo Tiempo | BR
@@ -229,7 +229,7 @@ http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8
 http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="Undefined" tvg-id="riberatv.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0U05x5mW8f-dTRFV-DTQn53Vmb-o-YwM6-WDABozRZgKDcU-iKujpgXEKg&s",RiberaTV
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="sertotvquixeramobimce.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ7_rBRAS0lQa1i20EITW8e3JHOKmvflKV2CHoFA4utN4hVh3safPQesyL1FM&s",Sertão TV³ (Quixeramobim-CE)
+#EXTINF:-1 group-title="Undefined" tvg-id="sertotvquixeramobimce.br" tvg-logo="https://sertaotvceara.com.br/wp-content/themes/rubik/assets/logo-sertao-tv.png",Sertão TV³ (Quixeramobim-CE)
 https://video11.logicahost.com.br/sertaotv/sertaotv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="salvaciontvpr.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4wVlKk28f_NpoXgDqzGUvMBSV2f2q4sBIXnfrAKiqw_18ez9RN82lJIJ7wQ&s",Salvacion TV | PR
 https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8?PlaylistM3UCL

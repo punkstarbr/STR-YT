@@ -5,14 +5,14 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://streamer.nknews.org/tvdash/stream.mpd
 
-#EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/KCTV_logo.svg/200px-KCTV_logo.svg.png" group-title="🇰🇵 Coreia do Norte",KCTV (Korean Central TV) (1080p HD)
+#EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV HD" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="🇰🇵 Coreia do Norte",KCTV (Korean Central TV) (1080p HD)
 https://live.koryocdn.org/kctv/index.m3u8
 
-#EXTINF:-1 tvg-id="Ryongnamsan" tvg-name="Ryongnamsan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ryongnamsan_Television_logo.png/220px-Ryongnamsan_Television_logo.png" group-title="🇰🇵 Coreia do Norte",Ryongnamsan TV (Educação)
+#EXTINF:-1 tvg-id="Ryongnamsan" tvg-name="Ryongnamsan TV" tvg-logo="https://i.imgur.com/1BHJjY4.png" group-title="🇰🇵 Coreia do Norte",Ryongnamsan TV (Educação)
 http://122.202.129.136:1935/live/ch4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mansudae" tvg-name="Mansudae TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Mansudae_TV_logo.png" group-title="🇰🇵 Coreia do Norte",Mansudae TV (Fim de Semana)
 rtmp://122.202.129.136:1935/live/ch2
 
-#EXTINF:-1 tvg-id="KCS" tvg-name="KCS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/North_Korean_Sports_TV_logo.png" group-title="🇰🇵 Coreia do Norte",Coreia Esportes (KCS)
+#EXTINF:-1 tvg-id="KCS" tvg-name="KCS" tvg-logo="https://i.imgur.com/HvFpGeH.png" group-title="🇰🇵 Coreia do Norte",Coreia Esportes (KCS)
 http://122.202.129.136:1935/live/ch3/playlist.m3u8
