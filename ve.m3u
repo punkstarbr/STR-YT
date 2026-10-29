@@ -35,7 +35,7 @@ https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="MAXAnime.ve",MAX Anime (720p)
-https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+http://45.228.234.9:8000/play/a06u/index.m3u8
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="MDATelevision.ve",MDA Televisión (720p)
 https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8

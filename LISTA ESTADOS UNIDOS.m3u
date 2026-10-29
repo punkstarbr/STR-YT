@@ -133,7 +133,7 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tnt
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tntwest.us.m3u8
 
 #EXTINF:-1 group-title="Live Channels" tvg-id="TraceUrban.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",Trace Urban
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Live Channels" tvg-id="truTV.us" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp",truTV East (Adaptive)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/trutveast.us.m3u8

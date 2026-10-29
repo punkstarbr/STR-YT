@@ -54,7 +54,7 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="RedeBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rede_Brasil_de_Televis%C3%A3o_Logo2023.png/480px-Rede_Brasil_de_Televis%C3%A3o_Logo2023.png",REDE BRASIL
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="COMBrasil.br" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png",COM BRASIL
-https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo SP_local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TV_Globo_2024_azul.png/480px-TV_Globo_2024_azul.png",TV GLOBO - RJ
 http://iptv.vivatele.com:80/live/viva_padrao/viva2384/1.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Globo.br" tvg-name="GLOBO HD (NOVA)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",GLOBO HD (NOVA)
@@ -108,9 +108,9 @@ https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCultura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TV_Cultura_2023_logo.svg/1200px-TV_Cultura_2023_logo.svg.png",TV CULTURA SP HD
 http://45.162.64.114/TV_CULTURA/index.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCamara.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg/480px-C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg.png",TV CÂMARA
-https://stream3.camara.gov.br/tv1/manifest.m3u8
+http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCamara.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg/480px-C%C3%A2mara_dos_Deputados_%28Brasil%29_logo.svg.png",TV CÂMARA DOS DEPUTADOS HD
-https://stream3.camara.gov.br/tv1/manifest.m3u8
+http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BAND VALE - SP
 http://limed.cc:80/4x6cXF/ehfxdp/110232.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="Band.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",BAND RIO - RJ
@@ -186,7 +186,7 @@ https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="SertaoTV.ce" tvg-logo="https://sertaotvceara.com.br/wp-content/themes/rubik/assets/logo-sertao-tv.png",SERTÃO TV - CE
 https://video11.logicahost.com.br/sertaotv/sertaotv/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_da_RedeTV%21.svg/480px-Logo_da_RedeTV%21.svg.png",REDE TV! MT PANTANAL
-https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+http://170.83.49.66:8083/REDETVHD/index.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_da_RedeTV%21.svg/480px-Logo_da_RedeTV%21.svg.png",RedeTV! RS
 http://45.162.64.114/REDE_TV/index.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_da_RedeTV%21.svg/480px-Logo_da_RedeTV%21.svg.png",RedeTV! PR
@@ -258,13 +258,13 @@ https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVCanalDez.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV CANAL DEZ
 https://canaldez.acessaradios.com.br/canaldez/canaldez/chunklist_w1649768698.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVAFolha.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV A FOLHA
-https://video01.logicahost.com.br/tvafolha/tvafolha/master.m3u8
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVAracati.ce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV ARACATI
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w328778514.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVBrasilCentral.go" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TV_Brasil_2022_logo.svg/480px-TV_Brasil_2022_logo.svg.png",TV BRASIL CENTRAL - GO
 https://tbc.zoeweb.tv/tbc/tbc/master.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVCultura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TV_Cultura_2023_logo.svg/1200px-TV_Cultura_2023_logo.svg.png",TV CULTURAL HD
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVCNB.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV CNB
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TVClubeWeb.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",TV CLUBE WEB

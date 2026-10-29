@@ -50,10 +50,10 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 
 #EXTINF:-1 tvg-id="ETB1.es" tvg-name="ETB 1" group-title="ESPANHA - AUTONÓMICAS" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200",ETB 1
-https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+https://cdn1.etbon.eus/etb1/index.m3u8
 
 #EXTINF:-1 tvg-id="ETB2.es" tvg-name="ETB 2" group-title="ESPANHA - AUTONÓMICAS" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200",ETB 2
-https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+https://cdn1.etbon.eus/etb2/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalSur2.es" tvg-name="Canal Sur 2 Andalucía" group-title="ESPANHA - AUTONÓMICAS" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur 2 Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
@@ -185,19 +185,19 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/maste
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 
 #EXTINF:-1 tvg-id="Ocko.cz" tvg-name="Ocko Chequia CZ" group-title="INT. EUROPA" tvg-logo="https://graph.facebook.com/tvocko/picture?width=200&height=200",Ocko Chequia CZ
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OckoStar.cz" tvg-name="Ocko Star Chequia CZ" group-title="INT. EUROPA" tvg-logo="https://graph.facebook.com/ockostar/picture?width=200&height=200",Ocko Star Chequia CZ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 
 #EXTINF:-1 tvg-id="OckoExpres.cz" tvg-name="Ocko Expres" group-title="INT. EUROPA" tvg-logo="https://graph.facebook.com/OckoExpres/picture?width=200&height=200",Ocko Expres
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-name="Retro Music TV" group-title="INT. EUROPA" tvg-logo="https://graph.facebook.com/retromusic/picture?width=200&height=200",Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4FunTV.pl" tvg-name="4Fun TV Polonia PL" group-title="INT. EUROPA" tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200",4Fun TV Polonia PL
-https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8
+https://stream.4fun.tv:8888/hls/4f.m3u8
 
 #EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-name="Radio Italia TV IT" group-title="INT. EUROPA" tvg-logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200",Radio Italia TV IT
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
@@ -239,7 +239,7 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary EN" group-title="INT. ASIA" tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200",CGTN Documentary EN
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 
 #EXTINF:-1 tvg-id="RTHK31.hk" tvg-name="RTHK 31 Hong Kong" group-title="INT. ASIA" tvg-logo="https://graph.facebook.com/RTHK.HK/picture?width=200&height=200",RTHK 31 Hong Kong
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
