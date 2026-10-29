@@ -644,7 +644,7 @@ https://unlimited1-cl-isp.dps.live/dunatv/dunatv.smil/playlist.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="RadioArcoiris.cl" tvg-name="Radio Arcoiris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bn-tmSNSftjEysh-BqCvRSoeUe190uvvDXRGvRPRPyJ9w_FBMKX6qxsVq3c&s",Radio Arcoiris
 https://v2.tustreaming.cl/fmarcoirirs/index.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="RadioPanoramica.cl" tvg-name="Radio Panoramica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7k2Y8jGjKq0vur60DQ7U2B6pTM9tgRo42TIX_bYZMfmCgpStkx18uYEBZvQ&s",RADIO PANORAMICA INFORMATIVA
-https://v2.tustreaming.cl/alingeproducciones/index.m3u8?DVR
+https://v1.tustreaming.cl:8050/stream
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="SubelaRadio.cl" tvg-name="Súbela Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvsnuRyFMq7rPmcjP-fqtZ34flu1vmBNbEjKgUtx9emg-qIGMoOux52LQdEQ&s",RADIO SUBELA
 https://mdstrm.com/live-stream-playlist/6580414b99f9d36397019551.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="TeleSur.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBhMNO1E6J2UkNpN_0mByNsuWyrpHJLLrvm1MpVMygK8BsqxirWnAZL2Q-ZnY&s",TELESUR
@@ -1140,7 +1140,7 @@ https://30a-tv.com/ln.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="AlGhadPlus.eg" tvg-logo="https://i.imgur.com/ga6NXb9.png",Al Ghad Plus
 https://playlist.fasttvcdn.com/pl/ykvm3f2fhokwxqsurp9xcg/alghad-plus/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="AlMashhad.ae" tvg-logo="https://i.imgur.com/6G6fxs5.png",Al Mashhad (1080p)
-https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
+https://amg30483-amg30483c23-amgplt0794.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30483-amg30483c23-amgplt0794/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="AlMasarTV.ly" tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU",Al Masar TV (576p)
 https://starmenajo.com/hls/almasar/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="AlGhadTV.eg" tvg-logo="https://i.imgur.com/ga6NXb9.png",Al Ghad TV (1080p)
@@ -1224,7 +1224,7 @@ https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/62
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png",Baku TV (720p)
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="News1.th" tvg-logo="https://i.imgur.com/NNxzCPk.png",ASTV News 1 (720p) [Not 24/7]
-http://news1.live14.com/stream/news1.m3u8
+https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang TV (1080p)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="BBCArabic.uk" tvg-logo="https://i.imgur.com/ScyTG6P.png",BBC Arabic (720p)
@@ -1488,7 +1488,7 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="i24NEWSEnglishWorld.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",I24 News English (720p)
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="IndiaNewsRajasthan.in" tvg-logo="https://i.imgur.com/i16786i.png",India News Rajasthan (576p)
-https://livetv.newsx.com/itv/itvnetwork9/playlist.m3u8
+https://fta.ektv.in/live/601/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="i24NEWSFrench.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",I24 News French (720p)
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="i24NEWSArabic.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",I24 News Arabic (720p)
@@ -1530,7 +1530,7 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="KanalS.tr" tvg-logo="https://i.imgur.com/DN6gdg2.png",Kanal S (720p)
 https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="IndiaNewsMadhyaPradeshChhattisgarh.in" tvg-logo="https://i.imgur.com/3IoC5QR.png",India News Madhya Pradesh/Chhattisgarh (576p)
-https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
+https://fta.ektv.in/live/600/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="KTRKDT1247News.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",KTRK TV ABC 13 News (720p)
 https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="JK24x7News.in" tvg-logo="https://i.imgur.com/VIPPB6t.png",JK 24x7 News (720p)

@@ -331,7 +331,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 http://143.244.60.30/INVESTIGATION_DISCOVERY/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="INSP.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/insp-us.png?raw=true" tvg-name="INSP TV",INSP TV
-http://143.244.60.30/INSP/index.m3u8
+https://a-cdn.klowdtv.com/live2/insp_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="ION..-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" tvg-name="ION",ION
 http://143.244.60.30/ION_TV/index.m3u8
@@ -784,7 +784,7 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 https://streamer1.nexgen.bz/HGTV/index.m3u8
 
 #EXTINF:-1 group-title="Buddy TV" tvg-id="HGTV.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/hgtv-rs.png?raw=true",HGTV (NZ)
-https://i.mjh.nz/.r/discovery-hgtv.m3u8
+https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8
 
 #EXTINF:-1 group-title="Buddy TV" tvg-id="Laff.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true",Laff
 https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8

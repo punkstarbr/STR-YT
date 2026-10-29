@@ -326,7 +326,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2e
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRmKFjJmTs9IxMHIMZ17SR6RV9UGrM96hid_gCN6v9f0lLTjU5_py0VfTrTc&s",30A Music
 https://30a-tv.com:443/music.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-eDbfZbb7safN4yUC2JJ1Ug3JYZSaH-aIYk7f7pQXSqtZJOg8zL_KC7PxQ&s",4FunTV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR45EY3Ide3IjFU_5Yd-PS1AMbkJivb5G-hWFBgW2im906NaJnFWyiTEcbhYQ&s",AGRO BRASIL
 http://168.205.87.198:8555/live/JOSEE/123456/7.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR45EY3Ide3IjFU_5Yd-PS1AMbkJivb5G-hWFBgW2im906NaJnFWyiTEcbhYQ&s",AGRO BRASIL

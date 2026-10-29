@@ -184,7 +184,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?IMDSFULL
 #EXTINF:-1 group-title="Undefined" tvg-id="radiotvneuquen720pnot247.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkvtf_pDO2RXYbBFcw5rXpNrOszlZY9QlYBPJmbB6B6qcotGP_vgs5ixNgvA&s",Radio TV Neuquen (720p) [Not 24/7]
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="redebrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlr-_m9NRfU0fPx-0ErGtIbFTtKfQLfGdyLaNF6_nCJLA3OSqjdPCfPNr_plU&s",Rede Brasil TV (RBC TV)
-https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="restauraciontvhoustonus.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ42cyTlL3Df0Kb92Telzmc5lM7z5knaUsCPXtZiFwGQEgEXK4Ozbwdje-Uy6I&s",Restauracion TV Houston | US
 https://2-fss-2.themediacdn.com/pl_138/amlst:200836-1357134/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="radiopicaria.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkhOF8c6B09TZs0sRGwF7DAH2qZzZumhtdMpxjrtBZOFDRfUGgk7Z2d024IQ&s",Radio Picariña
@@ -226,7 +226,7 @@ http://parh.rtrs.tv:1935/tv/live/chunklist_1735900102.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="sbt.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMyOCV-zVYBVq3SAWUTa57eyP2AGppwVbW934-OQSOvHGX-_1pZXT25kkRjM&s",SBT (MT)
 http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="sbt.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMrEH7Kzu7JZtmaKYCrAhfvslp17C0TqRVAe54lY5-TAwMkyF7xWqYaZjfvA&s",SBT HD (PI)
-http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8?ROGERIOTORRES
+https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="riberatv.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0U05x5mW8f-dTRFV-DTQn53Vmb-o-YwM6-WDABozRZgKDcU-iKujpgXEKg&s",RiberaTV
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="sertotvquixeramobimce.br" tvg-logo="https://sertaotvceara.com.br/wp-content/themes/rubik/assets/logo-sertao-tv.png",Sertão TV³ (Quixeramobim-CE)
