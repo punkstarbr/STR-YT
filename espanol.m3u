@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-es.xml.gz,https://iptv-epg.org/files/epg-de.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-es.xml.gz,https://iptv-epg.org/files/epg-de.xml.gz,https://iptv-epg.org/files/epg-fr.xml.gz"
 #EXTINF:-1 tvg-id="13TV.es" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200",Generalistas: TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NegociosTV.es" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg",Informativos: Negocios TV

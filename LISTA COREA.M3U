@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz"
 
 #EXTINF:-1 group-title="TV#Korea" tvg-id="KBS1.kr" tvg-logo="https://static.skylife.co.kr/upload/channel/201511/logo_kbs.png",KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
