@@ -744,7 +744,7 @@ https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 group-title="AR" tvg-id="fmmetropolitana1005mhz.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRniy-qLThlH3DgFqVQ2hQfBRdgxNyXRFSccIK8XwazIjFo9vowxhkwhEM3O1w&s",FM Metropolitana 100.5 MHZ
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CL" tvg-id="girovisualtv.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnIRHhr9ujQJSjWcJVNVgDRmu4e8hxnaAf9ZXnsoM6-MEM6nrvH0Qo0IN06w&s",Girovisual TV
-https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
+https://panel.tvstream.cl:1936/puekxmssxt/puekxmssxt/playlist.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="appletree720p.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlNdD2WlApTZO3ThYisX0DJU4jwJAM_ToLqwrNEsOo9tuJRdk89lKCG9KdztI&s",Apple Tree (720p)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="france24.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoI_x4V25aomija2HgQL56Gxvs_N_rGVcoAWLKPX-m_ZQf9BKJcRL-82Xc9vk&s",France 24
