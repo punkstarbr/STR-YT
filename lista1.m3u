@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml"
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_lite.xml"
+#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 group-title="Cameras Ao Vivo" tvg-id="CAM.FOZ.BR277" tvg-name="Foz do Iguaçu - BR277" tvg-logo="https://static.portaldacidade.com/unsafe/1280x720/https://s3.amazonaws.com/fozdoiguacu.portaldacidade.com/img/camera/br277-5a5e6199dd931-5b04548e405cd.jpg",Foz do Iguaçu - BR277
 https://video02.logicahost.com.br/portaldacidade/fozsentidopontedaamizade.stream/chunklist_w781220348.m3u8
@@ -131,7 +131,7 @@ https://video-ar.radioradicale.it/diretta/camera2/chunklist_w454478514.m3u8
 
 
 
-#EXTM3U x-tvg-url="https://github.com/iptv-org/epg/raw/refs/heads/master/sites/directv.com/directv.com.channels.xml"
+#EXTM3U
 
 
 

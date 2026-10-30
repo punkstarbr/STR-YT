@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_EU1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz"
 
 #EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="ESPANHA - NACIONAIS" tvg-logo="https://graph.facebook.com/La1TVE/picture?width=200&height=200",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8

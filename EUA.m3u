@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz,https://iptv-epg.org/files/epg-us.xml.gz"
+#EXTM3U
 #EXTINF:-1 tvg-id="TVConnectUSA.us" group-title="USA" tvg-name="TV Connect USA" tvg-logo="https://img3.static-ottera.com/prod/tcu/linear_channel/logo/360x180/qr92_7ka.jpg",TV Connect USA
 https://5a3c48d69cf69.streamlock.net/tvconnect/tvconnect.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="nbc.ca.losangeles.knbc" group-title="USA" tvg-name="KNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg.png",NBC 4 Los Angeles (KNBC)
