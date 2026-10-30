@@ -24,7 +24,7 @@ http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_p
 
 
 #EXTINF:-1 tvg-id="52000" tvg-name="Euronews English" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/euro-news-int.png" group-title="NEWS WORLD",Euronews English
-https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:-1 tvg-id="55960" tvg-name="Africa 24" tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="NEWS WORLD",Africa 24 English
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 
@@ -615,6 +615,8 @@ http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_p
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL3.smil/playlist.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKv-RqHTbD1T3RQF4giOyKeCjglfnFGmh66--GL-FRqlVkncDKXLuFLmFhDA&s",El Trece (Argentina)
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKv-RqHTbD1T3RQF4giOyKeCjglfnFGmh66--GL-FRqlVkncDKXLuFLmFhDA&s",El Trece (Argentina) (Alternativa 480p)
+http://190.108.83.69:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CronicaTV.ar" tvg-name="Crónica TV" tvg-logo="https://www.cronica.com.ar/files/image/117/117080/691ce9e680343.png",Crónica TV (Argentina) Ⓨ
 https://www.youtube.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g/live
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFxp349xLkhA5PCOkEjsKkck0O1yWynuGu0QkS8Om7sQf6NmOjdIgySFMBPw&s",24 HORAS CL
@@ -1522,7 +1524,7 @@ https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="STZTV.br" tvg-logo="https://i.imgur.com/SeF2I7q.png",STZ TV (720p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="TV O Povo.br" tvg-logo="https://i.imgur.com/58EQ5qX.png",TV do Povo (540p)
-https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+https://video11.logicahost.com.br/tvdopovo/tvdopovo/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="TVZoom.br" tvg-logo="https://i.imgur.com/jCGrjf5.png",TV Zoom (720p)
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="TVideoNews.br" tvg-logo="https://i.imgur.com/vstHOYx.png",TVídeoNews (720p) [Not 24/7]

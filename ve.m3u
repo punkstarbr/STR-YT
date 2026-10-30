@@ -41,7 +41,7 @@ http://45.228.234.9:8000/play/a06u/index.m3u8
 https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="MonagasVision.ve",Monagas Visión (720p) [Not 24/7]
-https://cloud2.streaminglivehd.com:1936/monagasvision/monagasvision/playlist.m3u8
+https://tv.monagasvision.com/hls/mistream_GOku1896.m3u8
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="OasisTelevision.ve",Oasis Televisión (720p)
 http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8

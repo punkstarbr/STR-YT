@@ -23,10 +23,10 @@ http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8
 http://centova.radios.pt:9522/;
 
 #EXTINF:-1 group-title="INFANTIL" tvg-id="pequeradiotv.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiXJ1R4Y--Orb2JBvD6nVGB0F95Fcw7KUJTCX1RYzyO4e54BCMNlS3XT6ntw&s",PequeRadio TV
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+https://183.bozztv.com/ssh101/ssh101/pequeradiotv/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIL" tvg-id="pequeradiotves.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiXJ1R4Y--Orb2JBvD6nVGB0F95Fcw7KUJTCX1RYzyO4e54BCMNlS3XT6ntw&s",Pequeradio TV | ES
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
+https://183.bozztv.com/ssh101/ssh101/pequeradiotv/playlist.m3u8
 
 #EXTINF:-1 group-title="REGIONAL" tvg-id="plustvsuceava.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn6eUoF6dvLgxAFmOnZojub_50j8evnMM5F-SDs83__-Dl3CL4zMaR2wXGTMQ&s",plus_tv_suceava
 http://85.186.146.34:8080
