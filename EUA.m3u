@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz,https://iptv-epg.org/files/epg-us.xml.gz"
 #EXTINF:-1 tvg-id="TVConnectUSA.us" group-title="USA" tvg-name="TV Connect USA" tvg-logo="https://img3.static-ottera.com/prod/tcu/linear_channel/logo/360x180/qr92_7ka.jpg",TV Connect USA
 https://5a3c48d69cf69.streamlock.net/tvconnect/tvconnect.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="nbc.ca.losangeles.knbc" group-title="USA" tvg-name="KNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg.png",NBC 4 Los Angeles (KNBC)
+#EXTINF:-1 tvg-id="nbc.ca.losangeles.knbc" group-title="USA" tvg-name="KNBC" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/KNBC_2023.svg/1280px-KNBC_2023.svg.png",NBC 4 Los Angeles (KNBC)
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
-#EXTINF:-1 tvg-id="fox.ca.losangeles.kttv" group-title="USA" tvg-name="KTTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Fox_Television_Stations_logo.svg.png",FOX 11 Los Angeles (KTTV)
+#EXTINF:-1 tvg-id="fox.ca.losangeles.kttv" group-title="USA" tvg-name="KTTV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Fts-los-angeles-a.svg/1280px-Fts-los-angeles-a.svg.png",FOX 11 Los Angeles (KTTV)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="fox.ca.sanfrancisco.ktvu" group-title="USA" tvg-name="KTVU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Fox_Television_Stations_logo.svg.png",FOX 2 San Francisco (KTVU)
 https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8
-#EXTINF:-1 tvg-id="abc.ca.sandiego.kgtv" group-title="USA" tvg-name="KGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg.png",ABC 10 San Diego (KGTV)
+#EXTINF:-1 tvg-id="abc.ca.sandiego.kgtv" group-title="USA" tvg-name="KGTV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/KGTV_%282022%29.svg/1280px-KGTV_%282022%29.svg.png",ABC 10 San Diego (KGTV)
 https://aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playlist.m3u8
-#EXTINF:-1 tvg-id="nbc.ca.sacramento.kcra" group-title="USA" tvg-name="KCRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg.png",NBC 3 Sacramento (KCRA)
+#EXTINF:-1 tvg-id="nbc.ca.sacramento.kcra" group-title="USA" tvg-name="KCRA" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/KCRA_3_%282017%29.svg/1280px-KCRA_3_%282017%29.svg.png",NBC 3 Sacramento (KCRA)
 https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8
-#EXTINF:-1 tvg-id="nbc.ca.newyork.wnbc" group-title="USA" tvg-name="WNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/WNBC_4_NY.svg.png",WNBC 4 (New York NY)
+#EXTINF:-1 tvg-id="nbc.ca.newyork.wnbc" group-title="USA" tvg-name="WNBC" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/WNBC_2023.svg/1280px-WNBC_2023.svg.png",WNBC 4 (New York NY)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_streamId=88889709&ads.csid=nbc_us_PLATFORM_nbcnny_ssai&ads.caid=NBCNNY&ads.appName=APP_NAME&ads.appVersion=APP_VERSION&ads._fw_app_bundle=APP_BUNDLE&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=DEVICE_MAKE&ads._fw_device_model=DEVICE_MODEL&ads._fw_devicetype=DEVICE_TYPE&ads._fw_coppa=0&ads._fw_is_lat=LMT&ads._fw_us_privacy=US_PRIVACY&ads.gpp_sid=GPP_SID&ads.gpp=GPP_STRING_XXXXX&ads._fw_h_x_country=US&ads._fw_player_width=PLAYER_WIDTH&ads._fw_player_height=PLAYER_HEIGHT&ads.xumo_contentId=3816&ads.xumo_contentName=NBCNNY&ads.xumo_ifa=IFA&ads.xumo_ifaType=IFA_TYPE&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY&ads.site_name=SITE_NAME&ads._fw_site_page=SITE_PAGE&ads._fw_app_store_url=APP_STORE_URL

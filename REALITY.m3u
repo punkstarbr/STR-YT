@@ -6,22 +6,22 @@
 http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/cesar3377/cse3377/12723.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Reality Show's Live",RECORD (VIVO)
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Reality Show's Live",RECORD (VIVO)
 http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/902.m3u
 
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="http://lgfp.one/VUX5" tvg-id="",A Fazenda 18 - Camera 1
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="http://lgfp.one/VUX5",A Fazenda 18 - Camera 1
 http://cdd11.com/live/7125938483/5158/426067.ts
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="http://lgfp.one/VUX6" tvg-id="",A Fazenda 18 - Camera 2
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="http://lgfp.one/VUX6",A Fazenda 18 - Camera 2
 http://cdd11.com/live/7125938483/5158/426068.ts
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="http://lgfp.one/VUX7" tvg-id="",A Fazenda 18 - Camera 3
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="http://lgfp.one/VUX7",A Fazenda 18 - Camera 3
 http://cdd11.com/live/7125938483/5158/426070.ts
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="http://lgfp.one/VUX8" tvg-id="",A Fazenda 18 - Camera 4
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="http://lgfp.one/VUX8",A Fazenda 18 - Camera 4
 http://cdd11.com/live/7125938483/5158/426071.ts
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="http://lgfp.one/VUX9" tvg-id="",A Fazenda 18 - Camera 5
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="http://lgfp.one/VUX9",A Fazenda 18 - Camera 5
 http://cdd11.com/live/7125938483/5158/426072.ts
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="http://lgfp.one/VUY0" tvg-id="",A Fazenda 18 - Camera 6
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="http://lgfp.one/VUY0",A Fazenda 18 - Camera 6
 http://cdd11.com/live/7125938483/5158/426073.ts
-#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="http://lgfp.one/VUY0" tvg-id="",A Fazenda 18 - Mosaico
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="http://lgfp.one/VUY0",A Fazenda 18 - Mosaico
 http://cdd11.com/live/7125938483/5158/426132.ts
 
 #EXTINF:-1 group-title="Reality Show's Live" tvg-id="Las.Estrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas_2016.svg/250px-Las_Estrellas_2016.svg.png",1 Las Estrellas
@@ -33,20 +33,18 @@ http://45.186.106.207:8000/play/a098/index.m3u8
 #EXTINF:-1 group-title="Reality Show's Live" tvg-id="Las.Estrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas_2016.svg/250px-Las_Estrellas_2016.svg.png",3 Las Estrellas
 http://200.115.120.1:8000/play/ca014/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg" group-title="Reality Show's Live",Canal 5
+#EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg" group-title="Reality Show's Live" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Canal_5_mexico.png/500px-Canal_5_mexico.png",Canal 5
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a05o/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg" group-title="Reality Show's Live",Canal 5
+#EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg" group-title="Reality Show's Live" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Canal_5_mexico.png/500px-Canal_5_mexico.png",Canal 5
 http://45.5.118.152:8000/play/a03i/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg" group-title="Reality Show's Live",Canal 5
+#EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg" group-title="Reality Show's Live" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Canal_5_mexico.png/500px-Canal_5_mexico.png",Canal 5
 http://38.49.128.38:8000/play/a0n6/index.m3u8
 http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg" group-title="Reality Show's Live",Canal 5
-http://200.115.120.1:8000/play/ca0105/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3209" group-title="Reality Show's Live", 1 Univisión
 ##EXTVLCOPT:network-caching=1000
@@ -54,45 +52,45 @@ http://200.115.120.1:8000/play/ca0105/index.m3u8
 http://190.92.10.66:4000/play/a005/index.m3u8
 http://cord-cutter.net:8080/wY96uK/850378/15336
 
-#EXTINF:0 type="stream" channelId="3209" group-title="Reality Show's Live", 2 Univisión
+#EXTINF:0 type="stream" channelId="3209" group-title="Reality Show's Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png", 2 Univisión
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://172.93.102.112:8989/158765_.m3u8
 https://e4.thetvapp.to/hls/UnivisionEast/index.m3u8
 http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1099/index.m3u8
 
-#EXTINF:0 type="stream" channelId="3209" group-title="Reality Show's Live", 3 Univisión
+#EXTINF:0 type="stream" channelId="3209" group-title="Reality Show's Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png", 3 Univisión
 http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/8395
 
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-yl63zZKG2zwmCEwPzvzzcuvLAnvnvi1frUL_D3lHA&s=10" group-title="Reality Show's Live", 2 Unimas
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-yl63zZKG2zwmCEwPzvzzcuvLAnvnvi1frUL_D3lHA&s=10" group-title="Reality Show's Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png", 2 Unimas
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/8384
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjMhVH4ShcGj34bMboM0d_7eTGGZXFHOJIyHKqjm0Lg&s=10" group-title="Reality Show's Live", 3 Unimas
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjMhVH4ShcGj34bMboM0d_7eTGGZXFHOJIyHKqjm0Lg&s=10" group-title="Reality Show's Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png", 3 Unimas
 http://172.93.102.112:8989/158753_.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjMhVH4ShcGj34bMboM0d_7eTGGZXFHOJIyHKqjm0Lg&s=10" group-title="Reality Show's Live", 4 Unimas
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjMhVH4ShcGj34bMboM0d_7eTGGZXFHOJIyHKqjm0Lg&s=10" group-title="Reality Show's Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png", 4 Unimas
 http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1100/index.m3u8
 
-#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMgq7muz8q6emSSdZR0h3kcTMrxeaSpsQ09DNS4sBi_JijLFSSGNTM3i2tPA&s",TVI REALITY CAMARA 1 sd
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvireality.png",TVI REALITY CAMARA 1 sd
 http://vm4youallsos.securityservice.cyou:8080/AndreNovais25/ascmUEAyUTtDdRC/83164
-#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwldVnDFQ2BoXx1kG0nNl0zLLNFoYXz7aSbbjDAMZAGxLh3pIQz5sJeLTyA&s",TVI REALITY CAMARA 2
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvireality.png",TVI REALITY CAMARA 2
 http://vm4youallsos.securityservice.cyou:8080/AndreNovais25/ascmUEAyUTtDdRC/83165
-#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQLrZJkugnYS7YMCCW5ExdS4lum0MMJI00HbCraT9um_FGOw9Dxy8LllJrbQ&s",TVI REALITY CAMARA 3
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvireality.png",TVI REALITY CAMARA 3
 http://vm4youallsos.securityservice.cyou:8080/AndreNovais25/ascmUEAyUTtDdRC/83166
-#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQETyAFKgS12N-qIJoZNEqO5Nai6SaKu1n5T_t01P6ChJuCfR8tfA2p8Zbkdg&s",TVI REALITY CAMARA 4
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvireality.png",TVI REALITY CAMARA 4
 http://vm4youallsos.securityservice.cyou:8080/AndreNovais25/ascmUEAyUTtDdRC/83167
 
-#EXTINF:-1 group-title="Reality Show's Live" tvg-id="TVI.Reality.HD.pt" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/64f8a935d34e371fc0b75aed/",TVI REALITY
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="TVI.Reality.HD.pt" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvireality.png",TVI REALITY
 https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/TVI_Reality.m3u8
 
 #EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Big_Brother_VIP_Albania.png/250px-Big_Brother_VIP_Albania.png",BBVIP AL 1
 https://dmca5112s.sksktotun.xyz/memfs/d55b1c70-d814-4f04-81b8-00942f3e5998_output_0.m3u8
 #EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Big_Brother_VIP_Albania.png/250px-Big_Brother_VIP_Albania.png",BBVIP AL 2
 https://fvb34v2.sksktotun.xyz/memfs/532701dd-1912-4c13-b9a3-3325c2652888_output_0.m3u8
-#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Canal.5.(XHPNH).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Canal_5_Mexico_logo_2014.svg/250px-Canal_5_Mexico_logo_2014.svg.png",CANAL 5
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Canal.5.(XHPNH).mx" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Canal_5_mexico.png/500px-Canal_5_mexico.png",CANAL 5
 http://181.78.106.127:9000/play/ca012/index.m3u8
 
 
@@ -108,7 +106,7 @@ http://181.205.130.194:4000/play/a07r
 
 #EXTINF:-1 group-title="Reality Show's Live",CANAL 10 AUSTRALIA
 https://pod.lnt.sh/efh6eg76eglD/efhTcwxIbQhKqj1Dd2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjUgNTo1Mjo1MSBBTSZoYXNoX3ZhbHVlPTJhZUJyYkROV2V4U1AzeFVkczFmanc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Reality Show's Live" tvg-id="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbhg_yJyms3Y21jxx3Q0j4FizlewTj2oU0dfA_2EfhI53wSR9j_6ADeZn48qc&s",Pink TV
+#EXTINF:-1 group-title="Reality Show's Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbhg_yJyms3Y21jxx3Q0j4FizlewTj2oU0dfA_2EfhI53wSR9j_6ADeZn48qc&s",Pink TV
 https://edge8.pink.rs/pinktv/index.m3u8
 #EXTINF:-1 group-title="Reality Show's Live" tvg-id="Zadruga.Live.1.ba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc4slncpzSOyjUVU-xNJFy8CCY_2BSwRzGrVzvNRSFwd3wHINhTdgxRSwHXg&s",Zadruga Live 1
 https://webtvstream.bhtelecom.ba/hls19/zadruga_live1_1200.m3u8

@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz"
 
 #EXTINF:-1  group-title="Buddy TV" tvg-id="ABC.(WPVI).Philadelphia,.PA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (WPVI)
 http://cord-cutter.net:8080/hq3y4G/234247/121149
@@ -78,7 +78,7 @@ http://143.244.60.30/ACC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC",AMC
 https://ft.fbcdntv247.cfd/memfs/c21d4225-12e5-4178-af0e-33711499d86e_output_0.m3u8
 
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="American.Heroes.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" tvg-name="American Heroes Channel",American Heroes Channel
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="American.Heroes.Channel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/american-heroes-channel-us.png" tvg-name="American Heroes Channel",American Heroes Channel
 http://143.244.60.30/American_Heroes_Channel/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-name="Animal Planet",Animal Planet
@@ -90,7 +90,7 @@ http://143.244.60.30/Antenna/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="ASPiRE.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" tvg-name="Aspire",Aspire
 http://143.244.60.30/Aspire/index.m3u8
 
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA",BBC AMERICA
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="BBC.America.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bbc-america-us.png" tvg-name="BBC AMERICA",BBC AMERICA
 http://143.244.60.30/BBC_AMERICA/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" tvg-name="BBC WORLD NEWS",BBC WORLD NEWS
@@ -159,7 +159,7 @@ http://143.244.60.30/Cleo_TV/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" tvg-name="CMT",CMT
 http://143.244.60.30/CMT/index.m3u8
 
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-name="CNBC FHD",CNBC FHD
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="CNBC.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" tvg-name="CNBC FHD",CNBC FHD
 http://143.244.60.30/CNBC/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="CNN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" tvg-name="CNN",CNN
@@ -252,7 +252,7 @@ https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Fox.News.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" tvg-name="FOX News Channel",FOX News Channel
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/267.m3u8
 
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="FOX.Soccer.Plus.us"  tvg-name="FOX SOCCER PLUS",FOX SOCCER PLUS
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="FOX.Soccer.Plus.us"  tvg-name="FOX SOCCER PLUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png",FOX SOCCER PLUS
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/265.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="plex.tv.FOX.SOUL.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soul-us.png?raw=true" tvg-name="FOX SOUL",FOX SOUL
@@ -306,7 +306,7 @@ http://143.244.60.30/HBO/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" tvg-name="HBO Comedy",HBO Comedy
 http://143.244.60.30/HBO_COMEDY/index.m3u8
 
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" tvg-name="HBO Family",HBO Family
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" tvg-name="HBO Family",HBO Family
 http://143.244.60.30/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" tvg-name="HBO Zone",HBO Zone
@@ -456,7 +456,7 @@ http://143.244.60.30/NBA_9/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" tvg-name="NBA TV",NBA TV
 http://143.244.60.30/NBA_TV/index.m3u8
 
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Golf.Channel.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" tvg-name="NBC Golf",NBC Golf
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Golf.Channel.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-channel-us.png" tvg-name="NBC Golf",NBC Golf
 http://143.244.60.30/GOLF_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="NewsNation.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" tvg-name="NewsNation",NewsNation
@@ -690,7 +690,7 @@ http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Turner.Classic.Movies.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" tvg-name="TCM",TCM
 http://143.244.60.30/TCM/index.m3u8
 
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="The.Tennis.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" tvg-name="Tennis Channel",Tennis Channel
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="The.Tennis.Channel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png" tvg-name="Tennis Channel",Tennis Channel
 http://143.244.60.30/TENNIS_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="TLC.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" tvg-name="TLC",TLC
@@ -753,7 +753,7 @@ http://143.244.60.30/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="YES.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
 http://143.244.60.30/YES_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="Buddy TV" tvg-id="" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png",Family Guy 24/7
+#EXTINF:-1 group-title="Buddy TV" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png",Family Guy 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
 
 #EXTINF:-1 group-title="Buddy TV" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true",Live 6pm .est (East)
@@ -777,8 +777,6 @@ https://streamer1.nexgen.bz//FOOD/index.m3u8
 #EXTINF:-1 group-title="Buddy TV" tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true",FX (SP/EN)
 https://streamer1.nexgen.bz/FX/index.m3u8
 
-#EXTINF:-1 group-title="Buddy TV" tvg-id="HBO.Family.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-family-us.png?raw=true",HBO FAMILY (WEST)
-http://212.102.60.231/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 group-title="Buddy TV" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true",HGTV
 https://streamer1.nexgen.bz/HGTV/index.m3u8
@@ -813,10 +811,8 @@ https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Singl
 #EXTINF:-1 group-title="Buddy TV" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA NETWORK
 https://streamer1.nexgen.bz/USA/index.m3u8
 
-#EXTINF:-1 group-title="Buddy TV" tvg-name="Hunt Fish TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615307rd7sNLdHNe-512x512-square.png",Hunt Fish TV (Stirr)
-https://jmp2.uk/str-5747.m3u8
 
-#EXTINF:-1 group-title="Buddy TV" tvg-name="Free Movies Plus" tvg-logo="",Free Movies Plus (lg)
+#EXTINF:-1 group-title="Buddy TV" tvg-name="Free Movies Plus",Free Movies Plus (lg)
 https://amg02042-ottstudio-amg02042c6-lg-us-2808.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy TV",News 12 (New York NY)

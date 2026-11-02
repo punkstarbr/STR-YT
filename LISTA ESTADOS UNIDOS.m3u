@@ -27,7 +27,7 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="Weather.Network.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Weather_Network_Logo.svg/1200px-The_Weather_Network_Logo.svg.png",The Weather Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-id="TelemundoKVEA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg",Telemundo West
+#EXTINF:-1 group-title="USA" tvg-id="TelemundoKVEA.us" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/telemundo.png",Telemundo West
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
 
 #EXTINF:-1 group-title="USA" tvg-id="USAJ3400011A8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bloomberg_logo_%28October_2023%29.svg/1200px-Bloomberg_logo_%28October_2023%29.svg.png",Bloomberg TV US Live Event (720p)
@@ -84,7 +84,7 @@ https://tvsen6.aynaott.com/cnn/index.m3u8
 #EXTINF:-1 group-title="Live Channels" tvg-id="USBA34000049Z" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png",Court TV East
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 
-#EXTINF:-1 group-title="Live Channels" tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/HLNLogo2023.svg",HLN (Adaptive)
+#EXTINF:-1 group-title="Live Channels" tvg-id="HLN.us" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/hln.png",HLN (Adaptive)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/hln.us.m3u8
 
 #EXTINF:-1 group-title="Live Channels" tvg-id="HSNPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png",HSN West
@@ -114,16 +114,16 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 group-title="Live Channels" tvg-id="QVC3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/QVC_Logo.svg/615px-QVC_Logo.svg.png",QVC3
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 
-#EXTINF:-1 group-title="Live Channels" tvg-id="TBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg",TBS East (Adaptive)
+#EXTINF:-1 group-title="Live Channels" tvg-id="TBS.us" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/tbs.png",TBS East (Adaptive)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tbseast.us.m3u8
 
-#EXTINF:-1 group-title="Live Channels" tvg-id="TBSPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg",TBS West (Adaptive)
+#EXTINF:-1 group-title="Live Channels" tvg-id="TBSPacific.us" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/tbs.png",TBS West (Adaptive)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tbswest.us.m3u8
 
-#EXTINF:-1 group-title="Live Channels" tvg-id="TCM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg",TCM (Turner Classic Movies) East (Adaptive)
+#EXTINF:-1 group-title="Live Channels" tvg-id="TCM.us" tvg-logo="https://static.tcm.com/2025-11/legacy-tcm-logo.png",TCM (Turner Classic Movies) East (Adaptive)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcmeast.us.m3u8
 
-#EXTINF:-1 group-title="Live Channels" tvg-id="TCMPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg",TCM (Turner Classic Movies) West
+#EXTINF:-1 group-title="Live Channels" tvg-id="TCMPacific.us" tvg-logo="https://static.tcm.com/2025-11/legacy-tcm-logo.png",TCM (Turner Classic Movies) West
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tcmwest.us.m3u8
 
 #EXTINF:-1 group-title="Live Channels" tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png",TNT East (Adaptive)
@@ -141,7 +141,7 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tru
 #EXTINF:-1 group-title="Live Channels" tvg-id="truTVPacific.us" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp",truTV West
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/trutvwest.us.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="USBA370000104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/CBS_logo.svg",CBS News 24/7
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="USBA370000104" tvg-logo="https://www.cbsnews.com/fly/bundles/cbsnewscore/icons/icon-512x512.png",CBS News 24/7
 https://news20e7hhcb.airspace-cdn.cbsivideo.com/index.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="USBB2200014DK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20250410T184758SQUARE.png",NBC News NOW (HD)

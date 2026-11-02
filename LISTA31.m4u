@@ -125,8 +125,6 @@ http://streaming.enantena.com:8000/radiob128.mp3
 http://streaming.enantena.com:8000/cubelles128.mp3
 #EXTINF:-1 group-title="Undefined" tvg-id="rdioelvendrell.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPqGm12NpEC8VVqUompxAWTtP__GRe1peDXiy0JE2pGFFY11DXDwXbm4uz7A&s",Ràdio El Vendrell
 http://streaming.enantena.com:8000/rtvelvendrell128.mp3
-#EXTINF:-1 group-title="Undefined" tvg-id="rdiogrcia.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Wf2bF_iX33ukAu99jE8T6xqBNxd6VSJZTrHtAXgO4TIl0ib2XQYtLftf-w&s",Ràdio Gràcia
-http://streaming.enantena.com:8000/radiograciaHD.mp3
 #EXTINF:-1 group-title="Undefined" tvg-id="rdiojovempanfmsp.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRylc9BCCwnhmlIV357Y9r5C0fmvqRjwGqCcu5twE7wSypdwBSsKSQDULoaK7M&s",Rádio Jovem Pan FM (SP)
 http://centova6.ciclanohost.com.br:9256//;stream.mp3
 #EXTINF:-1 group-title="Undefined" tvg-id="rdiocastelobranco.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJ4nfk5MU8gc6VowlbdkmbFcdtKfwJtlvOtvh7LQfhdTrb3fnbSIWFNDip3U&s",Rádio Castelo Branco
@@ -223,8 +221,6 @@ http://flash1.crossdigital.com.br/2063/2063/chunklist_w421548190.m3u8
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="rtrssr.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqseC5GCyUo1QHrnNkogXEZAqVgxhvn5pv4B9NWbwy1OAH7TzlQkLSxAWubTc&s",RTRS SR
 http://parh.rtrs.tv:1935/tv/live/chunklist_1735900102.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="sbt.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMyOCV-zVYBVq3SAWUTa57eyP2AGppwVbW934-OQSOvHGX-_1pZXT25kkRjM&s",SBT (MT)
-http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="sbt.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMrEH7Kzu7JZtmaKYCrAhfvslp17C0TqRVAe54lY5-TAwMkyF7xWqYaZjfvA&s",SBT HD (PI)
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="riberatv.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0U05x5mW8f-dTRFV-DTQn53Vmb-o-YwM6-WDABozRZgKDcU-iKujpgXEKg&s",RiberaTV
@@ -259,8 +255,6 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8?ROGERIOTO
 http://rogerslive-i.akamaihd.net/hls/live/202799/event/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="Undefined" tvg-id="telefamiliaco.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEQPOf_bLW14O1eK2OYLGI78gw1RK-7XKPWA6ABnGVfch9hQR8PnzBeUmBIw&s",Tele Familia | CO
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="telenordar.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi28SxLtwNFD7k8t_3CEetAoECVdkQ3FPyOJZs4mPnO5_zR1E6ViQnfQmfgmA&s",TeleNord | AR
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="teleangolradiocl.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdPlMzsiQMDaupitSisZACpBysTp7b32zJaYmmebVPJo97_zZStxwal1LVr1g&s",Teleangol Radio | CL
 http://unlimited1-cl-isp.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-id="tarragonardio.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbuhaaeSjEckw3SWuKDYoE7sKM85Q6EJRhtBmuQG7WINz_ypk80PjqwvEiw6s&s",Tarragona Ràdio
@@ -291,8 +285,6 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="turcomenistosport.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA4b32v0sRURPF0dptNhJ82-X3NhGwkipKKmlfRofHg9FphAb39Aw7dZ4R5w&s",Turcomenistão Sport
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-id="tuyatvlajandacdizes.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyHswRetPVcIsoGaFixWzd45HZDfVFLCjhulVI_sl6xfm68S7XPruz6BL9WA&s",Tuya TV La Janda (Cádiz-ES)
-http://185.210.20.13:8080/0.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="turcomenistosport.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA4b32v0sRURPF0dptNhJ82-X3NhGwkipKKmlfRofHg9FphAb39Aw7dZ4R5w&s",Turcomenistão Sport
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="tvcosmos151pe.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjj9qCd4sMvAvRjlb_HhzScrzMBLQKyBvhrWyi8-zchkjBeV-agyX05G_BKZc&s",TV Cosmos 15.1 | PE
@@ -311,8 +303,6 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PlaylistM3
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="tvpeolco.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHldmMdAUBI6zAIfSFIxeXDBirS_Ub0uNtJWf5JTecPiC_aqXCT6u597xX6FE&s",TV Peñol | CO
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Undefined" tvg-id="tvrbcsd.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhE2K_gp_ntBbq451HGpSqghrzDY4C5qCLp1Pzx14NUg2ePflIVYH_huMtAP4&s",TV RBC SD
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?leogondim
 #EXTINF:-1 group-title="Undefined" tvg-id="tvseg720p.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3PAiQZq7gN4zcNZCVPC_KBn1uszS0vktyG2E_Jo7lZy2nG1WDJWUvToasig&s",TV Seg (720p)
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="tvsertoquixeramobimce.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ7_rBRAS0lQa1i20EITW8e3JHOKmvflKV2CHoFA4utN4hVh3safPQesyL1FM&s",TV Sertão¹ (Quixeramobim-CE)
@@ -629,8 +619,6 @@ http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u
 https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="carrusselfm.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7vr65qx1uH4cAN1JiPReCRKswiWIxACrItOcbYUa0Tu0bof9AVLHHAsiiFL0&s",Carrussel FM
 https://server10.emitironline.com:2199/tunein/carruselfm.pls
-#EXTINF:-1 group-title="Undefined" tvg-id="chisportinghd.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFMm1I0Q79US8SgYCUiVlvunQwfzMVQxGt7yA_SNniAYJiuZSc8-M8uQTqO0k&s",CHI: SPORTING HD
-http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-id="colosaltv.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpft9p83vi5aGCHEiQowIZm19KRCVDBRe9scQ-uBffY53RNcywSTXT3BVxhGE&s",Colosal TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 group-title="CL" tvg-id="chilechannel.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qfl0veS2sN9MGN_i_UFqk6CwYIuqvFSs1oTipWI8PWdU0uC69HC6_zDbMA&s",Chile Channel
@@ -879,8 +867,6 @@ https://video2archives.earthcam.com/sunrisesunset-vod/_definst_/MP4:15041/2022/0
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
 #EXTINF:-1 group-title="Rádio" tvg-id="tsfrdio.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e1/TSF_logo.png/250px-TSF_logo.png",TSF Rádio
 http://tsfdirecto.tsf.pt/tsfdirecto.mp3
-#EXTINF:-1 group-title="Adulto" tvg-id="visitxtv.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfEYIPqh8yAJLs3VskdLOG3HVpzLrn1OT3-6advnhquRysFHjJI9VGV0zRQ&s",Visit-X TV
-http://stream.visit-x.tv:1935/vxtv/live_720p/chunklist_w1911927332.m3u8
 #EXTINF:-1 group-title="N/A" tvg-id="copacabanalive.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEQRDd0DL1pcD0PWPx0xi_Fl9CZH5_0HbE08vIRinKJT54hvA3YgxOWcvyLyA&s",Copacabana Live
 https://hd-auth.skylinewebcams.com/live.m3u8?a=g6kho3o8qrioq5gqcbonte6vn4
 #EXTINF:-1 group-title="N/A" tvg-id="basilicaaparecida.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5AI-KieU6YYU58iKlD_NzAXYBwTdesc7cZZ3oaecQPe0s-VfHUNbmG8yKrLI&s",Basilica Aparecida

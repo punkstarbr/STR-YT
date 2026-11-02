@@ -6,11 +6,11 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?
 #EXTINF:-1 tvg-name="AMX Noticias" group-title="Noticias",AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Mas 26.1" group-title="General",TV Mas 26.1
+#EXTINF:-1 tvg-name="TV Mas 26.1" group-title="General" tvg-logo="https://pbs.twimg.com/profile_images/2054348199079333888/39bV34-G_400x400.jpg",TV Mas 26.1
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-name="Diez Chiapas" group-title="General",Diez Chiapas
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1 tvg-name="Sizart TV" group-title="General",Sizart TV
+#EXTINF:-1 tvg-name="Sizart TV" group-title="General" tvg-logo="https://sizart.org.mx/wp-content/uploads/2026/04/cropped-sizartlogo-270x270.png",Sizart TV
 https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-#EXTINF:-1 tvg-name="Video Tour Channel" group-title="General",Video Tour Channel
+#EXTINF:-1 tvg-name="Video Tour Channel" group-title="General" tvg-logo="https://videotourchannel.com/wp-content/uploads/2023/01/cropped-LOGO-MASTER-VECTORIZADO-01-300x194-2-1.png",Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL

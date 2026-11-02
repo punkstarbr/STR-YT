@@ -36,9 +36,9 @@ http://limed.cc:80/4x6cXF/ehfxdp/89840.m3u8
 http://170.83.49.66:8083/FUTURAHD/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="TV Gazeta.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/120px-TV_Gazeta.svg.png",GAZETA
 http://45.162.64.114/TV_GAZETA/index.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://i.imgur.com/6UoUybZ.png",TV VERDADE
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://i.imgur.com/6UoUybZ.png",TV VERDADE
 https://acesso.ecast.site:3104/hybrid/play.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="Undefined" tvg-logo="https://yt3.ggpht.com/Nw3Wmvgdcm9xOQK-UzAcfjSZnu4zho3Mrkeb4KwztlZBTQx8zuEz0C17bGYJLvvYdN57omljiw=s48-c-k-c0x00ffffff-no-rj",TVCB (Campos Belos-GO)
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://yt3.ggpht.com/Nw3Wmvgdcm9xOQK-UzAcfjSZnu4zho3Mrkeb4KwztlZBTQx8zuEz0C17bGYJLvvYdN57omljiw=s48-c-k-c0x00ffffff-no-rj",TVCB (Campos Belos-GO)
 https://stmv2.samcast.com.br/dermeval8653/dermeval8653/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TVCidadedePetropolis.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/00bb19faeb0ea5b2ca8adcfcbaa1249c.webp",TV Cidade de Petrópolis
 https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
@@ -142,7 +142,7 @@ https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/playlist.m3u8
 http://limed.cc:80/4x6cXF/ehfxdp/110234.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="SBTNacional.br" tvg-logo="https://yt3.googleusercontent.com/Kq_Q3PCddKsyGiiuPaLHy0fDg2TTueURhIusbWMwDAUBO1QlAp8wXR0xesZIzYIccoTnD-K-ow=s160-c-k-c0x00ffffff-no-rj",SBT TV CIDADE VERDE PI
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
-#EXTINF:-1 group-title="Canais Abertos" tvg-id="TVAlba.ba" tvg-logo="https://alba.tv.br/wp-content/uploads/2023/01/tvalba02.svg",TV ALBA
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/tv_alba.png",TV ALBA
 https://live.mediastreaming.com.br/alba/cdn.stream/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="SBTNacional.br" tvg-logo="https://yt3.googleusercontent.com/cNsCC8BUdf65eKjcXk6vMoKxdEcKImEBRoEtg89KWHztC9ecZGKsn0xWg80aJeBOai4wkk3qlw=w4000-",SBT TV DIFUSORA MA
 https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
@@ -210,7 +210,7 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 http://limed.cc:80/4x6cXF/ehfxdp/89843.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="BraziTV.us" tvg-logo="https://yt3.googleusercontent.com/LGEvkDCvdkfA3ssf155gu1VL-OQloEoALe7AeE8H9ghiBxDMDf5ysrWJYR1O1uMNiyVBTtK7fQ=s160-c-k-c0x00ffffff-no-rj",BRAZITV - EUA
 https://cbtvnow.com:5866/hls/livest2024.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-id="CanalRural.br" tvg-logo="https://imagens-cdn.canalrural.com.br/2023/08/MkE8B6GU-cr-logo-header.svg",CANAL RURAL - SP
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="CanalRural.br" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/canal_rural.png",CANAL RURAL - SP
 http://limed.cc:80/4x6cXF/ehfxdp/100034.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="AugeTV.br" tvg-logo="https://play-lh.googleusercontent.com/lTDvfLCFAuH1iRaeyv4zGceGMxfU-9m1dEb29I17ohCuvqQogklD9VuB-NepvLJ9eVKcS9WEvGMCidfWVcNqgpc=s0-br30",AUGE TV
 https://video01.logicahost.com.br/canalaugetv/canalaugetv/chunklist_w1875588192.m3u8
@@ -240,7 +240,7 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="PrimerTV.sc" tvg-logo="http://primertv.com.br/img/logo.png",PRIMER TV - SC
 https://stream.ichibantv.com:3522/stream/play.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-id="SaborArte.br" tvg-logo="https://canalsaborearte.uol.com.br/saborearte-logo-white.svg",SABOR & ARTE
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="SaborArte.br" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/sabor_arte.png",SABOR & ARTE
 http://limed.cc:80/4x6cXF/ehfxdp/91388.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="UmissTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/480px-Band_Marca.png",UMISS TV
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8

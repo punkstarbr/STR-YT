@@ -1,48 +1,48 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_DE.xml|https://epg.pw/xmltv/epg_US.xml|https://epg.pw/xmltv/epg_RU.xml|https://epg.pw/xmltv/epg_CA.xml"
 
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Casa_Italia_logo.svg/512px-Casa_Italia_logo.svg.png",Casa Italia 53 (720p) (Itália)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/casa-italia-53-it.png",Casa Italia 53 (720p) (Itália)
 https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="465194" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gem_Shopping_Network_logo.svg/512px-Gem_Shopping_Network_logo.svg.png",Gem Shopping Network (720p) (Estados Unidos)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="465194" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/gem-shopping-network-us.png",Gem Shopping Network (720p) (Estados Unidos)
 https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Juwelo_TV_logo.svg/512px-Juwelo_TV_logo.svg.png",Good Idea TV (GTV) - USA Thai (Estados Unidos da América)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-logo="https://goodideatv.net/images/gtvlogo-02.png",Good Idea TV (GTV) - USA Thai (Estados Unidos da América)
 http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="76661" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/HSE24_Logo.svg/512px-HSE24_Logo.svg.png",HSE24 (1080p) (Alemanha)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="76661" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hse-de.png",HSE24 (1080p) (Alemanha)
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
 
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="76737" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/HSE24_Logo.svg/512px-HSE24_Logo.svg.png",HSE24 Extra (1080p) (Alemanha)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="76737" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hse-extra-de.png",HSE24 Extra (1080p) (Alemanha)
 https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
 
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/HSE24_Logo.svg/512px-HSE24_Logo.svg.png",HSE24 Trend (576p) (Alemanha)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hse-trend-de.png",HSE24 Trend (576p) (Alemanha)
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Juwelo_TV_logo.svg/512px-Juwelo_TV_logo.svg.png",Juwelo (720p) (Alemanha)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-logo="https://www.juwelo.de/asset_10dd0100f838f4ce/skin/frontend/default/juwelo2/images/logo.png",Juwelo (720p) (Alemanha)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
 
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/KaufBei_TV_logo.svg/512px-KaufBei_TV_logo.svg.png",KaufBei TV (576p) (Alemanha)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-logo="https://www.kaufbei.tv/out/apex_kaufbei/img/favicons/favicon_512x512.png",KaufBei TV (576p) (Alemanha)
 https://elephant.t62a.com/hls/8103/index.m3u8
 
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="464796" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/QVC_Logo.svg/512px-QVC_Logo.svg.png",QVC 3 (1080p) (Estados Unidos)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="464796" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/qvc-3-us.png",QVC 3 (1080p) (Estados Unidos)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="464816" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/QVC_Logo.svg/512px-QVC_Logo.svg.png",QVC 2 (1080p) (Estados Unidos)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="464816" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/qvc-2-us.png",QVC 2 (1080p) (Estados Unidos)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="465325" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_of_Liquidation_Channel.svg/512px-Logo_of_Liquidation_Channel.svg.png",Shop LC (KCKS-LD10) (480p) [Not 24/7] (Estados Unidos)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="465325" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/shop-lc-us.png",Shop LC (KCKS-LD10) (480p) [Not 24/7] (Estados Unidos)
 https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
 
 #EXTINF:-1 group-title="HOME SHOPPING" tvg-id="5859" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Shopping_Live_logo.svg/512px-Shopping_Live_logo.svg.png",Shopping Live (576p) [Not 24/7] (Rússia)
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="470475" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/TSC_logo.svg/512px-TSC_logo.svg.png",Today's Shopping Choice (TSC) (720p) (Canadá)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="470475" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsc-ca.png",Today's Shopping Choice (TSC) (720p) (Canadá)
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 
 #EXTINF:-1 group-title="HOME SHOPPING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Tommy_Teleshopping_logo.svg/512px-Tommy_Teleshopping_logo.svg.png",Tommy Teleshopping (480p) (Países Baixos)
 https://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="6025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Yuvelirochka_TV_logo.svg/512px-Yuvelirochka_TV_logo.svg.png",Ювелирочка ТВ (576p) (Rússia)
+#EXTINF:-1 group-title="HOME SHOPPING" tvg-id="6025" tvg-logo="https://uvi.ru/preview.jpg",Ювелирочка ТВ (576p) (Rússia)
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
 #EXTINF:-1 group-title="HOME SHOPPING" tvg-id="464751" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hsn-us.png",HSN Home Shopping Network (1080p) (Estados Unidos)

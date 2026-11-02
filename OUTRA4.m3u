@@ -24,17 +24,17 @@ http://stream.tvcdn.net/haber/24-tv.m3u8
 http://stream.tvcdn.net/haber/tvnet.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TGRT.Haber.tr" tvg-name="TGRT HABER HD" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-id="Sinema.TV.tr" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA TV
+#EXTINF:-1 group-title="SINEMA" tvg-id="Sinema.TV.tr" tvg-logo="https://iptv-epg.org/images/HC7UTc44FMYs-iN9CVGf6sYiVtQFM2IWLuWocQRCTZLRAEO80W9L5n98_uLE8neKljab4-3WHJuRwI-yGIGdKwceYID59QvsZt0pDCuvBsrO" ,SINEMA TV
 http://tp.nxdns6.com:8080/Xtreamstore100con/BeonJBTzcHUFKotNNbXiW1tb4E/95
-#EXTINF:-1 group-title="SINEMA" tvg-id="Sinema.TV.2.tr" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA TV 2
+#EXTINF:-1 group-title="SINEMA" tvg-id="Sinema.TV.2.tr" tvg-logo="https://iptv-epg.org/images/dpjOdaOgES4o2Q3-9iXTSswv1EwOgbfF1pkT8zDKD3JO2ufiiScYE7VROm3RXn_S_c-trTuX3dy3XjMsLYFEaSytwa9PPZOUL-KRkVd-A5mr0A" ,SINEMA TV 2
 http://tp.nxdns6.com:8080/Xtreamstore100con/BeonJBTzcHUFKotNNbXiW1tb4E/84061
-#EXTINF:-1 group-title="SINEMA" tvg-id="Sinema.Komedi.tr" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA KOMEDİ
+#EXTINF:-1 group-title="SINEMA" tvg-id="Sinema.Komedi.tr" tvg-logo="https://iptv-epg.org/images/ykA6ZmSOkTkLQ2BZGbM4EzViVEIg2jpsH0LIZKRNux5G9paBPTOGtXoA1olrgXBAX1MZBkbhR-qMQtSPD7Pp4WwcxCO9Uqfl-dw-bH7Hls5kQYywf2GZ" ,SINEMA KOMEDİ
 http://tp.nxdns6.com:8080/Xtreamstore100con/BeonJBTzcHUFKotNNbXiW1tb4E/92
-#EXTINF:-1 group-title="SINEMA" tvg-id="Sinema.Aksiyon.tr" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA AKSIYON
+#EXTINF:-1 group-title="SINEMA" tvg-id="Sinema.Aksiyon.tr" tvg-logo="https://iptv-epg.org/images/jrAkXmLRxj3FcHTBfYwPw83ygyQ4pPEya0Jc1VgptUgO96znCxYv9zkl6PqAZ22zSjP205DD3BGG0zRUW21mlo9IIsbx6AxuIAjAI0U2KFDemP_t3zcmKA" ,SINEMA AKSIYON
 http://tp.nxdns6.com:8080/Xtreamstore100con/BeonJBTzcHUFKotNNbXiW1tb4E/94
-#EXTINF:-1 group-title="SINEMA" tvg-id="Sinema.1001.tr" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA 1001
+#EXTINF:-1 group-title="SINEMA" tvg-id="Sinema.1001.tr" tvg-logo="https://iptv-epg.org/images/yU7QHUcbOsR9y28ZX7v-yg9wwvo9uO7zZvjWpHzq-Vny1Dk4BJq60jkh5JcCVa5V7pX9v1QzWxhJ2cMY4SowIXUO58zqX37PISI_TDVetaZC4xn5Cw" ,SINEMA 1001
 http://tp.nxdns6.com:8080/Xtreamstore100con/BeonJBTzcHUFKotNNbXiW1tb4E/91
-#EXTINF:-1 group-title="SINEMA" tvg-id="Sinema.1002.tr" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA 1002
+#EXTINF:-1 group-title="SINEMA" tvg-id="Sinema.1002.tr" tvg-logo="https://iptv-epg.org/images/Aqv4juxbAOLYQ0cuhhns8CaXAJ6ZoL5-n-gOmeXGan4wswre0ea-wXFnvLMBdzcW1SVOqCnO4rXPHE81ATblKTJy4_0HsX3AZUU6XkZtpnjlS_LnEg" ,SINEMA 1002
 http://tp.nxdns6.com:8080/Xtreamstore100con/BeonJBTzcHUFKotNNbXiW1tb4E/84060
 #EXTINF:-1 group-title="SINEMA" tvg-id="Sinema Tv" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA
 http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48339
@@ -82,7 +82,7 @@ http://tp.nxdns6.com:8080/Xtreamstore100con/BeonJBTzcHUFKotNNbXiW1tb4E/44
 http://tp.nxdns6.com:8080/Xtreamstore100con/BeonJBTzcHUFKotNNbXiW1tb4E/45
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
 http://tp.nxdns6.com:8080/Xtreamstore100con/BeonJBTzcHUFKotNNbXiW1tb4E/46
-#EXTINF:-1 group-title="SPOR" tvg-id="S.Sport.tr" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
+#EXTINF:-1 group-title="SPOR" tvg-id="S.Sport.tr" tvg-name="S SPORT" tvg-logo="https://iptv-epg.org/images/yiK6f1RW0jA9Qs-93AiPwTCxfZeAi2yR2H7VtlXTFeelQ_Z7ESDJGzp1PfIxrfOBin5owY8Y2VCiYli6fZ2BQOaDKDqtejhJWDwRrD90" ,S SPORT
 http://tp.nxdns6.com:8080/Xtreamstore100con/BeonJBTzcHUFKotNNbXiW1tb4E/42
-#EXTINF:-1 group-title="SPOR" tvg-id="S.Sport.2.tr" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
+#EXTINF:-1 group-title="SPOR" tvg-id="S.Sport.2.tr" tvg-name="S SPORT 2" tvg-logo="https://iptv-epg.org/images/WdAf3VmLLpgxdM4nsI0d9GfG8sXnGJ4UM9kWaFPz93o-5Do-ad92FXcGGro7VFGLCrfPjhg8CScpFSJwx0vrNoLLaQpo9Wb_FdhvBUfmJQ" ,S SPORT 2
 http://tp.nxdns6.com:8080/Xtreamstore100con/BeonJBTzcHUFKotNNbXiW1tb4E/43

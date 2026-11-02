@@ -1,95 +1,95 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-id="I603.10188.schedulesdirect.org" tvg-name="Classic Arts Showcase" group-title="Entertainment"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 tvg-id="I603.10188.schedulesdirect.org" tvg-name="Classic Arts Showcase" group-title="Entertainment",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-id="I247.11867.schedulesdirect.org" tvg-name="TBS East" group-title="Entertainment"
+#EXTINF:-1 tvg-id="I247.11867.schedulesdirect.org" tvg-name="TBS East" group-title="Entertainment",TBS East
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="I104.34240.schedulesdirect.org" tvg-name="TBS West" group-title="Entertainment"
+#EXTINF:-1 tvg-id="I104.34240.schedulesdirect.org" tvg-name="TBS West" group-title="Entertainment",TBS West
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="I256.64312.schedulesdirect.org" tvg-name="TCM US" group-title="Entertainment"
+#EXTINF:-1 tvg-id="I256.64312.schedulesdirect.org" tvg-name="TCM US" group-title="Entertainment",TCM US
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="TCM West" group-title="Entertainment"
+#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="TCM West" group-title="Entertainment",TCM West
 https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="I245.11164.schedulesdirect.org" tvg-name="TNT" group-title="Entertainment"
+#EXTINF:-1 tvg-id="I245.11164.schedulesdirect.org" tvg-name="TNT" group-title="Entertainment",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="I652.91993.schedulesdirect.org" tvg-name="TNT West" group-title="Entertainment"
+#EXTINF:-1 tvg-id="I652.91993.schedulesdirect.org" tvg-name="TNT West" group-title="Entertainment",TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="I246.64490.schedulesdirect.org" tvg-name="Tru TV East" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eircom/tv-logos/tru-tv.png" group-title="Entertainment"
+#EXTINF:-1 tvg-id="I246.64490.schedulesdirect.org" tvg-name="Tru TV East" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eircom/tv-logos/tru-tv.png" group-title="Entertainment",Tru TV East
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="I74.24569.schedulesdirect.org" tvg-name="Tru TV West" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eircom/tv-logos/tru-tv.png" group-title="Entertainment"
+#EXTINF:-1 tvg-id="I74.24569.schedulesdirect.org" tvg-name="Tru TV West" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eircom/tv-logos/tru-tv.png" group-title="Entertainment",Tru TV West
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="Backstage.us" tvg-name="Backstage" tvg-logo="https://images.pluto.tv/channels/5e1f7da4bc7d740009831259/colorLogoPNG.png" group-title="Entertainment"
+#EXTINF:-1 tvg-id="Backstage.us" tvg-name="Backstage" tvg-logo="https://images.pluto.tv/channels/5e1f7da4bc7d740009831259/colorLogoPNG.png" group-title="Entertainment",Backstage
 https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
-#EXTINF:-1 tvg-id="I10.1.20493.zap2it.com" tvg-name="ABC News" group-title="News"
+#EXTINF:-1 tvg-id="I10.1.20493.zap2it.com" tvg-name="ABC News" group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s113380_ll_h15_ab.png?w=360&h=270",ABC News
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
-#EXTINF:-1 tvg-id="I117.83285.schedulesdirect.org" tvg-name="BBC News" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png" group-title="News"
+#EXTINF:-1 tvg-id="I117.83285.schedulesdirect.org" tvg-name="BBC News" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png" group-title="News",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="I353.14755.schedulesdirect.org" tvg-name="Bloomberg TV" group-title="News"
+#EXTINF:-1 tvg-id="I353.14755.schedulesdirect.org" tvg-name="Bloomberg TV" group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s14755_ll_h15_ab.png?w=360&h=270",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-id="BloombergTVLiveEvent.us" tvg-name="Bloomberg TV" group-title="News"
+#EXTINF:-1 tvg-id="BloombergTVLiveEvent.us" tvg-name="Bloomberg TV" group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s14755_ll_h15_ab.png?w=360&h=270",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-id="6231ec93779a9d00079ba8e2" tvg-name="CBSN" group-title="News"
+#EXTINF:-1 tvg-id="6231ec93779a9d00079ba8e2" tvg-name="CBSN" group-title="News",CBSN
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="I272.79318.schedulesdirect.org" tvg-name="Deutsche Welle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_(TV)_Logo_2012.png" group-title="News"
+#EXTINF:-1 tvg-id="I272.79318.schedulesdirect.org" tvg-name="Deutsche Welle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_(TV)_Logo_2012.png" group-title="News",Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="FreeSpeechTV.us" tvg-name="Free Speech TV" group-title="News"
+#EXTINF:-1 tvg-id="FreeSpeechTV.us" tvg-name="Free Speech TV" group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s16220_ll_h9_aa.png?w=360&h=270",Free Speech TV
 https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8
-#EXTINF:-1 tvg-id="I506.118853.schedulesdirect.org" tvg-name="GB News" group-title="News"
+#EXTINF:-1 tvg-id="I506.118853.schedulesdirect.org" tvg-name="GB News" group-title="News",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 tvg-id="I47.10145.schedulesdirect.org" tvg-name="Headline News" tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/170504153446-hln-logo-card-may-2017-large-169.jpg" group-title="News"
+#EXTINF:-1 tvg-id="I47.10145.schedulesdirect.org" tvg-name="Headline News" tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/170504153446-hln-logo-card-may-2017-large-169.jpg" group-title="News",Headline News
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="I202.58646.schedulesdirect.org" tvg-name="CNN US" tvg-logo="https://ia800801.us.archive.org/25/items/stevechatfield27_gmail_Cnn/cnn.png" group-title="News"
+#EXTINF:-1 tvg-id="I202.58646.schedulesdirect.org" tvg-name="CNN US" tvg-logo="https://ia800801.us.archive.org/25/items/stevechatfield27_gmail_Cnn/cnn.png" group-title="News",CNN US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="NewsmaxTV" tvg-name="NewsmaxTV" group-title="News"
+#EXTINF:-1 tvg-id="NewsmaxTV" tvg-name="NewsmaxTV" group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s97163_ll_h15_ab.png?w=360&h=270",NewsmaxTV
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="55b179af994403942f3061d6" tvg-name="Newsmax2" group-title="News"
+#EXTINF:-1 tvg-id="55b179af994403942f3061d6" tvg-name="Newsmax2" group-title="News",Newsmax2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="One America News Network" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/oan-news.png" group-title="News"
+#EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="One America News Network" tvg-logo="https://dtil.tmsimg.com/assets/s83953_ll_h9_aa.png?w=360&h=270" group-title="News",One America News Network
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e1f7da4bc7d740009831259" tvg-name="America's Voice News" tvg-logo="https://images.pluto.tv/channels/5e1f7da4bc7d740009831259/colorLogoPNG.png" group-title="News"
+#EXTINF:-1 tvg-id="5e1f7da4bc7d740009831259" tvg-name="America's Voice News" tvg-logo="https://images.pluto.tv/channels/5e1f7da4bc7d740009831259/colorLogoPNG.png" group-title="News",America's Voice News
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
-#EXTINF:-1 tvg-id="I501.1564.tvguide.co.uk" tvg-name="SKY News" tvg-logo="https://static.epg.best/gb/SkyNews.uk.png" group-title="News"
+#EXTINF:-1 tvg-id="I501.1564.tvguide.co.uk" tvg-name="SKY News" tvg-logo="https://static.epg.best/gb/SkyNews.uk.png" group-title="News",SKY News
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-id="I347.114934.schedulesdirect.org" tvg-name="The First" tvg-logo="https://tf-a1.freetls.fastly.net/static/images/header-logo2.png" group-title="News"
+#EXTINF:-1 tvg-id="I347.114934.schedulesdirect.org" tvg-name="The First" tvg-logo="https://tf-a1.freetls.fastly.net/static/images/header-logo2.png" group-title="News",The First
 https://redseat-thefirst-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="cgtn.us" tvg-name="CGTN" group-title="News"
+#EXTINF:-1 tvg-id="cgtn.us" tvg-name="CGTN" group-title="News",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="trtworld.us" tvg-name="TRT World" group-title="News"
+#EXTINF:-1 tvg-id="trtworld.us" tvg-name="TRT World" group-title="News",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="rt.us" tvg-name="RT" group-title="News"
+#EXTINF:-1 tvg-id="rt.us" tvg-name="RT" group-title="News",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN8_The_Ocho_ESPN_Organization_Logo.svg/330px-ESPN8_The_Ocho_ESPN_Organization_Logo.svg.png" group-title="Sports"
+#EXTINF:-1 tvg-name="ESPN 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN8_The_Ocho_ESPN_Organization_Logo.svg/330px-ESPN8_The_Ocho_ESPN_Organization_Logo.svg.png" group-title="Sports",ESPN 8
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
-#EXTINF:-1 tvg-id="I317.60222.schedulesdirect.org" tvg-name="QVC" group-title="Shopping"
+#EXTINF:-1 tvg-id="I317.60222.schedulesdirect.org" tvg-name="QVC" group-title="Shopping",QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
-#EXTINF:-1 tvg-id="QVC2.us" tvg-name="QVC 2" group-title="Shopping"
+#EXTINF:-1 tvg-id="QVC2.us" tvg-name="QVC 2" group-title="Shopping" tvg-logo="https://dtil.tmsimg.com/assets/s82682_ll_h15_ad.png?w=360&h=270",QVC 2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
-#EXTINF:-1 tvg-id="QVC3.us" tvg-name="QVC 3" group-title="Shopping"
+#EXTINF:-1 tvg-id="QVC3.us" tvg-name="QVC 3" group-title="Shopping",QVC 3
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QVC Everyday Refresh" group-title="Shopping"
+#EXTINF:-1 tvg-name="QVC Everyday Refresh" group-title="Shopping",QVC Everyday Refresh
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QVC Kitchen" group-title="Shopping"
+#EXTINF:-1 tvg-name="QVC Kitchen" group-title="Shopping",QVC Kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QVC West" group-title="Shopping"
+#EXTINF:-1 tvg-name="QVC West" group-title="Shopping",QVC West
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QVC Beauty" group-title="Shopping"
+#EXTINF:-1 tvg-name="QVC Beauty" group-title="Shopping",QVC Beauty
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QVC HD" group-title="Shopping"
+#EXTINF:-1 tvg-name="QVC HD" group-title="Shopping",QVC HD
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
-#EXTINF:-1 tvg-id="I240.62077.schedulesdirect.org" tvg-name="HSN" group-title="Shopping"
+#EXTINF:-1 tvg-id="I240.62077.schedulesdirect.org" tvg-name="HSN" group-title="Shopping" tvg-logo="https://dtil.tmsimg.com/assets/s62077_ll_h15_ab.png?w=360&h=270",HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
-#EXTINF:-1 tvg-id="I310.10270.schedulesdirect.org" tvg-name="HSN 2" group-title="Shopping"
+#EXTINF:-1 tvg-id="I310.10270.schedulesdirect.org" tvg-name="HSN 2" group-title="Shopping" tvg-logo="https://dtil.tmsimg.com/assets/s10270_ll_h15_ad.png?w=360&h=270",HSN 2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HSN West" group-title="Shopping"
+#EXTINF:-1 tvg-name="HSN West" group-title="Shopping",HSN West
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
-#EXTINF:-1 tvg-id="JewelryTV.us" tvg-name="Jewelry Television" group-title="Shopping"
+#EXTINF:-1 tvg-id="JewelryTV.us" tvg-name="Jewelry Television" group-title="Shopping" tvg-logo="https://dtil.tmsimg.com/assets/s16604_ll_h15_ab.png?w=360&h=270",Jewelry Television
 https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
-#EXTINF:-1 tvg-id="ShopLC.us" tvg-name="Shop LC" group-title="Shopping"
+#EXTINF:-1 tvg-id="ShopLC.us" tvg-name="Shop LC" group-title="Shopping" tvg-logo="https://dtil.tmsimg.com/assets/s56032_ll_h15_ac.png?w=360&h=270",Shop LC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
-#EXTINF:-1 tvg-id="I598.15997.schedulesdirect.org" tvg-name="The Shopping Channel" group-title="Shopping"
+#EXTINF:-1 tvg-id="I598.15997.schedulesdirect.org" tvg-name="The Shopping Channel" group-title="Shopping",The Shopping Channel
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 tvg-id="I361.91994.schedulesdirect.org" tvg-name="Acuweather Network" group-title="Weather"
+#EXTINF:-1 tvg-id="I361.91994.schedulesdirect.org" tvg-name="Acuweather Network" group-title="Weather" tvg-logo="https://dtil.tmsimg.com/assets/s91994_ll_h15_ab.png?w=360&h=270",Acuweather Network
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="I362.11187.schedulesdirect.org" tvg-name="The Weather Channel" group-title="Weather"
+#EXTINF:-1 tvg-id="I362.11187.schedulesdirect.org" tvg-name="The Weather Channel" group-title="Weather" tvg-logo="https://dtil.tmsimg.com/assets/s58812_ll_h15_aa.png?w=360&h=270",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
-#EXTINF:-1 tvg-id="WeatherNation.HDTV.(WTHRN).us" tvg-name="WeatherNation" group-title="Weather"
+#EXTINF:-1 tvg-id="WeatherNation.HDTV.(WTHRN).us" tvg-name="WeatherNation" group-title="Weather" tvg-logo="https://dtil.tmsimg.com/assets/s72422_ll_h15_aa.png?w=360&h=270",WeatherNation
 https://cdn.igocast.com/channel6_hls/channel6_master.m3u8

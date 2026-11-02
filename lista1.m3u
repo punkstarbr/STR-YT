@@ -7,7 +7,7 @@ https://video02.logicahost.com.br/portaldacidade/fozsentidopontedaamizade.stream
 #EXTINF:-1 group-title="Reality Show's Live" tvg-id="RTLTVI.be" tvg-name="RTL-TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_TVI.svg/200px-RTL_TVI.svg.png",RTL-TVI (1080p)
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 
-#EXTINF:-1 group-title="Reality Show's Live" tvg-id="RAITRE" tvg-name="IT: Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/200px-Rai_3_-_Logo_2016.svg.png",IT: Rai 3
+#EXTINF:-1 group-title="Reality Show's Live" tvg-id="RAITRE" tvg-name="IT: Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/330px-Rai_3_-_Logo_2016.svg.png",IT: Rai 3
 https://dumdumbullet.com/1011454237/bHg8wYxrId/79992114901
 
 #EXTINF:-1 group-title="Reality Show's Live" tvg-id="FRANCE2.fr" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/France_2.svg/200px-France_2.svg.png",FRANCE 2
@@ -70,14 +70,14 @@ http://80.61.63.103:81/cam_1.cgi
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="5",Canale 5 - VPN
+#EXTINF:-1 group-title="" tvg-chno="5",Canale 5 - VPN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-chno="6",Italia 1 - VPN
+#EXTINF:-1 group-title="" tvg-chno="6",Italia 1 - VPN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -88,17 +88,17 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN1 - BACKUP
+#EXTINF:-1 group-title="Reality Show'S Live"  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN1 - BACKUP
 #EXTVLCOPT:http-user-agent=Firefox
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN2 - BACKUP
+#EXTINF:-1 group-title="Reality Show'S Live"  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png",GRANDE FRATELLO COM VPN2 - BACKUP
 #EXTVLCOPT:http-user-agent=Firefox
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b8)/manifest.mpd
 
-#EXTINF:-1 group-title="Reality Show'S Live" tvg-id=""  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png6",GRANDE FRATELLO COM VPN3 - BACKUP
+#EXTINF:-1 group-title="Reality Show'S Live"  tvg-logo="https://it.wikipedia.org/wiki/File:Grande_Fratello_VIP.png6",GRANDE FRATELLO COM VPN3 - BACKUP
 #EXTVLCOPT:http-user-agent=Firefox
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b9)/manifest.mpd
 
@@ -146,7 +146,7 @@ https://video-ar.radioradicale.it/diretta/camera2/chunklist_w454478514.m3u8
 
 
 
-#EXTINF:-1 tvg-id="AuroraArte.it" status="online",Aurora Arte (480p)
+#EXTINF:-1 tvg-id="AuroraArte.it" status="online" tvg-logo="https://www.auroraarte.it/wp-content/uploads/2023/11/AURORA-ARTE-brand.png",Aurora Arte (480p)
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 
 
