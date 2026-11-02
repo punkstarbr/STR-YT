@@ -91,15 +91,6 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parlia
 
 
 
-#EXTINF:-1 tvg-name="BBC Radio nan Gàidheal" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradionangaidheal.png",BBC Radio nan Gàidheal
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-chno="700" tvg-id="BBCRadio1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1-epg.png" group-title="Radio",BBC Radio 1
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/ak/bbc_radio_one.mpd
 #EXTINF:-1 tvg-chno="701" tvg-id="BBCRadio1X.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1x-epg.png" group-title="Radio",BBC Radio 1Xtra

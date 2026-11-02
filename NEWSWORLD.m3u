@@ -119,8 +119,6 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd749
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="DWEspanol.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/DW_Logo.svg/512px-DW_Logo.svg.png",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 group-title="OTHER" tvg-name="--- OTHER CHANNELS ---",--- OTHER CHANNELS ---
-
 #EXTINF:-1 tvg-id="369766" tvg-name="DW English" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dw-int.png" group-title="NEWS WORLD",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="RT.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia_today_logo.svg/512px-Russia_today_logo.svg.png",RT English

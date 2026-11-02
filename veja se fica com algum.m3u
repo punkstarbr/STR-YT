@@ -37,8 +37,6 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 group-title="ABERTOS" tvg-id="TV.Brasil.Int.br" tvg-logo="https://imgur.com/cSGtFbn.jpg",TV BRASIL INT
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 group-title="ABERTOS" tvg-id="Terra.Viva.br" tvg-logo="https://imgur.com/eWQBI6j.jpg",TERRA VIVA
-https://origin-07.nxplay.com.br/TERRAVIVA_FAST/index.m3u8?token=feae3ae46e13c1678350df2c372a20263c9ad27f-c93faaf4f5f0fcc2eb74a0f732899f7e-1740878456-1740835256
 #EXTINF:-1 group-title="ABERTOS" tvg-id="DW.de" tvg-logo="https://static.dw.com/image/132806_302.jpg",DW PORTUGUÊS
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="ABERTOS INT" tvg-id="CNN.us" tvg-logo="https://imgur.com/NH3aoAX.jpg",CNN US

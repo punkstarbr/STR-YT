@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
+#EXTM3U x-tvg-url="https://epg.one/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="146" tvg-name="Perviy Kanal HD" tvg-logo="http://epg.it999.ru/img2/983.png" group-title="RUSSIA",Первый HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
