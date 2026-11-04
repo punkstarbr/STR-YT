@@ -153,13 +153,13 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playli
 https://voa-ingest.akamaized.net/hls/live/2033882/tvmc10/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="RAINews.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rai_News_24.svg/512px-Rai_News_24.svg.png",RAI News 24
 https://streamcdne2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB1.ir" tvg-name="IRIB 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/IRIB_TV1_Logo_%282025%29.svg/512px-IRIB_TV1_Logo_%282025%29.svg.png",IRIB 1
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB1.ir" tvg-name="IRIB 1" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/irib_tv1.png",IRIB 1
 https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB2.ir" tvg-name="IRIB 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IRIB_Logo.svg/512px-IRIB_Logo.svg.png",IRIB 2
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB2.ir" tvg-name="IRIB 2" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/irib_tv2.png",IRIB 2
 https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB3.ir" tvg-name="IRIB 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/IRIB_TV3_Logo.png/640px-IRIB_TV3_Logo.png",IRIB 3
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB3.ir" tvg-name="IRIB 3" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/irib_tv3.png",IRIB 3
 https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRINN.ir" tvg-name="IRINN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/IRINN_logo.svg/440px-IRINN_logo.svg.png",IRINN
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRINN.ir" tvg-name="IRINN" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/irib_irinn.png",IRINN
 http://185.9.2.18/chid_926/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="24Horas.es" tvg-name="+24" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png",+24
 https://ztnr.rtve.es/ztnr/6108720.m3u8
@@ -337,25 +337,25 @@ https://n09.radiojar.com/t2n88q0st5quv
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="VOA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Voice_of_America_logo.svg/512px-Voice_of_America_logo.svg.png",VOA Spanish Radio
 https://voa-ingest.akamaized.net/hls/live/2035148/152_134R/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRINN.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png",IRIB IRINN
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRINN.ir" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/irib_irinn.png",IRIB IRINN
 http://185.9.2.18/chid_926/index.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB2.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png",IRIB2
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB2.ir" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/irib_tv2.png",IRIB2
 https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRINN.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png",IRINN
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRINN.ir" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/irib_irinn.png",IRINN
 http://185.9.2.18/chid_926/index.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB1.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IRIB_Logo.svg/512px-IRIB_Logo.svg.png",IRIB1
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB1.ir" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/irib_tv1.png",IRIB1
 https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB2.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IRIB_Logo.svg/512px-IRIB_Logo.svg.png",IRIB2
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB2.ir" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/irib_tv2.png",IRIB2
 https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB3.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IRIB_Logo.svg/512px-IRIB_Logo.svg.png",IRIB3
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB3.ir" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/irib_tv3.png",IRIB3
 https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB4.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IRIB_Logo.svg/512px-IRIB_Logo.svg.png",IRIB4
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIB4.ir" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/irib_tv4.png",IRIB4
 https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIBUHD.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IRIB_Logo.svg/512px-IRIB_Logo.svg.png",IRIB UHD (2160p)
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRIBUHD.ir" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/irib_uhd.png",IRIB UHD (2160p)
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRINN2.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IRIB_Logo.svg/512px-IRIB_Logo.svg.png",IRINN2 Live Farsi News
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRINN2.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/IRIB_IRINN_2_Logo_2025.png",IRINN2 Live Farsi News
 https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRINN.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IRIB_Logo.svg/512px-IRIB_Logo.svg.png",IRINN Live Farsi News
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="IRINN.ir" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/irib_irinn.png",IRINN Live Farsi News
 http://185.9.2.18/chid_926/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Canal.Mexiquense.TV.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg",AMX Noticias (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
