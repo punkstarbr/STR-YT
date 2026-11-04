@@ -495,14 +495,6 @@ https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng
 
 #EXTINF:-1 group-title="CNN's" tvg-id="Canal.CNN.Chile.sv" tvg-logo="https://www.cnnchile.com/_templates/globals/img/logo-alt.png",CNN CHILE
 http://190.110.96.238:8000/play/a0f5/index.m3u8
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFxp349xLkhA5PCOkEjsKkck0O1yWynuGu0QkS8Om7sQf6NmOjdIgySFMBPw&s" group-title="NEWS WORLD",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8?DVR
-#EXTINF:-1 group-title="CNN's" tvg-id="cnn.us" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="cnn.us" tvg-logo="https://iptvx.one/picons/cnn.png",CNN (HD ready)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="465021" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/cnn-international-int.png" group-title="NEWS WORLD",CNN International
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="465021" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",CNN INTERNACIONAL
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8?DVR
 #EXTINF:-1 group-title="CNN's" tvg-id="465021" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",CNN INTERNACIONAL
@@ -527,8 +519,6 @@ https://playlistserver.aws.syncbak.com/playlist/13353644/master.m3u8?access_toke
 https://247.foxbusiness.com/hls/live/2003756/FBNHLSv3/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="FRBD4100006OC" tvg-logo="https://epg.iptvx.one/picons/fox-business-us.png",Fox Business (HD ready)
 http://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png",CNN SERVIÇO 1
-https://tvsen6.aynaott.com/cnn/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png",CNN SERVIÇO 2
 https://newsource-live.warnermediacdn.com/hls/live/2005451/intl02/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png",CNN SERVIÇO 3

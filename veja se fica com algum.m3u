@@ -39,8 +39,6 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 group-title="ABERTOS" tvg-id="DW.de" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/dw_portugues.png",DW PORTUGUÊS
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 group-title="ABERTOS INT" tvg-id="CNN.us" tvg-logo="https://imgur.com/NH3aoAX.jpg",CNN US
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="ABERTOS INT" tvg-id="SIC.pt" tvg-logo="https://imgur.com/tvTrpok.jpg",SIC PT
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 group-title="ABERTOS INT" tvg-id="TVE.es" tvg-logo="https://imgur.com/4s4N14e.jpg",TVE 24 ES
