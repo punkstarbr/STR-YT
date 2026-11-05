@@ -385,8 +385,6 @@ http://143.244.60.30/MOTOR_TREND/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="MSG.(Madison.Square.Gardens).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" tvg-name="MSG",MSG
 http://143.244.60.30/MSG/index.m3u8
 
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="MSNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" tvg-name="MSNBC",MSNBC
-http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/143.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="mtvU.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" tvg-name="MTV",MTV
 http://143.244.60.30/MTV/index.m3u8
