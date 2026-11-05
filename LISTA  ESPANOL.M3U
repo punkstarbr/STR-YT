@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz"
+#EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz"
 
 #EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="ESPANHA - NACIONAIS" tvg-logo="https://graph.facebook.com/La1TVE/picture?width=200&height=200",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
@@ -18,6 +17,8 @@ https://gitlab.com/movrey/movrel/-/raw/main/telecinco.m3u8
 
 #EXTINF:-1 tvg-id="laSexta.es" tvg-name="La Sexta" group-title="ESPANHA - NACIONAIS" tvg-logo="https://graph.facebook.com/lasextatv/picture?width=200&height=200",La Sexta
 https://gitlab.com/movrey/movrel/-/raw/main/sexta.m3u8
+#EXTINF:-1 tvg-id="LaSeptima.TV" tvg-name="La Séptima" group-title="ESPANHA - NACIONAIS" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/la_septima.png",La Séptima
+https://laseptima.com/la-septima-tv-directo/
 
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="Chilevisión" group-title="CHILE - NACIONAIS" tvg-logo="https://www.chilevision.cl/_templates/globals/img/logo.png",Chilevisión
 http://15.204.246.24:8080/CHVHD/index.m3u8

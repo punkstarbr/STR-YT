@@ -1,6 +1,6 @@
 # Logos raster
 
-Estes PNGs substituem referências SVG nas playlists para compatibilidade com players IPTV que não exibem SVG. Os arquivos mantêm a proporção e o conteúdo visual das fontes; foram conferidos visualmente em 2026-11-02. As playlists usam os arquivos públicos em `https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/`.
+Estes PNGs substituem referências SVG nas playlists para compatibilidade com players IPTV que não exibem SVG. Mantêm a proporção e o conteúdo visual das fontes; cada origem e data de conferência é indicada abaixo. As playlists usam os arquivos públicos em `https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/`.
 
 | Arquivo | Emissora | Origem da imagem |
 |---|---|---|
@@ -21,6 +21,7 @@ Os PNGs derivados de arquivos do Wikimedia foram rasterizados para uso no player
 - `bein_sports_1.png` — beIN SPORTS 1; arquivo raster estável do [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Logo_bein_sports_1.png), conferido contra a [biblioteca oficial de logos beIN](https://affiliate.beinsports.com/logo-library--brand-guidelines--2).
 - `dw_portugues.png` — Deutsche Welle/DW Português; PNG do [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:DW_Logo_2012.png), cuja fonte indicada é DW.de.
 - `canal_extremadura.png` — marca raster “EX Canal Extremadura”, obtida de [Logos World](https://logos-world.net/wp-content/uploads/2026/07/Canal-Extremadura-Logo-New-500x281.png) e conferida com o [anúncio oficial de renovação de marca](https://www.canalextremadura.es/noticias/extremadura/canal-extremadura-estrena-nueva-imagen-corporativa). O arquivo `EX_Marca_Horiz_Black.png` do site oficial é da plataforma EX Play, não da emissora, e não foi usado.
+- `la_septima.png` — logotipo atual da emissora, rasterizado para PNG a partir do [asset oficial do site da La Séptima](https://laseptima.com/wp-content/uploads/2026/10/LOGOxcapas-copia-02-b1509b.svg) e inspecionado visualmente em 2026-11-05. A playlist referencia apenas o PNG.
 
 ### Logos IRIB/IRINN revisados em 2026-11-03
 
