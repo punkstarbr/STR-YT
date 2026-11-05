@@ -261,7 +261,7 @@ https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8
 #EXTINF:-1 group-title="Italia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gBsvB4YNKUMsPm-5tjGFzZ23j73DTxLY7wtQP1i87kmfUMT1wONYAsTwNvM&s",Documentari – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="Italia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwuOXwT2hkKAA2mzCxtSl5jgx9YgxE3ZrHCxpPSNRiTWwurU5qWsuTDM5nAQo&s",Etv Rete7
-https://live.ipstream.it/etv/etv.stream/playlist.m3u8
+https://5f11919dca3bd.streamlock.net/E-TvRete7/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcBwCC9kVcz2dlT3HZcaBrIwH6m7_prn0aM01w44M6JSZ2vftPujLF_VM9g&s",Catfish – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="Italia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUF6Ksvuj-Rn0y82ZX_qzGB74PKYIQPIB86FF9Z9p-pc2CqswVD_Gc1p7NoA&s",Euro TV (720p) [Not 24/7]
@@ -273,7 +273,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa777b
 #EXTINF:-1 group-title="Italia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNjeduxmawhnCmiX7WdFcC3ZMV8Ib8winvcsHOUYeaNMx6yQOUenAbd34HGw&s",Digital Tv7 Benevento
 http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8rZPRYEewKtTplF78cHCUnMvANNUG-MLM8ZZL7Hq9XJZo003uQaNNZq-fjQ&s",Etv Marche
-https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
+https://5f11919dca3bd.streamlock.net:443/E-TvPiu/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhee5qjcg0kofHGWix-GARaTR5T-v92Q5anv3RIz5MyofpqHP-8fwO-mtZdg&s",Entella TV (720p) [Not 24/7]
 https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
 #EXTINF:-1 group-title="Italia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6IoTA5mhyyhLzZ8LrhAgLRHVwVJo99_S5rPVKmQcKhYAYoGWHdiV88uFVCw&s",Elive TV Brescia (720p) [Not 24/7]
