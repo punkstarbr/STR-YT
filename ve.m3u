@@ -22,7 +22,7 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="eSportsMax.ve",eSports Max (480p) [Not 24/7]
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 
-#EXTINF:-1 group-title="VENEZUELA" tvg-id="KandelaTV.ve",KandelaTV (480p)
+#EXTINF:-1 group-title="VENEZUELA" tvg-id="KandelaTV.ve" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/kandela_tv.png",KandelaTV (480p)
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="LatinaTV.ve" tvg-logo="https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png",Latina TV (1080p)
@@ -37,20 +37,20 @@ https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="MAXAnime.ve",MAX Anime (720p)
 http://45.228.234.9:8000/play/a06u/index.m3u8
 
-#EXTINF:-1 group-title="VENEZUELA" tvg-id="MDATelevision.ve",MDA Televisión (720p)
+#EXTINF:-1 group-title="VENEZUELA" tvg-id="MDATelevision.ve" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/mda_television.png",MDA Televisión (720p)
 https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="MonagasVision.ve" tvg-logo="https://monagasvision.com/wp-content/uploads/2024/07/LOGO-MV.png",Monagas Visión (720p) [Not 24/7]
 https://tv.monagasvision.com/hls/mistream_GOku1896.m3u8
 
 
-#EXTINF:-1 group-title="VENEZUELA" tvg-id="OnzaTV.ve",Onza TV (720p)
+#EXTINF:-1 group-title="VENEZUELA" tvg-id="OnzaTV.ve" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/onza_tv.png",Onza TV (720p)
 https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="OxigenoTV.ve",Oxigeno TV (360p) [Not 24/7]
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 
-#EXTINF:-1 group-title="VENEZUELA" tvg-id="Panavision.ve",Panavisión (1080p)
+#EXTINF:-1 group-title="VENEZUELA" tvg-id="Panavision.ve" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/panavision.png",Panavisión (1080p)
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="PLTV.ve",PLTV (614p)
@@ -74,7 +74,7 @@ https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="SucreTV.ve",Sucre tv (360p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/sucretv/playlist.m3u8
 
-#EXTINF:-1 group-title="VENEZUELA" tvg-id="TAMTV.ve",TAM TV (240p)
+#EXTINF:-1 group-title="VENEZUELA" tvg-id="TAMTV.ve" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/tam_tv.png",TAM TV (240p)
 https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="Telearagua.ve",TeleAragua (480p)
@@ -86,7 +86,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="Telecentro.ve",Telecentro (480p)
 https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
 
-#EXTINF:-1 group-title="VENEZUELA" tvg-id="Telecolor.ve",Telecolor (480p)
+#EXTINF:-1 group-title="VENEZUELA" tvg-id="Telecolor.ve" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/telecolor.png",Telecolor (480p)
 https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="Telesol.ve",Telesol (720p) [Not 24/7]
@@ -104,7 +104,7 @@ https://oracle.streaminghd.cl/torococotelevision/torococotelevision/playlist.m3u
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="TRT.ve",TRT (410p)
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
 
-#EXTINF:-1 group-title="VENEZUELA" tvg-id="TRV.ve",TRV (480p)
+#EXTINF:-1 group-title="VENEZUELA" tvg-id="TRV.ve" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/trv.png",TRV (480p)
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="TVAndes.ve",TV Andes (720p) [Not 24/7]
@@ -119,18 +119,18 @@ https://srv.panelcast.net/yohancarlos/yohancarlos/playlist.m3u8
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="UniTV.ve",UniTV (720p)
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
 
-#EXTINF:-1 group-title="VENEZUELA" tvg-id="VTV.ve",Venezolana de Televisión (720p) [Not 24/7]
+#EXTINF:-1 group-title="VENEZUELA" tvg-id="VTV.ve" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/venezolana_de_television.png",Venezolana de Televisión (720p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/9ad6390b9047d4c43ea0ae6ca3199a3ef70fc8aa/master.m3u8
 
-#EXTINF:-1 group-title="VENEZUELA" tvg-id="TVEPACO.ve",Vepaco TV (480p)
+#EXTINF:-1 group-title="VENEZUELA" tvg-id="TVEPACO.ve" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/vepaco_tv.png",Vepaco TV (480p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 
-#EXTINF:-1 group-title="VENEZUELA" tvg-id="VivoPlay.ve",VIVOplay (576p)
+#EXTINF:-1 group-title="VENEZUELA" tvg-id="VivoPlay.ve" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/vivoplay.png",VIVOplay (576p)
 https://linear-260.frequency.stream/mt/studio/260/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="VPItv.ve",VPItv (1080p)
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
-#EXTINF:-1 group-title="VENEZUELA" tvg-id="Yatvo.ve",YATVO (720p)
+#EXTINF:-1 group-title="VENEZUELA" tvg-id="Yatvo.ve" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/yatvo.png",YATVO (720p)
 https://rpn3.bozztv.com/ssh101/ssh101/yatvo/playlist.m3u8
