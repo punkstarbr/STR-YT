@@ -24,6 +24,24 @@ https://www.grupoliberalmedia.com.br/rdcastanhal/liveradio/chunklist_w317712096.
 #EXTINF:-1 group-title="RADIOS BRASIL" tvg-logo="https://irp.cdn-website.com/4ef31d30/dms3rep/multi/opt/executiva-logo-topo-228w.png" radio="true",EXECUTIVA FM
 http://live.ojc.com.br:8000/c2f4/myStream/playlist
 
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/rca_centro_america_fm_cuiaba_991.jpg" radio="true",CENTRO AMÉRICA FM - CUIABÁ - EASY 99,1
+https://centova.svdns.com.br:20109/stream
+
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/rca_centro_america_fm_rondonopolis_1015.jpg" radio="true",CENTRO AMÉRICA FM - RONDONÓPOLIS - EASY 101,5
+https://centova.svdns.com.br:20111/stream
+
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/rca_centro_america_fm_sorriso_893.jpg" radio="true",CENTRO AMÉRICA FM - SORRISO - HITS 89,3
+https://centova.svdns.com.br:20112/stream
+
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/rca_centro_america_fm_araguaia_999.jpg" radio="true",CENTRO AMÉRICA FM - ARAGUAIA - HITS 99,9
+https://centova.svdns.com.br:20114/stream
+
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/rca_centro_america_fm_caceres_1031.jpg" radio="true",CENTRO AMÉRICA FM - CÁCERES - HITS 103,1
+https://centova.svdns.com.br:20113/stream
+
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/rca_morena_fm_campo_grande_1071.jpg" radio="true",MORENA FM - CAMPO GRANDE - EASY 107,1
+https://centova.svdns.com.br:20110/stream
+
 #EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="BandNewsFM.br" tvg-name="BandNews FM FAST" tvg-logo="https://d1hiif9y3rkpbt.cloudfront.net/Images/S3/LG_artwork/Logo-400x200.png" radio="true",BANDNEWS FM (FAST)
 https://amg29547-amg29547c2-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg29547-amg29547c2-amgplt0026/playlist.m3u8
 

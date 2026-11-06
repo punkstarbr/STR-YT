@@ -49,4 +49,13 @@ As playlists apontam as imagens locais acima para `https://raw.githubusercontent
 - `vivoplay.png` — VIVOplay (576p); PNG 768×413 (RGBA), imagem oficial raster inspecionada em 2026-11-06. [Arquivo de logo](https://vivoplay.net/images/slider/LOGO_VIVOplay.png); fonte institucional: [https://vivoplay.net/](https://vivoplay.net/), [https://www.youtube.com/@vivoplaynet](https://www.youtube.com/@vivoplaynet), [https://x.com/vivoplaynet?lang=en](https://x.com/vivoplaynet?lang=en).
 - `yatvo.png` — YATVO (720p); PNG 500×500 (P), imagem oficial raster inspecionada em 2026-11-06. [Arquivo de logo](https://yatvo.com/wp-content/uploads/2025/09/IcoYATVO.png); fonte institucional: [https://yatvo.com/](https://yatvo.com/).
 
-As playlists referenciam os PNGs públicos neste repositório. Os demais alvos sem imagem raster atual e inequívoca permaneceram sem alteração.
+### Rádios da Rede Centro América adicionadas em 2026-11-06
+
+- `rca_centro_america_fm_cuiaba_991.jpg` — Centro América FM Cuiabá - Easy 99,1; JPEG oficial 512×512, inspecionado visualmente. [Logo](https://cadena-high-volume.b-cdn.net/uploads/station/vertical_logo/552000571/CUIABA.jpg); [player oficial](https://cafm.com.br/).
+- `rca_centro_america_fm_rondonopolis_1015.jpg` — Centro América FM Rondonópolis - Easy 101,5; JPEG oficial 512×512, inspecionado visualmente. [Logo](https://cadena-high-volume.b-cdn.net/uploads/station/vertical_logo/155755294/RONDONOPOLIS.jpg); [player oficial](https://cafm.com.br/?station_id=155755294).
+- `rca_centro_america_fm_sorriso_893.jpg` — Centro América FM Sorriso - Hits 89,3; JPEG oficial 512×512, inspecionado visualmente. [Logo](https://cadena-high-volume.b-cdn.net/uploads/station/vertical_logo/870763917/SORRISO.jpg); [player oficial](https://cafm.com.br/?station_id=870763917).
+- `rca_centro_america_fm_araguaia_999.jpg` — Centro América FM Araguaia - Hits 99,9; JPEG oficial 512×512, inspecionado visualmente. [Logo](https://cadena-high-volume.b-cdn.net/uploads/station/vertical_logo/976846317/ARAGUAIA.jpg); [player oficial](https://cafm.com.br/?station_id=976846317).
+- `rca_centro_america_fm_caceres_1031.jpg` — Centro América FM Cáceres - Hits 103,1; JPEG oficial 512×512, inspecionado visualmente. [Logo](https://cadena-high-volume.b-cdn.net/uploads/station/vertical_logo/170718438/CACERES.jpg); [player oficial](https://cafm.com.br/?station_id=170718438).
+- `rca_morena_fm_campo_grande_1071.jpg` — Morena FM Campo Grande - Easy 107,1; JPEG oficial 512×512, inspecionado visualmente. [Logo](https://cadena-high-volume.b-cdn.net/uploads/station/vertical_logo/875830950/iTunesConnect.jpg); [player oficial](https://morenafm.com.br/).
+
+As playlists referenciam imagens raster públicas neste repositório. Os demais alvos sem imagem raster atual e inequívoca permaneceram sem alteração.
