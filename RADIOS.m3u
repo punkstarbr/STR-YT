@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="RADIOS BRASIL" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/radio_ufg_885.png" radio="true",Rádio Universitária UFG
 http://200.137.217.155:8010/radiouniversitaria
 
-#EXTINF:-1 group-title="RADIOS BRASIL" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/cbn_goiania.png" radio="true",CBN GOIANIA
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-logo="https://play-lh.googleusercontent.com/oLemRKy8bx60S4tExUwgxkoJjv6RLeiRlvBI1Q4bSiRB79oVOcgRdIffpAWj3-ldwSIFuR6pcg-j2RiSQUc3=s0-br30" radio="true",CBN GOIANIA
 http://live.ojc.com.br:8000/e9cd_3/myStream/playlist
 
 #EXTINF:-1 group-title="RADIOS BRASIL" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/radio_liberal_fm_belem.png" radio="true",LIBERAL RÁDIO - BELÉM
@@ -66,7 +66,7 @@ https://stm11.xcast.com.br:12086/stream
 #EXTINF:-1 group-title="RADIOS BRASIL" tvg-id="PlayFM.br" tvg-name="Play FM Campinas" tvg-logo="https://playradio.app/uploads/media/6a7230b1ebcdd_1785868465.png" radio="true",PLAY FM - CAMPINAS
 https://stm1.xcast.com.br:9696/stream
 
-#EXTINF:-1 group-title="RADIOS BRASIL" radio="true",GAUCHA FM
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/m_h5eVqEHGMnmXv1SHmODj2PfqPHKQurx4yCWUKWho_2_EVjoyD7Mp3wzmDxLJSvOtcaBV_OAQ=s512-c-k-c0x00ffffff-no-rj" group-title="RADIOS BRASIL" radio="true",GAUCHA FM
 https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="RADIOS BRASIL" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/radio_vinha.png" radio="true",RÁDIO VINHA
@@ -75,16 +75,16 @@ https://streaming.vinhafm.com.br/stream
 #EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/radio_rockfm_romania.png" radio="true",Rock FM | Rumania
 https://live.rockfm.ro/rockfm.aacp
 
-#EXTINF:-1 group-title="REGIONAL" tvg-id="Media Group Radio" radio="true",MIC: Media Group Radio
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/ba/7b/b3ba7b54-8b0b-c657-7daa-bf466c0b4003/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" group-title="REGIONAL" tvg-id="Media Group Radio" radio="true",MIC: Media Group Radio
 https://5ca3e84a76d30.streamlock.net/canal6mich/videocanal6mich/playlist.m3u8
 
-#EXTINF:-1 group-title="REGIONAL" tvg-id="Media Group Radio" radio="true",MIC: Media Group Radio
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/ba/7b/b3ba7b54-8b0b-c657-7daa-bf466c0b4003/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" group-title="REGIONAL" tvg-id="Media Group Radio" radio="true",MIC: Media Group Radio
 https://5ca3e84a76d30.streamlock.net/canal6mich/videocanal6mich/chunklist_w157206410.m3u8
 
 #EXTINF:-1 group-title="RADIOS MÉXICO" radio="true",Radio Acustik Michoacan
 http://streamingcws20.com:1935/canal6mich/videocanal6mich/playlist.m3u8?DVR
 
-#EXTINF:-1 group-title="RADIOS MÉXICO" radio="true",Radio La Grupera 93.1 Morelia
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/8439.v11.png" group-title="RADIOS MÉXICO" radio="true",Radio La Grupera 93.1 Morelia
 http://www.tuasesorweb.com:8000/;stream/1
 
 #EXTINF:-1 group-title="RADIOS MÉXICO" radio="true",Radio La Z Morelia
@@ -120,7 +120,7 @@ https://s2.mexside.net/8030/stream
 #EXTINF:-1 group-title="RADIOS MÉXICO" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/radio_xeb_la_b_grande.png" radio="true",Radio XEB La B grande Cd. México
 https://s2.mexside.net/8024/stream
 
-#EXTINF:-1 group-title="RADIOS MÉXICO" radio="true",Radio México Internacional
+#EXTINF:-1 tvg-logo="https://www.imer.mx/rmi/wp-content/uploads/sites/3/2026/05/logo_rmi_2026_50x.png" group-title="RADIOS MÉXICO" radio="true",Radio México Internacional
 https://s2.mexside.net/8020/stream
 
 #EXTINF:-1 group-title="RADIOS MÉXICO" radio="true",Radio Ranchito Guadalajara
@@ -129,10 +129,10 @@ http://192.99.16.17:9870/;stream/1
 #EXTINF:-1 group-title="RADIOS MÉXICO" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/radio_la_ranchera_monterrey.png" radio="true",Radio La Ranchera de Monterrey
 http://streamingcwsradio20.com:9410/stream
 
-#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" radio="true",Radio Infinita fm Radio
+#EXTINF:-1 tvg-logo="https://www.infinita.cl/_templates/mobile/includes/img/logo-azul.png" group-title="RADIOS INTERNACIONAIS" radio="true",Radio Infinita fm Radio
 https://cloudstream2032.conectarhosting.com/9586/;
 
-#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" radio="true",Radio Colombia Bachata
+#EXTINF:-1 tvg-logo="https://www.radiobachata.net/assets/wrbn_logo.png" group-title="RADIOS INTERNACIONAIS" radio="true",Radio Bachata (Santiago, República Dominicana)
 http://perseus.shoutca.st:8312/;stream/1
 
 #EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/radio_colombia_crossover.png" radio="true",Radio Colombia Crossover
@@ -141,7 +141,7 @@ http://64.37.50.226:8006/stream
 #EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/radio_cumbias_inmortales.png" radio="true",Radio Cumbias Inmortales
 https://panel.retrolandigital.com/radio/8120/listen
 
-#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" radio="true",Radio Banda Tropical 100 Regional Mexicana
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6ed1478d-9cc5-4d13-bb50-2cc082daa917/image/" group-title="RADIOS INTERNACIONAIS" radio="true",Radio Banda Tropical 100 Regional Mexicana
 http://tropical100.net:8026/;
 
 #EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/radio_tropical100.png" radio="true",Radio Merengue Tropical 100
@@ -153,7 +153,7 @@ http://23.237.150.178:8004/;?icy=http
 #EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/radio_reggaemixstation.jpg" radio="true",Radio Reggae Mix Station
 http://france1.coollabel-productions.com:8142/;
 
-#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" radio="true",Radio Rock Antenne Classic Perlen
+#EXTINF:-1 tvg-logo="https://www.rockantenne.de/media/cache/3/version/181331/streamlogo-classic-rock-ra-hp-v1.png/0e1288363946bfb9.webp" group-title="RADIOS INTERNACIONAIS" radio="true",Radio Rock Antenne Classic Perlen
 http://194.97.151.139/classic-perlen
 
 #EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/radio_atlantida_fm_899.jpg" radio="true",Radio Atlantida FM 89.9
@@ -162,7 +162,7 @@ https://server-usa2.radioseninternet.net/8034/stream
 #EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/radio_instrumental_hits.jpg" radio="true",Radio Instrumental hits
 https://panel.retrolandigital.com/radio/8130/listen
 
-#EXTINF:-1 group-title="RADIOS INTERNACIONAIS" radio="true",Radio Electronica
+#EXTINF:-1 tvg-logo="https://minio.1cloud.fm:9000/1fm-images/playlist-images/G4UiCHWiCC8TNM89OYSbMQpjH19ny8qIPfcKZm8o.png" group-title="RADIOS INTERNACIONAIS" radio="true",1.FM Afterbeat Electronica
 https://strm112.1.fm/electronica_mobile_mp3
 
 #EXTINF:-1 group-title="RADIOS INTERNACIONAIS" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/radio_circuitpride_1fm.jpg" radio="true",Radio Electronica CircuitPride
