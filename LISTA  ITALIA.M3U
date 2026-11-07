@@ -59,6 +59,8 @@ https://tvit.leicaflorianrobert.dev/mediaset/italia-1/stream.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 group-title="Italia",Italia 1
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(italia1)/manifest.mpd
+#EXTINF:-1 tvg-id="LA7.HD.it" tvg-logo="https://guidatv.sky.it/logo/407la7hd_Light_Fit.png" group-title="Italia",LA7 HD
+http://102.129.186.182:81/la7/index.m3u8
 
 #EXTINF:-1 group-title="Italia",RAI 4K
 https://list.iptvcat.com/my_list/s/fbf04fbd9694eee71b5af9f12e49538d.m3u8

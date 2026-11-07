@@ -47,6 +47,19 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three
 #EXTINF:-1 tvg-chno="9" tvg-rec="28" tvg-id="BBCFour.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc4-epg.png" status="blocked",BBC Four
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" group-title="UK",ITV 1
+http://176.65.153.4:4004/play/a07k/index.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png" group-title="UK",ITV 2
+http://176.65.153.4:4004/play/a07l/index.m3u8
+#EXTINF:-1 tvg-id="ITV3Plus1.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-plus-uk.png" group-title="UK",ITV 3+1
+http://176.65.153.4:4004/play/a07o/index.m3u8
+#EXTINF:-1 tvg-id="ITV4Plus1.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-plus-uk.png" group-title="UK",ITV 4+1
+http://176.65.153.4:4004/play/a07j/index.m3u8
+#EXTINF:-1 tvg-id="5.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" group-title="UK",Channel 5
+http://176.65.153.4:4003/play/a06m/index.m3u8
+#EXTINF:-1 tvg-id="SkyMix.uk" tvg-logo="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Mix.png" group-title="UK",Sky Mix
+http://176.65.153.4:4007/play/a071/index.m3u8
+
 #EXTINF:-1 group-title="UK" tvg-id="BBCUHD1.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-uhd-uk.png",BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]
 https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
 #EXTINF:-1 group-title="UK" tvg-id="BBCUHD2.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-uhd-uk.png",BBC UHD 2 (2160p) [Geo-blocked] [Not 24/7]
