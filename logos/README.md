@@ -59,3 +59,20 @@ As playlists apontam as imagens locais acima para `https://raw.githubusercontent
 - `rca_morena_fm_campo_grande_1071.jpg` — Morena FM Campo Grande - Easy 107,1; JPEG oficial 512×512, inspecionado visualmente. [Logo](https://cadena-high-volume.b-cdn.net/uploads/station/vertical_logo/875830950/iTunesConnect.jpg); [player oficial](https://morenafm.com.br/).
 
 As playlists referenciam imagens raster públicas neste repositório. Os demais alvos sem imagem raster atual e inequívoca permaneceram sem alteração.
+
+
+### Logos de rádio corrigidos em 2026-11-06
+
+As imagens abaixo foram baixadas de fontes públicas, validadas como arquivos raster e inspecionadas visualmente. As playlists apontam para os arquivos em `https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/`.
+
+**Brasil.** `radio_ufg_885.png` registra a marca atual da [Rádio UFG](https://radio.ufg.br/). `radio_liberal_fm_belem.png` vem do [player oficial da Liberal FM](https://www.radioliberalfm.com.br/ao-vivo/player.php/liberal-fm) e é compartilhado pelas variantes de Belém. `radio_liberal_fm_castanhal.png` é o raster público [original da Liberal FM](http://am.radioliberal.com.br/logo_liberal_fm.png), espelhado no repositório para que o M3U use HTTPS. `rca_rondonopolis_1015.jpg` e `rca_caceres_1031.png` correspondem aos [players oficiais da Centro América FM](https://cafm.com.br/?station_id=155755294) em Rondonópolis e [Cáceres](https://cafm.com.br/?station_id=170718438); a imagem de Cáceres foi convertida de WebP para PNG. `educadora_fm_campinas.png` é a marca da [Educadora FM](https://www.educadorafm.com.br/), rasterizada de SVG, e `radio_vinha.png` vem do [site da Rádio Vinha](https://www.vinhafm.com.br/).
+
+**Romênia.** `radio_rockfm_romania.png` contém a marca da [Rock FM](https://www.rockfm.ro/), rasterizada de SVG.
+
+**México.** `radio_candela_uruapan.png` e `radio_candela_zacapu.png` foram conferidos nas páginas oficiais da [Candela de Uruapan](https://cadenarasa.com/michoacan/uruapan/candela) e da [La Candela de Zacapu](https://cadenarasa.com/michoacan/zacapu/candela). `radio_azul_lazaro_cardenas.png`, `radio_opus94.png` e `radio_xeb_la_b_grande.png` correspondem às páginas do [IMER para Radio Azul](https://www.imer.mx/radioazul/), [Opus](https://www.imer.mx/opus/) e [XEB](https://www.imer.mx/xeb/). `radio_mexiquense_917.png` é a marca da [Radio Mexiquense](https://mexiquensedigital.com/radio), rasterizada de SVG; `radio_la_ranchera_monterrey.png` vem do [site da La Ranchera de Monterrey](https://larancherademonterrey.com.mx/).
+
+**Colômbia e América Latina.** `radio_colombia_crossover.png` vem da [Radio Colombia Crossover](https://colombiacrossover.com/), e `radio_cumbias_inmortales.png` é a imagem usada pela [página oficial de Cumbias Inmortales](https://cumbiasinmortales.com/).
+
+**Caribe e outras estações internacionais.** `radio_tropical100.png` e `radio_tropicalisima.png` vêm dos sites oficiais de [Tropical 100](https://tropical100.com.do/) e [Tropicalísima](https://www.tropicalisima.fm/). `radio_reggaemixstation.jpg`, `radio_atlantida_fm_899.jpg` e `radio_instrumental_hits.jpg` correspondem aos sites de [Reggae Mix Station](https://www.reggaemixstation.com/fr/), [Atlántida FM 89.9](https://www.atlantidafm.com.uy/) e [Instrumental Hits Radio](https://instrumentalhitsradio.com/). `radio_circuitpride_1fm.jpg` é a arte atual da estação [1.FM Circuit Pride](https://www.1.fm/station/circuitpride).
+
+Não foi possível validar uma logo oficial, raster e inequívoca para todas as rádios. Foram removidas 17 referências antigas a `i.imgur.com` sem substituto seguro, em vez de atribuir marcas genéricas ou ambíguas. Band FM São Paulo e Nativa FM São Paulo continuam sem `tvg-logo`; o atributo da CBN Goiânia foi removido após o asset retornar HTTP 403. A Rádio Bandeirantes manteve a referência PNG existente, pois o teste no Wikimedia retornou 429 — um rate limit, que não prova que a imagem esteja quebrada para os players.
