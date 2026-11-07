@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="RADIOS BRASIL" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/radio_ufg_885.png" radio="true",Rádio Universitária UFG
 http://200.137.217.155:8010/radiouniversitaria
 
-#EXTINF:-1 group-title="RADIOS BRASIL" radio="true",CBN GOIANIA
+#EXTINF:-1 group-title="RADIOS BRASIL" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/cbn_goiania.png" radio="true",CBN GOIANIA
 http://live.ojc.com.br:8000/e9cd_3/myStream/playlist
 
 #EXTINF:-1 group-title="RADIOS BRASIL" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/radio_liberal_fm_belem.png" radio="true",LIBERAL RÁDIO - BELÉM
