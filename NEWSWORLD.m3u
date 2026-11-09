@@ -8,6 +8,16 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_US.xml.gz,https://epg.pw/xmltv/epg_GB.xml.gz,https://epg.pw/xmltv/epg_FR.xml.gz,https://epg.pw/xmltv/epg_BR.xml.gz,https://epg.pw/xmltv/epg_CN.xml.gz,https://epg.pw/xmltv/epg_SG.xml.gz,https://epg.pw/xmltv/epg_IN.xml.gz,https://epg.pw/xmltv/epg_TW.xml.gz,https://epg.pw/xmltv/epg_RU.xml.gz"
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-br.xml.gz"
 
+#EXTINF:-1 tvg-logo="https://flagcdn.com/us.svg" group-title="NEWS WORLD",PRESIDENCIA USA
+https://d3r7ms2cd6ecbc.cloudfront.net/out/v1/302f9e67d0524c55a01f2aece2e77872/index.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="USCapitol.us" tvg-name="US Capitol Cam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCxYLOU8hIbQdrJDimy3v9R09ZnjRNnTma3b9QnTqqV1t4aIIqqeeSoH69QQ&s",CAM CAPITOLIO EEUU
+https://www-senate-gov-media-srs.akamaized.net/hls/live/2036784/capcam/capcam/master.m3u8?DVR
+
+#EXTINF:-1 tvg-id="464944" tvg-name="PENTAGONO USA" tvg-logo="https://epg.pw/media/logos/tvg-id/pentagon-channel-us.png" group-title="NEWS WORLD",PENTAGONO USA
+https://do7ujvb4kwqvb.cloudfront.net/out/v1/434726d616804d87ae523d226d2b6afd/index.m3u8
+
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="SPORTV" tvg-name="SPORTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",SPORTV 1
 http://limed.cc:80/4x6cXF/ehfxdp/90327.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="SPORTV2" tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png",SPORTV 2
@@ -45,12 +55,7 @@ http://limed.cc:80/4x6cXF/ehfxdp/89966.m3u8
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="sbt-news-br" tvg-name="SBT News" tvg-logo="https://i.imgur.com/LnApLKd.png",SBT News
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="sbt-news-br" tvg-name="SBT News — Samsung TV Plus" tvg-logo="https://i.imgur.com/LnApLKd.png",SBT News — Samsung TV Plus
-https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="sbt-news-br" tvg-name="SBT News — LG Channels" tvg-logo="https://i.imgur.com/LnApLKd.png",SBT News — LG Channels
-https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="sbt-news-br" tvg-name="SBT News — Roku Channel" tvg-logo="https://i.imgur.com/LnApLKd.png",SBT News — Roku Channel
-https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Band.News.br" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Band_News_TV_2021_Logo.png/800px-Band_News_TV_2021_Logo.png",BAND NEWS
 http://170.83.49.66:8083/BANDNEWSHD/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="465021" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",CNN INTERNACIONAL
@@ -70,8 +75,7 @@ http://190.110.96.238:8000/play/a0f5/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="BMC_News.br" tvg-name="BM&C NEWS" tvg-logo="https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/colorLogoPNG.png",BM&C NEWS
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="USCapitol.us" tvg-name="US Capitol Cam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCxYLOU8hIbQdrJDimy3v9R09ZnjRNnTma3b9QnTqqV1t4aIIqqeeSoH69QQ&s",CAM CAPITOLIO EEUU
-https://www-senate-gov-media-srs.akamaized.net/hls/live/2036784/capcam/capcam/master.m3u8?DVR
+
 
 #EXTINF:-1 tvg-id="55960" tvg-name="Africa 24" tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="NEWS WORLD",Africa 24 English
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
