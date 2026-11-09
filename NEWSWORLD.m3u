@@ -8,6 +8,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_US.xml.gz,https://epg.pw/xmltv/epg_GB.xml.gz,https://epg.pw/xmltv/epg_FR.xml.gz,https://epg.pw/xmltv/epg_BR.xml.gz,https://epg.pw/xmltv/epg_CN.xml.gz,https://epg.pw/xmltv/epg_SG.xml.gz,https://epg.pw/xmltv/epg_IN.xml.gz,https://epg.pw/xmltv/epg_TW.xml.gz,https://epg.pw/xmltv/epg_RU.xml.gz"
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-br.xml.gz"
 
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="USCapitol.us" tvg-name="US Capitol Cam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCxYLOU8hIbQdrJDimy3v9R09ZnjRNnTma3b9QnTqqV1t4aIIqqeeSoH69QQ&s",CAM CAPITOLIO EEUU
+https://www-senate-gov-media-srs.akamaized.net/hls/live/2036784/capcam/capcam/master.m3u8?DVR
 
 #EXTINF:-1 tvg-id="55960" tvg-name="Africa 24" tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="NEWS WORLD",Africa 24 English
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
@@ -108,14 +110,18 @@ https://amg01391-sbtinfast-amg01391c11-lg-br-9982.playouts.now.amagi.tv/playlist
 http://190.110.96.238:8000/play/a0f5/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="BMC_News.br" tvg-name="BM&C NEWS" tvg-logo="https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/colorLogoPNG.png",BM&C NEWS
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="6317ba014d4d040007227f72" tvg-name="JOVEM PAN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logotipo_da_TV_Jovem_Pan_News.png/120px-Logotipo_da_TV_Jovem_Pan_News.png",JOVEM PAN NEWS
+http://limed.cc:80/4x6cXF/ehfxdp/90139.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Fox.News.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",Fox News
+https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="BloombergTelevision.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bloomberg_L.P.svg/512px-Bloomberg_L.P.svg.png",Bloomberg US
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-id="465324" tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bloomberg-television-us.png" group-title="NEWS WORLD",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Fox.News.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",Fox News
-https://tvsen6.aynaott.com/foxnews/index.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="6317ba014d4d040007227f72" tvg-name="JOVEM PAN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logotipo_da_TV_Jovem_Pan_News.png/120px-Logotipo_da_TV_Jovem_Pan_News.png",JOVEM PAN NEWS
-http://limed.cc:80/4x6cXF/ehfxdp/90139.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="BloombergTelevision.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bloomberg_L.P.svg/512px-Bloomberg_L.P.svg.png",Bloomberg US
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="otimesbrasil" tvg-name="O Times Brasil",Times Brasil YT LIVE
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="DWEspanol.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/DW_Logo.svg/512px-DW_Logo.svg.png",DW Español
@@ -139,8 +145,7 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/CBS_News.svg/512px-CBS_News.svg.png",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="BloombergTelevision.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bloomberg_L.P.svg/512px-Bloomberg_L.P.svg.png",Bloomberg US
-https://www.bloomberg.com/media-manifest/streams/us.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNA.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/CNA_logo.svg/512px-CNA_logo.svg.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Africanews.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Africanews_logo.svg/512px-Africanews_logo.svg.png",Africanews
@@ -658,18 +663,22 @@ https://livetrx02.vodgc.net/TN24_2/index.m3u8?DVR
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Telemundo_Noticias" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphY_KpFPFb8iogvRqi49zAdBcqcSIYwHm_qKyhjSI8l0tcXw2wRRVtl65lA&s",NOTÍCIAS TELEMUNDO - SERVIÇO
 https://telemundolive.akamaized.net/hls/live/2093200/NEWS105/master_main105.m3u8
 
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Reuters.uk" tvg-name="Reuters Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Reuters_logo.svg/1200px-Reuters_logo.svg.png",REUTERS SERVIÇO
-https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="USCapitol.us" tvg-name="US Capitol Cam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCxYLOU8hIbQdrJDimy3v9R09ZnjRNnTma3b9QnTqqV1t4aIIqqeeSoH69QQ&s",CAM CAPITOLIO EEUU
-https://www-senate-gov-media-srs.akamaized.net/hls/live/2036784/capcam/capcam/master.m3u8?DVR
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Reuters.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Reuters_logo.svg/1200px-Reuters_logo.svg.png",REUTERS SERVIÇO 2
-https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8?DVR
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="61e82af27027f9000753c6e4" tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2022/01/19/e6521679-1e8a-4522-af30-b416193d8414/thumbnail/1920x1080/d73c8305850f4e4a85a25627a616d62b/cbsnews-1920x1080.jpg",CBS NEWS SERVIÇO
-https://cbsn-2.cbsnstream.cbsnews.com/out/v1/a6a897e8f4f74cfc896223dfd822482f/master.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="24Horas.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6EBO9hJLcDaZT6AK1dk9TyA--QTe-j0wlrWoBSNhm_WdaZEHZlPON4_jag&s",24H 4
 https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8?DVR
+
+
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="61e82af27027f9000753c6e4" tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2022/01/19/e6521679-1e8a-4522-af30-b416193d8414/thumbnail/1920x1080/d73c8305850f4e4a85a25627a616d62b/cbsnews-1920x1080.jpg",CBS NEWS SERVIÇO
+https://cbsn-2.cbsnstream.cbsnews.com/out/v1/a6a897e8f4f74cfc896223dfd822482f/master.m3u8
+
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="61e82af27027f9000753c6e4" tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2022/01/19/e6521679-1e8a-4522-af30-b416193d8414/thumbnail/1920x1080/d73c8305850f4e4a85a25627a616d62b/cbsnews-1920x1080.jpg",CBS NEWS SERVIÇO 2
 https://cbsn-3-fastly.cbsnstream.cbsnews.com/out/v1/f081461c65494eeaa9ec596d0fe96a14/master.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Reuters.uk" tvg-name="Reuters Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Reuters_logo.svg/1200px-Reuters_logo.svg.png",REUTERS SERVIÇO
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="Reuters.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Reuters_logo.svg/1200px-Reuters_logo.svg.png",REUTERS SERVIÇO 2
+https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8?DVR
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="ABCNews.us" tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider1.jpg",ABC NEWS SERVIÇO 1
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
