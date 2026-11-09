@@ -8,6 +8,9 @@ https://streamer.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV HD" tvg-logo="https://koryofront.org/kctv-logo.png" group-title="🇰🇵 Coreia do Norte",KCTV (Korean Central TV) (1080p HD)
 https://live.koryocdn.org/kctv/index.m3u8
 
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@HD" group-title="🇰🇵 Coreia do Norte" tvg-logo="https://koryofront.org/kctv-logo.png",Korean Central Television (KCTV) (1080p) [Not 24/7]
+https://stream.intchoson.com/kctv/main_stream.m3u8
+
 #EXTINF:-1 tvg-id="Ryongnamsan" tvg-name="Ryongnamsan TV" tvg-logo="https://koryofront.org/ryongnamsan-logo.png" group-title="🇰🇵 Coreia do Norte",Ryongnamsan TV (Educação)
 http://122.202.129.136:1935/live/ch4/playlist.m3u8
 
@@ -16,8 +19,7 @@ rtmp://122.202.129.136:1935/live/ch2
 
 #EXTINF:-1 tvg-id="KCS" tvg-name="KCS" tvg-logo="https://i.imgur.com/HvFpGeH.png" group-title="🇰🇵 Coreia do Norte",Coreia Esportes (KCS)
 http://122.202.129.136:1935/live/ch3/playlist.m3u8
-#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@HD" group-title="🇰🇵 Coreia do Norte" tvg-logo="https://koryofront.org/kctv-logo.png",Korean Central Television (KCTV) (1080p) [Not 24/7]
-https://stream.intchoson.com/kctv/main_stream.m3u8
+
 
 #EXTINF:-1 tvg-id="RyongnamsanTelevision.kp@HD" group-title="🇰🇵 Coreia do Norte" tvg-logo="https://koryofront.org/ryongnamsan-logo.png",Ryongnamsan Television SD (720p) [Not 24/7]
 https://live.koryocdn.org/ryongnamsan/index.m3u8
