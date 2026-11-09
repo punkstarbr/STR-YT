@@ -10,6 +10,16 @@ http://79.127.238.228:14173/
 http://iptv.vivatele.com:80/live/viva_padrao/viva2384/1.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV Sao Paulo HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014",RECORD SP
 http://limed.cc:80/4x6cXF/ehfxdp/90266.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD LITORAL E VALE - SP
+http://limed.cc:80/4x6cXF/ehfxdp/123216.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTVInteriorSP.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD INTERIOR SP
+http://200.77.176.130:8000/udp/224.0.0.4:49152
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD BELÉM - PA
+http://limed.cc:80/4x6cXF/ehfxdp/100400.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="SIC.ro" tvg-logo="https://static.wixstatic.com/media/75e197_40702c48b63041ed8df58bff34144f9c~mv2.png/v1/fill/w_346,h_198,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MARCA-SIC-TV_Vertical-Conjunta-Corporativa.png",SIC TV - RO
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD - SP
+http://limed.cc:80/4x6cXF/ehfxdp/90265.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV Sao Paulo HD.br" tvg-logo="https://i.imgur.com/lyQ1v9M.png",RecordTV Juara HD
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="SBT.br" tvg-logo="https://i.imgur.com/srURmsi.png",SBT
@@ -64,16 +74,7 @@ http://iptv.vivatele.com:80/live/viva_padrao/viva2384/1.m3u8
 http://streaming.sattvgo.com.br/GLOBO_HD/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="RedeMinas.mg" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.jpg",REDE MINAS
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w1642350627_b2771072.m3u8
-#EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD LITORAL E VALE - SP
-http://limed.cc:80/4x6cXF/ehfxdp/123216.m3u8
-#EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTVInteriorSP.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD INTERIOR SP
-http://200.77.176.130:8000/udp/224.0.0.4:49152
-#EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD BELÉM - PA
-http://limed.cc:80/4x6cXF/ehfxdp/100400.m3u8
-#EXTINF:-1 group-title="TV ABERTA" tvg-id="SIC.ro" tvg-logo="https://static.wixstatic.com/media/75e197_40702c48b63041ed8df58bff34144f9c~mv2.png/v1/fill/w_346,h_198,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MARCA-SIC-TV_Vertical-Conjunta-Corporativa.png",SIC TV - RO
-https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
-#EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD - SP
-http://limed.cc:80/4x6cXF/ehfxdp/90265.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="TVDifusora.ma" tvg-logo="https://yt3.googleusercontent.com/cNsCC8BUdf65eKjcXk6vMoKxdEcKImEBRoEtg89KWHztC9ecZGKsn0xWg80aJeBOai4wkk3qlw=w4000-",TV DIFUSORA SÃO LUÍS - MA
 http://limed.cc:80/4x6cXF/ehfxdp/90292.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="TVJangadeiro.ce" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Jangadeiro_logo_2023.png?width=600",TV JANGADEIRO - CE
