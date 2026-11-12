@@ -528,9 +528,9 @@ https://live.cnnindonesia.com/livecnn/cnntv.smil/chunklist_w1719934476_b384000_s
 #EXTINF:-1 group-title="USA" tvg-id="KNOE.us" tvg-name="KNOE-TV" tvg-logo="https://i.imgur.com/81NqdwB.png",Arkansas - KNOE SERVIÇO (CBS)
 https://playlistserver.aws.syncbak.com/playlist/13353644/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTA1NDQ4MDgsImlzcyI6IldMUyIsIm1kNSI6ImRiYjE0OGQwMDQxNmE1YzBmMjQyZmY4MTVjNTBiYTlhIiwibWlkIjoiMTMzNTM2NDQifQ.ifqK3SjqEA9zxIzehzOADwGU3hh7l-T-kXpUQSs10sU
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="FRBD4100006OC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Fox_Business_Logo.svg/512px-Fox_Business_Logo.svg.png",Fox Business
-https://247.foxbusiness.com/hls/live/2003756/FBNHLSv3/master.m3u8
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="FRBD4100006OC" tvg-logo="https://epg.iptvx.one/picons/fox-business-us.png",Fox Business (HD ready)
-http://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
+#EXTINF:-1 group-title="NEWS WORLD" tvg-id="FRBD4100006OC" tvg-logo="https://epg.iptvx.one/picons/fox-business-us.png",Fox Business (alternate stream)
+https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary_300.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png",CNN SERVIÇO 1
 https://tvsen6.aynaott.com/cnn/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png",CNN SERVIÇO 2
