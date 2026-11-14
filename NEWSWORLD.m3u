@@ -71,7 +71,7 @@ https://amg01391-sbtinfast-amg01391c11-lg-br-9982.playouts.now.amagi.tv/playlist
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="CNNBrasilMoney.br" tvg-name="CNN Brasil Money" tvg-logo="https://imgur.com/3rHuAWH.png",CNN BRASIL MONEY
 https://amg01391-sbtinfast-amg01391c11-lg-br-9982.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnmoneyhevc-lgbr/playlist.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="Canal.CNN.Chile.sv" tvg-logo="https://www.cnnchile.com/_templates/globals/img/logo-alt.png",CNN CHILE
-http://190.110.96.238:8000/play/a0f5/index.m3u8
+http://158.172.217.18:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="BMC_News.br" tvg-name="BM&C NEWS" tvg-logo="https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/colorLogoPNG.png",BM&C NEWS
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 
@@ -506,7 +506,7 @@ https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng
 
 
 #EXTINF:-1 group-title="CNN's" tvg-id="Canal.CNN.Chile.sv" tvg-logo="https://www.cnnchile.com/_templates/globals/img/logo-alt.png",CNN CHILE
-http://190.110.96.238:8000/play/a0f5/index.m3u8
+http://158.172.217.18:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="465021" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",CNN INTERNACIONAL
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8?DVR
 #EXTINF:-1 group-title="CNN's" tvg-id="465021" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",CNN INTERNACIONAL
