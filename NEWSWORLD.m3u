@@ -8,13 +8,13 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_US.xml.gz,https://epg.pw/xmltv/epg_GB.xml.gz,https://epg.pw/xmltv/epg_FR.xml.gz,https://epg.pw/xmltv/epg_BR.xml.gz,https://epg.pw/xmltv/epg_CN.xml.gz,https://epg.pw/xmltv/epg_SG.xml.gz,https://epg.pw/xmltv/epg_IN.xml.gz,https://epg.pw/xmltv/epg_TW.xml.gz,https://epg.pw/xmltv/epg_RU.xml.gz"
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-br.xml.gz"
 
-#EXTINF:-1 tvg-logo="https://flagcdn.com/us.svg" group-title="NEWS WORLD",PRESIDENCIA USA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/whitehouse-live.png" group-title="NEWS WORLD",PRESIDENCIA USA
 https://d3r7ms2cd6ecbc.cloudfront.net/out/v1/302f9e67d0524c55a01f2aece2e77872/index.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="USCapitol.us" tvg-name="US Capitol Cam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCxYLOU8hIbQdrJDimy3v9R09ZnjRNnTma3b9QnTqqV1t4aIIqqeeSoH69QQ&s",CAM CAPITOLIO EEUU
 https://www-senate-gov-media-srs.akamaized.net/hls/live/2036784/capcam/capcam/master.m3u8?DVR
 
-#EXTINF:-1 tvg-id="464944" tvg-name="PENTAGONO USA" tvg-logo="https://epg.pw/media/logos/tvg-id/pentagon-channel-us.png" group-title="NEWS WORLD",PENTAGONO USA
+#EXTINF:-1 tvg-id="464944" tvg-name="PENTAGONO USA" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/pentagon-usa.jpg" group-title="NEWS WORLD",PENTAGONO USA
 https://do7ujvb4kwqvb.cloudfront.net/out/v1/434726d616804d87ae523d226d2b6afd/index.m3u8
 
 
