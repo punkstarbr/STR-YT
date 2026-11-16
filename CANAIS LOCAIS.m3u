@@ -14,6 +14,8 @@ http://limed.cc:80/4x6cXF/ehfxdp/90266.m3u8
 http://limed.cc:80/4x6cXF/ehfxdp/123216.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTVInteriorSP.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD INTERIOR SP
 http://200.77.176.130:8000/udp/224.0.0.4:49152
+#EXTINF:-1 group-title="TV ABERTA" tvg-id="TV Fronteira.br" tvg-name="TV Fronteira" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/tv-fronteira.jpg",TV FRONTEIRA - SP
+https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_da_Record.png/480px-Logotipo_da_Record.png",RECORD BELÉM - PA
 http://limed.cc:80/4x6cXF/ehfxdp/100400.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-id="SIC.ro" tvg-logo="https://static.wixstatic.com/media/75e197_40702c48b63041ed8df58bff34144f9c~mv2.png/v1/fill/w_346,h_198,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MARCA-SIC-TV_Vertical-Conjunta-Corporativa.png",SIC TV - RO
