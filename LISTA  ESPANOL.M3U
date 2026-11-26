@@ -18,7 +18,7 @@ https://gitlab.com/movrey/movrel/-/raw/main/telecinco.m3u8
 #EXTINF:-1 tvg-id="laSexta.es" tvg-name="La Sexta" group-title="ESPANHA - NACIONAIS" tvg-logo="https://graph.facebook.com/lasextatv/picture?width=200&height=200",La Sexta
 https://gitlab.com/movrey/movrel/-/raw/main/sexta.m3u8
 #EXTINF:-1 tvg-id="LaSeptima.TV" tvg-name="La Séptima" group-title="ESPANHA - NACIONAIS" tvg-logo="https://raw.githubusercontent.com/punkstarbr/STR-YT/main/logos/la_septima.png",La Séptima
-https://laseptima.com/la-septima-tv-directo/
+https://cache2.zapitv.com/live/eds_c2/la_septima/dash_live_ez/la_septima.mpd
 
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="Chilevisión" group-title="CHILE - NACIONAIS" tvg-logo="https://www.chilevision.cl/_templates/globals/img/logo.png",Chilevisión
 http://15.204.246.24:8080/CHVHD/index.m3u8
