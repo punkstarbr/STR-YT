@@ -1,48 +1,10 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz"
 
-#EXTINF:-1  group-title="Buddy TV" tvg-id="ABC.(WPVI).Philadelphia,.PA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (WPVI)
-http://cord-cutter.net:8080/hq3y4G/234247/121149
-
-#EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (WABC)
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-
-#EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(WOLO).Columbia,.SC.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (WOLO)
-http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
-
-#EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (WABC)
-http://143.244.60.30/ABC_EAST/index.m3u8
-
-#EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(KTVO).Kirskville,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (KTVO)
-https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
-
-#EXTINF:-1 group-title="Buddy TV" tvg-id="CBS.(KSMO).Kansas.City,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true",CBS (KSMO)
-https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
-
-#EXTINF:-1 group-title="Buddy TV" tvg-id="CBS.(KRCG).Jefferson,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true",CBS (KRCG)
-https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
-
-#EXTINF:-1 group-title="Buddy TV" tvg-id="CBS.(KTVO).Kirskville,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true",CBS (KTVO)
-https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
-
-#EXTINF:-1 group-title="Buddy TV" tvg-id="CW.(KOMU-TV3).+.Columbia,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true",CW (KOMU)
-https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-
-#EXTINF:-1 group-title="Buddy TV" tvg-id="CW.(KYOU4).Ottumwa,.IA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true",CW (KYOU)
-https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
-
-#EXTINF:-1 group-title="Buddy TV" tvg-id="FOX.(WDAF).Kansas.City,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true",Fox (WDAF)
-https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
-
-#EXTINF:-1 group-title="Buddy TV" tvg-id="FOX.(KYOU).Ottumwa,.IA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true",Fox (KYOU)
-https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
-
-#EXTINF:-1 group-title="Buddy TV" tvg-id="FOX.(KQFX).Columbia,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true",Fox (KQFX)
-https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 
 #EXTINF:-1 group-title="Buddy TV" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true",FOX (WNYW) 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
 
-#EXTINF:-1 group-title="Buddy TV" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true",FOX (WNYW) 2
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX (WNYW)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
 
 #EXTINF:-1 group-title="Buddy TV" tvg-id="NBC.(KOMU).Columbia,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true",NBC (KOMU)
@@ -63,8 +25,7 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="CBS.(WBZ).Boston,.MA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-name="CBS",CBS?
 http://143.244.60.30/CBSEAST/index.m3u8
 
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX (WNYW)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" tvg-name="NBC",NBC
 http://143.244.60.30/NBC_EAST/index.m3u8
